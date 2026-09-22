@@ -1,0 +1,9 @@
+# Nenhuma conversao de fim de linha, em nenhum arquivo.
+#
+# Medido em 22/09/2026: com core.autocrlf=true, o git gravou LF onde o arquivo tem
+# CRLF, e o site passou a entregar arquivo menor que o do pacote academico. O
+# MANIFESTO.json declara sha256 e bytes de 295 arquivos, e a conferencia de quem
+# baixasse acusaria adulteracao que nao houve.
+#
+# O byte publicado tem que ser o byte medido.
+* -text
