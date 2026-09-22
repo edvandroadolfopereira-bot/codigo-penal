@@ -9,11 +9,16 @@ No ar em <https://edvandroadolfopereira-bot.github.io/codigo-penal/>
 Autor: Edvandro Adolfo Pereira.
 Orientação: Prof.ª Dr.ª Clébia Barbosa dos Reis e Prof. Dr. Rubens Correia Junior.
 
-## O que este repositório contém
+## O que tem aqui
 
-Só a página publicada: `index.html`, a ilustração de capa e os arquivos que os buscadores
-leem. A página é autossuficiente, com os dados embutidos, e funciona sem servidor de
-aplicação.
+| pasta | o que é |
+|---|---|
+| `index.html` | a página, com os dados embutidos: abre sem servidor de aplicação |
+| `dados/` | as quatro tabelas que os botões da página entregam, em CSV |
+| `pacote-de-dados/` | o pacote completo que acompanha o trabalho: dados, planilhas, programas de apuração, catálogo de fontes e manifesto |
+
+As quatro tabelas de `dados/` não foram redigitadas: elas saíram do próprio código da página,
+executado sobre os mesmos dados que ela exibe, para que o arquivo e a tela não divirjam.
 
 ## De onde vêm os dados
 
@@ -24,9 +29,6 @@ Informações de Segurança Pública e Ministério da Justiça e Segurança Púb
 Informações sobre Mortalidade, do Ministério da Saúde; Atlas da Violência, do Ipea com o Fórum
 Brasileiro de Segurança Pública; e Instituto Brasileiro de Geografia e Estatística.
 
+Cada fonte, com endereço e data de acesso, está em `pacote-de-dados/CATALOGO-DE-FONTES.md`.
+
 Corte dos dados: 18 de setembro de 2026.
-
-## Os dados abertos
-
-A página traz botões para baixar as tabelas que sustentam cada gráfico. O pacote completo,
-com os programas de apuração, acompanha o trabalho acadêmico.

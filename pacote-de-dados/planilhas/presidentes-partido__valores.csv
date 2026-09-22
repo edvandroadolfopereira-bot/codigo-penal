@@ -1,0 +1,91 @@
+chave;valor
+gerado_por;apurar_presidentes_partido.py
+regra;partido no registro da candidatura
+fora;presidentes escolhidos de forma indireta, de 1964 a 1985, e quem exerceu sem ter sido eleito
+eleicoes.1945.PRESIDENTE.nome;EURICO GASPAR DUTRA
+eleicoes.1945.PRESIDENTE.partido;PSD
+eleicoes.1945.PRESIDENTE.turno;1
+eleicoes.1945.PRESIDENTE.votos;3251377
+eleicoes.1945.PRESIDENTE.fonte;TSE, dados abertos, votacao nominal por UF, 1945
+eleicoes.1945.VICE-PRESIDENTE.nao_consta;a votacao por UF de 1945 nao traz vice-presidente
+eleicoes.1950.PRESIDENTE.nome;GETÚLIO DORNELLES VARGAS
+eleicoes.1950.PRESIDENTE.partido;PTB
+eleicoes.1950.PRESIDENTE.turno;1
+eleicoes.1950.PRESIDENTE.votos;3849040
+eleicoes.1950.PRESIDENTE.fonte;TSE, dados abertos, votacao nominal por UF, 1950
+eleicoes.1950.VICE-PRESIDENTE.nome;JOÃO CAFÉ FILHO
+eleicoes.1950.VICE-PRESIDENTE.partido;PSP
+eleicoes.1950.VICE-PRESIDENTE.turno;1
+eleicoes.1950.VICE-PRESIDENTE.votos;2520790
+eleicoes.1950.VICE-PRESIDENTE.fonte;TSE, dados abertos, votacao nominal por UF, 1950
+eleicoes.1955.PRESIDENTE.nome;JUSCELINO KUBISTCHECK DE OLIVEIRA
+eleicoes.1955.PRESIDENTE.partido;PSD
+eleicoes.1955.PRESIDENTE.turno;1
+eleicoes.1955.PRESIDENTE.votos;3077411
+eleicoes.1955.PRESIDENTE.fonte;TSE, dados abertos, votacao nominal por UF, 1955
+eleicoes.1955.VICE-PRESIDENTE.nome;JOÃO BELCHIOR MARQUES GOULART
+eleicoes.1955.VICE-PRESIDENTE.partido;PTB
+eleicoes.1955.VICE-PRESIDENTE.turno;1
+eleicoes.1955.VICE-PRESIDENTE.votos;3591409
+eleicoes.1955.VICE-PRESIDENTE.fonte;TSE, dados abertos, votacao nominal por UF, 1955
+eleicoes.1960.PRESIDENTE.nome;JÂNIO DA SILVA QUADROS
+eleicoes.1960.PRESIDENTE.partido;PTN
+eleicoes.1960.PRESIDENTE.turno;1
+eleicoes.1960.PRESIDENTE.votos;5636623
+eleicoes.1960.PRESIDENTE.fonte;TSE, dados abertos, votacao nominal por UF, 1960
+eleicoes.1960.VICE-PRESIDENTE.nome;JOÃO BELCHIOR MARQUES GOULART
+eleicoes.1960.VICE-PRESIDENTE.partido;PTB
+eleicoes.1960.VICE-PRESIDENTE.turno;1
+eleicoes.1960.VICE-PRESIDENTE.votos;4547010
+eleicoes.1960.VICE-PRESIDENTE.fonte;TSE, dados abertos, votacao nominal por UF, 1960
+eleicoes.1989.PRESIDENTE.nome;FERNANDO AFFONSO COLLOR DE MELLO
+eleicoes.1989.PRESIDENTE.partido;PRN
+eleicoes.1989.PRESIDENTE.turno;2
+eleicoes.1989.PRESIDENTE.votos;35090206
+eleicoes.1989.PRESIDENTE.fonte;TSE, dados abertos, votacao nominal por UF, 1989
+eleicoes.1989.VICE-PRESIDENTE.nao_consta;a votacao por UF de 1989 nao traz vice-presidente
+eleicoes.1994.PRESIDENTE.nome;FERNANDO HENRIQUE CARDOSO
+eleicoes.1994.PRESIDENTE.partido;PSDB
+eleicoes.1994.PRESIDENTE.turno;1
+eleicoes.1994.PRESIDENTE.fonte;TSE, consulta de candidatos, 1994
+eleicoes.1998.PRESIDENTE.nome;FERNANDO HENRIQUE CARDOSO
+eleicoes.1998.PRESIDENTE.partido;PSDB
+eleicoes.1998.PRESIDENTE.turno;1
+eleicoes.1998.PRESIDENTE.fonte;TSE, consulta de candidatos, 1998
+eleicoes.2002.PRESIDENTE.nome;LUIZ INACIO LULA DA SILVA
+eleicoes.2002.PRESIDENTE.partido;PT
+eleicoes.2002.PRESIDENTE.turno;2
+eleicoes.2002.PRESIDENTE.fonte;TSE, consulta de candidatos, 2002
+eleicoes.2006.PRESIDENTE.nome;LUIZ INACIO LULA DA SILVA
+eleicoes.2006.PRESIDENTE.partido;PT
+eleicoes.2006.PRESIDENTE.turno;1
+eleicoes.2006.PRESIDENTE.fonte;TSE, consulta de candidatos, 2006
+eleicoes.2006.PRESIDENTE.confirmacao;"situacao #NULO# no arquivo; eleicao confirmada pelo mandato iniciado em 2007-01-01 (Biblioteca da Presidencia)"
+eleicoes.2010.PRESIDENTE.nome;DILMA VANA ROUSSEFF
+eleicoes.2010.PRESIDENTE.partido;PT
+eleicoes.2010.PRESIDENTE.turno;2
+eleicoes.2010.PRESIDENTE.fonte;TSE, consulta de candidatos, 2010
+eleicoes.2014.VICE-PRESIDENTE.nome;MICHEL MIGUEL ELIAS TEMER LULIA
+eleicoes.2014.VICE-PRESIDENTE.partido;PMDB
+eleicoes.2014.VICE-PRESIDENTE.turno;2
+eleicoes.2014.VICE-PRESIDENTE.fonte;TSE, consulta de candidatos, 2014
+eleicoes.2014.PRESIDENTE.nome;DILMA VANA ROUSSEFF
+eleicoes.2014.PRESIDENTE.partido;PT
+eleicoes.2014.PRESIDENTE.turno;2
+eleicoes.2014.PRESIDENTE.fonte;TSE, consulta de candidatos, 2014
+eleicoes.2018.VICE-PRESIDENTE.nome;ANTÔNIO HAMILTON MARTINS MOURÃO
+eleicoes.2018.VICE-PRESIDENTE.partido;PRTB
+eleicoes.2018.VICE-PRESIDENTE.turno;2
+eleicoes.2018.VICE-PRESIDENTE.fonte;TSE, consulta de candidatos, 2018
+eleicoes.2018.PRESIDENTE.nome;JAIR MESSIAS BOLSONARO
+eleicoes.2018.PRESIDENTE.partido;PSL
+eleicoes.2018.PRESIDENTE.turno;2
+eleicoes.2018.PRESIDENTE.fonte;TSE, consulta de candidatos, 2018
+eleicoes.2022.PRESIDENTE.nome;LUIZ INÁCIO LULA DA SILVA
+eleicoes.2022.PRESIDENTE.partido;PT
+eleicoes.2022.PRESIDENTE.turno;2
+eleicoes.2022.PRESIDENTE.fonte;TSE, consulta de candidatos, 2022
+eleicoes.2022.VICE-PRESIDENTE.nome;GERALDO JOSÉ RODRIGUES ALCKMIN FILHO
+eleicoes.2022.VICE-PRESIDENTE.partido;PSB
+eleicoes.2022.VICE-PRESIDENTE.turno;2
+eleicoes.2022.VICE-PRESIDENTE.fonte;TSE, consulta de candidatos, 2022

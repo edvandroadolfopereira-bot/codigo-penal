@@ -1,0 +1,2896 @@
+{
+ "o_que_e": "pacote publico de dados do projeto de extensao sobre o Codigo Penal",
+ "montado_em": "2026-09-22",
+ "base_completa": {
+  "arquivo": "BASE-CODIGO-PENAL.sqlite",
+  "bytes": 210190336,
+  "sha256": "2a7e54a9bbb7025b0bd69dfe7fd51f7ddb9d3ac1b8e92a89593995581f51773d",
+  "tabelas_de_dado": 42,
+  "linhas_por_tabela": {
+   "calendario_eleitoral_tse": 42,
+   "camara_autores": 217,
+   "camara_legislaturas": 57,
+   "camara_partidos_historicos": 79,
+   "camara_situacao_por_norma": 127,
+   "camara_votacoes": 654,
+   "camara_votos_nominais": 28083,
+   "camara_votos_por_partido": 1601,
+   "cp_dispositivos_alterados": 1116,
+   "cp_normas_alteradoras": 96,
+   "cp_sancao_veto_publicacao": 135,
+   "cp_serie_anual_planalto": 87,
+   "cruzamento_planalto_legin": 115,
+   "datajud_cobertura_municipio": 38,
+   "datajud_por_assunto": 40328,
+   "datajud_por_classe": 6159,
+   "datajud_por_municipio": 3674,
+   "datajud_por_orgao_e_grau": 18556,
+   "datajud_por_tribunal": 39,
+   "fonte": 41,
+   "forum_arquivos": 481,
+   "forum_itens": 242,
+   "legin_normas_classificadas": 135,
+   "legin_serie_anual": 87,
+   "periodicos_classificado": 30140,
+   "periodicos_preciso": 57,
+   "pipeline_penal": 40,
+   "senado_discursos_cp": 755,
+   "senado_em_tramitacao": 401,
+   "senado_materias_das_leis": 135,
+   "senado_votacoes": 123,
+   "senado_votos_nominais": 728,
+   "stf_controle_cita_cp": 254,
+   "stf_controle_completo": 7633,
+   "stf_controle_penal": 550,
+   "stf_sumulas_penais": 105,
+   "stf_sumulas_todas": 799,
+   "stj_repetitivos_penais": 149,
+   "stj_sumulas_penais": 90,
+   "tse_bdje_acervo": 13448,
+   "uniao_normas_alteradoras": 115,
+   "uniao_serie_anual": 88
+  },
+  "linhas_somadas": 157799,
+  "fontes_declaradas": 41
+ },
+ "fontes_e_direitos": [
+  {
+   "sigla": "planalto",
+   "referencia": "BRASIL. Presidência da República. Casa Civil. Legislação. Brasília, DF. Disponível em: https://www.planalto.gov.br/ccivil_03/. Acesso em: 30 ago. 2026.",
+   "regime": "domínio público, art. 8º, IV, da Lei n. 9.610/1998, texto de lei"
+  },
+  {
+   "sigla": "camara-legin",
+   "referencia": "BRASIL. Câmara dos Deputados. Legislação Informatizada. Brasília, DF. Disponível em: https://www2.camara.leg.br/legin. Acesso em: 30 ago. 2026.",
+   "regime": "domínio público, texto de lei e ficha de publicação oficial"
+  },
+  {
+   "sigla": "camara-dados-abertos",
+   "referencia": "BRASIL. Câmara dos Deputados. Dados Abertos. Brasília, DF. Disponível em: https://dadosabertos.camara.leg.br. Acesso em: 30 ago. 2026.",
+   "regime": "dado público, Lei n. 12.527/2011"
+  },
+  {
+   "sigla": "senado-dados-abertos",
+   "referencia": "BRASIL. Senado Federal. Dados Abertos. Brasília, DF. Disponível em: https://legis.senado.leg.br/dadosabertos. Acesso em: 30 ago. 2026.",
+   "regime": "dado público, Lei n. 12.527/2011"
+  },
+  {
+   "sigla": "normas-leg",
+   "referencia": "BRASIL. Senado Federal; Câmara dos Deputados; Congresso Nacional. Normas.leg.br: portal da legislação federal. Brasília, DF. Disponível em: https://normas.leg.br. Acesso em: 30 ago. 2026.",
+   "regime": "domínio público, texto de lei"
+  },
+  {
+   "sigla": "tse-cronologia",
+   "referencia": "BRASIL. Tribunal Superior Eleitoral. Cronologia das eleições. Brasília, DF. Disponível em: https://www.tse.jus.br/eleicoes/eleicoes-anteriores/eleicoes-anteriores. Acesso em: 30 ago. 2026.",
+   "regime": "dado público de ato oficial"
+  },
+  {
+   "sigla": "tse-eleitorado",
+   "referencia": "BRASIL. Tribunal Superior Eleitoral. Estatísticas do eleitorado: perfil do eleitorado, posição de 1º set. 2026. Brasília, DF. Disponível em: https://dadosabertos.tse.jus.br. Acesso em: 21 set. 2026.",
+   "regime": "dado público agregado por Unidade da Federação, sem dado pessoal"
+  },
+  {
+   "sigla": "escala-bolognesi",
+   "referencia": "BOLOGNESI, Bruno; RIBEIRO, Ednaldo; CODATO, Adriano. Uma nova classificação ideológica dos partidos políticos brasileiros. Dados, v. 66, n. 2, e20210164, 2023; e BOLOGNESI, Bruno et al. O desaparecimento do centro ideológico no sistema partidário brasileiro. Opinião Pública, v. 31, e31120, 2025. Disponível em: https://www.scielo.br. Acesso em: 22 set. 2026.",
+   "regime": "artigo científico de acesso aberto; do artigo se usa só a média publicada de cada partido"
+  },
+  {
+   "sigla": "tse-partidos",
+   "referencia": "BRASIL. Tribunal Superior Eleitoral. Partidos registrados no TSE e registros de partidos políticos de 1945 a 1979. Brasília, DF. Disponível em: https://www.tse.jus.br/partidos. Acesso em: 22 set. 2026.",
+   "regime": "documento público de registro partidário; o pacote leva só a contagem, e não os documentos"
+  },
+  {
+   "sigla": "tse-candidatos",
+   "referencia": "BRASIL. Tribunal Superior Eleitoral. Candidatos: consulta de candidatos, eleições de 1994 a 2022. Brasília, DF. Disponível em: https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand/. Acesso em: 21 set. 2026.",
+   "regime": "dado público de ato oficial; só nome, partido e turno do eleito; CPF e demais dados pessoais não lidos"
+  },
+  {
+   "sigla": "tse-votacao-uf",
+   "referencia": "BRASIL. Tribunal Superior Eleitoral. Resultados: votação nominal por unidade da federação, eleições de 1945 a 1990. Brasília, DF. Disponível em: https://dadosabertos.tse.jus.br/dataset/?q=resultados. Acesso em: 21 set. 2026.",
+   "regime": "dado público de ato oficial; nome, partido, votos e situação do candidato, sem CPF nem dado pessoal"
+  },
+  {
+   "sigla": "datasus-sim",
+   "referencia": "BRASIL. Ministério da Saúde. Departamento de Informática do Sistema Único de Saúde. Sistema de Informações sobre Mortalidade (SIM): óbitos por causas externas, por Unidade da Federação, 1979 a 2026. Brasília, DF. Disponível em: http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sim/cnv/ext10uf.def. Acesso em: 21 set. 2026.",
+   "regime": "dado público agregado por Unidade da Federação e ano, sem dado pessoal"
+  },
+  {
+   "sigla": "ipea-atlas",
+   "referencia": "INSTITUTO DE PESQUISA ECONÔMICA APLICADA; FÓRUM BRASILEIRO DE SEGURANÇA PÚBLICA. Atlas da violência: séries de homicídios registrados, taxa por cem mil habitantes e morte violenta por causa indeterminada, Brasil, 1979 a 2024. Brasília, DF: Ipea, 2026. Disponível em: https://www.ipea.gov.br/atlasviolencia/. Acesso em: 22 set. 2026.",
+   "regime": "série agregada nacional por ano, sem dado pessoal. O Atlas é coproduzido pelo mesmo Fórum que publica o Anuário, e por isso as duas não são fontes institucionalmente independentes: o que difere entre elas é a base primária"
+  },
+  {
+   "sigla": "mjsp-sinesp",
+   "referencia": "BRASIL. Ministério da Justiça e Segurança Pública. Dados Nacionais de Segurança Pública: Sinesp VDE. Brasília, DF. Disponível em: https://www.gov.br/mj/pt-br/assuntos/sua-seguranca/seguranca-publica/estatistica. Acesso em: 22 set. 2026.",
+   "regime": "dado público agregado. O pacote leva o registro da sondagem da fonte, e não os bancos do Sinesp VDE, que são redistribuídos pelo próprio Ministério"
+  },
+  {
+   "sigla": "biblioteca-pr",
+   "referencia": "BRASIL. Presidência da República. Biblioteca da Presidência. Ex-presidentes. Brasília, DF. Disponível em: http://www.biblioteca.presidencia.gov.br/presidencia/ex-presidentes. Acesso em: 21 set. 2026.",
+   "regime": "dado público de ato oficial"
+  },
+  {
+   "sigla": "tse-bdje",
+   "referencia": "BRASIL. Tribunal Superior Eleitoral. Biblioteca Digital da Justiça Eleitoral. Brasília, DF. Disponível em: https://bibliotecadigital.tse.jus.br. Acesso em: 30 ago. 2026.",
+   "regime": "ATENÇÃO: 7.278 dos 13.448 itens declaram licença Creative Commons, a maioria NãoComercial ou SemDerivações. Este pacote NÃO redistribui o acervo: leva apenas o catálogo de metadados e a apuração própria"
+  },
+  {
+   "sigla": "cnj-datajud",
+   "referencia": "BRASIL. Conselho Nacional de Justiça. DataJud: base nacional de dados do Poder Judiciário. Brasília, DF. Disponível em: https://www.cnj.jus.br. Acesso em: 30 ago. 2026.",
+   "regime": "dado público, Resolução CNJ n. 331/2020"
+  },
+  {
+   "sigla": "stf",
+   "referencia": "BRASIL. Supremo Tribunal Federal. Jurisprudência. Brasília, DF. Disponível em: https://portal.stf.jus.br. Acesso em: 30 ago. 2026.",
+   "regime": "domínio público, art. 8º, IV, da Lei n. 9.610/1998, decisão judicial"
+  },
+  {
+   "sigla": "stj",
+   "referencia": "BRASIL. Superior Tribunal de Justiça. Precedentes qualificados e súmulas. Brasília, DF. Disponível em: https://www.stj.jus.br. Acesso em: 30 ago. 2026.",
+   "regime": "domínio público, decisão judicial"
+  },
+  {
+   "sigla": "fbsp",
+   "referencia": "FÓRUM BRASILEIRO DE SEGURANÇA PÚBLICA. Anuário Brasileiro de Segurança Pública. São Paulo: FBSP, 2007-2026. Disponível em: https://forumseguranca.org.br. Acesso em: 30 ago. 2026.",
+   "regime": "obra de entidade privada. Este pacote NÃO redistribui os relatórios: leva a série extraída, com a edição de origem declarada em cada valor"
+  },
+  {
+   "sigla": "fbsp-percepcao",
+   "referencia": "FÓRUM BRASILEIRO DE SEGURANÇA PÚBLICA. Violência e democracia: panorama brasileiro pré-eleições 2022. São Paulo: FBSP, 2022. Disponível em: https://forumseguranca.org.br. Acesso em: 30 ago. 2026.",
+   "regime": "obra de entidade privada, citada e não redistribuída"
+  },
+  {
+   "sigla": "fgv-cpdoc",
+   "referencia": "FUNDAÇÃO GETULIO VARGAS. Centro de Pesquisa e Documentação de História Contemporânea do Brasil. Rio de Janeiro: FGV CPDOC. Disponível em: https://cpdoc.fgv.br. Acesso em: 18 set. 2026.",
+   "regime": "obra de entidade privada, citada e não redistribuída; dela saem só as datas dos marcos de regime"
+  },
+  {
+   "sigla": "pop-uf",
+   "referencia": "INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA. População residente por Unidade da Federação, 1980 a 2012 e 2022: censos, contagem de 1996 e estimativas. Brasília, DF: Ministério da Saúde, DATASUS, 2026. Disponível em: http://tabnet.datasus.gov.br/cgi/deftohtm.exe?ibge/cnv/popuf.def. Acesso em: 21 set. 2026.",
+   "regime": "dado público agregado por Unidade da Federação e ano, sem dado pessoal"
+  },
+  {
+   "sigla": "cpdoc-dhbb",
+   "referencia": "CENTRO DE PESQUISA E DOCUMENTAÇÃO DE HISTÓRIA CONTEMPORÂNEA DO BRASIL. Dicionário Histórico-Biográfico Brasileiro. Rio de Janeiro: FGV CPDOC, [2025]. Disponível em: https://cpdoc.fgv.br/acervo/dicionarios/dhbb. Corpus aberto, versão de 1º abr. 2025, disponível em: https://github.com/cpdoc/dhbb. Acesso em: 21 set. 2026.",
+   "regime": "obra do FGV CPDOC sob licença CC BY-NC 4.0, citada no formato que o próprio CPDOC orienta; dela saem só o nome, a UF e o ano do cargo de cada governador, com o número do verbete, nunca o texto"
+  },
+  {
+   "sigla": "abnt",
+   "referencia": "ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR 14724: informação e documentação: trabalhos acadêmicos: apresentação. 4. ed. Rio de Janeiro: ABNT, 2024.",
+   "regime": "norma técnica sob direito autoral da ABNT, citada e não redistribuída"
+  },
+  {
+   "sigla": "gil",
+   "referencia": "GIL, Antonio Carlos. Como elaborar projetos de pesquisa. 8. ed. Barueri: Atlas, 2026.",
+   "regime": "obra sob direito autoral, citada e não redistribuída"
+  }
+ ],
+ "fontes_da_base": [
+  {
+   "tabela": "calendario_eleitoral_tse",
+   "arquivo": "C:\\Users\\edvan\\_projeto-extensao-codigo-penal-24-08-2026\\analise-cientifica\\calendario-eleitoral-1940-2026.csv",
+   "linhas": 42,
+   "colunas": 7,
+   "bytes": 4415,
+   "sha256": "dc4a0c35a93bd1a83adb333d39963170a14177f24dd76795342ee567fe092876",
+   "situacao": "carregada"
+  },
+  {
+   "tabela": "camara_autores",
+   "arquivo": "camara-autores.csv",
+   "linhas": 217,
+   "colunas": 11,
+   "bytes": 40979,
+   "sha256": "f8f10d5d262ef101b4cae8e3e75a3e9f5bcbc0b9bd19bc7481aaef71cc0bc8ae",
+   "situacao": "carregada"
+  },
+  {
+   "tabela": "camara_legislaturas",
+   "arquivo": "C:\\Users\\edvan\\_projeto-extensao-codigo-penal-24-08-2026\\analise-cientifica\\camara-legislaturas.json",
+   "linhas": 57,
+   "colunas": 4,
+   "bytes": 9162,
+   "sha256": "978bbc5e2dbd395c99d4316456eb9a97e7be99331fc51157fb11bcc7ed1f82ac",
+   "situacao": "carregada"
+  },
+  {
+   "tabela": "camara_partidos_historicos",
+   "arquivo": "C:\\Users\\edvan\\_projeto-extensao-codigo-penal-24-08-2026\\analise-cientifica\\camara-partidos-historicos.json",
+   "linhas": 79,
+   "colunas": 4,
+   "bytes": 16713,
+   "sha256": "636beb7f202cad69974bca47de9872395d6cb24dc4fc53cfaeeec9f8cb4e528f",
+   "situacao": "carregada"
+  },
+  {
+   "tabela": "camara_situacao_por_norma",
+   "arquivo": "camara-situacao-por-norma.csv",
+   "linhas": 127,
+   "colunas": 12,
+   "bytes": 14923,
+   "sha256": "5b868428a286321f6ca7584c5d2d7ae7f0b88a2880bca71a104fb4f49a5c5e38",
+   "situacao": "carregada"
+  },
+  {
+   "tabela": "camara_votacoes",
+   "arquivo": "camara-votacoes.csv",
+   "linhas": 654,
+   "colunas": 7,
+   "bytes": 155076,
+   "sha256": "58669df27ada3c174cd2dc540ba0efdfcb988441956b44670356b17b13e64dad",
+   "situacao": "carregada"
+  },
+  {
+   "tabela": "camara_votos_nominais",
+   "arquivo": "camara-votos-nominais.csv",
+   "linhas": 28083,
+   "colunas": 8,
+   "bytes": 3210618,
+   "sha256": "00af85f523216ad5c988d84804f421804412a9240fe8ec5509ed569d4db64360",
+   "situacao": "carregada"
+  },
+  {
+   "tabela": "camara_votos_por_partido",
+   "arquivo": "camara-votos-por-partido.csv",
+   "linhas": 1601,
+   "colunas": 11,
+   "bytes": 168310,
+   "sha256": "c8a341c8f4a2b414c49aee5b6782afba488ca70231f5826922172b4982e1a085",
+   "situacao": "carregada"
+  },
+  {
+   "tabela": "cp_dispositivos_alterados",
+   "arquivo": "cp-dispositivos-alterados.csv",
+   "linhas": 1116,
+   "colunas": 5,
+   "bytes": 75541,
+   "sha256": "0040ee3e7b84f2df107dd887d8eaaa22c443e2eb7ea41ec2d581328ac85159ec",
+   "situacao": "carregada"
+  },
+  {
+   "tabela": "cp_normas_alteradoras",
+   "arquivo": "cp-normas-alteradoras.csv",
+   "linhas": 96,
+   "colunas": 7,
+   "bytes": 4417,
+   "sha256": "221e24a0ddb57a68bb44a5fead5235549619989a85addf5d1b1e565ce31b53ca",
+   "situacao": "carregada"
+  },
+  {
+   "tabela": "cp_sancao_veto_publicacao",
+   "arquivo": "cp-sancao-veto-publicacao.csv",
+   "linhas": 135,
+   "colunas": 15,
+   "bytes": 112706,
+   "sha256": "4a71f83596539aacd843662cd2d21cb6716c54d5e37ae3681a95f477fe51a002",
+   "situacao": "carregada"
+  },
+  {
+   "tabela": "cp_serie_anual_planalto",
+   "arquivo": "cp-serie-anual.csv",
+   "linhas": 87,
+   "colunas": 5,
+   "bytes": 1320,
+   "sha256": "0c4d0212c98ad4e247a476b49890e7bcd5f00608145f62c93420c6eb3659f611",
+   "situacao": "carregada"
+  },
+  {
+   "tabela": "cruzamento_planalto_legin",
+   "arquivo": "cruzamento-planalto-legin.csv",
+   "linhas": 115,
+   "colunas": 7,
+   "bytes": 6685,
+   "sha256": "fe895ccbf7cdc699ec75fbb0680323a3969eb744aa9a0fc0db9919becf05e293",
+   "situacao": "carregada"
+  },
+  {
+   "tabela": "datajud_cobertura_municipio",
+   "arquivo": "datajud-penal-cobertura-municipio.csv",
+   "linhas": 38,
+   "colunas": 6,
+   "bytes": 1553,
+   "sha256": "6e4f353ebb264c13595ee7121e8d97044acab7ce04922044bb8b36f977abdec6",
+   "situacao": "carregada"
+  },
+  {
+   "tabela": "datajud_por_assunto",
+   "arquivo": "datajud-penal-por-assunto.csv",
+   "linhas": 40328,
+   "colunas": 6,
+   "bytes": 2964655,
+   "sha256": "f0510685ba4df05f721ebe3dbb28b77cd925631a00105328dc7e991a48a1eb90",
+   "situacao": "carregada"
+  },
+  {
+   "tabela": "datajud_por_classe",
+   "arquivo": "datajud-penal-por-classe.csv",
+   "linhas": 6159,
+   "colunas": 4,
+   "bytes": 281741,
+   "sha256": "f79d628cb65b5d06870e48033f5ae35f0370a210525ad6cf7e0c5bb02a5ad577",
+   "situacao": "carregada"
+  },
+  {
+   "tabela": "datajud_por_municipio",
+   "arquivo": "datajud-penal-por-municipio.csv",
+   "linhas": 3674,
+   "colunas": 5,
+   "bytes": 129042,
+   "sha256": "3bb34841c962c736af3be9430681d5edc230f3e091f3fbef6d9945fa69e1065c",
+   "situacao": "carregada"
+  },
+  {
+   "tabela": "datajud_por_orgao_e_grau",
+   "arquivo": "datajud-penal-por-orgao-e-grau.csv",
+   "linhas": 18556,
+   "colunas": 5,
+   "bytes": 2341470,
+   "sha256": "fe30749927a92c1f6768ef0fa8215598c73b44ac88e50b5e4144a2216283daf2",
+   "situacao": "carregada"
+  },
+  {
+   "tabela": "datajud_por_tribunal",
+   "arquivo": "datajud-penal-por-tribunal.csv",
+   "linhas": 39,
+   "colunas": 7,
+   "bytes": 2200,
+   "sha256": "6331dd0409c620d6d01b2167301ed01b3b31171b0fa0cab46c2ccdf31d164f4a",
+   "situacao": "carregada"
+  },
+  {
+   "tabela": "forum_arquivos",
+   "arquivo": "forum-arquivos.csv",
+   "linhas": 481,
+   "colunas": 11,
+   "bytes": 249568,
+   "sha256": "ed49dbc99caae0ce6c7d8d80624abbefdaa2c46d656ec78e61b998e497abcd09",
+   "situacao": "carregada"
+  },
+  {
+   "tabela": "forum_itens",
+   "arquivo": "forum-itens.csv",
+   "linhas": 242,
+   "colunas": 15,
+   "bytes": 139784,
+   "sha256": "a870caccf582f3a98cf4535a0384d004d9d2dd907048440a0cc9c0a1d76d32df",
+   "situacao": "carregada"
+  },
+  {
+   "tabela": "legin_normas_classificadas",
+   "arquivo": "legin-normas-classificadas.csv",
+   "linhas": 135,
+   "colunas": 10,
+   "bytes": 25053,
+   "sha256": "ab34f99cea4aabbcd76fd619ae34457c77bbb688c64fef482bde5e928acfb09f",
+   "situacao": "carregada"
+  },
+  {
+   "tabela": "legin_serie_anual",
+   "arquivo": "legin-serie-anual.csv",
+   "linhas": 87,
+   "colunas": 8,
+   "bytes": 1886,
+   "sha256": "c85fbcbbd0038dc0f9b3cacfc02009c91a2f1187b0dd85ae059258a4e9df3d76",
+   "situacao": "carregada"
+  },
+  {
+   "tabela": "periodicos_classificado",
+   "arquivo": "C:\\Users\\edvan\\_projeto-extensao-codigo-penal-24-08-2026\\analise-cientifica\\periodicos-juridicos-cp-classificado.jsonl",
+   "linhas": 30140,
+   "colunas": 22,
+   "bytes": 50238444,
+   "sha256": "3afc62bad5efff12844f85050b4404ba70e6be6fef1ac9b44f7a2bb9843dc6bd",
+   "situacao": "carregada"
+  },
+  {
+   "tabela": "periodicos_preciso",
+   "arquivo": "C:\\Users\\edvan\\_projeto-extensao-codigo-penal-24-08-2026\\analise-cientifica\\periodicos-juridicos-cp-preciso.jsonl",
+   "linhas": 57,
+   "colunas": 16,
+   "bytes": 51177,
+   "sha256": "7aa63a60dfac05b3a623c9d0be2866bd324d80442581fba5cd20ad35f088edd9",
+   "situacao": "carregada"
+  },
+  {
+   "tabela": "pipeline_penal",
+   "arquivo": "pipeline-penal-entrada-saida.csv",
+   "linhas": 40,
+   "colunas": 6,
+   "bytes": 950,
+   "sha256": "cd66ab07aa91e2cc40eef9ebafe24c03c36a7cba5f8bad0b1a3e35d69033e5f0",
+   "situacao": "carregada"
+  },
+  {
+   "tabela": "senado_discursos_cp",
+   "arquivo": "C:\\Users\\edvan\\_projeto-extensao-codigo-penal-24-08-2026\\analise-cientifica\\senado-discursos-codigo-penal.jsonl",
+   "linhas": 755,
+   "colunas": 14,
+   "bytes": 1129656,
+   "sha256": "f84314563a316868883c415f54b3fbae7ca052070674da436af3595e39586056",
+   "situacao": "carregada"
+  },
+  {
+   "tabela": "senado_em_tramitacao",
+   "arquivo": "senado-materias-em-tramitacao-cp.csv",
+   "linhas": 401,
+   "colunas": 13,
+   "bytes": 191507,
+   "sha256": "4e58291da859a3160056d2ff47b8c294fe4277219639e869ccfdedeaa595531a",
+   "situacao": "carregada"
+  },
+  {
+   "tabela": "senado_materias_das_leis",
+   "arquivo": "senado-materias-das-leis.csv",
+   "linhas": 135,
+   "colunas": 9,
+   "bytes": 50877,
+   "sha256": "230b1d8b0c9d99790f15a97882cf9fe2be62b0e3b9a659527899519aad34181c",
+   "situacao": "carregada"
+  },
+  {
+   "tabela": "senado_votacoes",
+   "arquivo": "senado-votacoes.csv",
+   "linhas": 123,
+   "colunas": 9,
+   "bytes": 14165,
+   "sha256": "87dd9bb41403bc4f1d6e818cd22ce65985611681ecd9cc142ec35a5251567b3e",
+   "situacao": "carregada"
+  },
+  {
+   "tabela": "senado_votos_nominais",
+   "arquivo": "senado-votos-nominais.csv",
+   "linhas": 728,
+   "colunas": 11,
+   "bytes": 109956,
+   "sha256": "9229b73e1e7f7f45da14e5a6aa53e9814708b144e5334f664aeae8ea9cf4fae1",
+   "situacao": "carregada"
+  },
+  {
+   "tabela": "stf_controle_cita_cp",
+   "arquivo": "stf-controle-que-cita-codigo-penal.csv",
+   "linhas": 254,
+   "colunas": 26,
+   "bytes": 3083168,
+   "sha256": "164efdfed5c2c35b552765695b66290755edbd878a47f3848954973d20135a43",
+   "situacao": "carregada"
+  },
+  {
+   "tabela": "stf_controle_completo",
+   "arquivo": "stf-controle-completo.csv",
+   "linhas": 7633,
+   "colunas": 26,
+   "bytes": 31613508,
+   "sha256": "38b577754ac807abd39bd95551ecefb32a7883cc8f6016fb9a7f1c4a50effa12",
+   "situacao": "carregada"
+  },
+  {
+   "tabela": "stf_controle_penal",
+   "arquivo": "stf-controle-penal-completo.csv",
+   "linhas": 550,
+   "colunas": 26,
+   "bytes": 5011896,
+   "sha256": "58d53e94a57e7bf6e30e01e2e844f458588490818c9384cf08dd428dce533c76",
+   "situacao": "carregada"
+  },
+  {
+   "tabela": "stf_sumulas_penais",
+   "arquivo": "stf-sumulas-penais.csv",
+   "linhas": 105,
+   "colunas": 14,
+   "bytes": 81531,
+   "sha256": "5e8b20585c3309920dcffa2b7e97c652419013484103e92215107818572e86fd",
+   "situacao": "carregada"
+  },
+  {
+   "tabela": "stf_sumulas_todas",
+   "arquivo": "stf-sumulas-todas.csv",
+   "linhas": 799,
+   "colunas": 14,
+   "bytes": 558767,
+   "sha256": "2bbb4bd338e98fee56402db0a70b2481e3df1428bf69af031865604e56559c44",
+   "situacao": "carregada"
+  },
+  {
+   "tabela": "stj_repetitivos_penais",
+   "arquivo": "sumulas-e-controle/stj-temas-repetitivos-penais.csv",
+   "linhas": 149,
+   "colunas": 19,
+   "bytes": 111150,
+   "sha256": "c6741be968e13c6ba6beb494d655c5367ed89265b41f6d9ed402c3732f07e1bf",
+   "situacao": "carregada"
+  },
+  {
+   "tabela": "stj_sumulas_penais",
+   "arquivo": "sumulas-e-controle/stj-sumulas-penais.csv",
+   "linhas": 90,
+   "colunas": 11,
+   "bytes": 41271,
+   "sha256": "4c0a21fea255c2298ac2371022bc201dc9e40bccd91649ecb95f68846e76a0fe",
+   "situacao": "carregada"
+  },
+  {
+   "tabela": "tse_bdje_acervo",
+   "arquivo": "C:\\Users\\edvan\\_projeto-extensao-codigo-penal-24-08-2026\\analise-cientifica\\tse-bdje-acervo.jsonl",
+   "linhas": 13448,
+   "colunas": 18,
+   "bytes": 23919417,
+   "sha256": "9fdf3bdf9370d2f25042cf7eb86304f130398721e792dd81786e5bbae562f2c8",
+   "situacao": "carregada"
+  },
+  {
+   "tabela": "uniao_normas_alteradoras",
+   "arquivo": "uniao-normas-alteradoras.csv",
+   "linhas": 115,
+   "colunas": 9,
+   "bytes": 6959,
+   "sha256": "04c487186c7784f9b919597f19e496d39cc144d8c4f5c860e20bf7c132a660e1",
+   "situacao": "carregada"
+  },
+  {
+   "tabela": "uniao_serie_anual",
+   "arquivo": "uniao-serie-anual.csv",
+   "linhas": 88,
+   "colunas": 5,
+   "bytes": 1328,
+   "sha256": "547ccbb4662d499d01f18255976a0948baf7ed842e853205b820170239683d83",
+   "situacao": "carregada"
+  }
+ ],
+ "arquivos_do_pacote": [
+  {
+   "arquivo": "dados/cp-severidade-por-artigo.csv",
+   "sustenta": "a direção de severidade de cada dispositivo, 1940 a 2026",
+   "fonte": "planalto",
+   "bytes": 49663,
+   "sha256": "9bfa54cbf522a12f5aed780526780c7c37009004525e352a323fdfa846f0355b"
+  },
+  {
+   "arquivo": "dados/cp-eventos-de-severidade.csv",
+   "sustenta": "os 130 eventos datados de severidade",
+   "fonte": "planalto",
+   "bytes": 11221,
+   "sha256": "b1cf4d8ed01163749e3ccefe18fe6173e6dfa98b70f0c97ab573b63c949b57c3"
+  },
+  {
+   "arquivo": "dados/cp-dispositivos-com-artigo.csv",
+   "sustenta": "cada anotação de dispositivo ancorada ao artigo",
+   "fonte": "planalto",
+   "bytes": 117893,
+   "sha256": "839ce3cb3a7b5cd4db6eab4208dd8c34ed66b94eefd67ca80a79093add660e60"
+  },
+  {
+   "arquivo": "dados/cp-normas-alteradoras.csv",
+   "sustenta": "as normas alteradoras lidas do texto compilado",
+   "fonte": "planalto",
+   "bytes": 4417,
+   "sha256": "221e24a0ddb57a68bb44a5fead5235549619989a85addf5d1b1e565ce31b53ca"
+  },
+  {
+   "arquivo": "dados/cp-sancao-veto-publicacao.csv",
+   "sustenta": "a ficha de sanção, veto e publicação de cada norma",
+   "fonte": "camara-legin",
+   "bytes": 112706,
+   "sha256": "4a71f83596539aacd843662cd2d21cb6716c54d5e37ae3681a95f477fe51a002"
+  },
+  {
+   "arquivo": "dados/cp-serie-anual.csv",
+   "sustenta": "a série anual de normas alteradoras",
+   "fonte": "planalto",
+   "bytes": 1320,
+   "sha256": "0c4d0212c98ad4e247a476b49890e7bcd5f00608145f62c93420c6eb3659f611"
+  },
+  {
+   "arquivo": "dados/cp-compilado-texto.txt",
+   "sustenta": "o texto compilado do Código Penal",
+   "fonte": "planalto",
+   "bytes": 303873,
+   "sha256": "184989baeef7048f05a2243fa892f74c0d12da98f0a7b5cf4e504872db29f226"
+  },
+  {
+   "arquivo": "dados/codigo-penal-1940-texto-original.json",
+   "sustenta": "o texto original de 1940",
+   "fonte": "camara-legin",
+   "bytes": 193024,
+   "sha256": "039d3da57d0549bb8f1bde70e3a72369b4280b31fecd8f184ec24596901ca43d"
+  },
+  {
+   "arquivo": "dados/codigo-penal-1940-retificacao.json",
+   "sustenta": "a Retificação de 3/1/1941",
+   "fonte": "camara-legin",
+   "bytes": 5462,
+   "sha256": "49f1dab2238355dddaa3345245048068aa6eac5f17c915859d21d3eec4f6ec43"
+  },
+  {
+   "arquivo": "dados/texto-integral-planalto.jsonl",
+   "sustenta": "o texto integral das normas",
+   "fonte": "planalto",
+   "bytes": 2358433,
+   "sha256": "24831e7125ed8541bef505754ebd8b946e7cabd88f91f054349a72e55a5509b9"
+  },
+  {
+   "arquivo": "dados/texto-integral-normas-cp.jsonl",
+   "sustenta": "o texto integral pelo Congresso",
+   "fonte": "camara-legin",
+   "bytes": 1774853,
+   "sha256": "bd8849db648b3a17f255d7b13792e29d36d844f0f5564fd85db30dd174edca12"
+  },
+  {
+   "arquivo": "dados/AUDITORIA-DO-TEXTO-DAS-NORMAS.json",
+   "sustenta": "a auditoria de cobertura do texto",
+   "fonte": "planalto",
+   "bytes": 37353,
+   "sha256": "782b76bc61d1bab33a351f6a8229206f5e436607f3f8dd6131520f205ed7ca30"
+  },
+  {
+   "arquivo": "dados/calendario-eleitoral-1940-2026.csv",
+   "sustenta": "os 42 pleitos, de 1932 a 2024",
+   "fonte": "tse-cronologia",
+   "bytes": 4415,
+   "sha256": "dc4a0c35a93bd1a83adb333d39963170a14177f24dd76795342ee567fe092876"
+  },
+  {
+   "arquivo": "dados/teste-ciclo-eleitoral.json",
+   "sustenta": "o teste do ciclo de 29/08/2026, sobre as 114 fichas do Legin, substituído pelo teste sobre o universo de 115 normas",
+   "fonte": "tse-cronologia",
+   "bytes": 23572,
+   "sha256": "8a14b96252bb907c23a63a3b7524d540df26a94ee4c30d69ee317266cece593e"
+  },
+  {
+   "arquivo": "dados/teste-severidade-ciclo-eleitoral.json",
+   "sustenta": "o teste sobre o agravamento",
+   "fonte": "tse-cronologia",
+   "bytes": 14355,
+   "sha256": "fb0efb2ae29999be3e906a0e6124ac8e1b780e46a64899cad8ecfb5582f891f8"
+  },
+  {
+   "arquivo": "dados/poder-do-teste.json",
+   "sustenta": "o poder do teste de 29/08/2026, sobre o recorte 1940-2025, substituído pelo poder medido no teste sobre o universo de 115 normas, que está em teste-ciclo-eleitoral-universo-115.json e é o que o texto usa",
+   "fonte": "tse-cronologia",
+   "bytes": 393,
+   "sha256": "0682872e4aad0784c80bb8ad4e536809516fd6b4ea4965c2d8036e87fbdf3376"
+  },
+  {
+   "arquivo": "dados/incerteza-da-associacao.json",
+   "sustenta": "o intervalo de confiança e o p por permutação dos seis coeficientes da Tabela 11",
+   "fonte": "fbsp",
+   "bytes": 1127,
+   "sha256": "8e501c2e9aba25ab30c39f9a566566a0f3c6ea16921e14cddce5aaf8c8f220ba"
+  },
+  {
+   "arquivo": "dados/validade-criterio-regua.json",
+   "sustenta": "o teste de validade da régua",
+   "fonte": "planalto",
+   "bytes": 7311,
+   "sha256": "66a19d0839293f65f4b1c00756de3b8bde4e1718edbd6da3d44e7d8c3eedb4cd"
+  },
+  {
+   "arquivo": "dados/rol-hediondos.json",
+   "sustenta": "o rol vigente de crimes hediondos",
+   "fonte": "planalto",
+   "bytes": 4074,
+   "sha256": "0f064ae4d1ce935260782413e6d6bf380f24418507a69bec1eda7cb9b40b162b"
+  },
+  {
+   "arquivo": "dados/rol-como-segunda-unidade.json",
+   "sustenta": "o agravamento fora do texto do Código",
+   "fonte": "planalto",
+   "bytes": 4898,
+   "sha256": "e487736440564e3ca6c70206eb2ea90e676ecc067c38ddb5ff08c13dab3b5d7a"
+  },
+  {
+   "arquivo": "dados/severidade-parte-geral.json",
+   "sustenta": "a régua da Parte Geral, 16 institutos",
+   "fonte": "planalto",
+   "bytes": 10121,
+   "sha256": "d5dc6fc5a2b51ad8cab9062f4464c53fe08e3b2cf08e7e12f77aad26811cabf1"
+  },
+  {
+   "arquivo": "dados/causas-de-aumento.json",
+   "sustenta": "causas de aumento, diminuição e multiplicador",
+   "fonte": "planalto",
+   "bytes": 6151,
+   "sha256": "c4971c4febfb6e45749c666393e271dcbef443224ffd991f04876f7a818a5c08"
+  },
+  {
+   "arquivo": "dados/autoria-e-bancada.json",
+   "sustenta": "autoria, partido e direção da norma",
+   "fonte": "camara-dados-abertos",
+   "bytes": 8849,
+   "sha256": "9bd9e360a73c7e16b9e7434d35147019b3d7851f42a8e637be5d09e63afe0c63"
+  },
+  {
+   "arquivo": "dados/teste-origem-x-direcao.json",
+   "sustenta": "o teste de origem contra direção",
+   "fonte": "camara-dados-abertos",
+   "bytes": 514,
+   "sha256": "6ff10d03601e8666c76a6f30a476c4df3aa688169eb458b27791351e691f77a1"
+  },
+  {
+   "arquivo": "dados/materia-das-normas.json",
+   "sustenta": "a matéria pelo Título do Código",
+   "fonte": "planalto",
+   "bytes": 9449,
+   "sha256": "928080ded09833b9ace28e585e1a5a00c19faf12a84867c991853c8ce2b3a235"
+  },
+  {
+   "arquivo": "dados/emendas-e-lsn.json",
+   "sustenta": "a cadeia das leis de segurança nacional",
+   "fonte": "normas-leg",
+   "bytes": 3099,
+   "sha256": "1a8b1fbb79e0ab76f7df37e9be09e1cfcee7ec1c80cf2e66bf3be4fb53a5979f"
+  },
+  {
+   "arquivo": "dados/emendas-e-lsn.txt",
+   "sustenta": "o detalhe integral das mesmas",
+   "fonte": "normas-leg",
+   "bytes": 56659,
+   "sha256": "d285514a181f84c302deec59bea49ef052c63834b8b79f65f3e08e407cab27f6"
+  },
+  {
+   "arquivo": "dados/cruzamento-violencia-e-severidade.json",
+   "sustenta": "violência contra agravamento",
+   "fonte": "fbsp",
+   "bytes": 2051,
+   "sha256": "c7026f626bcb72fcd9c11ed7ff9e96aba1008ad4ed5ad021c2f9d1f03f9d144c"
+  },
+  {
+   "arquivo": "dados/percepcao-e-serie.json",
+   "sustenta": "a percepção de insegurança e a série corrigida",
+   "fonte": "fbsp-percepcao",
+   "bytes": 7484,
+   "sha256": "3c796b30bad68b17c2863532fde82db22a1fbe72ce5e6e6b441fb254d46c04c5"
+  },
+  {
+   "arquivo": "dados/mvi-serie-historica.json",
+   "sustenta": "a série de MVI por edição do Anuário",
+   "fonte": "fbsp",
+   "bytes": 7829,
+   "sha256": "3d48943f5b4b9316415790a9d23d26a21f0db9d0b56d24c9f019c98dec9fb7b2"
+  },
+  {
+   "arquivo": "dados/regimes-e-pleitos.json",
+   "sustenta": "os regimes políticos e os pleitos",
+   "fonte": "tse-cronologia",
+   "bytes": 2354,
+   "sha256": "c34a5324e70c0f6f5aed18184cf9aaa0bd66c30b98531e9ce67eef5a764245f2"
+  },
+  {
+   "arquivo": "dados/defasagem-projeto-lei.json",
+   "sustenta": "a defasagem entre o projeto e a lei",
+   "fonte": "camara-dados-abertos",
+   "bytes": 24405,
+   "sha256": "8528e95231197694a2efc91aac443b11e9bac5d1f7c18ef8b30c6ee4cf893edf"
+  },
+  {
+   "arquivo": "dados/pendencias-restantes.json",
+   "sustenta": "poder, sensibilidade, teto efetivo e objeto do voto",
+   "fonte": "camara-dados-abertos",
+   "bytes": 14666,
+   "sha256": "9edc3da52fd1c63b0f0be162ee2c3c28d72958a0a23002219b0a12f3cf2689ca"
+  },
+  {
+   "arquivo": "dados/sonda-das-fontes-pendentes.json",
+   "sustenta": "a sonda das fontes externas",
+   "fonte": "planalto",
+   "bytes": 3636,
+   "sha256": "286495cd2b133b92de81516132ba24e82504aa924dafa5c8284ed8a7ac3a9995"
+  },
+  {
+   "arquivo": "dados/REVISAO-DE-LITERATURA.md",
+   "sustenta": "a revisão de literatura, 346 artigos",
+   "fonte": "planalto",
+   "bytes": 26961,
+   "sha256": "1efa97564d00ddbfd7cf7f8f328429f81a582d94075df8d3b55b199b101cc7bd"
+  },
+  {
+   "arquivo": "dados/territorio-e-eleitorado.json",
+   "sustenta": "eleitores, habitantes e as correlações da seção 4.27",
+   "fonte": "tse-eleitorado",
+   "bytes": 6582,
+   "sha256": "b86ff807e9a6e6daa7d14f500bad413886bcd3771f990ca19e437faaf33548fd"
+  },
+  {
+   "arquivo": "dados/agentes-politicos.json",
+   "sustenta": "quem sancionou ou promulgou, autores com partido e UF, e votações nominais por partido de cada lei",
+   "fonte": "camara-dados-abertos",
+   "bytes": 213538,
+   "sha256": "6fe6825dfc938d5ffb09a723046763bdf2999190b904ee116e97bc91d6cdec6b"
+  },
+  {
+   "arquivo": "dados/presidentes-mandatos.json",
+   "sustenta": "quem exerceu a Presidência de 1937 a 2026, com o trecho da fonte e a marca declarado ou deduzido",
+   "fonte": "biblioteca-pr",
+   "bytes": 12691,
+   "sha256": "c9557d1e62faefdcf8d59031a238ca5e00a1d3b83998661ae381a019e147b5a9"
+  },
+  {
+   "arquivo": "dados/bancadas-e-autoria.json",
+   "sustenta": "bancadas da Câmara por legislatura, 1946 a 2027, e leis propostas por 100 deputados",
+   "fonte": "camara-dados-abertos",
+   "bytes": 47304,
+   "sha256": "8db52e9d1740f2fda53dfdd13378a968811d9492c65aa2b3bd775a8c6af16ce8"
+  },
+  {
+   "arquivo": "dados/governadores-e-homicidios.json",
+   "sustenta": "governadores eleitos de 1982 a 2022 e os óbitos por agressão do SIM em cada mandato",
+   "fonte": "tse-candidatos",
+   "bytes": 139073,
+   "sha256": "16e6f9e117bc7fb975468c6e7c0a8276dce2a5648926c7b855948081f9833ca3"
+  },
+  {
+   "arquivo": "dados/governadores-indiretos-dhbb.json",
+   "sustenta": "governadores escolhidos pela Assembleia Legislativa em 1970, 1974 e 1978 e nomeados em território, Distrito Federal e MS, pelo cargo registrado no DHBB, com o número do verbete",
+   "fonte": "cpdoc-dhbb",
+   "bytes": 26673,
+   "sha256": "9612c2f02fe637ca83066f345d88be74fab861f610458416c8568bc094ed9f02"
+  },
+  {
+   "arquivo": "dados/populacao-uf.json",
+   "sustenta": "população residente por UF e ano, 1980 a 2026 sem 2023, com a fonte de cada ano, para a taxa por 100 mil",
+   "fonte": "pop-uf",
+   "bytes": 28048,
+   "sha256": "5b96c58d87c963e049b1c793862e5c9bcd4565d52c0f4bc24c3bdc994f6ea967"
+  },
+  {
+   "arquivo": "dados/partido-na-epoca.json",
+   "sustenta": "partido de cada deputado autor na data em que apresentou o projeto, pelo histórico da Câmara",
+   "fonte": "camara-dados-abertos",
+   "bytes": 34797,
+   "sha256": "fd17b3fbc61c9470ba528fd16d8994e2e5229eee8233252e38cb40496f86bc24"
+  },
+  {
+   "arquivo": "dados/conferencia-governadores-1947-1966.json",
+   "sustenta": "a leitura a olho dos governadores de 1947 a 1966 conferida contra a votação nominal por UF",
+   "fonte": "tse-votacao-uf",
+   "bytes": 61151,
+   "sha256": "d64e85f12ef0f5ec5686dc45f096efde03befaae8412bdb8fe27188c341d8b3c"
+  },
+  {
+   "arquivo": "dados/CRUZAMENTO-VIOLENCIA-E-SEVERIDADE.md",
+   "sustenta": "o cruzamento da série de violência com a de agravamento, em detalhe",
+   "fonte": "fbsp",
+   "bytes": 5662,
+   "sha256": "741f1c8933516ada65b302fd854e586e1538c95b1cd909f212cade24fa9dfc2d"
+  },
+  {
+   "arquivo": "dados/FONTE-IMPEACHMENT-E-IMPEDIMENTO.md",
+   "sustenta": "a proveniência dos atos de impedimento, na fonte primária",
+   "fonte": "senado-dados-abertos",
+   "bytes": 4965,
+   "sha256": "f7bbeb17948972efb1784d251119401e704d4e5827da5a1d379b27b06d887c30"
+  },
+  {
+   "arquivo": "dados/FONTE-TSE-cronologia-das-eleicoes.md",
+   "sustenta": "a proveniência do calendário eleitoral",
+   "fonte": "tse-cronologia",
+   "bytes": 13192,
+   "sha256": "027f54dec7ae01fb527320903c125353204f4c7543d92cbc273e142451dd1bcb"
+  },
+  {
+   "arquivo": "dados/FONTES-PROPOSTAS-E-FALAS-medicao.md",
+   "sustenta": "a medição do que existe em proposta de governo e fala de parlamentar",
+   "fonte": "camara-dados-abertos",
+   "bytes": 6481,
+   "sha256": "54c5524c2cd7dcad7f4346ad2d853ec004f045a0c62774bc5a588e537d16b735"
+  },
+  {
+   "arquivo": "dados/camara-legislaturas.json",
+   "sustenta": "as 57 legislaturas, para situar a autoria no tempo",
+   "fonte": "camara-dados-abertos",
+   "bytes": 9162,
+   "sha256": "978bbc5e2dbd395c99d4316456eb9a97e7be99331fc51157fb11bcc7ed1f82ac"
+  },
+  {
+   "arquivo": "dados/camara-partidos-historicos.json",
+   "sustenta": "os partidos por legislatura, base da composição de bancada",
+   "fonte": "camara-dados-abertos",
+   "bytes": 16713,
+   "sha256": "636beb7f202cad69974bca47de9872395d6cb24dc4fc53cfaeeec9f8cb4e528f"
+  },
+  {
+   "arquivo": "dados/camara-partidos.json",
+   "sustenta": "os partidos em atividade",
+   "fonte": "camara-dados-abertos",
+   "bytes": 3297,
+   "sha256": "9ecb3d76d82b0f7100d9a8e6594b54d68668513c08635943dd32ee35d0ad336c"
+  },
+  {
+   "arquivo": "dados/comparacao-municipal-x-nacional.json",
+   "sustenta": "o teste do pleito municipal contra o nacional",
+   "fonte": "tse-cronologia",
+   "bytes": 5255,
+   "sha256": "2751d766ce9310995ff86511fdf63597bbd1d02b621eb9088812fc5623b61fba"
+  },
+  {
+   "arquivo": "dados/conferencia-lei-14197.txt",
+   "sustenta": "a conferência da Lei n. 14.197, de 2021, nas duas direções",
+   "fonte": "normas-leg",
+   "bytes": 3275,
+   "sha256": "53de5118f1e262d46f4d99b70871ad2e4f1742718d99b6709f31af6e0c5341bf"
+  },
+  {
+   "arquivo": "dados/divergencia-calendario-eleitoral.json",
+   "sustenta": "a divergência medida entre duas fontes oficiais do próprio Tribunal Superior Eleitoral",
+   "fonte": "tse-cronologia",
+   "bytes": 2488,
+   "sha256": "58d98183893fbc3c5f6d24a1a0f579213094aa6eaa1227d8ba8120eb2b303889"
+  },
+  {
+   "arquivo": "dados/emendas-constitucionais-penais.txt",
+   "sustenta": "as emendas constitucionais que citam matéria penal",
+   "fonte": "normas-leg",
+   "bytes": 143,
+   "sha256": "a4984b9bbf8141133c70370b8a3ca64861c9efc22983b4fc56d7a91d1921ddb8"
+  },
+  {
+   "arquivo": "dados/lei-seguranca-nacional.txt",
+   "sustenta": "o texto das leis de segurança nacional, colhido da fonte",
+   "fonte": "normas-leg",
+   "bytes": 26340,
+   "sha256": "dd3932431a82ddf3c8f70d0d1de835d54f9dce1f420971272ea957ad878fa47c"
+  },
+  {
+   "arquivo": "dados/periodicos-classificacao-relatorio.json",
+   "sustenta": "o relatório da classificação do corpus de literatura",
+   "fonte": "planalto",
+   "bytes": 2456,
+   "sha256": "f3390c607e424f9090590c9928423a24d1b49b7e5b637ab1daf67651723e0efc"
+  },
+  {
+   "arquivo": "dados/periodicos-juridicos-cp-preciso.jsonl",
+   "sustenta": "o corpus preciso da revisão de literatura, 3.138 registros",
+   "fonte": "planalto",
+   "bytes": 5410058,
+   "sha256": "746e8142db58829cf394eeffc44d34146e27cb6c5d61a2f691bff331464f02f1"
+  },
+  {
+   "arquivo": "dados/senado-discursos-codigo-penal.jsonl",
+   "sustenta": "os 755 pronunciamentos de plenário sobre o Código Penal",
+   "fonte": "senado-dados-abertos",
+   "bytes": 1129656,
+   "sha256": "f84314563a316868883c415f54b3fbae7ca052070674da436af3595e39586056"
+  },
+  {
+   "arquivo": "dados/senado-partidos.xml",
+   "sustenta": "os partidos no Senado Federal",
+   "fonte": "senado-dados-abertos",
+   "bytes": 11728,
+   "sha256": "31a9c83796d177e612b1e6c43e5ccef8e9087e40811c2dc43875ab5eae8f6623"
+  },
+  {
+   "arquivo": "dados/detalhe-votacoes-sem-objeto.json",
+   "sustenta": "o detalhe da Câmara de cada votação cuja descrição registra só o resultado, que classifica o objeto de 113 votações na Tabela 20",
+   "fonte": "camara-dados-abertos",
+   "bytes": 96710,
+   "sha256": "b715944353455f510c344ac1e342e1db4a5668c54ab72d5942856c2178a75c86"
+  },
+  {
+   "arquivo": "dados/senado-composicao-por-legislatura.json",
+   "sustenta": "os senadores de cada legislatura, de 1946 a 2027, pelo portal do Senado, com a divergência contra as listas da API declarada nos dois sentidos",
+   "fonte": "senado-dados-abertos",
+   "bytes": 312760,
+   "sha256": "e839cbd1606b310ee2c7612149634948044151b7f50a40963400a02ff5de4077"
+  },
+  {
+   "arquivo": "dados/partido-senador-na-epoca.json",
+   "sustenta": "o partido de cada senador autor na data da apresentação do projeto, pela filiação datada da API do Senado",
+   "fonte": "senado-dados-abertos",
+   "bytes": 13849,
+   "sha256": "5aeef103038ac5be8fdb350a29078ecd76c766fa2930ab8bbe9d48aeff3ea916"
+  },
+  {
+   "arquivo": "dados/engolidas-pela-elipse.json",
+   "sustenta": "as normas cujo rastro o texto compilado apagou",
+   "fonte": "planalto",
+   "bytes": 7832,
+   "sha256": "2102887f7cb026c43155481d9ee13979bfeb3dab8307f9f28109750e4648116e"
+  },
+  {
+   "arquivo": "dados/faltam-na-fonte-do-congresso.json",
+   "sustenta": "a cobertura que faltou na fonte do Congresso",
+   "fonte": "camara-legin",
+   "bytes": 16832,
+   "sha256": "a2c77385a97175f5ea7fe48025abe4df28ea7d676c051a4e93d4feb5cf8fddaa"
+  },
+  {
+   "arquivo": "dados/nao-achadas-no-planalto.json",
+   "sustenta": "a cobertura que faltou no Planalto",
+   "fonte": "planalto",
+   "bytes": 108,
+   "sha256": "64d4d910c2e3486b85504ff7b32809cd3b61660612470c4cc91fef0777dff786"
+  },
+  {
+   "arquivo": "dados/universo-e-regimes.json",
+   "sustenta": "o universo de 115 normas, a data de publicação no DOU de cada uma e o regime vigente nessa data",
+   "fonte": "camara-legin",
+   "bytes": 2450,
+   "sha256": "5f3e1e1dbecf420b38c59cd24de0521f36b65c10c57f6d0a3ced2d67a3c18ff4"
+  },
+  {
+   "arquivo": "dados/universo-e-regimes.csv",
+   "sustenta": "a mesma apuração, norma a norma, em planilha",
+   "fonte": "camara-legin",
+   "bytes": 12893,
+   "sha256": "f275059b3c36c6ecb573a8f60bfa661567a1ed9a3964ddaabcc3dc0705562538"
+  },
+  {
+   "arquivo": "dados/FECHAMENTO-DO-CORTE-18-09-2026.md",
+   "sustenta": "a conferência, em duas fontes, de que nenhuma norma publicada entre 31/08 e 18/09/2026 alterou o Código Penal",
+   "fonte": "normas-leg",
+   "bytes": 1152,
+   "sha256": "6965df0a287feacfd7a8d72ae24ff0579afa3bb0c17b8f17099466b63d3a43df"
+  },
+  {
+   "arquivo": "dados/teste-ciclo-eleitoral-universo-115.json",
+   "sustenta": "o teste do ciclo eleitoral sobre o universo único de 115 normas",
+   "fonte": "tse-cronologia",
+   "bytes": 23081,
+   "sha256": "61ce0852610c69c52ca262f328b121476be372eb20d36f7b416877fb7a4c7af9"
+  },
+  {
+   "arquivo": "dados/posicao-do-individuo.json",
+   "sustenta": "a posição do indivíduo diante da lei penal, nas duas pontas",
+   "fonte": "planalto",
+   "bytes": 2736,
+   "sha256": "805cd9d8949702ee8cd628970a261f4855305bcc64962b5d827286acef46ff36"
+  },
+  {
+   "arquivo": "dados/ideologia-partidos-especialistas.json",
+   "sustenta": "a média de cada partido na escala de especialistas, ondas de 2018 e 2022, da seção 4.28",
+   "fonte": "escala-bolognesi",
+   "bytes": 12243,
+   "sha256": "5b32227a7080b2c32fe7ac0cf1c63c5274337fb51345571e92fdf5adb17702f8"
+  },
+  {
+   "arquivo": "dados/ideologia-x-penal.json",
+   "sustenta": "os testes da posição ideológica contra voto, autoria e violência sob o governador, Tabela 27",
+   "fonte": "escala-bolognesi",
+   "bytes": 72964,
+   "sha256": "ea30e4d76321f7aaccbc3b89c596c7f243c603d92208914aaf009e396f0be5b8"
+  },
+  {
+   "arquivo": "dados/voto-eleitor.json",
+   "sustenta": "o sim de cada partido no texto principal e a variação de cadeiras na eleição seguinte, seção 4.28",
+   "fonte": "tse-candidatos",
+   "bytes": 13772,
+   "sha256": "22cb2c70c0af269a76752591f5b3e82505242e11a450b4243c1ec0dc734d021f"
+  },
+  {
+   "arquivo": "dados/doutrina-partidaria.json",
+   "sustenta": "a contagem de expressões de ordem e de direitos nos 305 documentos doutrinários dos partidos, seção 4.28",
+   "fonte": "tse-partidos",
+   "bytes": 46884,
+   "sha256": "fb6905d6a6afe6687e10648f38550e52bfd826c6d6e4d6ed53ccee00a00fd129"
+  },
+  {
+   "arquivo": "dados/rankings-e-mapa.json",
+   "sustenta": "os partidos por sim no texto principal, a autoria por partido e por UF e os eventos por ano de mandato presidencial, Tabela 28",
+   "fonte": "camara-dados-abertos",
+   "bytes": 11042,
+   "sha256": "01a28e79b47c29ddb955c3768cc494c0a239b0c95aba919ee905d1a482c1a4e6"
+  },
+  {
+   "arquivo": "dados/presidentes-partido.json",
+   "sustenta": "o partido de cada presidente eleito, pelo registro da candidatura",
+   "fonte": "tse-candidatos",
+   "bytes": 4177,
+   "sha256": "b99aaa964367d3d0956efea4ca51d1ac8265431266c52a2cea8d1f65ade44fbc"
+  },
+  {
+   "arquivo": "dados/anuario-crimes-por-uf.json",
+   "sustenta": "desde quando o Anuário publica cada tipo penal por Unidade da Federação",
+   "fonte": "fbsp",
+   "bytes": 171993,
+   "sha256": "9cb359038317ea8a14ea05b93ff95bfe99c04f31345f6b0a226695e5a205ac80"
+  },
+  {
+   "arquivo": "dados/serie-longa-violencia.json",
+   "sustenta": "as três séries de violência contra a de agravamento, cada uma na sua janela, com as quatro especificações e a zona cinzenta do registro, Tabelas 29 e 30",
+   "fonte": "ipea-atlas",
+   "bytes": 10058,
+   "sha256": "1981df976d0f488fb8274d77901e0cda8542dcd5f457ec20b538204a6dbacd01"
+  },
+  {
+   "arquivo": "dados/sonda-sinesp-jc.json",
+   "sustenta": "o que cada um dos doze endereços oficiais respondeu quando se procurou a série do Sinesp JC, seção 4.29",
+   "fonte": "mjsp-sinesp",
+   "bytes": 4805,
+   "sha256": "896270098fe3e71e55701b7f1b993da933aee9439f1b2c599302a934ad1afc8e"
+  },
+  {
+   "arquivo": "dados/sonda-bancovde-anos-anteriores.json",
+   "sustenta": "o teste do padrão de endereço do banco do Sinesp VDE para os onze anos de 2004 a 2014, com os anos de controle, seção 4.29",
+   "fonte": "mjsp-sinesp",
+   "bytes": 3232,
+   "sha256": "35dad3df21c84b20b90f90bde777b5c1d0e16ea29601494170bdf2df526f04fd"
+  },
+  {
+   "arquivo": "dados/ranking-e-mapa-por-uf.json",
+   "sustenta": "a taxa de mortes por agressão e intervenção legal por cem mil habitantes, nas 27 Unidades da Federação, ano a ano de 1996 a 2024, com o ranking e o mapa, Tabela 31",
+   "fonte": "datasus-sim",
+   "bytes": 101044,
+   "sha256": "48cf228e0e3a69b4119c271a993f58bc76c7e2897a7e1a475c335b93e049e46c"
+  },
+  {
+   "arquivo": "dados/notas-sinesp-jc.json",
+   "sustenta": "o que cada nota de gestor estadual do Sinesp JC declara sobre a contagem, com o trecho literal ao lado, Tabela 32",
+   "fonte": "mjsp-sinesp",
+   "bytes": 11451,
+   "sha256": "269f66949336c384729f67f2839303202c0e789e0a15d67ac76c647917dd909c"
+  },
+  {
+   "arquivo": "scripts/apurar_severidade_parte_geral.py",
+   "sustenta": "constrói a régua da Parte Geral",
+   "fonte": "proprio",
+   "bytes": 19403,
+   "sha256": "ac2892417f02dea233df023c3f5173b0c785fd197b2378228c61622a03989353"
+  },
+  {
+   "arquivo": "scripts/apurar_causas_de_aumento.py",
+   "sustenta": "mede as causas de aumento e o multiplicador",
+   "fonte": "proprio",
+   "bytes": 14154,
+   "sha256": "9c345319dea9a137c9aefa685b3d21d7497bf77216815d20fe4cbd127711d6d1"
+  },
+  {
+   "arquivo": "scripts/apurar_autoria_e_bancada.py",
+   "sustenta": "cruza autoria, partido e direção",
+   "fonte": "proprio",
+   "bytes": 14592,
+   "sha256": "1913053acd7de8d047f0108a6198ca04b3070cd09f125e8d889314fd3a0365b7"
+  },
+  {
+   "arquivo": "scripts/apurar_materia_das_normas.py",
+   "sustenta": "classifica por Título e testa o confundidor",
+   "fonte": "proprio",
+   "bytes": 27197,
+   "sha256": "2b6f4f6b9deb9ec2bdc89df94346c04b3c9b5e97707c769449d50b362c4d97ef"
+  },
+  {
+   "arquivo": "scripts/apurar_rol_hediondos.py",
+   "sustenta": "mede o agravamento feito fora do texto",
+   "fonte": "proprio",
+   "bytes": 12326,
+   "sha256": "34519500ccfe9d86adc824a04dee6565c9fbd39ba7e1c829d429f27026e1c3a4"
+  },
+  {
+   "arquivo": "scripts/apurar_emendas_e_lsn.py",
+   "sustenta": "colhe as leis de segurança nacional e as emendas",
+   "fonte": "proprio",
+   "bytes": 11227,
+   "sha256": "c36c63b83f443def271708f4fd782239519babe65db886fbed72656ca43e2b17"
+  },
+  {
+   "arquivo": "scripts/apurar_pendencias_restantes.py",
+   "sustenta": "mede poder, sensibilidade, teto efetivo e voto",
+   "fonte": "proprio",
+   "bytes": 23321,
+   "sha256": "9af707fea8900bf508a1205c5fa3a0b778ef72e8edaa1e57c2deee7f1f4de209"
+  },
+  {
+   "arquivo": "scripts/apurar_percepcao_e_serie.py",
+   "sustenta": "mede a percepção e a série de mortes violentas",
+   "fonte": "proprio",
+   "bytes": 12557,
+   "sha256": "275e326fa9acad9b8fa173719dd527bc7b63df59216ae9a1ed39d4991b18fdbc"
+  },
+  {
+   "arquivo": "scripts/extrair_tabelas_anuarios.py",
+   "sustenta": "extrai as tabelas dos Anuários em PDF",
+   "fonte": "proprio",
+   "bytes": 4048,
+   "sha256": "b784797edd5077b5eeb975ea690edacda0e48b3b737ebd056c57afe066c45797"
+  },
+  {
+   "arquivo": "scripts/sondar_fontes_pendentes.py",
+   "sustenta": "sonda as fontes externas com endereço, hora e código",
+   "fonte": "proprio",
+   "bytes": 9139,
+   "sha256": "e0e5fb75a4dbfe5c76e18ef32feb0893ba547ba68e7e4e21c08d9926d6c254f1"
+  },
+  {
+   "arquivo": "scripts/conferir_numeros_do_trabalho.py",
+   "sustenta": "confere cada número do trabalho contra a fonte",
+   "fonte": "proprio",
+   "bytes": 20162,
+   "sha256": "a2cfeeae4eb6802e22403d313ed974e12dacce57de5b65b7952e4d1cc99adb3e"
+  },
+  {
+   "arquivo": "scripts/montar_pacote_publico.py",
+   "sustenta": "monta este pacote e calcula os resumos criptográficos",
+   "fonte": "proprio",
+   "bytes": 48697,
+   "sha256": "1b4735544afbc5be39eafce7ab861f42cc813ade90cfd20b0c287057116afe0c"
+  },
+  {
+   "arquivo": "scripts/apurar_posicao_do_individuo.py",
+   "sustenta": "mede a posição do indivíduo, com bancada de 18 provas",
+   "fonte": "proprio",
+   "bytes": 14944,
+   "sha256": "bf25e96471b0ec580fecb4c38a406ea4a81efc8f7a493e7953906158ab80e88b"
+  },
+  {
+   "arquivo": "scripts/testes_pacote_publico.py",
+   "sustenta": "a bancada do montador, 14 provas nas duas direções",
+   "fonte": "proprio",
+   "bytes": 5294,
+   "sha256": "eb5016de9ad07e42f0900117529277e7b5e1a6d32797ce5f4049c6fb92e00896"
+  },
+  {
+   "arquivo": "scripts/apurar_universo_e_regimes.py",
+   "sustenta": "data de publicação e regime de cada uma das 115 normas",
+   "fonte": "proprio",
+   "bytes": 16257,
+   "sha256": "355a7cfa886d62f1ebf3ad7769f5ddf27f22f152fd16d18bae11728f1b1b4275"
+  },
+  {
+   "arquivo": "scripts/testar_ciclo_eleitoral_universo_115.py",
+   "sustenta": "refaz o teste do ciclo eleitoral sobre as 115 normas",
+   "fonte": "proprio",
+   "bytes": 6300,
+   "sha256": "2639b7d1c9dac29a413cfed8f62dff1ff0b7f0c2aaf0a22eccaf9974ce10e19d"
+  },
+  {
+   "arquivo": "scripts/montar_base_analitica_na_planilha.py",
+   "sustenta": "monta na planilha os 130 eventos e os 432 dispositivos",
+   "fonte": "proprio",
+   "bytes": 16115,
+   "sha256": "f478d3add37445b6fab1ad35a8e1f11a9d05bb5c7b1eb9bcfef1abfd4bbd177f"
+  },
+  {
+   "arquivo": "scripts/apurar_incerteza_da_associacao.py",
+   "sustenta": "calcula o intervalo de confiança e o p por permutação da Tabela 11",
+   "fonte": "proprio",
+   "bytes": 6081,
+   "sha256": "22f1f31f1db138187fadc7a36e46a109ed6f2a57ffeaff70be4b37e08574ad1a"
+  },
+  {
+   "arquivo": "scripts/apurar_serie_longa_violencia.py",
+   "sustenta": "roda as três séries de violência contra a de agravamento, cada uma na sua janela",
+   "fonte": "proprio",
+   "bytes": 12077,
+   "sha256": "04c0aa1736ba26fe2bfd31f120e659647f75bd9e64a373fc7a2bade0680ac683"
+  },
+  {
+   "arquivo": "scripts/sondar_sinesp_jc.py",
+   "sustenta": "sonda os doze endereços oficiais em busca da série do Sinesp JC",
+   "fonte": "proprio",
+   "bytes": 6540,
+   "sha256": "78c8e17cebf9dcd0c1e8f5d2bbcbabde5039867c4e577a417600a16a6d171c48"
+  },
+  {
+   "arquivo": "scripts/sondar_bancovde_anos_anteriores.py",
+   "sustenta": "testa se a fonte oficial oferece banco do Sinesp VDE antes de 2015",
+   "fonte": "proprio",
+   "bytes": 4708,
+   "sha256": "150ad68b0b1b62cdb672d2f089170c342477a7812d6243f4b9af3471caf9905a"
+  },
+  {
+   "arquivo": "scripts/apurar_ranking_e_mapa_por_uf.py",
+   "sustenta": "monta o ranking e o mapa por Unidade da Federação, depois de provar a identidade com a série nacional",
+   "fonte": "proprio",
+   "bytes": 9604,
+   "sha256": "07fb7ddd6f195cd3176c8d190b00303c5a9f4bf8237f062338b19c3f9d856fae"
+  },
+  {
+   "arquivo": "scripts/apurar_notas_sinesp_jc.py",
+   "sustenta": "mede o que cada nota de gestor estadual declara, com o trecho literal",
+   "fonte": "proprio",
+   "bytes": 5870,
+   "sha256": "08ca66fe3e0f64015a7275d6f7616fa39a6a82a6ef2315e9f18f6e550d1c3d4f"
+  },
+  {
+   "arquivo": "scripts/analise_ciclo_eleitoral_cp.py",
+   "sustenta": "o motor de permutação por blocos e de simulação de poder que o teste do ciclo importa",
+   "fonte": "proprio",
+   "bytes": 15447,
+   "sha256": "d22ab80ef0d950fa8a69d52b11496a616696bbc3bdfef37fe1b1fa01368061f5"
+  },
+  {
+   "arquivo": "planilhas/AUDITORIA-DO-TEXTO-DAS-NORMAS__normas.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 12581,
+   "sha256": "b573c2e88562c3df7ef4a0f23a3951d5475b090c781117205fa70b0a9b545727"
+  },
+  {
+   "arquivo": "planilhas/AUDITORIA-DO-TEXTO-DAS-NORMAS__valores.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 1456,
+   "sha256": "820e8c1419d95e8c45a14ec5bc6fe818fc9b17e099383a10893d61b69cef59a3"
+  },
+  {
+   "arquivo": "planilhas/agentes-politicos__normas.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 106811,
+   "sha256": "01a73e8e7df49aaaa4482993adf862ea31a677b7cd781e598d99a03b4bd3ec4d"
+  },
+  {
+   "arquivo": "planilhas/agentes-politicos__valores.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 4529,
+   "sha256": "3bbb9c679212f5dd7db00492d51cdbc11e4f1a27d52c27ecc5a3333144739937"
+  },
+  {
+   "arquivo": "planilhas/anuario-crimes-por-uf__2007.lidos.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 114,
+   "sha256": "22c7e68ed765b59902677b2eab982f31f22c2be3680bae4d4ef37ac23b656a77"
+  },
+  {
+   "arquivo": "planilhas/anuario-crimes-por-uf__2008.lidos.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 137,
+   "sha256": "e5deb5ad5325aaba87e1837f477a8af969683f4fd061cafaf2733e8e47aa3461"
+  },
+  {
+   "arquivo": "planilhas/anuario-crimes-por-uf__2009.lidos.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 130,
+   "sha256": "b78288d9e4869eac922e1ff52d72e46fbfe13a02b47fcd82ab234d3d9e5bbb4a"
+  },
+  {
+   "arquivo": "planilhas/anuario-crimes-por-uf__2010.lidos.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 152,
+   "sha256": "74ea2fc7823d3a4a77360dfd3d06d8a1d67b82c2643afb8c857e7edbe39f5301"
+  },
+  {
+   "arquivo": "planilhas/anuario-crimes-por-uf__2011.lidos.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 150,
+   "sha256": "488095771cc6e2d99b1ef3c7fa320d279f4001b184b13352ad62a469490f2145"
+  },
+  {
+   "arquivo": "planilhas/anuario-crimes-por-uf__2012.lidos.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 152,
+   "sha256": "4f78f536dfcff5757fa2171e8a0bc2b1969a5c51be5ea74f02ab8f3464752c08"
+  },
+  {
+   "arquivo": "planilhas/anuario-crimes-por-uf__2013.lidos.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 163,
+   "sha256": "7892e1b840345df3757a3d50b946b465ff7af2cd8c2dcc552bb98ac354bc79c1"
+  },
+  {
+   "arquivo": "planilhas/anuario-crimes-por-uf__2014.lidos.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 166,
+   "sha256": "413c67dbe6b40efa6f3091178be738452b06113952c4e299324128a29bcb1524"
+  },
+  {
+   "arquivo": "planilhas/anuario-crimes-por-uf__2015.lidos.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 166,
+   "sha256": "249270391cac8481d511acb3f463f4ad6ccf464b4f40da7f82475c2a85cfaaf5"
+  },
+  {
+   "arquivo": "planilhas/anuario-crimes-por-uf__2016.lidos.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 157,
+   "sha256": "a117c1a16d4916ce431cdd85bde62b2d7516d83a5fd3f42de5dfdda41de367bf"
+  },
+  {
+   "arquivo": "planilhas/anuario-crimes-por-uf__2017.lidos.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 160,
+   "sha256": "dca2e4c96387f2a47f6bd1a2890beaeffe535b198d4a227e985ea4db3e0dcea5"
+  },
+  {
+   "arquivo": "planilhas/anuario-crimes-por-uf__2018.lidos.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 228,
+   "sha256": "626c81505a810bf007366a4d9c842a55b4b363fb853a841dc6eee0a468cb80a1"
+  },
+  {
+   "arquivo": "planilhas/anuario-crimes-por-uf__2019.lidos.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 268,
+   "sha256": "c37e7df4282b8c73f5bac6df9420f20bfc50f7c020ca534970ca3f5d069e709c"
+  },
+  {
+   "arquivo": "planilhas/anuario-crimes-por-uf__2020.lidos.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 348,
+   "sha256": "2438645461d802d74b08864802e4ee62e207dcfbc1dd7b1b8a411822ee65826c"
+  },
+  {
+   "arquivo": "planilhas/anuario-crimes-por-uf__2021.lidos.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 216,
+   "sha256": "be91f0c3b0427e7d43f4bfc8027a26f8bef39140fd16864401daf4dbad55c82e"
+  },
+  {
+   "arquivo": "planilhas/anuario-crimes-por-uf__2022.lidos.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 296,
+   "sha256": "d1e40c22dedc90d994f15563d1f482488e0693c1fa578cc789f07d75b184dceb"
+  },
+  {
+   "arquivo": "planilhas/anuario-crimes-por-uf__2023.lidos.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 336,
+   "sha256": "24eb2bbb9fedf8ba8d8793da25b82b6dd2a0fe694196afcfb60a31dc2bdd29e9"
+  },
+  {
+   "arquivo": "planilhas/anuario-crimes-por-uf__2024.lidos.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 194,
+   "sha256": "f7ca571c2cf1df9dd62cb9eb8df06ad8b57605f956a18675c5f6123a381b63a8"
+  },
+  {
+   "arquivo": "planilhas/anuario-crimes-por-uf__2025.lidos.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 194,
+   "sha256": "bf726234439aae7a076e80422463b3db452c6e610534e19accb0678138ca59d5"
+  },
+  {
+   "arquivo": "planilhas/anuario-crimes-por-uf__2026.lidos.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 206,
+   "sha256": "ed201d8e72b6ad776272fe51a773f488caaab4d9fa618735f3ebb5c7c9107587"
+  },
+  {
+   "arquivo": "planilhas/anuario-crimes-por-uf___excluidos_por_serem_copia_de_outra_edicao.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 261,
+   "sha256": "adfb7859f7f9cd3299705724e62c8025ebedfc9e2346669a88dd97be9de1cb71"
+  },
+  {
+   "arquivo": "planilhas/anuario-crimes-por-uf__valores.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 169485,
+   "sha256": "2ea83ac58f6a030d9d7c7ff939cd29bacd73499f0b43bddacd4c4f2232645f29"
+  },
+  {
+   "arquivo": "planilhas/autoria-e-bancada__valores.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 16034,
+   "sha256": "7ee211724936023f9778216fadd4cba6c5893acdc61f1ca59e00458a3e1d35f0"
+  },
+  {
+   "arquivo": "planilhas/bancadas-e-autoria__divergencias_ficha_x_epoca.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 3669,
+   "sha256": "dc16fa039a5a5e591a9d32fb0351c4f34c8140c899da8c047d495951690ddc44"
+  },
+  {
+   "arquivo": "planilhas/bancadas-e-autoria__legislaturas.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 7677,
+   "sha256": "1330cbfd53c9ee5af397d688e78f542145617523e1b48b7b717c788a97376d9d"
+  },
+  {
+   "arquivo": "planilhas/bancadas-e-autoria__taxa_autoria_por_100.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 569,
+   "sha256": "681a51a4f7af8235b5539f851442c60683609e6d4d1553de76cefb515fb007d0"
+  },
+  {
+   "arquivo": "planilhas/bancadas-e-autoria__valores.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 38926,
+   "sha256": "66d0ec77231865ad69d26bf44af04bf9f86ea29e4f94159fb27c8c152b652c06"
+  },
+  {
+   "arquivo": "planilhas/calendario-eleitoral-1940-2026.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 4415,
+   "sha256": "dc4a0c35a93bd1a83adb333d39963170a14177f24dd76795342ee567fe092876"
+  },
+  {
+   "arquivo": "planilhas/camara-legislaturas__lista.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 4797,
+   "sha256": "75a6f42b437304b88bc987f806fe0ca11e52219d6f37a7a2760c8a313fedd2d0"
+  },
+  {
+   "arquivo": "planilhas/camara-partidos-historicos__partidos.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 7506,
+   "sha256": "8b4bc2e84ecef62df639e0f12b73eeea33a7ea15499cd09eae880c23d3c7d780"
+  },
+  {
+   "arquivo": "planilhas/camara-partidos-historicos__por_legislatura.49.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 190,
+   "sha256": "e8cbcb2ea4dbb8f09ca5c6b003d48ebb7e64bd31f82f060f656e48f081a9b308"
+  },
+  {
+   "arquivo": "planilhas/camara-partidos-historicos__por_legislatura.52.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 222,
+   "sha256": "5fee54f78fccdce16543a345fe8fc4d2345fadeb152e83782e2b86f497b08681"
+  },
+  {
+   "arquivo": "planilhas/camara-partidos-historicos__por_legislatura.53.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 198,
+   "sha256": "33bce41bc496e07c4d9b54a12844f9410c751a437581e04d77791c0f6b594f84"
+  },
+  {
+   "arquivo": "planilhas/camara-partidos-historicos__por_legislatura.54.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 247,
+   "sha256": "2ea8396ea20717dc97361f9a90de54d52e2c5e48f11d30e361526fc06afa00e1"
+  },
+  {
+   "arquivo": "planilhas/camara-partidos-historicos__por_legislatura.55.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 335,
+   "sha256": "e7a102ab0f007c014e2a933f9b2bc552a373c86cf567bcfb427658703cb3a124"
+  },
+  {
+   "arquivo": "planilhas/camara-partidos-historicos__por_legislatura.56.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 336,
+   "sha256": "0e04ddf34485377f73197e0852344e633484c71bd68d5d02011cc9825a7def4f"
+  },
+  {
+   "arquivo": "planilhas/camara-partidos-historicos__por_legislatura.57.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 267,
+   "sha256": "3fefc693276a8197bd6e7898e914334dc1d9305f6c9729ed52004ca9864e1486"
+  },
+  {
+   "arquivo": "planilhas/camara-partidos-historicos__valores.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 1405,
+   "sha256": "24f9343a781e21cf0a0530799797803cef489a8503618e77bb2a45982cf47bf8"
+  },
+  {
+   "arquivo": "planilhas/camara-partidos__lista.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 2015,
+   "sha256": "3ee78ec88444fa85f60d3b337f56ee02d573617e918d1ba050795218bfc12999"
+  },
+  {
+   "arquivo": "planilhas/causas-de-aumento__epocas.1940.subestimacao_por_artigo.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 378,
+   "sha256": "f4fa27ba8a3cdcd4b394df9956b23b7a557b95ac4fa7d989b3138bd1bea22ba6"
+  },
+  {
+   "arquivo": "planilhas/causas-de-aumento__epocas.hoje.subestimacao_por_artigo.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 513,
+   "sha256": "5d00061cb5c3126ff7ceb8a25dfe3b8d809585cce0952dbd04ddb2eec5fea8bd"
+  },
+  {
+   "arquivo": "planilhas/causas-de-aumento__valores.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 1480,
+   "sha256": "bbd8fdafb7c03fb81c3ac5479be9e914d74fecc6ef937d539cae17dee537abfa"
+  },
+  {
+   "arquivo": "planilhas/codigo-penal-1940-retificacao__documentos.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 4296,
+   "sha256": "bbd2f0c83be5c5c2bed803fd8376263578637cb1188a88b7417217ca5374bbe8"
+  },
+  {
+   "arquivo": "planilhas/codigo-penal-1940-retificacao__valores.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 309,
+   "sha256": "c515ffa6b1890953df38de98f8e49283bf291efe17fa41cc11b242f0e88b8f9a"
+  },
+  {
+   "arquivo": "planilhas/codigo-penal-1940-texto-original__valores.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 188483,
+   "sha256": "aac025021aa9a992263ca6d27ee821b2973b5470a40fbcc769d334a5888753a9"
+  },
+  {
+   "arquivo": "planilhas/comparacao-municipal-x-nacional__lista.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 1783,
+   "sha256": "04ddc692382200ce6824e7ad50952594c0c244ec98a00447662d82be137d6f3b"
+  },
+  {
+   "arquivo": "planilhas/conferencia-governadores-1947-1966__linhas.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 21369,
+   "sha256": "ed7705d477bba052482c309af39063beba7d586bb25e00c3e4a61152cac66e0c"
+  },
+  {
+   "arquivo": "planilhas/cp-dispositivos-com-artigo.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 117893,
+   "sha256": "839ce3cb3a7b5cd4db6eab4208dd8c34ed66b94eefd67ca80a79093add660e60"
+  },
+  {
+   "arquivo": "planilhas/cp-eventos-de-severidade.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 11221,
+   "sha256": "b1cf4d8ed01163749e3ccefe18fe6173e6dfa98b70f0c97ab573b63c949b57c3"
+  },
+  {
+   "arquivo": "planilhas/cp-normas-alteradoras.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 4417,
+   "sha256": "221e24a0ddb57a68bb44a5fead5235549619989a85addf5d1b1e565ce31b53ca"
+  },
+  {
+   "arquivo": "planilhas/cp-sancao-veto-publicacao.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 112706,
+   "sha256": "4a71f83596539aacd843662cd2d21cb6716c54d5e37ae3681a95f477fe51a002"
+  },
+  {
+   "arquivo": "planilhas/cp-serie-anual.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 1320,
+   "sha256": "0c4d0212c98ad4e247a476b49890e7bcd5f00608145f62c93420c6eb3659f611"
+  },
+  {
+   "arquivo": "planilhas/cp-severidade-por-artigo.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 49663,
+   "sha256": "9bfa54cbf522a12f5aed780526780c7c37009004525e352a323fdfa846f0355b"
+  },
+  {
+   "arquivo": "planilhas/cruzamento-violencia-e-severidade__valores.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 2558,
+   "sha256": "a7b452610731ce370a9eb78eae64d660323bf6d22ef29f4ce90b724f9103900a"
+  },
+  {
+   "arquivo": "planilhas/defasagem-projeto-lei__defasagem.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 10070,
+   "sha256": "2488cce2e70a0dd60782090b55116acd417a5d7d24b0cf45758115f8a3fcff3d"
+  },
+  {
+   "arquivo": "planilhas/detalhe-votacoes-sem-objeto__votacoes.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 74089,
+   "sha256": "98631a17346c8d999eaa7b846f2d18c95578875d1d87c726cc6b4dfca5e2ffbf"
+  },
+  {
+   "arquivo": "planilhas/divergencia-calendario-eleitoral__DIVERGENCIA_ENTRE_AS_DUAS_FONTES_OFICIAIS.UNIAO.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 373,
+   "sha256": "a5c7755461eadfb6a0ddd98e75c20db852e6495cc9cac8841b65c734ed7063da"
+  },
+  {
+   "arquivo": "planilhas/divergencia-calendario-eleitoral__fonte_1_cronologia_TSE.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 373,
+   "sha256": "a5c7755461eadfb6a0ddd98e75c20db852e6495cc9cac8841b65c734ed7063da"
+  },
+  {
+   "arquivo": "planilhas/divergencia-calendario-eleitoral__fonte_2_resultados_TSE.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 292,
+   "sha256": "9fac18f65afc36ac601851cadf771338b6d1759b760eb41f68c982a1a2a7071e"
+  },
+  {
+   "arquivo": "planilhas/divergencia-calendario-eleitoral__fonte_3_lista_que_eu_usei_de_memoria.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 220,
+   "sha256": "1d9f015b9b32421fb42574033ffa8e8f11e6189678edb0bcae4f413ffc7f59fa"
+  },
+  {
+   "arquivo": "planilhas/divergencia-calendario-eleitoral__valores.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 504,
+   "sha256": "03ee83ff352b20680703dc75ba8845b45dc2760b18f01ff95a6db437225be7cf"
+  },
+  {
+   "arquivo": "planilhas/doutrina-partidaria__por_partido.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 25202,
+   "sha256": "411619b6044c55f2368404b800311ad7b037be8332fa87dd4480946df8a8be37"
+  },
+  {
+   "arquivo": "planilhas/doutrina-partidaria__testes.direitos_escala_2018.partidos_usados.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 229,
+   "sha256": "d370e9b02a0057bd62e5d8a5b68e1567f2dc105c74fe69c7867d8834da1b2138"
+  },
+  {
+   "arquivo": "planilhas/doutrina-partidaria__testes.direitos_escala_2022.partidos_usados.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 240,
+   "sha256": "34fa07944b5f040ccdd5a15f583538a2cc7c6062a36449c0b98d8eda464e1c11"
+  },
+  {
+   "arquivo": "planilhas/doutrina-partidaria__testes.indice_ordem_menos_direitos_escala_2018.partidos_usados.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 229,
+   "sha256": "d370e9b02a0057bd62e5d8a5b68e1567f2dc105c74fe69c7867d8834da1b2138"
+  },
+  {
+   "arquivo": "planilhas/doutrina-partidaria__testes.indice_ordem_menos_direitos_escala_2022.partidos_usados.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 240,
+   "sha256": "34fa07944b5f040ccdd5a15f583538a2cc7c6062a36449c0b98d8eda464e1c11"
+  },
+  {
+   "arquivo": "planilhas/doutrina-partidaria__testes.ordem_escala_2018.partidos_usados.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 229,
+   "sha256": "d370e9b02a0057bd62e5d8a5b68e1567f2dc105c74fe69c7867d8834da1b2138"
+  },
+  {
+   "arquivo": "planilhas/doutrina-partidaria__testes.ordem_escala_2022.partidos_usados.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 240,
+   "sha256": "34fa07944b5f040ccdd5a15f583538a2cc7c6062a36449c0b98d8eda464e1c11"
+  },
+  {
+   "arquivo": "planilhas/doutrina-partidaria__valores.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 3000,
+   "sha256": "89892cc7ff120e4ad04cc9e64c30b86654c078588c86b25be74163367490c444"
+  },
+  {
+   "arquivo": "planilhas/emendas-e-lsn__lei_de_seguranca_nacional.achadas_SO_por_numero_e_nao_por_ementa.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 281,
+   "sha256": "95e63d4502ee6c25e4f615e6d808488b2f1435b0b5664a9543c7a5433194fbf6"
+  },
+  {
+   "arquivo": "planilhas/emendas-e-lsn__lei_de_seguranca_nacional.normas_que_DEFINEM_crime_contra_a_seguranca_nacional.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 1378,
+   "sha256": "19c5e86cd3896336133965631355ccd157eb71392ee41b9959fada57398e4276"
+  },
+  {
+   "arquivo": "planilhas/emendas-e-lsn__valores.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 825,
+   "sha256": "640d090b21fbeb5e8953715d09af64603cdbaafcff71eee421d3d6fc570d14e4"
+  },
+  {
+   "arquivo": "planilhas/engolidas-pela-elipse__normas.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 2748,
+   "sha256": "68c82f6825bea0fd8a922951058127fe7282ce9a094da5d14c694b75ec69ab39"
+  },
+  {
+   "arquivo": "planilhas/engolidas-pela-elipse__valores.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 130,
+   "sha256": "91d98bb50de1555d3286256488694e9a85c97cd4f711349f8711f09999e1933c"
+  },
+  {
+   "arquivo": "planilhas/faltam-na-fonte-do-congresso__normas.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 9561,
+   "sha256": "0dc8d8b01f45f1e4465670e476a585a1215052fc29aefc4dcf405b0891c9994e"
+  },
+  {
+   "arquivo": "planilhas/faltam-na-fonte-do-congresso__valores.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 130,
+   "sha256": "e230151c89cc3e6a38522c04eb5dcde324c51ea22a161c28b67aceca5ca10b2a"
+  },
+  {
+   "arquivo": "planilhas/governadores-e-homicidios__governadores.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 54592,
+   "sha256": "76d3bc0e2158bae49d0b3c27311e1eae07938d06c0052b0144b25117626ee868"
+  },
+  {
+   "arquivo": "planilhas/governadores-e-homicidios__valores.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 952,
+   "sha256": "62f932820851d4a9f89e81737d85b33d76fcd190842b4385af69a6c949df615f"
+  },
+  {
+   "arquivo": "planilhas/governadores-indiretos-dhbb__fora_da_lista.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 558,
+   "sha256": "2ab1ad0498a021e61f29c196ff03e4f15207f7f0dfc8f86cb4dcd797917e0bd4"
+  },
+  {
+   "arquivo": "planilhas/governadores-indiretos-dhbb__governadores.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 7152,
+   "sha256": "72e15a391d388e46adbe742127bf3f625a45e5f7672b89fe4595d10461829468"
+  },
+  {
+   "arquivo": "planilhas/governadores-indiretos-dhbb__nomeados.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 3998,
+   "sha256": "d0b3331509dd8add2a359eb3798445b9adb1aacb500df5edfcc81123d25df02a"
+  },
+  {
+   "arquivo": "planilhas/governadores-indiretos-dhbb__valores.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 1344,
+   "sha256": "5c5e3e29cf6366077328e7ef30f091973125220d8e2a3fe5cee3f25ee344bb83"
+  },
+  {
+   "arquivo": "planilhas/ideologia-partidos-especialistas__cortes.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 140,
+   "sha256": "227d8e086814b6d3d72033c4495687cb1c602da8d5a6dcb2d30342f42e5b0bae"
+  },
+  {
+   "arquivo": "planilhas/ideologia-partidos-especialistas__divergencias_entre_as_fontes.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 89,
+   "sha256": "ebe32470b1a246446c8c6fbc7430d6f15fb14d413571d0c6fbe877782951d650"
+  },
+  {
+   "arquivo": "planilhas/ideologia-partidos-especialistas__valores.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 16706,
+   "sha256": "e1b39ce6ef613828a6cc15c69b5bde18dde1d14d2099ca2268a343f87675de1a"
+  },
+  {
+   "arquivo": "planilhas/ideologia-x-penal__A_voto_nominal.por_partido.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 1996,
+   "sha256": "f84a1e5a6323b1dc726ec87b55ea56f6b06712b9baa2a18ddaa1a0fd6464ccb4"
+  },
+  {
+   "arquivo": "planilhas/ideologia-x-penal__B_autoria.normas.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 499,
+   "sha256": "6426168b07fe3c2620edeb2eebc3ba1c164c17adc7c3ebaa9c92f54b6a7518c1"
+  },
+  {
+   "arquivo": "planilhas/ideologia-x-penal__C_governadores.mandatos.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 11977,
+   "sha256": "cc0a9aff9b3443516671d6950f8a68cee5ececcf8f809333785b8bbb6311cf2d"
+  },
+  {
+   "arquivo": "planilhas/ideologia-x-penal__valores.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 6587,
+   "sha256": "6faf65bbdf81e379afc1b8c65932b518dce21dd59a99f55a8198e7f5d675aec8"
+  },
+  {
+   "arquivo": "planilhas/incerteza-da-associacao__especificacoes.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 323,
+   "sha256": "f8a4a80ad98b13602f08cf7435b350c4b54cae4c12c068d341fe9d0ad5bcdc38"
+  },
+  {
+   "arquivo": "planilhas/incerteza-da-associacao__valores.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 318,
+   "sha256": "07c06388a3798c1f5a65426d22a0281aef3d567c9e336a49d7e54863a86b8025"
+  },
+  {
+   "arquivo": "planilhas/materia-das-normas__anos_eleitorais_usados.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 382,
+   "sha256": "e97d1a6e49427ed70fd1ad4ddbaad01ee3dd73376a6d8f2cd5f395f91b8b60a7"
+  },
+  {
+   "arquivo": "planilhas/materia-das-normas__titulos_lidos.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 1177,
+   "sha256": "27315b826d0a1a500a794813ca35205e27e12fe034a253a2159a946733ef8661"
+  },
+  {
+   "arquivo": "planilhas/materia-das-normas__valores.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 9891,
+   "sha256": "80e4952d0a5515a0c9a96269dc85b0d35c63e3299391f8a92c21a64d869fbbdb"
+  },
+  {
+   "arquivo": "planilhas/mvi-serie-historica__valores.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 8165,
+   "sha256": "e1561426ef315145b7e412656fe1de06a6c4865d6f3d5b661c455a299143dc7d"
+  },
+  {
+   "arquivo": "planilhas/nao-achadas-no-planalto__valores.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 80,
+   "sha256": "a02765ad666d65584478f2fd2d0fa2575a1d0b7d573751f26f263be89be9f207"
+  },
+  {
+   "arquivo": "planilhas/notas-sinesp-jc__por_unidade_da_federacao.CEARÁ.declaracoes.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 1359,
+   "sha256": "904a243d0334d37d3e64edc613f49c1b7967c9a6d9b5b5a0e159cfedd356d117"
+  },
+  {
+   "arquivo": "planilhas/notas-sinesp-jc__por_unidade_da_federacao.GOIÁS.declaracoes.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 1728,
+   "sha256": "93e938ea69f09198e5d8863746e178a3680e7ec14f7f94706c87ce144303fef7"
+  },
+  {
+   "arquivo": "planilhas/notas-sinesp-jc__por_unidade_da_federacao.MATO GROSSO.declaracoes.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 1068,
+   "sha256": "3a3406a813d65240ce8755f30035705752a67e7be9f1240a56cffe9816a0b95b"
+  },
+  {
+   "arquivo": "planilhas/notas-sinesp-jc__por_unidade_da_federacao.MINAS GERAIS.declaracoes.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 894,
+   "sha256": "84add8f0d1ec89391d8427166d81d512cd8cdad86539b30362bb1c26e117d117"
+  },
+  {
+   "arquivo": "planilhas/notas-sinesp-jc__por_unidade_da_federacao.PARANÁ.declaracoes.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 729,
+   "sha256": "976244bb04a9b04e9ce866eb7840384ca4728fb022e0e51b9ea210444aa68bd7"
+  },
+  {
+   "arquivo": "planilhas/notas-sinesp-jc__por_unidade_da_federacao.PERNAMBUCO.declaracoes.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 142,
+   "sha256": "f7a247b846a0195eda9e3254a612c47de3ede2c00ae6c78984a1a7c6e927bbfe"
+  },
+  {
+   "arquivo": "planilhas/notas-sinesp-jc__por_unidade_da_federacao.PIAUÍ.declaracoes.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 330,
+   "sha256": "9259d4dc8c8340d4fc625bb823f6d5e9d79613a7acd71ecb233a0a1083a40491"
+  },
+  {
+   "arquivo": "planilhas/notas-sinesp-jc__por_unidade_da_federacao.RIO DE JANEIRO.declaracoes.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 124,
+   "sha256": "37540e409b7e2c4dfacd02c13cb261055d85e1726d9edd6c682a8ffa4af27b38"
+  },
+  {
+   "arquivo": "planilhas/notas-sinesp-jc__por_unidade_da_federacao.RONDÔNIA.declaracoes.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 84,
+   "sha256": "a53c82356bad9098cea250a5e6516b4e970a70951570053f2dbfa8fc3960a06b"
+  },
+  {
+   "arquivo": "planilhas/notas-sinesp-jc__por_unidade_da_federacao.SÃO PAULO.declaracoes.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 487,
+   "sha256": "52f3877f3aa01f2e8d68b15b8d3ca934fdc1d5943db202e0e08addc9c11424d2"
+  },
+  {
+   "arquivo": "planilhas/notas-sinesp-jc__valores.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 2356,
+   "sha256": "faec940272d3e31175686db09c9ea3f2bfbe88a8c473f1dcc6b2a197d1eaa03c"
+  },
+  {
+   "arquivo": "planilhas/partido-na-epoca__valores.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 54085,
+   "sha256": "b38c6e7f22e6f67eaf908cf2b17200661262d0b3e324edcc821ecec59cc6a34b"
+  },
+  {
+   "arquivo": "planilhas/partido-senador-na-epoca__valores.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 23748,
+   "sha256": "4a46650013a149b43f0c48971842b00483fb3a2f6aebcdec4ade1fb18f58828b"
+  },
+  {
+   "arquivo": "planilhas/pendencias-restantes__A_poder_do_teste_da_agenda.resultados.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 143,
+   "sha256": "06608f0ee637288108f4777a949a1f09272811205cb9e7f425d6ca39e31da374"
+  },
+  {
+   "arquivo": "planilhas/pendencias-restantes__C_teto_efetivo.detalhe.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 1958,
+   "sha256": "78641186cfed7b615641ba01e1daeb77eaeecc9b01f17ab487595ef0be33e87a"
+  },
+  {
+   "arquivo": "planilhas/pendencias-restantes__D_objeto_das_votacoes.por_objeto.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 378,
+   "sha256": "8504533c57b5fa698a152b71a2fa961d3fadf6956bea485931f00ed95e8863ba"
+  },
+  {
+   "arquivo": "planilhas/pendencias-restantes__valores.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 3428,
+   "sha256": "1b152fb958093acd81917c67b9c5e96af01f963608bf6d7fea3d4f902e8a80aa"
+  },
+  {
+   "arquivo": "planilhas/percepcao-e-serie__B_percepcao_de_inseguranca.comparacao_2017_contra_2022.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 385,
+   "sha256": "b8787182060af93f919a8bc33e9f57827765540fa7482ca0ed91dfa7f6131d91"
+  },
+  {
+   "arquivo": "planilhas/percepcao-e-serie__B_percepcao_de_inseguranca.estudos_lidos.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 1817,
+   "sha256": "81c9ac296f382e7287aa25c2b3615fad50c29b684ae37be2638ef48eabccf77c"
+  },
+  {
+   "arquivo": "planilhas/percepcao-e-serie__B_percepcao_de_inseguranca.medidas_de_2022_sem_par_em_2017.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 388,
+   "sha256": "7557b521d36a22c1af2d490880a0f1b607981e0c922b0d8c8bd9ce7af0e113b7"
+  },
+  {
+   "arquivo": "planilhas/percepcao-e-serie__valores.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 4071,
+   "sha256": "5b2c002a2c3718bcdd4709003361c8fc9d0c9c15bb8419e8247ba3600199df67"
+  },
+  {
+   "arquivo": "planilhas/periodicos-classificacao-relatorio__valores.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 2593,
+   "sha256": "213587949682f7e4bd3bf6ed976b04401f5e2f6f7603ba509d2fd21eb77aad0e"
+  },
+  {
+   "arquivo": "planilhas/poder-do-teste__valores.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 390,
+   "sha256": "c095a6506c30d7ccaf90c82f2d0606723f75965adb20bebd94ad562fb4ed0af5"
+  },
+  {
+   "arquivo": "planilhas/populacao-uf__valores.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 35230,
+   "sha256": "01c357dd215a6dc327768a2df58501c908617e7b69a926a075641cb238763f04"
+  },
+  {
+   "arquivo": "planilhas/posicao-do-individuo__B_recorte_estreito.por_titulo.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 192,
+   "sha256": "b70df3761af2416ba7e7f3c5fc2d671f8a8c7a9dfe424fa1fcac553f37b2deb4"
+  },
+  {
+   "arquivo": "planilhas/posicao-do-individuo__valores.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 2945,
+   "sha256": "ac00feab0bff9d35dcbb5b873604450a17d7dd727b71406ae316fa015dceca0b"
+  },
+  {
+   "arquivo": "planilhas/presidentes-mandatos__periodos.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 8153,
+   "sha256": "8348aee5a81f99e3a300db61aa1c7a4bbc808946f405a21fb104bac82616cc52"
+  },
+  {
+   "arquivo": "planilhas/presidentes-mandatos__valores.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 707,
+   "sha256": "d1e471110598b5a7d6cb6f61cb5a03807990a1a044d85eba1f0fa8fe271cf005"
+  },
+  {
+   "arquivo": "planilhas/presidentes-partido__valores.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 4832,
+   "sha256": "beeaf311eaca6046e8864ef57e25b760407ea32307ff82da7e55c230e76314eb"
+  },
+  {
+   "arquivo": "planilhas/ranking-e-mapa-por-uf__ranking_pela_taxa_no_ultimo_ano.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 865,
+   "sha256": "06f70d15c304b4504260c049e66a2b234e5656b6bde4f010a0087b42552f58f6"
+  },
+  {
+   "arquivo": "planilhas/ranking-e-mapa-por-uf__valores.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 137110,
+   "sha256": "85e39d991def8e0545cf5999759820a8bbb0f98819a70f88911a46c35413b7ac"
+  },
+  {
+   "arquivo": "planilhas/rankings-e-mapa__R1_partidos_por_sim_no_texto_base_que_agrava.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 278,
+   "sha256": "5ee56fee2e6c1648a478981e5e52c45a87cd80eda7fb57e61fcda56199c33d63"
+  },
+  {
+   "arquivo": "planilhas/rankings-e-mapa__R2_partidos_por_autoria.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 249,
+   "sha256": "ff8420b9280ce99d6c0c9c3f1ef7424c4bf3c529a037de4f232081256bd5e46a"
+  },
+  {
+   "arquivo": "planilhas/rankings-e-mapa__R3_presidentes_por_normas_por_ano.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 1237,
+   "sha256": "0ae1b706e0837c5e4e3091617d8909e945a81833eadf44632c0cd8018d4083f2"
+  },
+  {
+   "arquivo": "planilhas/rankings-e-mapa__valores.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 5241,
+   "sha256": "f3df5375d50d5e80f699508e50cf81c63e191a47a05cb3c5c1865abbff34cb21"
+  },
+  {
+   "arquivo": "planilhas/regimes-e-pleitos__regimes.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 884,
+   "sha256": "d1b2c975ee889a7976ae91f416f8702ae6a7863202fb736426e3bc26e4eacb6f"
+  },
+  {
+   "arquivo": "planilhas/regimes-e-pleitos__valores.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 48,
+   "sha256": "88be3c828cabc5798face3b7455a5f3a06cb37b307853dfecf1b4bef554696f1"
+  },
+  {
+   "arquivo": "planilhas/rol-como-segunda-unidade__artigos_do_rol_invisiveis_para_a_regua.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 86,
+   "sha256": "9be8c14bcfff7e36efd36e40c5de5650821fec76a90ef89cf616cc066240e05a"
+  },
+  {
+   "arquivo": "planilhas/rol-como-segunda-unidade__normas_que_tocaram_o_rol.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 414,
+   "sha256": "79bfbbfe30f44e8c1849facbc37093792d28844acb0c73f9797ac447490e4a75"
+  },
+  {
+   "arquivo": "planilhas/rol-como-segunda-unidade__parametros_medidos.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 473,
+   "sha256": "3fcb1ad832e9eda7bc5c1a3380898e32e90a6d8187e8e54c776311cfbc96ca29"
+  },
+  {
+   "arquivo": "planilhas/rol-como-segunda-unidade__sobreposicao_com_a_regua_do_texto.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 692,
+   "sha256": "523ac7f43b7cb92af282e0e205524b18026d2a2c1c2db54cfca83879994eec73"
+  },
+  {
+   "arquivo": "planilhas/rol-como-segunda-unidade__valores.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 530,
+   "sha256": "514126e9455400102703603f7adfe36c8291bc51683f59673fa73289fd9d600a"
+  },
+  {
+   "arquivo": "planilhas/rol-como-segunda-unidade__vedacoes.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 209,
+   "sha256": "aef354779e06c6462afdf034bddc8e16aee7e1e4481914ed3796cf462cb7072d"
+  },
+  {
+   "arquivo": "planilhas/rol-hediondos__deixado_de_fora.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 530,
+   "sha256": "5e794bede180f6c8813351bea59a03ff5db690aacb8049d1fc64bdac625de0d9"
+  },
+  {
+   "arquivo": "planilhas/rol-hediondos__detalhe.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 974,
+   "sha256": "57848e07e9284e2b00ef67571da2062c753f5b243c713039e35687f0b99e0a33"
+  },
+  {
+   "arquivo": "planilhas/rol-hediondos__valores.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 828,
+   "sha256": "e7a529f807b045985aaf66a6959b58eadc4daadf51bccebbdb59bc8941aab19a"
+  },
+  {
+   "arquivo": "planilhas/senado-composicao-por-legislatura__valores.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 410114,
+   "sha256": "b5da8eab741a3c7dbbb3035ff662b86557c0b0335bb613022e392e65b8120b29"
+  },
+  {
+   "arquivo": "planilhas/serie-longa-violencia__testes.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 1600,
+   "sha256": "1f6a1ee595adf464b959896c54e6d015fc944ed80244c20af84264c502f679af"
+  },
+  {
+   "arquivo": "planilhas/serie-longa-violencia__valores.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 20212,
+   "sha256": "29773de1b6483216e01dc49af816a26368b7499096bdb65253428e4b2a0a1aa0"
+  },
+  {
+   "arquivo": "planilhas/severidade-parte-geral__institutos.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 5297,
+   "sha256": "32035180e9f0c95682dc2c1c1ffbbbbda50d3c7a87e18dc5f33852b1d5e03e3d"
+  },
+  {
+   "arquivo": "planilhas/severidade-parte-geral__valores.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 869,
+   "sha256": "58b335833fa499b76c7dc4d50bff59a3478b4098a96de8d9e2ba8235b082e2ee"
+  },
+  {
+   "arquivo": "planilhas/sonda-bancovde-anos-anteriores__anos_de_controle.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 280,
+   "sha256": "c7c7a109d6975435fa651f9527faf868fbe9ebaa5532a78313cdf2c8b55b5c9c"
+  },
+  {
+   "arquivo": "planilhas/sonda-bancovde-anos-anteriores__anos_testados.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 728,
+   "sha256": "0637081d8efd6ee6f98e76319dddc800d1ebf462687da6ee9fea5f3aeffd5302"
+  },
+  {
+   "arquivo": "planilhas/sonda-bancovde-anos-anteriores__valores.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 598,
+   "sha256": "bbc5dad5937e8c89fcd9d418d8d48d6eabdceceb64552464266cdc81cb523ca3"
+  },
+  {
+   "arquivo": "planilhas/sonda-das-fontes-pendentes__sondas.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 2534,
+   "sha256": "1a194b09c0fe11eb545b905b1259f32192a68ed3a9211e226c738a6212ec150f"
+  },
+  {
+   "arquivo": "planilhas/sonda-das-fontes-pendentes__valores.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 336,
+   "sha256": "d576d403ee3a17fd1358eebd7f57930474661b971f47470aafb3d34673c18ee0"
+  },
+  {
+   "arquivo": "planilhas/sonda-sinesp-jc__resultados.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 2689,
+   "sha256": "2aed31c34ec8b27040aa66208cd0212ee42d74d062cedc71a5129ec63132784f"
+  },
+  {
+   "arquivo": "planilhas/sonda-sinesp-jc__valores.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 303,
+   "sha256": "28d261a6dc4ac4efb6ba7a00da93e2105f0f9519686d6c8c4a5457cfca56227a"
+  },
+  {
+   "arquivo": "planilhas/territorio-e-eleitorado__correlacoes.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 1966,
+   "sha256": "e94a5e57e3b34403e0a03a8f31ad13c88abfcb7cbb55340680453082cee5e467"
+  },
+  {
+   "arquivo": "planilhas/territorio-e-eleitorado__valores.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 2948,
+   "sha256": "bad07e2224c9169e72119213acd69f0657d3c148e611048b6b1a7741712754cf"
+  },
+  {
+   "arquivo": "planilhas/teste-ciclo-eleitoral-universo-115__testes.PRINCIPAL_ anos completos, 1945 a 2025.GOVERNADOR direto.anos_do_grupo.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 184,
+   "sha256": "bc36c9c6c8b925650dafc924b35802dad9c5afeec68bc2b71632a7bf1cb699c1"
+  },
+  {
+   "arquivo": "planilhas/teste-ciclo-eleitoral-universo-115__testes.PRINCIPAL_ anos completos, 1945 a 2025.LEGISLATIVA FEDERAL direta.anos_do_grupo.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 202,
+   "sha256": "6a0fab4768755bd5648dfcf5a754bbd113fcf8e2a00c02e2e4c483e764eefa77"
+  },
+  {
+   "arquivo": "planilhas/teste-ciclo-eleitoral-universo-115__testes.PRINCIPAL_ anos completos, 1945 a 2025.MUNICIPAL ISOLADA, sem presidencial.anos_do_grupo.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 193,
+   "sha256": "da62d9ec0f3fbc64eaa136d3bf31b2953816a80d433444366de0e1c045ff555a"
+  },
+  {
+   "arquivo": "planilhas/teste-ciclo-eleitoral-universo-115__testes.PRINCIPAL_ anos completos, 1945 a 2025.MUNICIPAL, qualquer.anos_do_grupo.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 256,
+   "sha256": "cc8427dbfa5da3e19da6aed69df9f9d9ff6b1e6c2d4a70daa034764818f057d5"
+  },
+  {
+   "arquivo": "planilhas/teste-ciclo-eleitoral-universo-115__testes.SENSIBILIDADE_ com 2026 incompleto, contagem crua.GOVERNADOR direto.anos_do_grupo.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 193,
+   "sha256": "28b2674e53b8d601dd11d5d7e54ff55913a7e4b18e1e1d8da942d799b6c4b1bd"
+  },
+  {
+   "arquivo": "planilhas/teste-ciclo-eleitoral-universo-115__testes.SENSIBILIDADE_ com 2026 incompleto, contagem crua.LEG_065659ae0e.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 211,
+   "sha256": "a79eb870568aad09f5d38b2f02ffe4e262b1a74f7d1ec6085d51e0afd8dae88c"
+  },
+  {
+   "arquivo": "planilhas/teste-ciclo-eleitoral-universo-115__testes.SENSIBILIDADE_ com 2026 incompleto, contagem crua.MUNICIPAL, qualquer.anos_do_grupo.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 256,
+   "sha256": "cc8427dbfa5da3e19da6aed69df9f9d9ff6b1e6c2d4a70daa034764818f057d5"
+  },
+  {
+   "arquivo": "planilhas/teste-ciclo-eleitoral-universo-115__testes.SENSIBILIDADE_ com 2026 incompleto, contagem crua.MUN_7506fa796d.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 193,
+   "sha256": "da62d9ec0f3fbc64eaa136d3bf31b2953816a80d433444366de0e1c045ff555a"
+  },
+  {
+   "arquivo": "planilhas/teste-ciclo-eleitoral-universo-115__valores.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 47231,
+   "sha256": "ef51e3c4947d51da3a76afeee710f94bae1a24bef1c9d48ea7485c5b9092f30e"
+  },
+  {
+   "arquivo": "planilhas/teste-ciclo-eleitoral__testes.serie inteira, sem o ano em curso.GOVERNADOR direto.anos_do_grupo.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 184,
+   "sha256": "bc36c9c6c8b925650dafc924b35802dad9c5afeec68bc2b71632a7bf1cb699c1"
+  },
+  {
+   "arquivo": "planilhas/teste-ciclo-eleitoral__testes.serie inteira, sem o ano em curso.LEGISLATIVA FEDERAL direta.anos_do_grupo.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 202,
+   "sha256": "6a0fab4768755bd5648dfcf5a754bbd113fcf8e2a00c02e2e4c483e764eefa77"
+  },
+  {
+   "arquivo": "planilhas/teste-ciclo-eleitoral__testes.serie inteira, sem o ano em curso.MUNICIPAL ISOLADA, sem presidencial.anos_do_grupo.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 193,
+   "sha256": "da62d9ec0f3fbc64eaa136d3bf31b2953816a80d433444366de0e1c045ff555a"
+  },
+  {
+   "arquivo": "planilhas/teste-ciclo-eleitoral__testes.serie inteira, sem o ano em curso.MUNICIPAL, qualquer.anos_do_grupo.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 256,
+   "sha256": "cc8427dbfa5da3e19da6aed69df9f9d9ff6b1e6c2d4a70daa034764818f057d5"
+  },
+  {
+   "arquivo": "planilhas/teste-ciclo-eleitoral__valores.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 34890,
+   "sha256": "30b3ef270c41ef95e99a28a9c614f6993bbc703d67ae0b88df277c1194c60480"
+  },
+  {
+   "arquivo": "planilhas/teste-origem-x-direcao__valores.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 660,
+   "sha256": "3619fee339a90f969b7cb550c66eb84e364456ad17958b473a9c460e0ab7e8e4"
+  },
+  {
+   "arquivo": "planilhas/teste-severidade-ciclo-eleitoral__testes.serie inteira, sem o ano em curso.GOVERNADOR direto.anos_do_grupo.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 184,
+   "sha256": "bc36c9c6c8b925650dafc924b35802dad9c5afeec68bc2b71632a7bf1cb699c1"
+  },
+  {
+   "arquivo": "planilhas/teste-severidade-ciclo-eleitoral__testes.serie inteira, sem o ano em curso.LEGISLATIVA FEDERAL direta.anos_do_grupo.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 202,
+   "sha256": "6a0fab4768755bd5648dfcf5a754bbd113fcf8e2a00c02e2e4c483e764eefa77"
+  },
+  {
+   "arquivo": "planilhas/teste-severidade-ciclo-eleitoral__testes.serie inteira, sem o ano em curso.MUNICIPAL ISOLADA, sem presidencial.anos_do_grupo.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 193,
+   "sha256": "da62d9ec0f3fbc64eaa136d3bf31b2953816a80d433444366de0e1c045ff555a"
+  },
+  {
+   "arquivo": "planilhas/teste-severidade-ciclo-eleitoral__testes.serie inteira, sem o ano em curso.MUNICIPAL, qualquer.anos_do_grupo.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 256,
+   "sha256": "cc8427dbfa5da3e19da6aed69df9f9d9ff6b1e6c2d4a70daa034764818f057d5"
+  },
+  {
+   "arquivo": "planilhas/teste-severidade-ciclo-eleitoral__valores.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 26470,
+   "sha256": "a26b206d44b5d51f12e84c8a31b99ae83f310263e2d7a1ff84785be7b0c13009"
+  },
+  {
+   "arquivo": "planilhas/universo-e-regimes.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 12893,
+   "sha256": "f275059b3c36c6ecb573a8f60bfa661567a1ed9a3964ddaabcc3dc0705562538"
+  },
+  {
+   "arquivo": "planilhas/universo-e-regimes__por_regime.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 348,
+   "sha256": "d2f5a588a912282688a9647520fc0906db56e988b7df34b9c9188562604dd318"
+  },
+  {
+   "arquivo": "planilhas/universo-e-regimes__valores.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 1241,
+   "sha256": "44bb9656c5f674a4166e9a125d0d1a2bbe52c833abc82e9f8c39a8e2d6bf99d5"
+  },
+  {
+   "arquivo": "planilhas/validade-criterio-regua__P5_conferencia_item_a_item.detalhe.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 1989,
+   "sha256": "7cc1edfcc77b773fd1f1c00865a6d223a101714dbdaecdd62fa730a9b629925a"
+  },
+  {
+   "arquivo": "planilhas/validade-criterio-regua__valores.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 1811,
+   "sha256": "baa73397ab1dadf4acb4d9c8e35790124f20b1d5a0dc521edf7c6f702a17e72a"
+  },
+  {
+   "arquivo": "planilhas/voto-eleitor__etapa_3_teste.54.partidos.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 415,
+   "sha256": "3f28aef8c7765ab16e1870d947f10d8f3e62748465509142e824996861df650d"
+  },
+  {
+   "arquivo": "planilhas/voto-eleitor__etapa_3_teste.56.partidos.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 561,
+   "sha256": "5e94113db255d9d31f09cffb0e7190552151ce9e207e15cdc24ce68bd6ba8036"
+  },
+  {
+   "arquivo": "planilhas/voto-eleitor__valores.csv",
+   "sustenta": "a mesma medida, em formato de planilha",
+   "fonte": "proprio",
+   "bytes": 17187,
+   "sha256": "ac1fc3c5924f8a31ce36d0f5f7ae00b7c5144121737df3f67384d3d69db48837"
+  }
+ ],
+ "planilhas_geradas": [
+  "AUDITORIA-DO-TEXTO-DAS-NORMAS__normas.csv",
+  "AUDITORIA-DO-TEXTO-DAS-NORMAS__valores.csv",
+  "agentes-politicos__normas.csv",
+  "agentes-politicos__valores.csv",
+  "anuario-crimes-por-uf__2007.lidos.csv",
+  "anuario-crimes-por-uf__2008.lidos.csv",
+  "anuario-crimes-por-uf__2009.lidos.csv",
+  "anuario-crimes-por-uf__2010.lidos.csv",
+  "anuario-crimes-por-uf__2011.lidos.csv",
+  "anuario-crimes-por-uf__2012.lidos.csv",
+  "anuario-crimes-por-uf__2013.lidos.csv",
+  "anuario-crimes-por-uf__2014.lidos.csv",
+  "anuario-crimes-por-uf__2015.lidos.csv",
+  "anuario-crimes-por-uf__2016.lidos.csv",
+  "anuario-crimes-por-uf__2017.lidos.csv",
+  "anuario-crimes-por-uf__2018.lidos.csv",
+  "anuario-crimes-por-uf__2019.lidos.csv",
+  "anuario-crimes-por-uf__2020.lidos.csv",
+  "anuario-crimes-por-uf__2021.lidos.csv",
+  "anuario-crimes-por-uf__2022.lidos.csv",
+  "anuario-crimes-por-uf__2023.lidos.csv",
+  "anuario-crimes-por-uf__2024.lidos.csv",
+  "anuario-crimes-por-uf__2025.lidos.csv",
+  "anuario-crimes-por-uf__2026.lidos.csv",
+  "anuario-crimes-por-uf___excluidos_por_serem_copia_de_outra_edicao.csv",
+  "anuario-crimes-por-uf__valores.csv",
+  "autoria-e-bancada__valores.csv",
+  "bancadas-e-autoria__divergencias_ficha_x_epoca.csv",
+  "bancadas-e-autoria__legislaturas.csv",
+  "bancadas-e-autoria__taxa_autoria_por_100.csv",
+  "bancadas-e-autoria__valores.csv",
+  "calendario-eleitoral-1940-2026.csv",
+  "camara-legislaturas__lista.csv",
+  "camara-partidos-historicos__partidos.csv",
+  "camara-partidos-historicos__por_legislatura.49.csv",
+  "camara-partidos-historicos__por_legislatura.52.csv",
+  "camara-partidos-historicos__por_legislatura.53.csv",
+  "camara-partidos-historicos__por_legislatura.54.csv",
+  "camara-partidos-historicos__por_legislatura.55.csv",
+  "camara-partidos-historicos__por_legislatura.56.csv",
+  "camara-partidos-historicos__por_legislatura.57.csv",
+  "camara-partidos-historicos__valores.csv",
+  "camara-partidos__lista.csv",
+  "causas-de-aumento__epocas.1940.subestimacao_por_artigo.csv",
+  "causas-de-aumento__epocas.hoje.subestimacao_por_artigo.csv",
+  "causas-de-aumento__valores.csv",
+  "codigo-penal-1940-retificacao__documentos.csv",
+  "codigo-penal-1940-retificacao__valores.csv",
+  "codigo-penal-1940-texto-original__valores.csv",
+  "comparacao-municipal-x-nacional__lista.csv",
+  "conferencia-governadores-1947-1966__linhas.csv",
+  "cp-dispositivos-com-artigo.csv",
+  "cp-eventos-de-severidade.csv",
+  "cp-normas-alteradoras.csv",
+  "cp-sancao-veto-publicacao.csv",
+  "cp-serie-anual.csv",
+  "cp-severidade-por-artigo.csv",
+  "cruzamento-violencia-e-severidade__valores.csv",
+  "defasagem-projeto-lei__defasagem.csv",
+  "detalhe-votacoes-sem-objeto__votacoes.csv",
+  "divergencia-calendario-eleitoral__DIVERGENCIA_ENTRE_AS_DUAS_FONTES_OFICIAIS.UNIAO.csv",
+  "divergencia-calendario-eleitoral__fonte_1_cronologia_TSE.csv",
+  "divergencia-calendario-eleitoral__fonte_2_resultados_TSE.csv",
+  "divergencia-calendario-eleitoral__fonte_3_lista_que_eu_usei_de_memoria.csv",
+  "divergencia-calendario-eleitoral__valores.csv",
+  "doutrina-partidaria__por_partido.csv",
+  "doutrina-partidaria__testes.direitos_escala_2018.partidos_usados.csv",
+  "doutrina-partidaria__testes.direitos_escala_2022.partidos_usados.csv",
+  "doutrina-partidaria__testes.indice_ordem_menos_direitos_escala_2018.partidos_usados.csv",
+  "doutrina-partidaria__testes.indice_ordem_menos_direitos_escala_2022.partidos_usados.csv",
+  "doutrina-partidaria__testes.ordem_escala_2018.partidos_usados.csv",
+  "doutrina-partidaria__testes.ordem_escala_2022.partidos_usados.csv",
+  "doutrina-partidaria__valores.csv",
+  "emendas-e-lsn__lei_de_seguranca_nacional.achadas_SO_por_numero_e_nao_por_ementa.csv",
+  "emendas-e-lsn__lei_de_seguranca_nacional.normas_que_DEFINEM_crime_contra_a_seguranca_nacional.csv",
+  "emendas-e-lsn__valores.csv",
+  "engolidas-pela-elipse__normas.csv",
+  "engolidas-pela-elipse__valores.csv",
+  "faltam-na-fonte-do-congresso__normas.csv",
+  "faltam-na-fonte-do-congresso__valores.csv",
+  "governadores-e-homicidios__governadores.csv",
+  "governadores-e-homicidios__valores.csv",
+  "governadores-indiretos-dhbb__fora_da_lista.csv",
+  "governadores-indiretos-dhbb__governadores.csv",
+  "governadores-indiretos-dhbb__nomeados.csv",
+  "governadores-indiretos-dhbb__valores.csv",
+  "ideologia-partidos-especialistas__cortes.csv",
+  "ideologia-partidos-especialistas__divergencias_entre_as_fontes.csv",
+  "ideologia-partidos-especialistas__valores.csv",
+  "ideologia-x-penal__A_voto_nominal.por_partido.csv",
+  "ideologia-x-penal__B_autoria.normas.csv",
+  "ideologia-x-penal__C_governadores.mandatos.csv",
+  "ideologia-x-penal__valores.csv",
+  "incerteza-da-associacao__especificacoes.csv",
+  "incerteza-da-associacao__valores.csv",
+  "materia-das-normas__anos_eleitorais_usados.csv",
+  "materia-das-normas__titulos_lidos.csv",
+  "materia-das-normas__valores.csv",
+  "mvi-serie-historica__valores.csv",
+  "nao-achadas-no-planalto__valores.csv",
+  "notas-sinesp-jc__por_unidade_da_federacao.CEARÁ.declaracoes.csv",
+  "notas-sinesp-jc__por_unidade_da_federacao.GOIÁS.declaracoes.csv",
+  "notas-sinesp-jc__por_unidade_da_federacao.MATO GROSSO.declaracoes.csv",
+  "notas-sinesp-jc__por_unidade_da_federacao.MINAS GERAIS.declaracoes.csv",
+  "notas-sinesp-jc__por_unidade_da_federacao.PARANÁ.declaracoes.csv",
+  "notas-sinesp-jc__por_unidade_da_federacao.PERNAMBUCO.declaracoes.csv",
+  "notas-sinesp-jc__por_unidade_da_federacao.PIAUÍ.declaracoes.csv",
+  "notas-sinesp-jc__por_unidade_da_federacao.RIO DE JANEIRO.declaracoes.csv",
+  "notas-sinesp-jc__por_unidade_da_federacao.RONDÔNIA.declaracoes.csv",
+  "notas-sinesp-jc__por_unidade_da_federacao.SÃO PAULO.declaracoes.csv",
+  "notas-sinesp-jc__valores.csv",
+  "partido-na-epoca__valores.csv",
+  "partido-senador-na-epoca__valores.csv",
+  "pendencias-restantes__A_poder_do_teste_da_agenda.resultados.csv",
+  "pendencias-restantes__C_teto_efetivo.detalhe.csv",
+  "pendencias-restantes__D_objeto_das_votacoes.por_objeto.csv",
+  "pendencias-restantes__valores.csv",
+  "percepcao-e-serie__B_percepcao_de_inseguranca.comparacao_2017_contra_2022.csv",
+  "percepcao-e-serie__B_percepcao_de_inseguranca.estudos_lidos.csv",
+  "percepcao-e-serie__B_percepcao_de_inseguranca.medidas_de_2022_sem_par_em_2017.csv",
+  "percepcao-e-serie__valores.csv",
+  "periodicos-classificacao-relatorio__valores.csv",
+  "poder-do-teste__valores.csv",
+  "populacao-uf__valores.csv",
+  "posicao-do-individuo__B_recorte_estreito.por_titulo.csv",
+  "posicao-do-individuo__valores.csv",
+  "presidentes-mandatos__periodos.csv",
+  "presidentes-mandatos__valores.csv",
+  "presidentes-partido__valores.csv",
+  "ranking-e-mapa-por-uf__ranking_pela_taxa_no_ultimo_ano.csv",
+  "ranking-e-mapa-por-uf__valores.csv",
+  "rankings-e-mapa__R1_partidos_por_sim_no_texto_base_que_agrava.csv",
+  "rankings-e-mapa__R2_partidos_por_autoria.csv",
+  "rankings-e-mapa__R3_presidentes_por_normas_por_ano.csv",
+  "rankings-e-mapa__valores.csv",
+  "regimes-e-pleitos__regimes.csv",
+  "regimes-e-pleitos__valores.csv",
+  "rol-como-segunda-unidade__artigos_do_rol_invisiveis_para_a_regua.csv",
+  "rol-como-segunda-unidade__normas_que_tocaram_o_rol.csv",
+  "rol-como-segunda-unidade__parametros_medidos.csv",
+  "rol-como-segunda-unidade__sobreposicao_com_a_regua_do_texto.csv",
+  "rol-como-segunda-unidade__valores.csv",
+  "rol-como-segunda-unidade__vedacoes.csv",
+  "rol-hediondos__deixado_de_fora.csv",
+  "rol-hediondos__detalhe.csv",
+  "rol-hediondos__valores.csv",
+  "senado-composicao-por-legislatura__valores.csv",
+  "serie-longa-violencia__testes.csv",
+  "serie-longa-violencia__valores.csv",
+  "severidade-parte-geral__institutos.csv",
+  "severidade-parte-geral__valores.csv",
+  "sonda-bancovde-anos-anteriores__anos_de_controle.csv",
+  "sonda-bancovde-anos-anteriores__anos_testados.csv",
+  "sonda-bancovde-anos-anteriores__valores.csv",
+  "sonda-das-fontes-pendentes__sondas.csv",
+  "sonda-das-fontes-pendentes__valores.csv",
+  "sonda-sinesp-jc__resultados.csv",
+  "sonda-sinesp-jc__valores.csv",
+  "territorio-e-eleitorado__correlacoes.csv",
+  "territorio-e-eleitorado__valores.csv",
+  "teste-ciclo-eleitoral-universo-115__testes.PRINCIPAL_ anos completos, 1945 a 2025.GOVERNADOR direto.anos_do_grupo.csv",
+  "teste-ciclo-eleitoral-universo-115__testes.PRINCIPAL_ anos completos, 1945 a 2025.LEGISLATIVA FEDERAL direta.anos_do_grupo.csv",
+  "teste-ciclo-eleitoral-universo-115__testes.PRINCIPAL_ anos completos, 1945 a 2025.MUNICIPAL ISOLADA, sem presidencial.anos_do_grupo.csv",
+  "teste-ciclo-eleitoral-universo-115__testes.PRINCIPAL_ anos completos, 1945 a 2025.MUNICIPAL, qualquer.anos_do_grupo.csv",
+  "teste-ciclo-eleitoral-universo-115__testes.SENSIBILIDADE_ com 2026 incompleto, contagem crua.GOVERNADOR direto.anos_do_grupo.csv",
+  "teste-ciclo-eleitoral-universo-115__testes.SENSIBILIDADE_ com 2026 incompleto, contagem crua.LEG_065659ae0e.csv",
+  "teste-ciclo-eleitoral-universo-115__testes.SENSIBILIDADE_ com 2026 incompleto, contagem crua.MUNICIPAL, qualquer.anos_do_grupo.csv",
+  "teste-ciclo-eleitoral-universo-115__testes.SENSIBILIDADE_ com 2026 incompleto, contagem crua.MUN_7506fa796d.csv",
+  "teste-ciclo-eleitoral-universo-115__valores.csv",
+  "teste-ciclo-eleitoral__testes.serie inteira, sem o ano em curso.GOVERNADOR direto.anos_do_grupo.csv",
+  "teste-ciclo-eleitoral__testes.serie inteira, sem o ano em curso.LEGISLATIVA FEDERAL direta.anos_do_grupo.csv",
+  "teste-ciclo-eleitoral__testes.serie inteira, sem o ano em curso.MUNICIPAL ISOLADA, sem presidencial.anos_do_grupo.csv",
+  "teste-ciclo-eleitoral__testes.serie inteira, sem o ano em curso.MUNICIPAL, qualquer.anos_do_grupo.csv",
+  "teste-ciclo-eleitoral__valores.csv",
+  "teste-origem-x-direcao__valores.csv",
+  "teste-severidade-ciclo-eleitoral__testes.serie inteira, sem o ano em curso.GOVERNADOR direto.anos_do_grupo.csv",
+  "teste-severidade-ciclo-eleitoral__testes.serie inteira, sem o ano em curso.LEGISLATIVA FEDERAL direta.anos_do_grupo.csv",
+  "teste-severidade-ciclo-eleitoral__testes.serie inteira, sem o ano em curso.MUNICIPAL ISOLADA, sem presidencial.anos_do_grupo.csv",
+  "teste-severidade-ciclo-eleitoral__testes.serie inteira, sem o ano em curso.MUNICIPAL, qualquer.anos_do_grupo.csv",
+  "teste-severidade-ciclo-eleitoral__valores.csv",
+  "universo-e-regimes.csv",
+  "universo-e-regimes__por_regime.csv",
+  "universo-e-regimes__valores.csv",
+  "validade-criterio-regua__P5_conferencia_item_a_item.detalhe.csv",
+  "validade-criterio-regua__valores.csv",
+  "voto-eleitor__etapa_3_teste.54.partidos.csv",
+  "voto-eleitor__etapa_3_teste.56.partidos.csv",
+  "voto-eleitor__valores.csv"
+ ],
+ "apuracao_deliberadamente_fora_do_pacote": [
+  {
+   "arquivo": "analise-cientifica/obter_texto_integral_corpus.py",
+   "por_que": "ferramenta de coleta do texto integral da literatura; o registro da leitura é arquivo de trabalho e não entra na entrega, pela regra desta casa de 19/08/2026"
+  },
+  {
+   "arquivo": "analise-cientifica/segunda_via_texto_integral.py",
+   "por_que": "ferramenta de coleta do texto integral da literatura; o registro da leitura é arquivo de trabalho e não entra na entrega, pela regra desta casa de 19/08/2026"
+  },
+  {
+   "arquivo": "analise-cientifica/terceira_via_texto_integral.py",
+   "por_que": "ferramenta de coleta do texto integral da literatura; o registro da leitura é arquivo de trabalho e não entra na entrega, pela regra desta casa de 19/08/2026"
+  },
+  {
+   "arquivo": "analise-cientifica/quarta_via_citadas.py",
+   "por_que": "ferramenta de coleta do texto integral da literatura; o registro da leitura é arquivo de trabalho e não entra na entrega, pela regra desta casa de 19/08/2026"
+  },
+  {
+   "arquivo": "analise-cientifica/extrair_texto_corpus.py",
+   "por_que": "ferramenta de coleta do texto integral da literatura; o registro da leitura é arquivo de trabalho e não entra na entrega, pela regra desta casa de 19/08/2026"
+  },
+  {
+   "arquivo": "analise-cientifica/mapear_citacoes_corpus.py",
+   "por_que": "ferramenta de coleta do texto integral da literatura; o registro da leitura é arquivo de trabalho e não entra na entrega, pela regra desta casa de 19/08/2026"
+  },
+  {
+   "arquivo": "analise-cientifica/preparar_lotes_leitura.py",
+   "por_que": "ferramenta de coleta do texto integral da literatura; o registro da leitura é arquivo de trabalho e não entra na entrega, pela regra desta casa de 19/08/2026"
+  },
+  {
+   "arquivo": "analise-cientifica/citacoes-texto-integral.json",
+   "por_que": "ferramenta de coleta do texto integral da literatura; o registro da leitura é arquivo de trabalho e não entra na entrega, pela regra desta casa de 19/08/2026"
+  },
+  {
+   "arquivo": "analise-cientifica/extrair_estatutos.py",
+   "por_que": "ferramenta de extração dos estatutos do TSE; o resultado que sustenta a seção 4.28 está em doutrina-partidaria.json, que acompanha o pacote"
+  },
+  {
+   "arquivo": "analise-cientifica/conferir_anuario_crimes_por_uf.py",
+   "por_que": "ferramenta que lê as tabelas do Anuário; o resultado está em anuario-crimes-por-uf.json, que acompanha o pacote"
+  },
+  {
+   "arquivo": "analise-cientifica/SEVERIDADE-ETAPA-1-30-08-2026.md",
+   "por_que": "etapa intermediária, superada pela versão final da mesma apuração"
+  },
+  {
+   "arquivo": "analise-cientifica/base-para-conselho.txt",
+   "por_que": "arquivo de trabalho do exame interno. Processo de trabalho não entra na entrega, pela regra desta casa de 19/08/2026"
+  },
+  {
+   "arquivo": "analise-cientifica/periodicos-juridicos-cp-classificado.jsonl",
+   "por_que": "corpus bruto de 50 MB e 30.140 registros. O corpus PRECISO, de 3.138 registros, é o que sustenta a revisão e acompanha o pacote"
+  },
+  {
+   "arquivo": "analise-cientifica/periodicos-termos-concluidos.json",
+   "por_que": "controle interno de coleta, que registra qual termo já foi varrido"
+  },
+  {
+   "arquivo": "analise-cientifica/planalto-lei-9504-1997.html",
+   "por_que": "página bruta da fonte. O texto da Lei n. 9.504/1997 é público e está no Planalto, e redistribuir a página não acrescenta prova"
+  },
+  {
+   "arquivo": "analise-cientifica/senado-discursos-meses-lidos.json",
+   "por_que": "controle interno de coleta, mês a mês"
+  },
+  {
+   "arquivo": "analise-cientifica/PRE-ESPECIFICACAO-VALIDADE-30-08-2026.md",
+   "por_que": "arquivo interno de trabalho com as previsões do teste de validade da régua, gravado antes da execução. A data de gravação de um arquivo local não é registro externo e não prova a anterioridade, e o texto do trabalho declara isso"
+  },
+  {
+   "arquivo": "analise-cientifica/senado-leg-47-lista-do-portal-21-09.txt",
+   "por_que": "lista do portal do Senado da 47ª legislatura, colada pelo autor como segunda fonte; o mesmo conteúdo, com o código de cada senador, está no arquivo da composição do Senado por legislatura, que acompanha o pacote"
+  },
+  {
+   "arquivo": "analise-cientifica/tse-bdje-acervo.jsonl",
+   "por_que": "catálogo de 13.448 itens da Biblioteca Digital da Justiça Eleitoral, dos quais 7.278 declaram licença Creative Commons NãoComercial ou SemDerivações. Ele é citado no trabalho e NÃO é redistribuído, pela mesma razão que as normas da ABNT: acervo de terceiro se cita, não se copia"
+  }
+ ],
+ "arquivos_declarados_e_ausentes": [],
+ "arquivos_sem_fonte_declarada": []
+}

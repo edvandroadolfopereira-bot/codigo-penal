@@ -1,0 +1,330 @@
+{
+ "fontes": {
+  "populacao": "IBGE, estimativa 2025, aba 19 da planilha 03",
+  "eleitorado": "TSE, perfil do eleitorado, 01/09/2026"
+ },
+ "n": 27,
+ "critico_5pct": 0.381,
+ "por_uf": {
+  "AC": {
+   "eleitores": 614631,
+   "habitantes": 884372.0,
+   "eleitores_por_100_hab": 69.5
+  },
+  "AL": {
+   "eleitores": 2442275,
+   "habitantes": 3220848.0,
+   "eleitores_por_100_hab": 75.83
+  },
+  "AM": {
+   "eleitores": 2802091,
+   "habitantes": 4321616.0,
+   "eleitores_por_100_hab": 64.84
+  },
+  "AP": {
+   "eleitores": 577698,
+   "habitantes": 806517.0,
+   "eleitores_por_100_hab": 71.63
+  },
+  "BA": {
+   "eleitores": 11321934,
+   "habitantes": 14870907.0,
+   "eleitores_por_100_hab": 76.13
+  },
+  "CE": {
+   "eleitores": 7000978,
+   "habitantes": 9268836.0,
+   "eleitores_por_100_hab": 75.53
+  },
+  "DF": {
+   "eleitores": 2253238,
+   "habitantes": 2996899.0,
+   "eleitores_por_100_hab": 75.19
+  },
+  "ES": {
+   "eleitores": 2990582,
+   "habitantes": 4126854.0,
+   "eleitores_por_100_hab": 72.47
+  },
+  "GO": {
+   "eleitores": 5081043,
+   "habitantes": 7423629.0,
+   "eleitores_por_100_hab": 68.44
+  },
+  "MA": {
+   "eleitores": 5188115,
+   "habitantes": 7018211.0,
+   "eleitores_por_100_hab": 73.92
+  },
+  "MG": {
+   "eleitores": 16379547,
+   "habitantes": 21393441.0,
+   "eleitores_por_100_hab": 76.56
+  },
+  "MS": {
+   "eleitores": 2025001,
+   "habitantes": 2924631.0,
+   "eleitores_por_100_hab": 69.24
+  },
+  "MT": {
+   "eleitores": 2639075,
+   "habitantes": 3893659.0,
+   "eleitores_por_100_hab": 67.78
+  },
+  "PA": {
+   "eleitores": 6267107,
+   "habitantes": 8711196.0,
+   "eleitores_por_100_hab": 71.94
+  },
+  "PB": {
+   "eleitores": 3248007,
+   "habitantes": 4164468.0,
+   "eleitores_por_100_hab": 77.99
+  },
+  "PE": {
+   "eleitores": 7226975,
+   "habitantes": 9562007.0,
+   "eleitores_por_100_hab": 75.58
+  },
+  "PI": {
+   "eleitores": 2708756,
+   "habitantes": 3384547.0,
+   "eleitores_por_100_hab": 80.03
+  },
+  "PR": {
+   "eleitores": 8610076,
+   "habitantes": 11890517.0,
+   "eleitores_por_100_hab": 72.41
+  },
+  "RJ": {
+   "eleitores": 12857388,
+   "habitantes": 17223547.0,
+   "eleitores_por_100_hab": 74.65
+  },
+  "RN": {
+   "eleitores": 2660947,
+   "habitantes": 3455236.0,
+   "eleitores_por_100_hab": 77.01
+  },
+  "RO": {
+   "eleitores": 1268667,
+   "habitantes": 1751950.0,
+   "eleitores_por_100_hab": 72.41
+  },
+  "RR": {
+   "eleitores": 401573,
+   "habitantes": 738772.0,
+   "eleitores_por_100_hab": 54.36
+  },
+  "RS": {
+   "eleitores": 8526505,
+   "habitantes": 11233263.0,
+   "eleitores_por_100_hab": 75.9
+  },
+  "SC": {
+   "eleitores": 5725998,
+   "habitantes": 8187029.0,
+   "eleitores_por_100_hab": 69.94
+  },
+  "SE": {
+   "eleitores": 1740240,
+   "habitantes": 2299425.0,
+   "eleitores_por_100_hab": 75.68
+  },
+  "SP": {
+   "eleitores": 34105332,
+   "habitantes": 46081801.0,
+   "eleitores_por_100_hab": 74.01
+  },
+  "TO": {
+   "eleitores": 1182768,
+   "habitantes": 1586859.0,
+   "eleitores_por_100_hab": 74.54
+  }
+ },
+ "total_eleitores_27": 157846547,
+ "eleitores_exterior": 918911,
+ "total_habitantes": 213421037.0,
+ "correlacoes": [
+  {
+   "tipo": "Homicídio doloso",
+   "eleitores": {
+    "pearson": -0.177,
+    "spearman": -0.09
+   },
+   "habitantes": {
+    "pearson": -0.193,
+    "spearman": -0.103
+   },
+   "eleitores_por_100_hab": {
+    "pearson": 0.16,
+    "spearman": 0.225
+   }
+  },
+  {
+   "tipo": "Feminicídio",
+   "eleitores": {
+    "pearson": -0.593,
+    "spearman": -0.62
+   },
+   "habitantes": {
+    "pearson": -0.607,
+    "spearman": -0.632
+   },
+   "eleitores_por_100_hab": {
+    "pearson": -0.074,
+    "spearman": -0.118
+   }
+  },
+  {
+   "tipo": "Tentativa de feminicídio",
+   "eleitores": {
+    "pearson": -0.708,
+    "spearman": -0.733
+   },
+   "habitantes": {
+    "pearson": -0.697,
+    "spearman": -0.698
+   },
+   "eleitores_por_100_hab": {
+    "pearson": -0.46,
+    "spearman": -0.526
+   }
+  },
+  {
+   "tipo": "Roubo seguido de morte (latrocínio)",
+   "eleitores": {
+    "pearson": -0.215,
+    "spearman": -0.162
+   },
+   "habitantes": {
+    "pearson": -0.215,
+    "spearman": -0.191
+   },
+   "eleitores_por_100_hab": {
+    "pearson": -0.087,
+    "spearman": -0.051
+   }
+  },
+  {
+   "tipo": "Lesão corporal seguida de morte",
+   "eleitores": {
+    "pearson": -0.274,
+    "spearman": 0.219
+   },
+   "habitantes": {
+    "pearson": -0.239,
+    "spearman": 0.222
+   },
+   "eleitores_por_100_hab": {
+    "pearson": -0.561,
+    "spearman": -0.125
+   }
+  },
+  {
+   "tipo": "Tentativa de homicídio",
+   "eleitores": {
+    "pearson": -0.751,
+    "spearman": -0.681
+   },
+   "habitantes": {
+    "pearson": -0.751,
+    "spearman": -0.68
+   },
+   "eleitores_por_100_hab": {
+    "pearson": -0.327,
+    "spearman": -0.259
+   }
+  },
+  {
+   "tipo": "Estupro",
+   "eleitores": {
+    "pearson": -0.399,
+    "spearman": -0.584
+   },
+   "habitantes": {
+    "pearson": -0.382,
+    "spearman": -0.552
+   },
+   "eleitores_por_100_hab": {
+    "pearson": -0.415,
+    "spearman": -0.682
+   }
+  },
+  {
+   "tipo": "Estupro de vulnerável",
+   "eleitores": {
+    "pearson": -0.658,
+    "spearman": -0.563
+   },
+   "habitantes": {
+    "pearson": -0.635,
+    "spearman": -0.545
+   },
+   "eleitores_por_100_hab": {
+    "pearson": -0.602,
+    "spearman": -0.58
+   }
+  },
+  {
+   "tipo": "Morte por intervenção de Agente do Estado",
+   "eleitores": {
+    "pearson": -0.117,
+    "spearman": 0.062
+   },
+   "habitantes": {
+    "pearson": -0.127,
+    "spearman": 0.08
+   },
+   "eleitores_por_100_hab": {
+    "pearson": 0.072,
+    "spearman": -0.076
+   }
+  },
+  {
+   "tipo": "Roubo de veículo",
+   "eleitores": {
+    "pearson": 0.298,
+    "spearman": 0.26
+   },
+   "habitantes": {
+    "pearson": 0.278,
+    "spearman": 0.212
+   },
+   "eleitores_por_100_hab": {
+    "pearson": 0.424,
+    "spearman": 0.61
+   }
+  },
+  {
+   "tipo": "Furto de veículo",
+   "eleitores": {
+    "pearson": 0.323,
+    "spearman": 0.171
+   },
+   "habitantes": {
+    "pearson": 0.334,
+    "spearman": 0.15
+   },
+   "eleitores_por_100_hab": {
+    "pearson": -0.004,
+    "spearman": 0.039
+   }
+  },
+  {
+   "tipo": "Tráfico de drogas",
+   "eleitores": {
+    "pearson": 0.141,
+    "spearman": 0.104
+   },
+   "habitantes": {
+    "pearson": 0.144,
+    "spearman": 0.122
+   },
+   "eleitores_por_100_hab": {
+    "pearson": -0.006,
+    "spearman": -0.184
+   }
+  }
+ ]
+}

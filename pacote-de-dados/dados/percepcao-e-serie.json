@@ -1,0 +1,306 @@
+{
+ "gerado_por": "apurar_percepcao_e_serie.py",
+ "acervo": "Forum Brasileiro de Seguranca Publica, copia local",
+ "A_serie_de_mortes_violentas_intencionais": {
+  "alcance": {
+   "de": 2011,
+   "a": 2025,
+   "anos": 15
+  },
+  "edicoes_lidas": [
+   "2018_anuario_brasileiro_seguranca_publica_planilha.xlsx",
+   "2019_anuario_brasileiro_seguranca_publica_planilha.xlsx",
+   "2020_anuario_brasileiro_seguranca_publica_planilha.xlsx",
+   "2021_anuario_brasileiro_seguranca_publica_planilha.xlsx",
+   "2022_anuario_brasileiro_seguranca_publica_planilha.xlsx",
+   "2023_anuario_brasileiro_seguranca_publica_planilha.xlsx",
+   "Anuario-16_vfinal_retificado_02-08 (1).xlsx",
+   "Anuario-16_vfinal_retificado_02-08 (2).xlsx",
+   "anuario-2023-planilha.xlsx",
+   "anuario-2024-planilha.xlsx",
+   "anuario-2025-planilha.xlsx",
+   "anuario-2026-planilha.xlsx"
+  ],
+  "por_ano": {
+   "2011": {
+    "valores_publicados": [
+     47215
+    ],
+    "edicoes_que_publicam": 9
+   },
+   "2012": {
+    "valores_publicados": [
+     54694
+    ],
+    "edicoes_que_publicam": 11
+   },
+   "2013": {
+    "valores_publicados": [
+     55844,
+     55847
+    ],
+    "edicoes_que_publicam": 11
+   },
+   "2014": {
+    "valores_publicados": [
+     59730,
+     59739
+    ],
+    "edicoes_que_publicam": 11
+   },
+   "2015": {
+    "valores_publicados": [
+     58437,
+     58459
+    ],
+    "edicoes_que_publicam": 11
+   },
+   "2016": {
+    "valores_publicados": [
+     61597,
+     61600
+    ],
+    "edicoes_que_publicam": 11
+   },
+   "2017": {
+    "valores_publicados": [
+     64078,
+     64079
+    ],
+    "edicoes_que_publicam": 11
+   },
+   "2018": {
+    "valores_publicados": [
+     57358,
+     57592
+    ],
+    "edicoes_que_publicam": 11
+   },
+   "2019": {
+    "valores_publicados": [
+     47742,
+     47765,
+     47796
+    ],
+    "edicoes_que_publicam": 10
+   },
+   "2020": {
+    "valores_publicados": [
+     50033,
+     50448
+    ],
+    "edicoes_que_publicam": 9
+   },
+   "2021": {
+    "valores_publicados": [
+     47503,
+     48286,
+     48288
+    ],
+    "edicoes_que_publicam": 8
+   },
+   "2022": {
+    "valores_publicados": [
+     47452,
+     47963
+    ],
+    "edicoes_que_publicam": 5
+   },
+   "2023": {
+    "valores_publicados": [
+     46328,
+     46441
+    ],
+    "edicoes_que_publicam": 3
+   },
+   "2024": {
+    "valores_publicados": [
+     44127,
+     44220
+    ],
+    "edicoes_que_publicam": 2
+   },
+   "2025": {
+    "valores_publicados": [
+     40775
+    ],
+    "edicoes_que_publicam": 1
+   }
+  },
+  "anos_com_valor_retificado_entre_edicoes": [
+   2013,
+   2014,
+   2015,
+   2016,
+   2017,
+   2018,
+   2019,
+   2020,
+   2021,
+   2022,
+   2023,
+   2024
+  ],
+  "notas_da_propria_fonte": []
+ },
+ "B_percepcao_de_inseguranca": {
+  "estudos_lidos": [
+   {
+    "arquivo": "2021_3_vitimizacao_policial_brasil_tempos_covid19.pdf",
+    "paginas": 5,
+    "bytes": 339974
+   },
+   {
+    "arquivo": "anuario-especial-eleicoes-2018-2021.pdf",
+    "paginas": 256,
+    "bytes": 10242655
+   },
+   {
+    "arquivo": "2015_pesquisa_vitimizacao_percepcao_risco_profissionais_sistema_seguranca_publica.pdf",
+    "paginas": 38,
+    "bytes": 4563235
+   },
+   {
+    "arquivo": "2015_pesquisa_vitimizacao_percepcao_risco_profissionais_sistema_seguranca_publica_infografico.pdf",
+    "paginas": 1,
+    "bytes": 358408
+   },
+   {
+    "arquivo": "2015_pesquisa_vitimizacao_percepcao_risco_profissionais_sistema_seguranca_publica_resumido.pdf",
+    "paginas": 19,
+    "bytes": 2771051
+   },
+   {
+    "arquivo": "2017_medo_violencia_apoio_autoritarismo_brasil_pdfa.pdf",
+    "paginas": 39,
+    "bytes": 3245695
+   },
+   {
+    "arquivo": "2017_visivel_invisivel_vitimizacao_mulheres_brasil.pdf",
+    "paginas": 43,
+    "bytes": 1904642
+   },
+   {
+    "arquivo": "2017_visivel_invisivel_vitimizacao_mulheres_brasil_apresentacao.pdf",
+    "paginas": 40,
+    "bytes": 2182726
+   },
+   {
+    "arquivo": "2017_visivel_invisivel_vitimizacao_mulheres_brasil_infografico.pdf",
+    "paginas": 1,
+    "bytes": 469097
+   },
+   {
+    "arquivo": "2019_visivel_invisivel_vitimizacao_mulheres_brasil_2edicao.pdf",
+    "paginas": 50,
+    "bytes": 2021795
+   },
+   {
+    "arquivo": "2019_visivel_invisivel_vitimizacao_mulheres_brasil_infografico.pdf",
+    "paginas": 2,
+    "bytes": 870689
+   },
+   {
+    "arquivo": "2021_3_vitimizacao_policial_brasil_tempos_covid19.pdf",
+    "paginas": 5,
+    "bytes": 339974
+   },
+   {
+    "arquivo": "2021_visivel_invisivel_vitimizacao_mulheres_brasil_3edicao.pdf",
+    "paginas": 44,
+    "bytes": 704809
+   },
+   {
+    "arquivo": "2021_visivel_invisivel_vitimizacao_mulheres_brasil_3edicao_infografico.pdf",
+    "paginas": 2,
+    "bytes": 266364
+   },
+   {
+    "arquivo": "2021_visivel_invisivel_vitimizacao_mulheres_brasil_3edicao_infographic.pdf",
+    "paginas": 2,
+    "bytes": 253636
+   },
+   {
+    "arquivo": "2022_anuario_brasileiro_seguranca_publica_2018_2021_especial_eleicoes.pdf",
+    "paginas": 256,
+    "bytes": 10242655
+   },
+   {
+    "arquivo": "2022_informe_analise_policiais_democracia_direitos.pdf",
+    "paginas": 20,
+    "bytes": 192427
+   },
+   {
+    "arquivo": "2022_violencia_democracia_panorama_brasileiro_preeleicoes_2022_pdfa.pdf",
+    "paginas": 104,
+    "bytes": 2904855
+   },
+   {
+    "arquivo": "2023_visivel_invisivel​_vitimizacao_mulheres_brasil_infografico.pdf",
+    "paginas": 2,
+    "bytes": 20485721
+   },
+   {
+    "arquivo": "2023_visivel_invisivel​_vitimizacao_mulheres_brasil_relatorio.pdf",
+    "paginas": 52,
+    "bytes": 5591879
+   },
+   {
+    "arquivo": "2023_visivel_invisivel​_vitimizacao_mulheres_brasil_relatorio_sumario_executivo.pdf",
+    "paginas": 12,
+    "bytes": 4662610
+   },
+   {
+    "arquivo": "Pesquisa de vitimização FBSP 2024.pdf",
+    "paginas": 86,
+    "bytes": 447939
+   },
+   {
+    "arquivo": "pesquisa-vitimizacao-patrimonio-violencia-v02.pdf",
+    "paginas": 30,
+    "bytes": 475680
+   }
+  ],
+  "comparacao_2017_contra_2022": [
+   {
+    "medo_de": "morrer assassinado",
+    "em_2022": 82.5,
+    "em_2017": 74.9,
+    "trecho": "82,5% têm este medo em 2022; em 2017 eram 74,9%"
+   },
+   {
+    "medo_de": "ter os dados pessoais divulgados na internet",
+    "em_2022": 89.1,
+    "em_2017": 70.7,
+    "trecho": "em 2022, 89,1% têm medo de ter seus dados pessoais divulgados na internet, enquanto em 2017, 70,7%"
+   },
+   {
+    "medo_de": "sofrer violencia por parte das policias militares",
+    "em_2022": 63.8,
+    "em_2017": 59.5,
+    "trecho": "está em 63,8% dos entrevistados, contra 59,5% em 2017"
+   }
+  ],
+  "medidas_de_2022_sem_par_em_2017": [
+   {
+    "o_que": "medo da violencia politica, ser agredido por escolha politica ou partidaria",
+    "em_2022": 67.5,
+    "trecho": "medo da violência política aparece em 67,5% dos entrevistados"
+   },
+   {
+    "o_que": "medo de ser vitima de grupos armados",
+    "em_2022": 83.9,
+    "trecho": "grupos armados (tra- ficantes, milícias e pistoleiros) está em 83,9%"
+   },
+   {
+    "o_que": "muito medo de ser vitima de grupos armados",
+    "em_2022": 73.9,
+    "trecho": "sendo que 73,9% dos entrevistados afirmam ter muito medo"
+   }
+  ],
+  "a_fonte_afirma_que_a_queda_da_violencia_nao_foi_percebida": true,
+  "trecho_da_afirmacao": "queda nas mortes violentas intencionais (2017 foi o ano em que o registro dessas violências teve seu ápice nos últimos, pelo menos, dez anos), ela não foi percebida pelos entrevistados",
+  "o_que_isto_NAO_e": "serie anual de percepcao. Sao dois pontos, 2017 e 2022, e dois pontos comparam, mas nao formam serie"
+ },
+ "medidas_declaradas_e_nao_lidas": []
+}

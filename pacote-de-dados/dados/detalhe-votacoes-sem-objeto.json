@@ -1,0 +1,1758 @@
+{
+ "votacoes": [
+  {
+   "id": "19813-10",
+   "descricao": "discussão em turno único, Adiada a discussão, em face do encerramento da sessão.",
+   "orgao": "PLEN",
+   "data": "2001-04-24",
+   "abertura": null,
+   "ultima_proposicao": null,
+   "objetos_possiveis": [],
+   "efeitos": []
+  },
+  {
+   "id": "37896-1",
+   "descricao": "Aprovado",
+   "orgao": "PLEN",
+   "data": "2001-08-07",
+   "abertura": null,
+   "ultima_proposicao": null,
+   "objetos_possiveis": [
+    "REQ 13/2001"
+   ],
+   "efeitos": []
+  },
+  {
+   "id": "272058-54",
+   "descricao": "Alteração do Regime de Tramitação desta proposição em virtude da Aprovação da REQ 3291/2005 => PL 4559/2004.",
+   "orgao": "PLEN",
+   "data": "2005-11-29",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento de Redistribuição, REQ 2881/2005, pela Comissão de Direitos Humanos e Minorias",
+   "objetos_possiveis": [
+    "REQ 3291/2005",
+    "REQ 2881/2005",
+    "MSC 782/2004"
+   ],
+   "efeitos": []
+  },
+  {
+   "id": "282570-3",
+   "descricao": "Aprovado com alteração Inclusão da Comissão de Legislação Participativa",
+   "orgao": "CSAUDE",
+   "data": "2005-05-04",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento pela Dep. Jandira Feghali",
+   "objetos_possiveis": [
+    "REQ 202/2005"
+   ],
+   "efeitos": [
+    null
+   ]
+  },
+  {
+   "id": "281760-2",
+   "descricao": "Aprovado",
+   "orgao": "CDHMIR",
+   "data": "2005-04-13",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento pela Dep. Maria do Rosário",
+   "objetos_possiveis": [
+    "REQ 41/2005"
+   ],
+   "efeitos": []
+  },
+  {
+   "id": "278046-2",
+   "descricao": "Aprovado",
+   "orgao": "CSAUDE",
+   "data": "2005-03-16",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento pela Dep. Jandira Feghali",
+   "objetos_possiveis": [
+    "REQ 183/2005"
+   ],
+   "efeitos": [
+    null
+   ]
+  },
+  {
+   "id": "344218-22",
+   "descricao": "Alteração do Regime de Tramitação desta proposição em virtude da Aprovação da REQ 3078/2008 => PL 370/2007.",
+   "orgao": "PLEN",
+   "data": "2008-08-13",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento nº 3078/2008, pelo Deputado Maurício Rands, que solicita urgência para apreciação do PL 370, de 2007.",
+   "objetos_possiveis": [
+    "REQ 3078/2008"
+   ],
+   "efeitos": []
+  },
+  {
+   "id": "537683-3",
+   "descricao": "Aprovado.",
+   "orgao": "CSPCCO",
+   "data": "2012-03-28",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento n. 121/2012, pelo Deputado Pinto Itamaraty (PSDB-MA), que: \"Requer a realização de Audiência Pública nesta Comissão de Segurança Pública e Combate ao Crime Organizado, para discutir o Projeto de Lei 84/1999 que dispõe sobre os crimes cometidos na área de informática, suas penalidades e dá outras providências\".",
+   "objetos_possiveis": [],
+   "efeitos": [
+    null
+   ]
+  },
+  {
+   "id": "513174-2",
+   "descricao": "Aprovado",
+   "orgao": "CCTI",
+   "data": "2011-08-03",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento n. 72/2011, pela Deputada Luiza Erundina (PSB-SP) e outros, que: \"Requer a realização de Seminário para a discussão do Projeto de Lei nº 84, de 1999, que 'Dispõe sobre os crimes cometidos na área de informática, suas penalidades e dá outras providências.'\".",
+   "objetos_possiveis": [
+    "REQ 72/2011"
+   ],
+   "efeitos": [
+    null
+   ]
+  },
+  {
+   "id": "510184-2",
+   "descricao": "Aprovado com a exclusão da Comissão de Segurança Pública e Combate ao Crime Organizado.",
+   "orgao": "CCTI",
+   "data": "2011-06-29",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento n. 57/2011, pelo Deputado Emiliano José (PT-BA), que: \"Requer a realização de Audiência Pública Conjunta com a Comissão de Segurança Pública e Combate ao Crime Organizado para debater o PL 84/99 que tipifica condutas realizadas mediante uso de sistema eletrônico\".",
+   "objetos_possiveis": [
+    "REQ 57/2011"
+   ],
+   "efeitos": [
+    null
+   ]
+  },
+  {
+   "id": "408374-3",
+   "descricao": "Aprovado, convertendo-se em evento conjunto com a Comissão de Constituição e Justiça, e Cidadania.",
+   "orgao": "CCTI",
+   "data": "2008-10-15",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do REQ 139/2008 CCTCI, pelo Dep. Paulo Henrique Lustosa, que \"requer a realização de Audiência Pública para debater a tipificação de crimes e delitos cometidos na área de informática e suas penalidades.\"",
+   "objetos_possiveis": [
+    "REQ 139/2008"
+   ],
+   "efeitos": [
+    null
+   ]
+  },
+  {
+   "id": "407564-2",
+   "descricao": "Aprovado.",
+   "orgao": "CSPCCO",
+   "data": "2008-08-20",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do REQ 119/2008 CSPCCO, pelo Dep. Pinto Itamaraty, que \"requer realização de Audiência Pública conjunta com a Comissão de Ciência e Tecnologia, Comunicação e Informática, para debater a tipificação de crimes e delitos cometidos na área de informática e suas penalidades.\"",
+   "objetos_possiveis": [
+    "REQ 119/2008"
+   ],
+   "efeitos": [
+    null
+   ]
+  },
+  {
+   "id": "406267-2",
+   "descricao": "Aprovado, alterando-se para PL 84/1999 a menção ao PLC 89/2003 e convertendo-se a audiência em evento conjunto com as comissões de Constituição e Justiça e de Segurança Pública.",
+   "orgao": "CCTI",
+   "data": "2008-08-13",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do REQ 136/2008 CCTCI, pelo Dep. Jorge Bittar e outros, que \"requer a realização de Audiência Pública para debater a tipificação de crimes e delitos cometidos na área de informática e suas penalidades.\"",
+   "objetos_possiveis": [
+    "REQ 136/2008"
+   ],
+   "efeitos": []
+  },
+  {
+   "id": "858860-16",
+   "descricao": "Alteração do Regime de Tramitação desta proposição em virtude da aprovação do REQ 595/2015 => PL 8305/2014.",
+   "orgao": "PLEN",
+   "data": "2015-02-24",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento de Urgência (Art. 155 do RICD) n. 595/2015, pelos Deputados Domingos Neto, Líder do PROS; José Guimarães, Líder do Governo; Celso Russomanno, Líder do Bloco Parlamentar PRB, PTN, PMN, PRP, PSDC, PRTB; Maria do Rosário, na qualidade de Líder do PT; Jovair Arantes, Líder do PTB; Carlos Sampaio, Líder do PSDB; Rubens Bueno, Líder do PPS; André Moura, Líder do PSC; André Figueiredo, Líder do PDT; Fernando Coelho Filho, Líder do PSB; e Chico Alencar, Líder do PSOL; que: \"com base no art. 155 do Regimento Interno, requeremos regime de urgência para a apreciação do PL 8.305/2014\".",
+   "objetos_possiveis": [
+    "REQ 595/2015"
+   ],
+   "efeitos": []
+  },
+  {
+   "id": "2017252-2",
+   "descricao": "Aprovado, com a inclusão dos seguintes nomes: Alessandro Amadeu Fonseca, Sócio do Escritório Mattos Filho Advogados; Pierpaolo Cruz Bottini, Professor de Direito Penal da USP; Gileno Barreto, Advogado do Escritório Loeser e Portela; Amanda Marcos Favre,Secretária -Executiva do Ministério da Fazenda; e Pedro Cestari, Representante da Procudaria-Geral da Fazenda Nacional.",
+   "orgao": "PL296015",
+   "data": "2015-10-13",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento de Audiência Pública n. 1/2015, pelo Deputado José Mentor (PT-SP), que: \"Requer a realização de Audiência Pública para discutir o PLnº2.960/2015, que dispõe sobre o Regime Especial de Regularização Cambial e Tributária de recursos, bens ou direitos de origem lícita não declarados, remetidos, mantidos no exterior ou repatriados por residentes ou domiciliados no País, e dá outras providências\".",
+   "objetos_possiveis": [
+    "REQ 1/2015"
+   ],
+   "efeitos": [
+    null
+   ]
+  },
+  {
+   "id": "2079557-2",
+   "descricao": "Aprovado",
+   "orgao": "PL251615",
+   "data": "2016-03-30",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento de Audiência Pública n. 28/2016, pelo Deputado Aureo (NI-RJ), que: \"Requer que seja realizada, nesta Comissão, Audiência Pública para discutir a concessão de visto de intercâmbio voluntário, com a presença de Representantes dos seguintes órgãos:\r\n- Ministério das Relações Exteriores;\r\n- Conselho Nacional de Imigração; e\r\n- AIESEC no Brasil.\r\n\r\n\".",
+   "objetos_possiveis": [
+    "REQ 28/2016"
+   ],
+   "efeitos": [
+    null
+   ]
+  },
+  {
+   "id": "2056954-3",
+   "descricao": "Aprovado",
+   "orgao": "PL251615",
+   "data": "2016-03-30",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento de Audiência Pública n. 27/2015, pela Deputada Bruna Furlan (PSDB-SP), que: \"Solicita a realização de audiência pública nesta Comissão para discutir sobre a casa de passagem de imigrantes mantida pelo Governo do Estado de São Paulo  e gerenciada pela Secretaria de Desenvolvimento Social, com a presença do seguinte convidado: FELIPE SARTORI SIGOLLO, Secretário Adjunto de Desenvolvimento Social do Estado de São Paulo.\r\n\r\n\".",
+   "objetos_possiveis": [
+    "REQ 27/2015"
+   ],
+   "efeitos": [
+    null
+   ]
+  },
+  {
+   "id": "2056354-2",
+   "descricao": "Aprovado.",
+   "orgao": "PL251615",
+   "data": "2015-11-25",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento de Audiência Pública n. 26/2015, pelo Deputado Ivan Valente (PSOL-SP), que: \"Requer a realização de audiência pública com os seguintes convidados: LILIANA LYRA JUBILUT, Doutora em Direito Internacional pela Universidade de São Paulo, Professora da Universidade Católica de Santos e coordenadora da pesquisa 'Migrantes, apátridas e refugiados: subsídios para o aperfeiçoamento de acesso a serviços, direitos e políticas públicas no Brasil', organizada pelo Ministério da Justiça e pelo IPEA; e ERIKA PIRES, Procuradora Federal, Doutora em Direito Internacional pela Universidade de São Paulo e fundadora da RESAMA - Rede Sul Americana para as Migrações Ambientais\".",
+   "objetos_possiveis": [
+    "REQ 26/2015"
+   ],
+   "efeitos": [
+    null
+   ]
+  },
+  {
+   "id": "2055371-3",
+   "descricao": "Aprovado.",
+   "orgao": "PL251615",
+   "data": "2015-11-25",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento de Audiência Pública n. 25/2015, pelo Deputado Marcos Reategui (PSD-AP), que: \"Nos termos do artigo 255 do Regimento Interno da Câmara dos Deputados, requeiro a Vossa Excelência a realização de reunião de audiência pública com o tema 'Discussão sobre os tramites legais da imigração e o papel da Polícia Federal nesse processo', com os seguintes convidados: ROGÉRIO AUGUSTO VIANA GALLORO, Diretor Executivo da Polícia Federal; e BETO FERREIRA MARTINS VASCONCELOS, Secretário Nacional de Justiça do Ministério da Justiça\".",
+   "objetos_possiveis": [
+    "REQ 25/2015"
+   ],
+   "efeitos": [
+    null
+   ]
+  },
+  {
+   "id": "2053128-4",
+   "descricao": "Aprovado com a inclusão do nome da Sra. Célia Cristina Soares Rubini, representante da Igreja de Jesus Cristo dos Santos dos Últimos Dias.",
+   "orgao": "PL251615",
+   "data": "2015-11-25",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento de Audiência Pública n. 24/2015, pelos Deputados Bruna Furlan (PSDB-SP) e Otavio Leite (PSDB-RJ), que: \"Requeiro a Vossa Excelência, nos termos do Art.117, inciso VIII, combinado com Art. 255, do Regimento Interno da Câmara dos Deputados, após ouvido o Plenário desta Comissão Especial, realização de audiência pública para discutir o Projeto de Lei 2.516, de 2015 e apensados. Para tanto, requeiro sejam convidados os seguintes participantes: Titular da Subsecretaria-Geral das Comunidades Brasileiras no Exterior, do Ministério das Relações Exteriores; e Representantes das Comunidades Brasileiras no Exterior - Integrantes dos Conselhos de Representantes dos Brasileiros no Exterior\".",
+   "objetos_possiveis": [
+    "REQ 24/2015"
+   ],
+   "efeitos": [
+    null
+   ]
+  },
+  {
+   "id": "2025393-4",
+   "descricao": "Aprovado com a subscrição da Deputada Bruna Furlan.",
+   "orgao": "PL251615",
+   "data": "2015-11-25",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento de Audiência Pública n. 23/2015, pelo Deputado Rômulo Gouveia, que: \"Requer a realização de Audiência Pública, com o ANAJURE REFUGEES, programa de refugiados da ANAJURE, com o fim de discutir e apresentar sugestões acerca do PL 2.516/2015, que institui a Lei de Migração, a ser realizada em data de comum acordo da comissão\".",
+   "objetos_possiveis": [
+    "REQ 23/2015"
+   ],
+   "efeitos": [
+    null
+   ]
+  },
+  {
+   "id": "2024857-2",
+   "descricao": "Aprovado",
+   "orgao": "PL251615",
+   "data": "2015-10-28",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento de Audiência Pública n. 21/2015, pelo Deputado Carlos Gomes (PRB-RS), que: \"Requer a realização de Audiência Pública com os senhores Pastor JOÃO MARCOS BARRETO SOARES - Secretário da Junta de Missões Mundial da Convenção Batista Brasileira; Bispo RODOVALHO - Fundador e Bispo Mundial do Ministério Sara Nossa Terra; Dr. NESTOR PAULO FRIEDRICH - Presidente da Igreja Evangélica de Confissão Luterana no Brasil; JORGE CHEDIEK - Coordenador-Residente do Sistema das Nações Unidas no Brasil e Representante-Residente do Programa das Nações Unidas para Desenvolvimento (PNUD); e ROSITA MILESI - Diretora do Instituto Migrações e Direitos Humanos (IMDH), voltada ao conhecimento da situação dos missionários de confissão religiosa, serviço voluntário e similares, para debater o PL 2516/2015, que institui a lei de Migração\".",
+   "objetos_possiveis": [
+    "REQ 21/2015"
+   ],
+   "efeitos": [
+    null
+   ]
+  },
+  {
+   "id": "2024856-2",
+   "descricao": "Aprovado",
+   "orgao": "PL251615",
+   "data": "2015-10-28",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento n. 20/2015, pelo Deputado Carlos Gomes (PRB-RS), que: \"Requer a realização de visita técnica à cidade de Porto Alegre/RS, voltada ao conhecimento da situação dos migrantes, bem como ouvir órgãos públicos e entidades da sociedade civil e debater o PL 2516/2015, que institui a lei de Migração\".",
+   "objetos_possiveis": [
+    "REQ 20/2015"
+   ],
+   "efeitos": [
+    null
+   ]
+  },
+  {
+   "id": "2017692-2",
+   "descricao": "Aprovado com a subscrição da Deputada Jô Moraes e com a inclusão do nome do Sr. MATTEO MANDRILE, Representante da Organização Internacional para as Migrações - OIM, proposta pelo Deputado Orlando Silva.",
+   "orgao": "PL251615",
+   "data": "2015-10-21",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento de Audiência Pública n. 19/2015, pelo Deputado Luiz Carlos Hauly (PSDB-PR), que: \"Solicita realização de Audiência Pública com a presença do Dr. VLADIMIR ARAS, Procurador Regional da República e Secretário de Cooperação Internacional do Ministério Público\".",
+   "objetos_possiveis": [
+    "REQ 19/2015"
+   ],
+   "efeitos": [
+    null
+   ]
+  },
+  {
+   "id": "1998324-2",
+   "descricao": "Aprovado",
+   "orgao": "PL251615",
+   "data": "2015-10-07",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento n. 18/2015, pelo Deputado Carlos Zarattini (PT-SP), que: \"Requer a realização de Audiência Pública com a presença da Senhora DEISY VENTURA, Professora de Direito Internacional, Livre-Docente do Instituto de Relações Internacionais da Universidade de São Paulo (USP) e ex-membro da Comissão de Especialistas que elaborou o anteprojeto de Lei de Migração a pedido do Ministério de Justiça\".",
+   "objetos_possiveis": [
+    "REQ 18/2015"
+   ],
+   "efeitos": [
+    null
+   ]
+  },
+  {
+   "id": "1998192-2",
+   "descricao": "Aprovado",
+   "orgao": "PL251615",
+   "data": "2015-10-07",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento n. 17/2015, pelo Deputado Carlos Zarattini (PT-SP), que: \"Requer a realização de Audiência Pública com a presença Sr. LUIS VÁSQUEZ, Presidente da Associação de Empreendedores Bolivianos da Rua Coimbra (Assempbol)\".",
+   "objetos_possiveis": [
+    "REQ 17/2015"
+   ],
+   "efeitos": [
+    null
+   ]
+  },
+  {
+   "id": "1992968-2",
+   "descricao": "Aprovado",
+   "orgao": "PL251615",
+   "data": "2015-10-07",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento n. 16/2015, pelo Deputado Leo de Brito (PT-AC), que: \"Requer a seja convidado a Sra. TÂNIA BERNUY ILLES, Coordenadora do Centro de Direitos Humanos e Cidadania do Imigrante (CDHIC), para debater o PL 2516/2015, que institui a Lei de Migração\".",
+   "objetos_possiveis": [
+    "REQ 16/2015"
+   ],
+   "efeitos": [
+    null
+   ]
+  },
+  {
+   "id": "1992967-2",
+   "descricao": "Aprovado",
+   "orgao": "PL251615",
+   "data": "2015-10-07",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento n. 15/2015, pelo Deputado Leo de Brito (PT-AC), que: \"Requer que seja convidado o Exmo. Sr. PAULO AMÂNCIO, Coordenador do Centro de Referência e Acolhida para Imigrantes (CRAI), para debater o PL 2516/2015, que institui a Lei de Migração\".",
+   "objetos_possiveis": [
+    "REQ 15/2015"
+   ],
+   "efeitos": [
+    null
+   ]
+  },
+  {
+   "id": "1992965-2",
+   "descricao": "Aprovado com a substituição do termo \"Audiência Pública\" por \"Encontro\".",
+   "orgao": "PL251615",
+   "data": "2015-10-07",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento n. 14/2015, pelo Deputado Leo de Brito (PT-AC), que: \"Requer a realização de Audiência Pública em Rio Branco (AC) para debater o PL 2516/2015, que institui a Lei de Migração \r\n\r\n\".",
+   "objetos_possiveis": [
+    "REQ 14/2015"
+   ],
+   "efeitos": [
+    null
+   ]
+  },
+  {
+   "id": "1992964-2",
+   "descricao": "Aprovado",
+   "orgao": "PL251615",
+   "data": "2015-10-07",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento n. 13/2015, pelo Deputado Leo de Brito (PT-AC), que: \"Requer a seja convidado o Exmo. Sr. PAULO ILLES, Coordenador de Políticas para Migrantes da Prefeitura de São Paulo, para debater o PL 2516/2015, que institui a Lei de Migração\".",
+   "objetos_possiveis": [
+    "REQ 13/2015"
+   ],
+   "efeitos": [
+    null
+   ]
+  },
+  {
+   "id": "1806536-2",
+   "descricao": "Aprovado",
+   "orgao": "PL251615",
+   "data": "2015-10-07",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento n. 12/2015, pelo Deputado Carlos Zarattini (PT-SP), que: \"Requer a realização de visita técnica ao Centro de Referência e Acolhida para Imigrantes (CRAI) na cidade de São Paulo - SP\".",
+   "objetos_possiveis": [
+    "REQ 12/2015"
+   ],
+   "efeitos": [
+    null
+   ]
+  },
+  {
+   "id": "1805847-2",
+   "descricao": "Aprovado",
+   "orgao": "PL251615",
+   "data": "2015-10-07",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento n. 11/2015, pelo Deputado Orlando Silva (PCdoB-SP), que: \"Requer a realização de visita técnica a órgãos públicos e entidades da sociedade civil que tratam do tema dos migrantes em cidade de São Paulo - SP\".",
+   "objetos_possiveis": [
+    "REQ 11/2015"
+   ],
+   "efeitos": [
+    null
+   ]
+  },
+  {
+   "id": "1805846-2",
+   "descricao": "Aprovado",
+   "orgao": "PL251615",
+   "data": "2015-10-07",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento n. 10/2015, pelo Deputado Orlando Silva (PCdoB-SP), que: \"Requer a realização de visita técnica a cidade de Rio Branco - AC, voltada ao conhecimento da situação dos refugiados haitianos naquela localidade.\r\n\t\t\r\n\".",
+   "objetos_possiveis": [
+    "REQ 10/2015"
+   ],
+   "efeitos": [
+    null
+   ]
+  },
+  {
+   "id": "1805845-2",
+   "descricao": "Aprovado",
+   "orgao": "PL251615",
+   "data": "2015-10-07",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento de Audiência Pública n. 9/2015, pelo Deputado Orlando Silva (PCdoB-SP), que: \"Requer a realização de audiência pública com Órgãos do Governo Federal com pertinência no tema da migração, com a presença dos seguintes convidados: JOSÉ EDUARDO MARTINS CARDOZO, Ministro de Estado da Justiça; MANOEL DIAS, Ministro de Estado do Trabalho; ALDO REBELO, Ministro de Estado da Ciência e Tecnologia; JAQUES WAGNER, Ministro de Estado da Defesa; e Embaixador MAURO VIEIRA, Ministro de Estado das Relações Exteriores\".",
+   "objetos_possiveis": [
+    "REQ 9/2015"
+   ],
+   "efeitos": [
+    null
+   ]
+  },
+  {
+   "id": "1805844-2",
+   "descricao": "Aprovado",
+   "orgao": "PL251615",
+   "data": "2015-10-07",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento de Audiência Pública n. 8/2015, pelo Deputado Orlando Silva (PCdoB-SP), que: \"Requer a realização de audiência pública com Especialistas no debate e formulação do tema da migração, com a presença dos seguintes convidados: CRISTINA SOREANU PECEQUILLO, Professora de Relações Internacionais da Universidade Federal de São Paulo - UNIFESP; ANTONIO AUGUSTO CANÇADO TRINDADE, Juiz da Corte Internacional de Justiça da ONU (Haia); e um Representante do Alto Comissariado das Nações Unidas para Refugiados\".",
+   "objetos_possiveis": [
+    "REQ 8/2015"
+   ],
+   "efeitos": [
+    null
+   ]
+  },
+  {
+   "id": "1805842-2",
+   "descricao": "Aprovado com a subscrição do Dep. Ivan Valente e com a inclusão, sugerida pelo Dep. Luiz Carlos Hauly, do nome do Dr. NILSON MOURÃO, Secretário de Justiça e Direitos Humanos do Estado do Acre, e do nome do Sr. JOÃO MARCOS BARRETO SOARES, Secretário da Junta de Missões Mundial da Convenção Batista Brasileira, por sugestão do Deputado Carlos Gomes.",
+   "orgao": "PL251615",
+   "data": "2015-10-07",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento de Audiência Pública n. 7/2015, pelo Deputado Orlando Silva (PCdoB-SP), que: \"Requer a realização de audiência pública com organizações e Entidades da Sociedade Civil ligadas ao debate da Migração, com representantes das seguintes entidades: CONECTAS, IBASE, ANISTIA INTERNACIONAL e CNBB.\r\n\r\n\".",
+   "objetos_possiveis": [
+    "REQ 7/2015"
+   ],
+   "efeitos": [
+    null
+   ]
+  },
+  {
+   "id": "1805813-2",
+   "descricao": "Aprovado com a inclusão, sugerida pelo Deputado Arnaldo Jordy, do nome do Dr. ERICO LIMA DE OLIVEIRA, Defensor Público da União.",
+   "orgao": "PL251615",
+   "data": "2015-10-07",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento n. 6/2015, pelos Deputados Roberto Freire e Arnaldo Jordy (PPS-PA), que: \"Requer a realização de audiência pública nesta Comissão Especial para debater a necessidade da criação de uma Autoridade Nacional Migratória para centralizar o atendimento a imigrantes, com a presença dos seguintes convidados: Senador ALOYSIO NUNES, Autor do PLS 288/2013, que institui a Lei de Migração e regula entrada e estada de estrangeiros no Brasil; Dr. AURÉLIO RIOS, Procurador Federal dos Direitos dos Cidadãos; JUANA KWEITEL, Diretora de Programas da Conectas Direitos Humanos; JOÃO GUILHERME GRANJA, Diretor do DEEST - Departamento de Estrangeiros do Ministério da Justiça\".",
+   "objetos_possiveis": [
+    "REQ 6/2015"
+   ],
+   "efeitos": [
+    null
+   ]
+  },
+  {
+   "id": "1805812-2",
+   "descricao": "Aprovado com a subscrição do Dep. Ivan Valente.",
+   "orgao": "PL251615",
+   "data": "2015-10-07",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento n. 5/2015, pelos Deputados Roberto Freire e Arnaldo Jordy (PPS-PA), que: \"Requer a realização de audiência pública nesta Comissão Especial para debater a criminalização de imigrantes em situação irregular em virtude do foco imoderado no critério da legalidade, sem considerar aspectos relevantes do fenômeno da migração, com a presença dos seguintes convidados: DANIEL CHIARETTI, Defensor Público Federal na Defensoria Pública da União em SP; LUÍZA LUZ SOUZA, Representante do Instituto Terra, Trabalho e Cidadania; ELIZA DONDA, Advogada da Missão Paz; CAMILA BARALDI, Coordenadora Adjunta de Políticas para Migrantes da Prefeitura de SP; e MAURÍCIO CORREALI, Delegado do Departamento de Inteligência da Polícia Civil da Secretaria Estadual de Segurança Pública de São Paulo\".",
+   "objetos_possiveis": [
+    "REQ 5/2015"
+   ],
+   "efeitos": [
+    null
+   ]
+  },
+  {
+   "id": "1805811-2",
+   "descricao": "Aprovado",
+   "orgao": "PL251615",
+   "data": "2015-10-07",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento n. 4/2015, pelos Deputados Roberto Freire e Arnaldo Jordy (PPS-PA), que: \"Requer a realização de audiência pública nesta Comissão Especial para debater o procedimento para regularização do imigrante no contexto da nova Lei de Migração, com a presença dos seguintes convidados: BETO VASCONCELOS, Secretário Nacional de Justiça; PAULO ILLES, Coordenador de Políticas para Migrantes da Prefeitura de São Paulo; DEISY VENTURA, Professora da USP e integrante da Comissão de Especialistas que produziu um anteprojeto de lei sobre migração; TANIA BERNUY, Diretora do CDHIC - Centro de Direitos Humaos e Cidadania do Imigrante; e Irmã ROSITA MILESI, Diretora do IMDH - Instituto Migrações e Direitos Humanos\".",
+   "objetos_possiveis": [
+    "REQ 4/2015"
+   ],
+   "efeitos": [
+    null
+   ]
+  },
+  {
+   "id": "1805810-2",
+   "descricao": "Aprovado com a subscrição do Dep. Ivan Valente.",
+   "orgao": "PL251615",
+   "data": "2015-10-07",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento n. 3/2015, pelos Deputados Roberto Freire e Arnaldo Jordy (PPS-PA), que: \"Requer que uma delegação de membros da Comissão Especial destinada a proferir parecer ao PL 2.516/2015 realize visita a São Paulo para conhecer trabalho da Missão Paz; do Centro de Referência e Acolhida para Imigrantes (CRAI); da Cáritas e do Centro de Direitos Humanos e Cidadania do Imigrante (CDHIC)\".",
+   "objetos_possiveis": [
+    "REQ 3/2015"
+   ],
+   "efeitos": [
+    null
+   ]
+  },
+  {
+   "id": "1805711-2",
+   "descricao": "Aprovado",
+   "orgao": "PL251615",
+   "data": "2015-10-07",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento n. 2/2015, pelo Deputado Bacelar (PODE-BA), que: \"Requer a realização de audiência pública para debater os projetos de lei em exame nesta Comissão Especial, com a participação de representantes do Alto Comissariado das Nações Unidas para Refugiados (ACNUR) e do Comitê Nacional para Refugiados (CONARE)\".",
+   "objetos_possiveis": [
+    "REQ 2/2015"
+   ],
+   "efeitos": [
+    null
+   ]
+  },
+  {
+   "id": "1783571-2",
+   "descricao": "Aprovado",
+   "orgao": "PL251615",
+   "data": "2015-10-07",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento de Audiência Pública n. 1/2015, pelo Deputado Luiz Carlos Hauly (PSDB-PR), que: \"Solicita realização de Audiência Pública com a presença do Dom SÉRGIO ROCHA, Presidente da Confederação Nacional dos Bispos do Brasil\".",
+   "objetos_possiveis": [
+    "REQ 1/2015"
+   ],
+   "efeitos": [
+    null
+   ]
+  },
+  {
+   "id": "2141477-31",
+   "descricao": "Alteração do Regime de Tramitação desta proposição em virtude da Aprovação do REQ 8178/2018 => PL 7874/2017.",
+   "orgao": "PLEN",
+   "data": "2018-03-06",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento de Urgência (Art. 155 do RICD) n. 8178/2018, pelo Líderes, que: \"Com base no art. 155 do Regimento Interno, requeremos regime de urgência na apreciação do PL nº 7874/2017 que 'Dispõe sobre a perda do poder familiar em caso de feminicídio, de lesões gravíssimas e abuso sexual contra filhos'.\r\n\".",
+   "objetos_possiveis": [
+    "REQ 8178/2018"
+   ],
+   "efeitos": []
+  },
+  {
+   "id": "1734433-22",
+   "descricao": "Alteração do Regime de Tramitação desta proposição em virtude da aprovação do REQ 4060/2016 que alterou o regime do PL 4572/2016, que está apensado .",
+   "orgao": "PLEN",
+   "data": "2016-03-22",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Projeto de Lei n. 3030/2015, pelo Deputado Lincoln Portela (PRB-MG), que: \"Altera o art. 121 do Decreto-lei nº 2.848, de 7 de dezembro de 1940 - Código Penal, para aumentar a pena do feminicídio se o crime for praticado em descumprimento de medida protetiva de urgência prevista no art. 22 da Lei nº 11.340, de 7 de agosto de 2006.\r\n\r\nNOVA EMENTA: Altera o art. 121 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 - Código Penal\".",
+   "objetos_possiveis": [],
+   "efeitos": []
+  },
+  {
+   "id": "1215937-4",
+   "descricao": "Aprovado.",
+   "orgao": "CCJC",
+   "data": "2015-05-19",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento n. 10/2015, pela Deputada Tia Eron (PRB-BA), que: \"Requer ao plenário o convite das seguintes autoridades a fim de que compareçam a esta Comissão de Constituição e Justiça e de Cidadania, onde discorrerão sobre o PL 5.555/2013, a senhora ministra da Secretaria de Políticas para as Mulheres, Eleonora Menicucci, a senhora Juíza da Vara de Violência Contra a Mulher do Estado da Bahia, a senhora Promotora da Vara de Violência Contra a Mulher do Estado da Bahia Sara Gama e a senhora delegada de Polícia Civil do Estado da Bahia Isabel Alice.\"",
+   "objetos_possiveis": [
+    "REQ 10/2015"
+   ],
+   "efeitos": [
+    null
+   ]
+  },
+  {
+   "id": "2136580-31",
+   "descricao": "Alteração do Regime de Tramitação desta proposição em virtude da Aprovação do REQ 2144/2019.",
+   "orgao": "PLEN",
+   "data": "2019-08-14",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento de Urgência (Art. 155 do RICD) n. 2144/2019, pelo Liderança Líderes, que: \"Requeremos, nos termos do art. 155 do Regimento Interno da Câmara dos Deputados, urgência para o Projeto de Lei n 7.596, de 2017.\r\n\".",
+   "objetos_possiveis": [
+    "REQ 2144/2019",
+    "REQ 8636/2018",
+    "REQ 6821/2017"
+   ],
+   "efeitos": []
+  },
+  {
+   "id": "2170191-2",
+   "descricao": "Aprovado.",
+   "orgao": "PL129295",
+   "data": "2018-03-27",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento de Audiência Pública n. 28/2018, pelo Deputado João Carlos Bacelar (PR-BA), que: \"Requer seja realizada Audiência Pública na Comissão Especial para debater o PL 6814, de 2017, que 'Institui normas para licitações e contratos da Administração Pública', sendo convidado representante da Associação Nacional das Empresas de Engenharia Consultiva de Infraestrutura de Transportes - ANETRANS\".",
+   "objetos_possiveis": [
+    "REQ 28/2018"
+   ],
+   "efeitos": [
+    null
+   ]
+  },
+  {
+   "id": "2169531-2",
+   "descricao": "Aprovado.",
+   "orgao": "PL129295",
+   "data": "2018-03-20",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento de Audiência Pública n. 14/2018, pelo Deputado Assis Carvalho (PT-PI), que: \"Requer a realização de Audiência Pública para debater formas de aprimoramento das normas para licitações e contratos da administração pública, sendo convidada a Sra. Viviane Moura Bezerra, Superintendente de Parcerias e Concessões do Estado do Piauí - SUPARC/Piauí\".",
+   "objetos_possiveis": [
+    "REQ 14/2018"
+   ],
+   "efeitos": [
+    null
+   ]
+  },
+  {
+   "id": "2169522-2",
+   "descricao": "Aprovado.",
+   "orgao": "PL129295",
+   "data": "2018-03-20",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento de Audiência Pública n. 13/2018, pelo Deputado Laercio Oliveira (SD-SE), que: \"Requer a realização de audiência pública na Comissão Especial destinada a proferir parecer ao PL 6814/2017, que Institui normas para licitações e contratos da Administração Pública e revoga a Lei nº 8.666, de 21 de junho de 1993, a Lei nº 10.520, de 17 de julho de 2002, e dispositivos da Lei nº 12.462, de 4 de agosto de 2011, sendo convidado o Presidente da Central Brasileira do Setor de Serviços - CEBRASSE\".",
+   "objetos_possiveis": [
+    "REQ 13/2018"
+   ],
+   "efeitos": [
+    null
+   ]
+  },
+  {
+   "id": "2169148-2",
+   "descricao": "Aprovado com a inclusão, como convidado, do Professor de Direito Administrativo da PUC/SP, João Paulo Lacerda da Silva, por sugestão do Deputado Vitor Lippi.",
+   "orgao": "PL129295",
+   "data": "2018-03-20",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento de Audiência Pública n. 9/2018, pelo Deputado Adelmo Carneiro Leão (PT-MG), que: \"Requer a realização de Audiência Pública para debater formas de aprimoramento das normas para licitações e contratos da administração pública, sendo convidado o Presidente da Emater/MG, Glênio Martins de Lima Mariano\".",
+   "objetos_possiveis": [
+    "REQ 9/2018"
+   ],
+   "efeitos": [
+    null
+   ]
+  },
+  {
+   "id": "2169114-2",
+   "descricao": "Aprovado com a inclusão, como convidados, dos especialistas em Direito Administrativo: Carlos Ari Sundfeld (FGV), Floriano de Azevedo Marques (USP), Jean Phierre Vargas e Rafael Ramires Araújo Valim; do Presidente da Federação das Associações das Empresas Brasileiras de Tecnologia da Informação - Assespro Nacional, Geovani Salomão; do ex-Deputado Luis Roberto Ponte, autor da Lei 8666/93; e do Professor Doutor Benedito Tolosa Filho.",
+   "orgao": "PL129295",
+   "data": "2018-03-13",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento de Audiência Pública n. 7/2018, pelo Deputado João Arruda (PMDB-PR), que: \"Requer a realização de audiência pública para debater o Projeto de Lei n° 6.814, de 2017, que institui normas para licitações e contratos da Administração Pública\".",
+   "objetos_possiveis": [
+    "REQ 7/2018"
+   ],
+   "efeitos": [
+    null
+   ]
+  },
+  {
+   "id": "2169108-2",
+   "descricao": "Aprovado.",
+   "orgao": "PL129295",
+   "data": "2018-03-13",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento de Audiência Pública n. 6/2018, pelo Deputado Valdir Colatto (PMDB-SC), que: \"Requer seja realizada Audiência Pública na Comissão Especial para debater o PL 6814, de 2017, que 'Institui normas para licitações e contratos da Administração Pública', sendo convidados Presidente da Associação Brasileira da Indústria de Máquinas e Equipamentos - Abimaq; Presidente da Confederação Nacional da Indústria - CNI; e Dr. Murilo Queiroz Melo Jacoby Fernandes, Jurista e especialista em Direito Administrativo\".",
+   "objetos_possiveis": [
+    "REQ 6/2018"
+   ],
+   "efeitos": [
+    null
+   ]
+  },
+  {
+   "id": "2169086-2",
+   "descricao": "Aprovado com a inclusão, como convidados, do Presidente da Frente Nacional dos Prefeitos - FNP, Prefeito Jonas Donizette; de representante da Associação Nacional dos Procuradores dos Estados e do DF - ANAPE; e de representante da Caixa Econômica Federal.",
+   "orgao": "PL129295",
+   "data": "2018-03-13",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento de Audiência Pública n. 5/2018, pelo Deputado Bebeto (PSB-BA), que: \"Requer a realização de audiência pública para oitiva de entidades da sociedade civil, setores econômicos, especialistas, órgãos de controle e governo, sendo convidados representante do Sindicato Nacional da Indústria da Construção Pesada - SINICON - e da Associação Brasileira dos Sindicatos e Associações de Classe de Infraestrutura - BRASINFRA\".",
+   "objetos_possiveis": [
+    "REQ 5/2018"
+   ],
+   "efeitos": [
+    null
+   ]
+  },
+  {
+   "id": "2169081-2",
+   "descricao": "Aprovado.",
+   "orgao": "PL129295",
+   "data": "2018-03-13",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento de Audiência Pública n. 4/2018, pelo Deputado Celso Maldaner (PMDB-SC), que: \"Requer seja convidado para Reunião de Audiência Pública, nesta Comissão, Diretor Executivo do DNIT, Halpher Luiggi Mônico Rosa\".",
+   "objetos_possiveis": [
+    "REQ 4/2018"
+   ],
+   "efeitos": [
+    null
+   ]
+  },
+  {
+   "id": "2169076-2",
+   "descricao": "Aprovado. Subscrito pelos Deputados Toninho Wandscheer e Joaquim Passarinho.",
+   "orgao": "PL129295",
+   "data": "2018-03-13",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento de Audiência Pública n. 3/2018, pelo Deputado João Paulo Papa (PSDB-SP), que: \"Requer a realização de Audiência Pública para debater formas de aprimoramento das normas para licitações e contratos da administração pública, sendo convidados Sindicato Nacional das Empresas de Arquitetura e Engenharia Consultiva - SINAENCO; Conselho de Arquitetura e Urbanismo do Brasil - CAU/BR; Associação Brasileira de Consultores de Engenharia - ABCE; e Conselho Federal de Engenharia e Agronomia - CONFEA\".",
+   "objetos_possiveis": [
+    "REQ 3/2018"
+   ],
+   "efeitos": [
+    null
+   ]
+  },
+  {
+   "id": "2169035-2",
+   "descricao": "Aprovado.",
+   "orgao": "PL129295",
+   "data": "2018-03-13",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento de Audiência Pública n. 2/2018, pelos Deputados Chico Alencar (PSOL-RJ) e Ivan Valente (PSOL-SP), que: \"Requer seja realizada Audiência Pública na Comissão Especial para debater o PL 6814, de 2017, que 'Institui normas para licitações e contratos da Administração Pública', sendo convidados representante do Programa Olho Vivo no Dinheiro Público da Controladoria-Geral da União, atual Ministério da Transparência e\r\nControladoria-Geral da União; da Organização Não Governamental Observatório Social do Brasil; e da Organização Não Governamental Transparência Brasil\".",
+   "objetos_possiveis": [
+    "REQ 2/2018"
+   ],
+   "efeitos": [
+    null
+   ]
+  },
+  {
+   "id": "2169034-2",
+   "descricao": "Aprovado.",
+   "orgao": "PL129295",
+   "data": "2018-03-13",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento de Audiência Pública n. 1/2018, pelo Deputado Chico Alencar (PSOL-RJ), que: \"Requer seja realizada Audiência Pública na Comissão Especial para debater o PL 6814, de 2017, que 'Institui normas para licitações e contratos da Administração Pública', sendo convidados representante da Comissão Interministerial de Sustentabilidade na Administração Pública - CISAP; o especialista no tema de licitações e contratos relacionado ao desenvolvimento sustentável, Dr. Daniel Ferreira; e representante do ICLEI - Governos Locais pela Sustentabilidade\".",
+   "objetos_possiveis": [
+    "REQ 1/2018"
+   ],
+   "efeitos": [
+    null
+   ]
+  },
+  {
+   "id": "2272154-20",
+   "descricao": "Alteração do Regime de Tramitação desta proposição em virtude da Aprovação do REQ 427/2021.",
+   "orgao": "PLEN",
+   "data": "2021-03-18",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento de Urgência (Art. 155 do RICD) n. 428/2021, pelos Deputados Soraya Santos (PL/RJ) e Hugo Motta REPUBLIC, que \"Requer urgência na tramitação do Projeto de Lei nº 741, de 2021, que Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940, a Lei nº 8.072, de 25 de julho de 1990, e a Lei nº 11.340, de 7 de agosto de 2006, para dispor sobre medidas de combate à violência contra a mulher, e cria o Programa de Cooperação “Sinal Vermelho Contra a Violência Doméstica”\".",
+   "objetos_possiveis": [
+    "REQ 427/2021"
+   ],
+   "efeitos": []
+  },
+  {
+   "id": "18156-102",
+   "descricao": "Alteração do Regime de Tramitação desta proposição em virtude da alteração do regime do PL 6764/2002, por ter sido aprovado o REQ 584/2021 que está apensado ao primeiro.",
+   "orgao": "PLEN",
+   "data": "2021-04-20",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento n. 777/2021, pelo Deputado Félix Mendonça Júnior (PDT/BA), que \"Requer a criação e instalação da Comissão Especial para proferir parecer ao projeto de lei 2.462/91 (e apensados, inclusive, o PL 6764/02).\n\n\".",
+   "objetos_possiveis": [
+    "REQ 777/2021",
+    "REQ 718/2021",
+    "REQ 582/2021",
+    "REQ 808/2015",
+    "REQ 9501/2014",
+    "REQ 8157/2013",
+    "REQ 6631/2012",
+    "REQ 1950/2011",
+    "REQ 1849/2011",
+    "REQ 7267/2010",
+    "REQ 4067/2009",
+    "REQ 3010/2008",
+    "REQ 637/2007"
+   ],
+   "efeitos": []
+  },
+  {
+   "id": "2265028-46",
+   "descricao": "Alteração do Regime de Tramitação desta proposição em virtude da alteração do regime do PL 5238/2020, por ter sido aprovado o REQ 2791/2020 que está apensado ao primeiro.",
+   "orgao": "PLEN",
+   "data": "2021-03-04",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento n. 212/2021, pela Deputada Alice Portugal (PCdoB/BA), que \"Requer, nos termos do Regimento Interno da Câmara dos Deputados, a retirada de co-autoria do Projeto de Lei N° 5.690, de 2020, que “altera o Decreto – Lei 3.689, de 3 de outubro de 1941 - Código de Processo Penal - para dispor sobre a audiência de instrução e julgamento nos casos de crimes contra a dignidade sexual”\".",
+   "objetos_possiveis": [
+    "PRLP 3/0",
+    "PRLP 2/0",
+    "REQ 212/2021",
+    "PRLP 1/0",
+    "REQ 2699/2020",
+    "REQ 2678/2020"
+   ],
+   "efeitos": []
+  },
+  {
+   "id": "2277818-32",
+   "descricao": "Alteração do Regime de Tramitação desta proposição em virtude da alteração do regime do PL 1423/2021, por ter sido aprovado o REQ 849/2021 que está apensado ao primeiro.",
+   "orgao": "PLEN",
+   "data": "2021-06-08",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento n. 1227/2021, pelo Deputado Helio Lopes  (PSL/RJ), que \"Requer o apensamento do projeto de lei nº 1386 de 2021 ao projeto de lei nº 1360 de 2021\".",
+   "objetos_possiveis": [
+    "REQ 1227/2021",
+    "REQ 804/2021",
+    "REQ 793/2021",
+    "REQ 785/2021"
+   ],
+   "efeitos": []
+  },
+  {
+   "id": "2284490-2",
+   "descricao": "Aprovado.",
+   "orgao": "PL230315",
+   "data": "2021-05-26",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento n. 1/2021, pelo Deputado Aureo Ribeiro (SOLIDARI-RJ), que: \"Requer a realização de Audiência Pública para discutir a regulação do mercado de Moedas Virtuais, com o seguintes convidados: Representante do Ministro da Economia;  Representante do Banco Central;\r\n3. Representante da Comissão de Valores Mobiliários (CVM); Sr. Evandro Carlos Teruel, mestre em tecnologia e professor universitário; Sr. Rafael Tadeu Salles, advogado criminalista com foco em golpes financeiros; 6. Sr. Artêmio Ferreira Picanço Neto, advogado especialista emcriptomoedas e Blockchain; Sr. Carlo Cauti, editor chefe do Portal Suno Notícias; Sr. Tiago Reis, analista e fundador da Suno; Sr. Felipe Escudero, maior digital influencer em criptomoedas no Brasil. .\n\".",
+   "objetos_possiveis": [
+    "REQ 1/2021"
+   ],
+   "efeitos": [
+    null
+   ]
+  },
+  {
+   "id": "2236758-2",
+   "descricao": "Aprovado.",
+   "orgao": "PL230315",
+   "data": "2021-05-26",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento n. 1/2020, pelo Deputado Lucas Redecker (PSDB-RS), que: \"Requer, nos termos regimentais, o aditamento do requerimento nº 40/2019, a fim de incluir novos convidados na audiência pública destinada a debater os impactos e desafios da ausência de regulação do mercado de criptoativos no Brasil.\r\nConvidados:\r\n- Joana Carolina Oliveira Zwaig, Presidente da Associação de Clientes Indeal - ASSIC; e\r\n- Juliano Botega, Presidente da Associação dos Consumidores prejudicados pela Unick Forex\".",
+   "objetos_possiveis": [
+    "REQ 1/2020"
+   ],
+   "efeitos": [
+    null,
+    null
+   ]
+  },
+  {
+   "id": "2231820-2",
+   "descricao": "Aprovado.",
+   "orgao": "PL230315",
+   "data": "2021-05-26",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento de Audiência Pública n. 40/2019, pelo Deputado Lucas Redecker (PSDB-RS), que: \"Requer a realização de Audiência Pública para debater sobre os impactos e desafios da ausência de regulação do mercado de criptoativos no Brasil, com a presença dos seguintes convidados: Sr. Márcio Borba Conselheiro Fiscal e Secretário-executivo da Associação de Clientes Indeal - ASSIC; Sr. Jean Carbonera - Advogado da Associação de Clientes Indeal - ASSIC; e Representante da Associação dos Consumidores prejudicados pela Unick Forex\".",
+   "objetos_possiveis": [
+    "REQ 40/2019"
+   ],
+   "efeitos": [
+    null,
+    null,
+    null
+   ]
+  },
+  {
+   "id": "2214865-3",
+   "descricao": "Aprovado.",
+   "orgao": "PL230315",
+   "data": "2021-05-26",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento n. 6/2019, pelo Deputado Júnior Bozzella (PSL-SP), que: \"Requer que seja convidado o jornalista norte-americano Glenn Greenwald, editor do Site The Intercept, com a finalidade de ser ouvido em Audiência Pública a realizar-se nesta Comissão Especial, que irá tratar sobre as divulgações de interceptações ilegais de comunicações, e tratar sobre a compra de informações de hackers com moedas virtuais\".",
+   "objetos_possiveis": [
+    "REQ 6/2019"
+   ],
+   "efeitos": [
+    null,
+    null,
+    null
+   ]
+  },
+  {
+   "id": "2229045-2",
+   "descricao": "Aprovado",
+   "orgao": "PL230315",
+   "data": "2019-12-04",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento de Audiência Pública n. 39/2019, pelo Deputado Reinhold Stephanes Junior (PSD-PR), que: \"Requer a realização de Audiência Pública, com intuito de ampliar a discussão do Mercado das Moedas Virtuais, com a participação do Sr. Cezar Augustus Essenfelder de Azevedo, especialista na área\".",
+   "objetos_possiveis": [
+    "REQ 39/2019"
+   ],
+   "efeitos": [
+    null
+   ]
+  },
+  {
+   "id": "2228947-2",
+   "descricao": "Aprovado",
+   "orgao": "PL230315",
+   "data": "2019-12-04",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento de Audiência Pública n. 38/2019, pelo Deputado Aureo Ribeiro (SOLIDARI-RJ), que: \"Requer a realização de Audiência Pública para discutir os indícios de pirâmide financeira em operações da empresa 18kRonaldinho com a presença dos seguintes convidados: Representante do Ministério Público Federal; Representante da Unidade de Inteligência Financeira - UIF, antigo Conselho de Controle de Atividades Financeiras - COAF; Representante da Polícia Federal; Representante da empresa 18kRonaldinho; Representante da Associação Brasileira de Criptomoedas e Blockchain - ABCB\".",
+   "objetos_possiveis": [
+    "REQ 38/2019"
+   ],
+   "efeitos": [
+    null
+   ]
+  },
+  {
+   "id": "2224246-2",
+   "descricao": "Aprovado",
+   "orgao": "PL230315",
+   "data": "2019-10-09",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento de Audiência Pública n. 37/2019, pelo Deputado Aureo Ribeiro (SOLIDARI-RJ), que: \"Requer a realização de Audiência Pública para discutir os indícios de pirâmide financeira em operações da empresa 18kRonaldinho com a presença dos seguintes convidados: Representante do Ministério Público Federal; Representante da Unidade de Inteligência Financeira - UIF, antigo Conselho de Controle de Atividades Financeiras - COAF; Representante da Polícia Federal; Representante da empresa 18kRonaldinho; Representante da Associação Brasileira de Criptomoedas e Blockchain - ABCB; e o ex-jogador de futebol e empresário, Sr. Ronaldo de Assis Moreira, conhecido como Ronaldinho Gaúcho\".",
+   "objetos_possiveis": [
+    "REQ 37/2019"
+   ],
+   "efeitos": [
+    null
+   ]
+  },
+  {
+   "id": "2223853-2",
+   "descricao": "Aprovado",
+   "orgao": "PL230315",
+   "data": "2019-10-09",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento n. 36/2019, pelo Deputado Expedito Netto (PSD-RO), que: \"Requer a realização de Audiência Pública para discutir aspectos de negociação das moedas digitais, bem como de proteção do portfólio de investidores das moedas virtuais com representantes dos seguintes Governos: Estados Unidos, Reino Unido, Nova Zelândia, Austrália, Singapura, China, Malta, Estônia, Suíça, Japão, Coréia e Alemanha para compartilharem as suas experiências na regulamentação das novas tecnologias digitais bem como nas moedas virtuais\".",
+   "objetos_possiveis": [
+    "REQ 36/2019"
+   ],
+   "efeitos": [
+    null
+   ]
+  },
+  {
+   "id": "2223850-2",
+   "descricao": "Aprovado",
+   "orgao": "PL230315",
+   "data": "2019-10-09",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento n. 35/2019, pelo Deputado Expedito Netto (PSD-RO), que: \"Requer a realização de Audiência Pública para discutir aspectos de negociação das moedas digitais, bem como de proteção do portfólio de investidores das moedas virtuais com representantes das seguintes empresas de consultoria: Preicewatercoopers, Mckinsey, Ernst&Young, Deloitte, KPMG e Grant Thornton\".",
+   "objetos_possiveis": [
+    "REQ 35/2019"
+   ],
+   "efeitos": [
+    null
+   ]
+  },
+  {
+   "id": "2223848-2",
+   "descricao": "Aprovado",
+   "orgao": "PL230315",
+   "data": "2019-10-09",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento n. 34/2019, pelo Deputado Expedito Netto (PSD-RO), que: \"Requer a realização de Audiência Pública para discutir aspectos de negociação das moedas digitais, bem como de proteção do portfólio de investidores das moedas virtuais com representantes dos seguintes organismos internacionais: Fundo Monetário Internacional, Banco Mundial, Bank of International Settlements, Banco Central Europeu e Organização para Cooperação e Desenvolvimento Econômico\".",
+   "objetos_possiveis": [
+    "REQ 34/2019"
+   ],
+   "efeitos": [
+    null
+   ]
+  },
+  {
+   "id": "2223845-2",
+   "descricao": "Aprovado",
+   "orgao": "PL230315",
+   "data": "2019-10-09",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento n. 33/2019, pelo Deputado Expedito Netto (PSD-RO), que: \"Requer a realização de Audiência Pública para discutir aspectos de negociação das moedas digitais, bem como de proteção do portfólio de investidores das moedas virtuais com representantes do Ministério da Defesa, do Gabinete de Segurança Institucional e da Agência Brasileira de Informações para que compartilhem suas principais preocupações com relação à potenciais impactos das novas tecnologias com relação às suas áreas de atuação, de forma a subsidiar os trabalhos desta Comissão\".",
+   "objetos_possiveis": [
+    "REQ 33/2019"
+   ],
+   "efeitos": [
+    null
+   ]
+  },
+  {
+   "id": "2223841-2",
+   "descricao": "Aprovado",
+   "orgao": "PL230315",
+   "data": "2019-10-09",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento n. 32/2019, pelo Deputado Expedito Netto (PSD-RO), que: \"Requer a realização de Audiência Pública para discutir aspectos de negociação das moedas digitais, bem como de proteção do portfólio de investidores das moedas virtuais com representantes das empresas Google, Facebook, Linkedin, Baidu, Apple, Samsung, Intel, Cisco, Tecent, Huawei e Amazon\".",
+   "objetos_possiveis": [
+    "REQ 32/2019"
+   ],
+   "efeitos": [
+    null
+   ]
+  },
+  {
+   "id": "2223837-2",
+   "descricao": "Aprovado",
+   "orgao": "PL230315",
+   "data": "2019-10-09",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento n. 31/2019, pelo Deputado Expedito Netto (PSD-RO), que: \"Requer a realização de Audiência Pública para discutir aspectos de negociação das moedas digitais, bem como de proteção do portfólio de investidores das moedas virtuais com representantes da Comissão de Valores Mobiliários, da Superintendência de Seguros Privados e da Bolsa de Valores - B3 para que compartilhem as principais preocupações dos órgãos com relação à potenciais impactos das novas tecnologias com relação às suas áreas de atuação, de forma a subsidiar os trabalhos desta Comissão\".",
+   "objetos_possiveis": [
+    "REQ 31/2019"
+   ],
+   "efeitos": [
+    null
+   ]
+  },
+  {
+   "id": "2223834-2",
+   "descricao": "Aprovado",
+   "orgao": "PL230315",
+   "data": "2019-10-09",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento n. 30/2019, pelo Deputado Expedito Netto (PSD-RO), que: \"Requer a realização de Audiência Pública para discutir aspectos de negociação das moedas digitais, bem como de proteção do portfólio de investidores das moedas virtuais com representantes da Casa Civil da Presidência da República, para que apresentem a política geral do Governo Federal que coordene as ações de todos os órgãos públicos com relação ao tratamento a ser dado às moedas virtuais e às novas tecnologias digitais\".",
+   "objetos_possiveis": [
+    "REQ 30/2019"
+   ],
+   "efeitos": [
+    null
+   ]
+  },
+  {
+   "id": "2223830-2",
+   "descricao": "Aprovado",
+   "orgao": "PL230315",
+   "data": "2019-10-09",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento n. 29/2019, pelo Deputado Expedito Netto (PSD-RO), que: \"Requer a realização de Audiência Pública para discutir aspectos de negociação das moedas digitais, bem como de proteção do portfólio de investidores das moedas virtuais com a presença do representantes do Conselho Nacional de Política Fazendária e da Confederação Nacional de Municípios, para que apresentem as preocupações dos Estados e Municípios com relação ao tratamento a ser dado às moedas virtuais e às novas tecnologias digitais\".",
+   "objetos_possiveis": [
+    "REQ 29/2019"
+   ],
+   "efeitos": [
+    null
+   ]
+  },
+  {
+   "id": "2223829-2",
+   "descricao": "Aprovado",
+   "orgao": "PL230315",
+   "data": "2019-10-09",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento n. 28/2019, pelo Deputado Expedito Netto (PSD-RO), que: \"Requer a aprovação de missão oficial composta de membros da Comissão Especial do PL 2303/2015, para participar do Evento ELEV8CON - Unlocking Enterprise Blockchain & Digital Asset Strategies que será realizado no dia 08 de novembro de 2019 em Las Vegas (EUA), com ônus para a Câmara dos Deputados\".",
+   "objetos_possiveis": [
+    "REQ 28/2019"
+   ],
+   "efeitos": [
+    null
+   ]
+  },
+  {
+   "id": "2223828-2",
+   "descricao": "Aprovado",
+   "orgao": "PL230315",
+   "data": "2019-10-09",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento n. 27/2019, pelo Deputado Expedito Netto (PSD-RO), que: \"Requer a aprovação de missão oficial composta de membros da Comissão Especial do PL 2303/2015, para participar do Evento GENEVA ANNUAL BLOCKCHAIN CONGRESS que será realizado no dia 20 de janeiro de 2020 em Genebra (Suiça), com ônus para a Câmara dos Deputados\".",
+   "objetos_possiveis": [
+    "REQ 27/2019"
+   ],
+   "efeitos": [
+    null
+   ]
+  },
+  {
+   "id": "2223638-2",
+   "descricao": "Aprovado",
+   "orgao": "PL230315",
+   "data": "2019-10-09",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento de Audiência Pública n. 26/2019, pelo Deputado Gustinho Ribeiro (SOLIDARI-SE), que: \"Requer a realização de Audiência Pública com a presença de representantes das seguintes empresas: MM Turismo & Viagens (Maxmilhas); 123 Viagens e Turismo Ltda. (123 Milhas); EloMilhas e Cash Milhas\".",
+   "objetos_possiveis": [
+    "REQ 26/2019"
+   ],
+   "efeitos": [
+    null
+   ]
+  },
+  {
+   "id": "2222729-2",
+   "descricao": "Aprovado.",
+   "orgao": "PL230315",
+   "data": "2019-10-02",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento n. 25/2019, pelo Deputado Gustinho Ribeiro (SOLIDARI-SE), que: \"Requer a realização de audiência pública para discutir sobre criptoativos, criptoeconomia e blockchain com a presença dos seguintes convidados:\r\n- Erik Oioli, Sócio-diretor e fundador do VBSO Advogados. Especialista em Mercado de Capitais, Direito Bancário, Fusões e Aquisições, Contencioso e Arbitragem, Direito Contratual e Infraestrutura e Regulatório.\r\n- Bruno Balduccini, Sócio do Pinheiro Neto Advogados. Especialista em Direito Bancário, Financeiro e Cambial; Operações Estruturadas e Seguros e Resseguros.\r\n- Marcelo de Castro Cunha Filho, Mestre em Direito e Inovação. Participa, como pesquisador independente, de projeto sobre comunidades de ensino online, do Instituto de Tecnologia e Sociedade do Rio em parceria com o MIT Media Lab. Atua principalmente com os seguintes temas: Direito Econômico, Inovação Tecnológica, Propriedade Intelectual e Metodologia da Pesquisa em Direito.\r\n- Lucas Toccheton Pinsdorf, Fundador do Centro de Estudos do Mercado Financeiro e de Capitais - FDUSP e Business Development do Mercado Bitcoin.\r\n- Ricardo Fernandes Paixão, Chefe da Seção de Inovação para a Cidadania da Câmara dos Deputados; Professor da Universidade de Brasília - UnB e Especialista em Fintechs, Blockchain, Investimentos e Engenharia Econômica.\r\n- Edilson Osório Júnior, Cientista computacional, professor e especialista em segurança da informação e infraestrutura. Consultor em Blockchain do ITS-Rio e Coordenador de pesquisa da FGV Direito-SP.\r\n- Rodrigo Batista, Conselheiro e investidor em empresas de tecnologia. Trabalhou em diversas instituições financeiras como Morgan Stanley, Santander e BM&FBovespa. Graduado em administração de empresas pela USP e cursando o OPM (Owners/Presidents Management) em Harvard. Fundador do Mercado Bitcoin, maior corretora de moedas digitais da América Latina, que vendeu em 2019.\r\n- Tiago Reis, formado em administração de empresas pela FGV, com mais de 15 anos de experiência no mercado financeiro, foi sócio-fundador da Set Investimentos e é fundador da Suno Research\".",
+   "objetos_possiveis": [
+    "REQ 25/2019"
+   ],
+   "efeitos": [
+    null
+   ]
+  },
+  {
+   "id": "2221535-2",
+   "descricao": "Aprovado",
+   "orgao": "PL230315",
+   "data": "2019-09-25",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento de Audiência Pública n. 24/2019, pela Deputada Margarida Salomão (PT-MG), que: \"Requer a realização de audiência pública para debater a regulamentação das moedas virtuais, com os seguintes convidados:\r\n- Fernando Carvalho, CEO da QR Capital;\r\n- Fabro Steibel, Diretor do Instituto de Tecnologia Social - ITS;\r\n- Natália Langenegger, Advogada;\r\n- Edilson Osório Junior, Cientista computacional e especialista em segurança da informação; e\r\n- Fernando Ulrich, Mestre em economia e conselheiro do Instituto Mises Brasil.\r\n\".",
+   "objetos_possiveis": [
+    "REQ 24/2019"
+   ],
+   "efeitos": [
+    null
+   ]
+  },
+  {
+   "id": "2220513-3",
+   "descricao": "Aprovado",
+   "orgao": "PL230315",
+   "data": "2019-09-25",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento de Audiência Pública n. 23/2019, pelo Deputado Júnior Bozzella (PSL-SP), que: \"Requer que seja convidado o Advogado ARIOVALDO MOREIRA - OAB SP 113707, defensor dos hackers Gustavo Henrique Elias Santos e Suelen Oliveira, presos preventivamente no âmbito da Operação Spoofing, da Polícia Federal, inerente ao jornalista Glenn Greenwald, onde há indícios de que houve pagamento aos hackers com as moedas virtuais, no caso do Ministro Moro, e o Delegado da Polícia Federal - Luiz Flávio Zampronha de Oliveira, com a finalidade de serem ouvidos em Audiência Pública a realizar-se nesta Comissão Especial, que irá tratar sobre a ausência de normatização pelo Banco Central da fiscalização de moedas\".",
+   "objetos_possiveis": [
+    "REQ 23/2019"
+   ],
+   "efeitos": [
+    null
+   ]
+  },
+  {
+   "id": "2220509-2",
+   "descricao": "Aprovado.",
+   "orgao": "PL230315",
+   "data": "2019-09-18",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento de Audiência Pública n. 22/2019, pelo Deputado Júnior Bozzella (PSL-SP), que: \"Requer que seja convidado o Presidente da Associação dos Clientes de Corretoras de Criptoativos (ACCripto), DIEGO ANDRÉ MARTINS e o Presidente da Associação Brasileira de Criptoativos e Blockchain - ABCB, Sr. FERNANDO FURLAN, com a finalidade de serem ouvidos em Audiência Pública a realizar-se nesta Comissão Especial, que irá tratar sobre a ausência de normatização pelo Banco Central da fiscalização de moedas virtuais\".",
+   "objetos_possiveis": [
+    "REQ 22/2019"
+   ],
+   "efeitos": [
+    null
+   ]
+  },
+  {
+   "id": "2220246-2",
+   "descricao": "Aprovado.",
+   "orgao": "PL230315",
+   "data": "2019-09-18",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento de Audiência Pública n. 21/2019, pelo Deputado Aureo Ribeiro (SOLIDARI-RJ), que: \"Requer a realização de Audiência Pública para discutir os fechamentos repentinos das contas correntes de corretoras de criptomoedas com representantes das seguintes entidades: Banco Central do Brasil, Policia Federal, Conselho de Controle de Atividades Financeiras (COAF), Banco do Brasil, Banco Bradesco, Banco Itaú, Banco Santander, corretora de criptomoedas FoxBit, corretora de criptomoedas Mercado Bitcoin e corretora de criptomoedas CoinBR\".",
+   "objetos_possiveis": [
+    "REQ 21/2019"
+   ],
+   "efeitos": [
+    null
+   ]
+  },
+  {
+   "id": "2219170-2",
+   "descricao": "Aprovado",
+   "orgao": "PL230315",
+   "data": "2019-09-11",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento de Audiência Pública n. 20/2019, pelo Deputado Aureo Ribeiro (SOLIDARI-RJ), que: \"Requer a realização de Audiência Pública para discutir os planos de fidelização e seus impactos junto aos consumidores com a presença dos seguintes convidados: Roberto Chade - Presidente da Associação Brasileira das Empresas do Mercado de Fidelização - ABEMF; Marilena Lazzarini - Presidente do Instituto Brasileiro de Defesa do Consumidor - IDEC; Luciano Timm - Secretario Nacional do Consumidor - SENACON; Jorge Vianna - Presidente Avianca Brasil; Alexandre Zylberstajn - Sócio-diretor do Passageiro de Primeira, site especializado em programas de fidelidade; e Ricardo Sordi - Sócio do escritório Brasil Salomão e Matthes Advocacia e especialista em direito do consumidor\".",
+   "objetos_possiveis": [
+    "REQ 20/2019"
+   ],
+   "efeitos": [
+    null
+   ]
+  },
+  {
+   "id": "2219168-2",
+   "descricao": "Aprovado",
+   "orgao": "PL230315",
+   "data": "2019-09-11",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento de Audiência Pública n. 19/2019, pelo Deputado Aureo Ribeiro (SOLIDARI-RJ), que: \"Requer a realização de Audiência Pública para discutir sobre indícios de pirâmide financeira em operações das empresas 'Investimento Bitcoin' e 'Atlas Quantum' com a presença de representantes da Comissão de Valores Mobiliários - CVM, do Banco Central do Brasil - BACEN; do Ministério Público Federal; da Polícia Federal; da empresa 'Investimento Bitcoin'; da empresa 'Atlas Quantum'; da Associação Brasileira de Criptomoedas e Blockchain - ABCB; e com o investidor e especialista em criptomoedas, Sr. Fernando Ulrich\".",
+   "objetos_possiveis": [
+    "REQ 19/2019"
+   ],
+   "efeitos": [
+    null
+   ]
+  },
+  {
+   "id": "2218767-2",
+   "descricao": "Aprovado",
+   "orgao": "PL230315",
+   "data": "2019-09-11",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento n. 18/2019, pelo Deputado Igor Timo (PODE-MG), que: \"Requer a realização de Audiência Pública com membro da Associação Brasileira das Empresas Aéreas - ABEAR\".",
+   "objetos_possiveis": [
+    "REQ 18/2019"
+   ],
+   "efeitos": [
+    null
+   ]
+  },
+  {
+   "id": "2218760-2",
+   "descricao": "Aprovado",
+   "orgao": "PL230315",
+   "data": "2019-09-11",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento de Audiência Pública n. 17/2019, pelo Deputado João H. Campos (PSB-PE), que: \"Requer a realização de audiência pública para discutir sobre 'Institucionalização e Regulação de Mercados Disruptivos, em especial o Mercado de Criptoativos e de Blockchain' com os seguintes representantes: Rafael Sarres de Almeida - Analista do Banco Central do Brasil, Pesquisador de Blockchain e Professor de pós-graduação; Bruno Schmidt - Gerente de Soluções Blockchain no Banco do Brasil; Carlos Henrique Duarte - Líder Técnico de Blockchain para IBM Brasil; e José Reynaldo Formigoni Filho - Gerente de Soluções Blockchain no CPqD\".",
+   "objetos_possiveis": [
+    "REQ 17/2019"
+   ],
+   "efeitos": [
+    null
+   ]
+  },
+  {
+   "id": "2218162-2",
+   "descricao": "Aprovado",
+   "orgao": "PL230315",
+   "data": "2019-09-04",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento n. 16/2019, pelo Deputado Luis Miranda (DEM-DF), que: \"Requer a realização de audiência pública para discutir sobre as moedas virtuais com os seguintes convidados: Camila Villard Duran, Professora da USP; Rosine Kadamani, Sócia da Blockchain Academy; e Ministra do STJ, Nancy Andrighi\".",
+   "objetos_possiveis": [
+    "REQ 16/2019"
+   ],
+   "efeitos": [
+    null
+   ]
+  },
+  {
+   "id": "2217524-2",
+   "descricao": "Aprovado",
+   "orgao": "PL230315",
+   "data": "2019-09-04",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento de Audiência Pública n. 15/2019, pelo Deputado Delegado Pablo (PSL-AM), que: \"Requer a realização de audiência pública para discutir aspectos tributários dos criptoativos com os seguintes convidados: Tatiana Praxedes, sócia do Escritório Malgueiro Campos Advogados, mestre em Direito Tributário pela USP e especialista em tributação de criptoativos; Rafael Pontes de Miranda - Advogado, engenheiro eletricista e empreendedor. Especialista em Direito Tributário pelo Instituto Brasileiro de Estudos Tributários. Possui MBA em Contabilidade e Gestão Fiscal; e Geanluca Lorenzon, Diretor de Desburocratização da Secretaria de Desburocratização, Gestão e Governo Digital do Ministério da Economia\".",
+   "objetos_possiveis": [
+    "REQ 15/2019"
+   ],
+   "efeitos": [
+    null
+   ]
+  },
+  {
+   "id": "2217375-3",
+   "descricao": "Aprovado",
+   "orgao": "PL230315",
+   "data": "2019-09-04",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento de Audiência Pública n. 13/2019, pelo Deputado Fernando Monteiro (PP-PE), que: \"Requer a realização de audiência pública sobre o tema: Aspectos de Segurança e Compliance dos Criptoativos com a presença dos seguintes convidados: Ana Bati - especialista em criptoativos; Renata B. Souto Maior Baião - especialista em blockchain e Direito Digital; e Evandro Camilo - especialista em AML, KYC e compliance no setor de criptoativos\".",
+   "objetos_possiveis": [
+    "REQ 13/2019"
+   ],
+   "efeitos": [
+    null
+   ]
+  },
+  {
+   "id": "2217229-2",
+   "descricao": "Aprovado",
+   "orgao": "PL230315",
+   "data": "2019-08-28",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento n. 12/2019, pelo Deputado Luiz Philippe de Orleans e Bragança (PSL-SP), que: \"Requer a realização de audiência pública para discutir a natureza jurídica dos criptoativos com a presença do Advogado e Professor Dr. Alexei Bonamin\".",
+   "objetos_possiveis": [
+    "REQ 12/2019"
+   ],
+   "efeitos": [
+    null
+   ]
+  },
+  {
+   "id": "2216219-2",
+   "descricao": "Aprovado",
+   "orgao": "PL230315",
+   "data": "2019-08-28",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento de Audiência Pública n. 11/2019, pelo Deputado Aureo Ribeiro (SOLIDARI-RJ), que: \"Requer a realização de Audiência Pública com o intuito de discutir a Instrução Normativa nº 1.899/19, que trata da obrigatoriedade de prestação de informações relativas às operações realizadas com criptoativos à Secretaria Especial da Receita Federal do Brasil com os seguintes convidados: Elisa Henriques, especialista em criptomoedas do escritório Velloza Advogados; e Rafael Santiago, Auditor fiscal da Receita Federal e coordenador de estudos e atividades fiscais da Subsecretaria de Fiscalização.\r\n\".",
+   "objetos_possiveis": [
+    "REQ 11/2019"
+   ],
+   "efeitos": [
+    null
+   ]
+  },
+  {
+   "id": "2216217-2",
+   "descricao": "Aprovado, com a inclusão de convite ao Advogado e Professor Dr. Alexei Bonamin.",
+   "orgao": "PL230315",
+   "data": "2019-08-28",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento de Audiência Pública n. 10/2019, pelo Deputado Aureo Ribeiro (SOLIDARI-RJ), que: \"Requer a realização de Audiência Pública para discutir a natureza jurídica da moeda virtuais com os seguintes convidados: Representante do Ministério da Economia; Representante do Banco Central do Brasil; Representante da Ordem dos Advogados do Brasil - OAB; Representante do Procon do Distrito Federal; e Henrique Haruki Arake Cavalcante, especialista do assunto e doutor em direito Econômico\".",
+   "objetos_possiveis": [
+    "REQ 10/2019"
+   ],
+   "efeitos": [
+    null
+   ]
+  },
+  {
+   "id": "2216216-2",
+   "descricao": "Aprovado, com a especificação do representante do Banco Central do Brasil, Sr. Aristides Andrade Cavalcanti - Chefe-Adjunto do Deinf/Bacen, e a inclusão de representantes da Federação Brasileira de Bancos - FEBRABAN; do Banco BITCOIN; da Associação Nacional de Peritos Criminais Federais - ANPCF; da NegocieCoins e da TemBTC.",
+   "orgao": "PL230315",
+   "data": "2019-08-28",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento de Audiência Pública n. 9/2019, pelo Deputado Aureo Ribeiro (SOLIDARI-RJ), que: \"Requer a realização de Audiência Pública para discutir a criação da 'Libra', criptomoeda do Facebook, e suas consequências econômicas, sociais e para o sistema financeiro brasileiro com os seguintes convidados: Representante do Facebook; Representante do Ministério da Economia; Representante do Banco Central do Brasil; Representante do Ministério da Justiça; Representante do Conselho administrativo de Defesa Econômica (CADE); Representante da Associação Brasileira de Criptoeconomia (ABCripto); e Henrique Haruki Arake Cavalcante, especialista do assunto e doutor em direito Econômico\".",
+   "objetos_possiveis": [
+    "REQ 9/2019"
+   ],
+   "efeitos": [
+    null
+   ]
+  },
+  {
+   "id": "2216215-2",
+   "descricao": "Aprovado",
+   "orgao": "PL230315",
+   "data": "2019-08-28",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento de Audiência Pública n. 8/2019, pelo Deputado Aureo Ribeiro (SOLIDARI-RJ), que: \"Requer a realização de Audiência Pública para discutir as ações dos hackers nas corretoras de moedas virtuais e suas consequências para os investidores com a presença dos seguintes convidados: João Canhada, CEO Foxbit; Marcos Alves, CEO Mercado Bitcoin; Marcelo Rozgrin, Sócio Fundador Braziliex; Marco Tulio da Silva Lima, Gerente de Produto Blockchain no SERPRO - Serviço Federal de Processamento de Dados; e Daniel Mostardeiro Cola, Delegado Chefe da Delegacia de Repressão a Corrupção e Crimes Financeiros - DELECOR.\r\n\".",
+   "objetos_possiveis": [
+    "REQ 8/2019"
+   ],
+   "efeitos": [
+    null
+   ]
+  },
+  {
+   "id": "2216213-2",
+   "descricao": "Aprovado",
+   "orgao": "PL230315",
+   "data": "2019-08-28",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento de Audiência Pública n. 7/2019, pelo Deputado Aureo Ribeiro (SOLIDARI-RJ), que: \"Requer a realização de Audiência Pública para discutir Regulação do mercado de Moedas Virtuais com a presença de representantes das seguintes entidades: Ministério da Economia, Banco Central do Brasil, Receita Federal, Instituto de Defesa do Consumidor do Distrito Federal, Ministério da Justiça e Associação Brasileira de Criptoeconomia\".",
+   "objetos_possiveis": [
+    "REQ 7/2019"
+   ],
+   "efeitos": [
+    null
+   ]
+  },
+  {
+   "id": "2168380-2",
+   "descricao": "Aprovado, subscrito pelo Deputado Marcelo Matos.",
+   "orgao": "PL230315",
+   "data": "2018-04-18",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento n. 23/2018, pelo Deputado Roberto Sales (DEM-RJ), que: \"Requer a realização de reunião de Audiência Pública para que os seguintes representantes de empresas de arranjos de pagamentos colaborem com informações relevantes: FERNANDA RACHEL ZAGO ou \r\nMARTIN TITO CAVIGLIA SPINETTA ou representante legal da empresa ASTROPAY BRASIL LTDA e/ou da empresa SATURNO SERVIÇOS ADMINSTRATIVOS; JÚLIO CESAR HASS ou representante legal da empresa JETPAG COBRANÇAS LTDA; TIM WERNER ou representante legal da empresa Primeiro Pay Latin America; PHILIPP BOCK ou GABRIEL BARROS ou representante legal da empresa ALLPAGO; WAGNER RUIZ ou representante legal da empresa EBANX; e WITOLDO HENDRICH JÚNIOR representante legal da empresa Online IPS BRAZIL\".",
+   "objetos_possiveis": [
+    "REQ 23/2018"
+   ],
+   "efeitos": [
+    null
+   ]
+  },
+  {
+   "id": "2168379-2",
+   "descricao": "Aprovado",
+   "orgao": "PL230315",
+   "data": "2018-04-18",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento n. 22/2018, pelo Deputado Aureo (NI-RJ), que: \"Requer a realização de reunião de Audiência Pública com a presença do seguinte convidado: JOSEPH CUSCHIERI, Executive Chairman da Agência Reguladora de Jogos em Malta, denominada MGA (Malta Gaming Autorithy)\".",
+   "objetos_possiveis": [
+    "REQ 22/2018"
+   ],
+   "efeitos": [
+    null
+   ]
+  },
+  {
+   "id": "2166442-4",
+   "descricao": "Aprovado",
+   "orgao": "PL230315",
+   "data": "2018-04-18",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento de Audiência Pública n. 20/2017, pelo Deputado Aureo (NI-RJ), que: \"Requer a realização de Audiência Pública com o intuito de discutir o Comunicado Nº 31.379, de 16 de novembro de 2017, do Banco Central que alerta sobre os riscos decorrentes de operações de guarda e negociação das denominadas moedas virtuais, com a presença dos seguintes convidados: Sr. Otávio Ribeiro Damaso, Diretor de Regulação do Banco Central do Brasil; e Sr. Reinaldo Le Grazie, Diretor de Política Monetária do Banco Central\".",
+   "objetos_possiveis": [
+    "REQ 20/2017"
+   ],
+   "efeitos": [
+    null
+   ]
+  },
+  {
+   "id": "2163654-4",
+   "descricao": "Aprovado",
+   "orgao": "PL230315",
+   "data": "2018-04-18",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento n. 19/2017, pelo Deputado Aureo (NI-RJ), que: \"Requer a realização de Audiência Pública com o intuito de discutir os 'Novos Sistemas de Pagamento e seus impactos' com a presença do Sr. Guy Perelmuter - Engenheiro de Computação e Mestre em Inteligência Artificial\".",
+   "objetos_possiveis": [
+    "REQ 19/2017"
+   ],
+   "efeitos": [
+    null
+   ]
+  },
+  {
+   "id": "2162852-4",
+   "descricao": "Aprovado",
+   "orgao": "PL230315",
+   "data": "2018-04-18",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento de Audiência Pública n. 18/2017, pelo Deputado Aureo (NI-RJ), que: \"Requer a realização de Audiência Pública com o intuito de discutir os 'Planos de Fidelização e seus impactos juntos aos consumidores' com a presença dos seguintes convidados: Sr. Paulo Curro - Diretor da Associação Brasileira das Empresas do Mercado de Fidelização - ABEMF; e Sr. Jorge Antônio Deher Rachid - Secretário da Receita Federal do Brasil\".",
+   "objetos_possiveis": [
+    "REQ 18/2017"
+   ],
+   "efeitos": [
+    null
+   ]
+  },
+  {
+   "id": "2162444-4",
+   "descricao": "Aprovado, subscrito pelo Deputado Marcelo Matos.",
+   "orgao": "PL230315",
+   "data": "2018-04-18",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento n. 17/2017, pelo Deputado Wilson Beserra (MDB-RJ), que: \"Requer a realização de Audiência Pública com o intuito de debater sobre a 'criação e implementação do Sistema Nacional de Ativos Digitais', com a presença dos seguintes convidados: Sr. Eduardo C.S.R. Filho, programador e desenvolvedor Blockchain e diretor executivo da empresa Capital Digital Aberto; Srs. Jonathas Barbosa Moreira e Antônio Maia, representantes da Gelf Participações; Representante do Banco Central do Brasil; e Representante da Comissão de Valores Mobiliários (CVM)\".",
+   "objetos_possiveis": [
+    "REQ 17/2017"
+   ],
+   "efeitos": [
+    null
+   ]
+  },
+  {
+   "id": "2158482-5",
+   "descricao": "Aprovado",
+   "orgao": "PL230315",
+   "data": "2018-04-18",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento de Audiência Pública n. 16/2017, pelo Deputado Aureo (NI-RJ), que: \"Requer a realização de Audiência Pública com o intuito de discutir os 'efeitos das novas tecnologias, Blockchain e Criptomoedas, como tendências de pagamentos', com a presença dos seguintes convidados: Sr. Marcelo Eisele, sócio da Rnet Consulting e especialista em Cash Management; Sr. Edilson Osório Júnior, fundador do OriginalMy.com; e Sr. Marcelo Castro Barbosa, Engenheiro Mecatrônico com experiência em Private Equity pela Temasek, companhia de investimento do governo de Singapura\".",
+   "objetos_possiveis": [
+    "REQ 16/2017"
+   ],
+   "efeitos": [
+    null
+   ]
+  },
+  {
+   "id": "2158479-5",
+   "descricao": "Aprovado",
+   "orgao": "PL230315",
+   "data": "2018-04-18",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento de Audiência Pública n. 15/2017, pelo Deputado Aureo (NI-RJ), que: \"Requer a realização de Audiência Pública com o intuito de discutir os 'efeitos das novas tecnologias, Blockchain e Criptomoedas, como tendências de pagamentos', com a presença dos seguintes convidados: Sr. Gabriel Rhama, vanguardista das criptomoedas no Brasil, e Sr. Fernando Pavani, fundador e CEO da BeeTech, primeira empresa focada em soluções cambiais totalmente online.\r\n\".",
+   "objetos_possiveis": [
+    "REQ 15/2017"
+   ],
+   "efeitos": []
+  },
+  {
+   "id": "2153569-2",
+   "descricao": "Aprovado",
+   "orgao": "PL230315",
+   "data": "2017-10-10",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento de Audiência Pública n. 14/2017, pelo Deputado Aureo (NI-RJ), que: \"Requer a realização de Audiência Pública com o intuito de discutir e trazer mais esclarecimentos acerca de Moedas Virtuais, Bitcoin e Blockchain, com a presença dos seguintes convidados: Sr. Oliver Cunningham, um dos maiores especialistas em Bitcoin no Brasil, é sócio da KPMG, empresa de consultoria e auditoria; e Sr. Courtnay Guimarães, estatístico, engenheiro de sistemas, facilitador e cientista, que possui clientes como Bradesco, Santander, Cielo, Banco Central do Canadá, Rede Globo de Televisão, dentre outros\".",
+   "objetos_possiveis": [
+    "REQ 14/2017"
+   ],
+   "efeitos": [
+    null
+   ]
+  },
+  {
+   "id": "2152857-3",
+   "descricao": "Aprovado com a subscrição do Dep. Alexandre Valle.",
+   "orgao": "PL230315",
+   "data": "2017-10-03",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento de Audiência Pública n. 13/2017, pelo Deputado Aureo (NI-RJ), que: \"Requer a realização de Audiência Pública com o intuito de debater a Operação Patrick, que envolveu a compra e venda de moedas virtuais, com a presença dos seguintes expositores: Sr. Wisley Salomão, Delegado Coordenadoria de Repressão aos Crimes contra o Consumidor, a Ordem Tributária e a Fraudes (Corf) da Polícia Civil do DF; e Sr. Paulo Binicheski, 1ª Promotoria de Defesa do Consumidor (Prodecon) do Ministério Público\".",
+   "objetos_possiveis": [
+    "REQ 13/2017"
+   ],
+   "efeitos": [
+    null
+   ]
+  },
+  {
+   "id": "2151841-3",
+   "descricao": "Aprovado com a subscrição do Dep. Aureo.",
+   "orgao": "PL230315",
+   "data": "2017-10-03",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento de Audiência Pública n. 12/2017, pelo Deputado Expedito Netto (PSD-RO), que: \"Requer realização de Audiência Pública para debater a 'Possibilidade de crimes, no âmbito do mercado de moedas virtuais, e as suas implicações para os consumidores' com os seguintes convidados: Representante do Ministério Público Federal e Representante da Secretaria Nacional do Consumidor\".",
+   "objetos_possiveis": [
+    "REQ 12/2017"
+   ],
+   "efeitos": [
+    null
+   ]
+  },
+  {
+   "id": "2151639-3",
+   "descricao": "Aprovado",
+   "orgao": "PL230315",
+   "data": "2017-10-03",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento de Audiência Pública n. 11/2017, pelo Deputado Aureo (NI-RJ), que: \"Requer a realização de Audiência Pública com o intuito de discutir os 'Efeitos dos 'Bitcoins' como arranjos de pagamentos' com os seguintes convidados: Sr. Alexandre Linhares, Professor da Escola de Administração Pública e de Empresas - EBAPE; e Sr. Rogério Mori - Professor da Escola de Economia da Fundação Getúlio Vargas - FGV\".",
+   "objetos_possiveis": [
+    "REQ 11/2017"
+   ],
+   "efeitos": [
+    null
+   ]
+  },
+  {
+   "id": "2150787-2",
+   "descricao": "Aprovado",
+   "orgao": "PL230315",
+   "data": "2017-09-13",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento de Audiência Pública n. 10/2017, pelo Deputado Aureo (NI-RJ), que: \"Requer seja convidado o Ministro de Estado da Fazenda, Senhor Henrique Meirelles, para discutir o cenário atual e futuro das moedas virtuais como arranjos de pagamentos\".",
+   "objetos_possiveis": [
+    "REQ 10/2017"
+   ],
+   "efeitos": [
+    null
+   ]
+  },
+  {
+   "id": "2149158-2",
+   "descricao": "Aprovado",
+   "orgao": "PL230315",
+   "data": "2017-08-30",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento de Audiência Pública n. 9/2017, pelo Deputado Gilberto Nascimento (PSC-SP), que: \"Requer a realização de Audiência Pública para discutir 'Arranjos de Pagamentos em Âmbito Mundial, com Ênfase nas Criptomoedas', com a participação do Senhor WITOLDO HENDRICH JÚNIOR, Mestre em Administração de Empresas, Professor de Direito Tributário e Fundador da 'Online IPS Brazil'\".",
+   "objetos_possiveis": [
+    "REQ 9/2017"
+   ],
+   "efeitos": [
+    null
+   ]
+  },
+  {
+   "id": "2148687-2",
+   "descricao": "Aprovado",
+   "orgao": "PL230315",
+   "data": "2017-08-30",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento de Audiência Pública n. 8/2017, pelo Deputado Alexandre Valle (PR-RJ), que: \"Solicita realização de Audiência Pública para discutir e trazer mais esclarecimentos acerca de Moedas Virtuais, Bitcoin, Blockchain & Criptocurrencies, com os seguintes convidados: Rodrigo Vieira - Advogado especialista em Direito do Mercado Financeiro e de Capitais, Sócio do Tozzini Freire Advogados e conhecedor das melhores práticas no uso da tecnologia; Diego Perez - Presidente da Equity - Associação Brasileira de Equity Crowdfunding, especialista em Direito Digital e das Novas Tecnologias, Bruno Balduccini - Advogado em Direito Bancário e do Mercado Financeiro e sócio do Pinheiro Neto Advogados; Juarez Freitas - Professor da UFRGS e Pres. do Cons. Científico do IBRAEDP; Pablo Cerdeira - Professor e coordenador do Centro de Pesquisas em Direito e Tecnologia da FGV Direito Rio; Evandro Pontes - Advogado, Mestre e Doutor pela USP e com 23 anos de experiencia em Direito Bancário; Professor de Direito do Mercado de Capitais e Direito Societário; Erik Oioli - Advogado, Mestre e Doutor em Direito pela USP, Coordenador do Mestrado em Direito Societário no IICS e com 20 anos de experiência em Direito Bancário, Mercado de Capitais e Indústria de Fundos; Carlos Mendes - Professor da Universidade Federal do Rio de Janeiro UFRJ; Marcelo Godke - Advogado com mais de 20 anos de experiência em Direito Bancário, do Mercado Financeiro e de Capitais e Professor do Insper\".",
+   "objetos_possiveis": [
+    "REQ 8/2017"
+   ],
+   "efeitos": [
+    null
+   ]
+  },
+  {
+   "id": "2146883-2",
+   "descricao": "Aprovado",
+   "orgao": "PL230315",
+   "data": "2017-08-30",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento de Audiência Pública n. 7/2017, pelo Deputado Roberto Sales (DEM-RJ), que: \"Requer a realização de reunião de Audiência Pública com empresas de arranjos de pagamentos com a participação dos seguintes convidados: Representante do Banco Central do Brasil; Representante da Caixa Econômica Federal; Representante do Banco do Brasil; Sra. Fernanda Rachel Zago, representante legal da empresa TIKREL INVESTIMENT e da empresa DICLOMERC SERVIÇOS TÉCNICOS; Sr. Martin Tito Caviglia Spinetta, sócio administrador da empresa ASTROPAY BRASIL LTDA e da empresa SATURNO SERVIÇOS ADMINSTRATIVOS; e Sr. Júlio Cesar Hass, sócio administrador da empresa JETPAG COBRANÇAS LTDA\".",
+   "objetos_possiveis": [
+    "REQ 7/2017"
+   ],
+   "efeitos": [
+    null
+   ]
+  },
+  {
+   "id": "2143508-3",
+   "descricao": "Aprovado, com a subscrição do Dep. Aureo.",
+   "orgao": "PL230315",
+   "data": "2017-07-12",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento n. 6/2017, pelo Deputado Newton Cardoso Jr (MDB-MG), que: \"Solicita seja convidado o Presidente da coinBR.net, Rocelo Lopes; a fim de discutir e trazer mais esclarecimentos acerca de Moedas Virtuais, Bitcoin, Blockchain & Criptocurrencies\".",
+   "objetos_possiveis": [
+    "REQ 6/2017"
+   ],
+   "efeitos": [
+    null
+   ]
+  },
+  {
+   "id": "2142104-3",
+   "descricao": "Aprovado, com a subscrição do Dep. Wilson Beserra e com a inclusão do nome da Sra. Manuela de Carvalho Sanches, Diretora jurídica da Livelo, entre os convidados.",
+   "orgao": "PL230315",
+   "data": "2017-07-12",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento de Audiência Pública n. 5/2017, pelo Deputado Aureo (NI-RJ), que: \"Requer a realização de Audiência Pública com o intuito de discutir os Planos de Fidelização e seus impactos juntos aos consumidores com os seguintes convidados: Sr. Antônio Gustavo Rodrigues - Presidente do Conselho de Controle de Atividades Financeiras - COAF; Sr. Anselmo Pereira Araújo Neto - Consultor do Depto. de Regulação do Sistema Financeiro do Banco Central; Otávio Araújo - Diretor da Associação Brasileira das Empresas do Mercado de Fidelização - ABEMF e Vice-Presidente de operações da Dotz; André Fehlauer - Diretor de Produtos da Smiles; Ricardo Gazetta - Diretor de Novos Negócios da Multiplus Fidelidade; Representante do Clube Tudo Azul - Azul Linhas Aéreas; Representante da Cliente Mais Pão de Açúcar - Pão de Açúcar; e Representante da Amigo Avianca - Avianca Brasil\".",
+   "objetos_possiveis": [
+    "REQ 5/2017"
+   ],
+   "efeitos": [
+    null
+   ]
+  },
+  {
+   "id": "2142103-3",
+   "descricao": "Aprovado",
+   "orgao": "PL230315",
+   "data": "2017-07-12",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento de Audiência Pública n. 4/2017, pelo Deputado Aureo (NI-RJ), que: \"Requer a realização de Audiência Pública com o intuito de discutir os efeitos dos 'Bitcoins' como arranjos de pagamentos (corretoras) com os seguintes convidados: Rodrigo Batista - Mercadobitcoin; Sr. Felipe Trovão - Foxbit; Sr. Felipe Micaroni - Walltime; Sr. Rocelo Lopes - CoinBr; Sr. André Horta - Bitcointoyou; e Sr. Rodrigo Pimenta - BitOfertas\".",
+   "objetos_possiveis": [
+    "REQ 4/2017"
+   ],
+   "efeitos": [
+    null
+   ]
+  },
+  {
+   "id": "2141244-3",
+   "descricao": "Aprovado",
+   "orgao": "PL230315",
+   "data": "2017-07-12",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento de Audiência Pública n. 3/2017, pelo Deputado Aureo (NI-RJ), que: \"Requer a realização de Audiência Pública com o intuito de discutir os efeitos dos 'Bitcoins' como arranjos de pagamentos com a presença dos seguintes convidados: Sr. Fábio Lacerda - Banco Central do Brasil - BACEN; Sr. Leonardo Pereira - Comissão de Valores Mobiliários - CVM; Sr. Antônio Gustavo Rodrigues - Presidente do Conselho de Controle de Atividades Financeiras - COAF; Sr. Antônio Carlos Ferreira de Sousa - Conselho de Controle de Atividades Financeiras - COAF; Sr. Walter Barelli - Instituto Brasileiro do Consumidor - IDEC; Sr. Hélio Oliveira - Diretor do Instituto Brasileiro do Consumidor - IDEC; Sra. Rosine Kadamani - do Blockchain Academy; Sr. Evandro Camilo Vieira - Professor Fundação Getúlio Vargas - FGV\".",
+   "objetos_possiveis": [
+    "REQ 3/2017"
+   ],
+   "efeitos": [
+    null
+   ]
+  },
+  {
+   "id": "2140592-3",
+   "descricao": "Aprovado, com inclusão do nome da Sra.Taynaah Reis, co-fundadora da \"Moeda\", entre os convidados.",
+   "orgao": "PL230315",
+   "data": "2017-07-12",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento de Audiência Pública n. 2/2017, pelo Deputado Alexandre Valle (PR-RJ), que: \"Requer a realização de Audiência Pública, para discutir e trazer mais esclarecimentos acerca de MOEDAS VIRTUAIS, Bitcoin, Blockchain & Criptocurrencies, com a presença dos seguintes convidados: Sra. Helena Margarido, Advogada, investidora e mentora de Startups e especialista em novas tecnologias; e Sr. Spencer Toth Sydow, doutor em direito pela USP, autor do livro 'Crimes Informáticos e suas Vitimas', Advogado senior e Professor de graduação e pós graduação em Ciências Politica Criminal\".",
+   "objetos_possiveis": [
+    "REQ 2/2017"
+   ],
+   "efeitos": [
+    null
+   ]
+  },
+  {
+   "id": "2140054-2",
+   "descricao": "Aprovado com a inclusão dos seguintes nomes: Fernando Ulrich, Economista e autor do livro \"Bitcoin - A Moeda da Era Digital\"; e Marcos Henrique, sócio da FOXBIT.",
+   "orgao": "PL230315",
+   "data": "2017-06-07",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento de Audiência Pública n. 1/2017, pelo Deputado Expedito Netto (PSD-RO), que: \"Requer realização de Audiência Pública para debater os impactos das moedas virtuais, em especial o bitcoins, na economia brasileira, com a presença dos seguintes convidados: Jorge Rachid - Secretário da Receita Federal do Brasil; Ilan Goldfajn - Presidente do Banco Central do Brasil; Marcelo Miranda - Diretor Executivo da FlowBTC; e João Goldim - Prof. de Ciência da Computação\".",
+   "objetos_possiveis": [
+    "REQ 1/2017"
+   ],
+   "efeitos": [
+    null
+   ]
+  },
+  {
+   "id": "2223951-17",
+   "descricao": "Alteração do Regime de Tramitação desta proposição em virtude da Aprovação do REQ 2639/2019.",
+   "orgao": "PLEN",
+   "data": "2019-10-16",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento de Urgência (Art. 155 do RICD) n. 2639/2019, pelo Liderança Líderes, que: \"Nos termos do art. 155 do Regimento Interno da Câmara dos Deputados, requeiro urgência para apreciação do PL 5.385/2019.\r\n\".",
+   "objetos_possiveis": [
+    "REQ 2639/2019"
+   ],
+   "efeitos": []
+  },
+  {
+   "id": "2331248-2",
+   "descricao": "Aprovado.",
+   "orgao": "CSAUDE",
+   "data": "2022-10-19",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento n. 126/2022, pela Deputada Vivi Reis (PSOL/PA), que \"Requer a realização de audiência pública para debater o Projeto de Lei no 4224/2021, que “Institui medidas de proteção à criança e ao adolescente contra violências”\".",
+   "objetos_possiveis": [
+    "REQ 126/2022"
+   ],
+   "efeitos": [
+    null
+   ]
+  },
+  {
+   "id": "1227859-2",
+   "descricao": "Aprovado",
+   "orgao": "PL423812",
+   "data": "2015-05-07",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento de Audiência Pública n. 3/2015, pelo Deputado Major Olimpio (PDT-SP), que: \"Solicita a realização de Audiência Pública com a presença do Presidente da Confederação dos Trabalhadores em Segurança Privada - CONTRASP - Sr. João Soares\".",
+   "objetos_possiveis": [
+    "REQ 3/2015"
+   ],
+   "efeitos": [
+    null
+   ]
+  },
+  {
+   "id": "1203526-2",
+   "descricao": "Aprovado",
+   "orgao": "PL423812",
+   "data": "2015-04-16",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento de Audiência Pública n. 2/2015, pelo Deputado Wellington Roberto (PR-PB), que: \"Solicita a realização de Audiência Pública com a presença do Presidente do Sindicato das Empresas de Segurança Privada, Segurança Eletrônica e Cursos de Formação do Estado de São Paulo, senhor João Eliezer Palhuca, do Presidente da Confederação Nacional dos Vigilantes, senhor José Boaventura e do senhor Jeferson Furlan Nazário, Presidente da Federação Nacional das Empresas de Segurança e Transporte de Valores, para prestarem esclarecimentos e informações que embasem esta Comissão Especial\".",
+   "objetos_possiveis": [
+    "REQ 2/2015"
+   ],
+   "efeitos": [
+    null
+   ]
+  },
+  {
+   "id": "1203523-2",
+   "descricao": "Aprovado",
+   "orgao": "PL423812",
+   "data": "2015-04-16",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento de Audiência Pública n. 1/2015, pelo Deputado Wellington Roberto (PR-PB), que: \"Solicita a realização de Audiência Pública com a presença dos senhores Secretário de Estado de Defesa Social, Bernardo Santana, (Presidente do Colégio Nacional de Secretários de Segurança Pública (Consesp)), do senhor Pedro Oscar Viotto - Diretor Setorial de Segurança Bancária da Federação Brasileira de Bancos - FEBRABAN e do senhor Carlos Cordeiro - Presidente da Confederação Nacional dos Trabalhadores do Ramo Financeiro, para prestarem esclarecimentos e informações que embasem esta Comissão Especial\".",
+   "objetos_possiveis": [
+    "REQ 1/2015"
+   ],
+   "efeitos": [
+    null
+   ]
+  },
+  {
+   "id": "618594-2",
+   "descricao": "Aprovado, cam inclusão de convite ao Sr. José Eduardo Cardoso, Ministro da Justiça.",
+   "orgao": "PL423812",
+   "data": "2014-06-10",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do Requerimento n. 2/2014, pelo Deputado Eudes Xavier (PT-CE), que: \"Requer a realização de Seminário   em Fortaleza/CE,  da COMISSÃO ESPECIAL DESTINADA A PROFERIR PARECER AO PROJETO DE LEI Nº 4.238, DE 2012, DO SENADO FEDERAL - PISO DOS VIGILANTES\".",
+   "objetos_possiveis": [
+    "REQ 2/2014"
+   ],
+   "efeitos": [
+    null
+   ]
+  },
+  {
+   "id": "2092056-68",
+   "descricao": "Alteração do Regime de Tramitação desta proposição em virtude da alteração do regime do PL 4997/2019, por ter sido aprovado o REQ 4820/2024 que está apensado ao primeiro.",
+   "orgao": "PLEN",
+   "data": "2024-12-09",
+   "abertura": null,
+   "ultima_proposicao": "Apresentação do REQ n. 3403/2023 (Requerimento de Apensação), pelo Deputado Alberto Fraga (PL/DF), que \"Requer, nos termos regimentais apontados, o apensamento do Projeto de Lei nº 5846/2016 ao Projeto de Lei nº 5845/2016, por tratarem de matérias correlatas\".",
+   "objetos_possiveis": [
+    "REQ 3403/2023"
+   ],
+   "efeitos": []
+  }
+ ],
+ "falhas": []
+}

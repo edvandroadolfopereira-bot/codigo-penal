@@ -1,0 +1,43 @@
+ano;regime;cargos;forma;data_do_pleito;observacao;fonte
+1945;Estado Novo;P L;direta;2 de dezembro;"Estado Novo cai; 1a eleicao apos 1934";TSE, Cronologia das eleicoes
+1947;Republica de 1946;L G A M;direta;19 de janeiro;;TSE, Cronologia das eleicoes
+1950;Republica de 1946;P L G A M;direta;3 de outubro;geral completa;TSE, Cronologia das eleicoes
+1954;Republica de 1946;L G A M;direta;3 de outubro;;TSE, Cronologia das eleicoes
+1955;Republica de 1946;P G M;direta;3 de outubro;;TSE, Cronologia das eleicoes
+1958;Republica de 1946;L G A M;direta;3 de outubro;;TSE, Cronologia das eleicoes
+1960;Republica de 1946;P G M;direta;3 de outubro;;TSE, Cronologia das eleicoes
+1962;Republica de 1946;L G A M;direta;7 de outubro;;TSE, Cronologia das eleicoes
+1964;Ditadura militar;p;INDIRETA;11 de abril;INDIRETA pelo Congresso, art. 2 do AI-1;TSE, Cronologia das eleicoes
+1965;Ditadura militar;G M;direta;3 de outubro;+ eleicao parcial de senador por Goias em junho;TSE, Cronologia das eleicoes
+1966;Ditadura militar;p L g A M;direta e indireta;"P indireta 3 out; L/A/M 15 nov; G indireta 3 set";"AI-2 e AI-3; a partir daqui governador vira indireto ate 1982";TSE, Cronologia das eleicoes
+1968;Ditadura militar;M;direta;15 de novembro;so RS, AM e SP;TSE, Cronologia das eleicoes
+1969;Ditadura militar;p M;direta e indireta;"P indireta 25 out; M 30 nov";"AI-16; municipal em 8 estados";TSE, Cronologia das eleicoes
+1970;Ditadura militar;L g A M;direta e indireta;"L/A/M 15 nov; G indireta 3 out";;TSE, Cronologia das eleicoes
+1972;Ditadura militar;M;direta;15 de novembro;;TSE, Cronologia das eleicoes
+1974;Ditadura militar;p L g A;direta e indireta;"P indireta 15 jan; L/A 15 nov; G indireta 3 out";;TSE, Cronologia das eleicoes
+1976;Ditadura militar;M;direta;15 de novembro e 20 de dezembro;;TSE, Cronologia das eleicoes
+1978;Ditadura militar;p L g A;direta e indireta;"P indireta 15 out; L/A 15 nov; G indireta 1 set";;TSE, Cronologia das eleicoes
+1982;Ditadura militar;L G A M;direta;15 de novembro;governador VOLTA a ser direto, EC 15/1980;TSE, Cronologia das eleicoes
+1985;Nova Republica;p M;direta e indireta;"P indireta 15 jan; M 15 nov";ultimo colegio eleitoral;TSE, Cronologia das eleicoes
+1986;Nova Republica;L G A M;direta;15 de novembro;Camara eleita e a Constituinte;TSE, Cronologia das eleicoes
+1988;Nova Republica;L G A M;direta;15 de novembro;"so Tocantins, art. 13 do ADCT; municipal geral";TSE, Cronologia das eleicoes
+1989;Nova Republica;P M;direta;"P 15 nov e 17 dez; M 16 abr e 15 nov/17 dez";1a presidencial direta apos a ditadura;TSE, Cronologia das eleicoes
+1990;Nova Republica;L G A;direta;"3 de outubro; G 2o turno 25 nov";;TSE, Cronologia das eleicoes
+1992;Nova Republica;M;direta;3 de outubro e 15 de novembro;;TSE, Cronologia das eleicoes
+1994;Nova Republica;P L G A;direta;"3 de outubro; G 2o turno 15 nov";;TSE, Cronologia das eleicoes
+1996;Nova Republica;M;direta;3 de outubro e 15 de novembro;;TSE, Cronologia das eleicoes
+1998;Nova Republica;P L G A;direta;"4 de outubro; G 2o turno 25 nov";;TSE, Cronologia das eleicoes
+2000;Nova Republica;M;direta;1 de outubro e 29 de outubro;;TSE, Cronologia das eleicoes
+2002;Nova Republica;P L G A;direta;6 de outubro e 27 de outubro;;TSE, Cronologia das eleicoes
+2004;Nova Republica;M;direta;3 de outubro e 31 de outubro;;TSE, Cronologia das eleicoes
+2006;Nova Republica;P L G A;direta;1 de outubro e 29 de outubro;;TSE, Cronologia das eleicoes
+2008;Nova Republica;M;direta;5 de outubro e 26 de outubro;;TSE, Cronologia das eleicoes
+2010;Nova Republica;P L G A;direta;3 de outubro e 31 de outubro;;TSE, Cronologia das eleicoes
+2012;Nova Republica;M;direta;7 de outubro e 28 de outubro;;TSE, Cronologia das eleicoes
+2014;Nova Republica;P L G A;direta;5 de outubro e 26 de outubro;;TSE, Cronologia das eleicoes
+2016;Nova Republica;M;direta;2 de outubro e 30 de outubro;;TSE, Cronologia das eleicoes
+2018;Nova Republica;P L G A;direta;7 de outubro e 28 de outubro;;TSE, Cronologia das eleicoes
+2020;Nova Republica;M;direta;15 de novembro e 29 de novembro;;TSE, Cronologia das eleicoes
+2022;Nova Republica;P L G A;direta;2 de outubro e 30 de outubro;;TSE, Cronologia das eleicoes
+2024;Nova Republica;M;direta;6 de outubro e 27 de outubro;;TSE, Cronologia das eleicoes
+2026;Nova Republica;P L G A;direta;em curso na data desta apuracao;nao consta da Cronologia, que se encerra em 2024;em curso, fora da Cronologia

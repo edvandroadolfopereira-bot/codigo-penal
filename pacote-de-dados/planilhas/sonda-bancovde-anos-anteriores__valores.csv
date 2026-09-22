@@ -1,0 +1,7 @@
+chave;valor
+gerado_por;sondar_bancovde_anos_anteriores.py
+data;2026-09-22 17:07:25
+pergunta;o padrao de endereco do banco do Sinesp VDE responde para os anos anteriores a 2015, que a pagina oficial nao lista?
+padrao_de_endereco;https://www.gov.br/mj/pt-br/assuntos/sua-seguranca/seguranca-publica/estatistica/download/dnsp-base-de-dados/bancovde-0.xlsx/@@download/file
+criterio;"o corpo tem que comecar com os bytes PK, que e a assinatura do xlsx, e passar de mil bytes; codigo HTTP 200 sozinho nao prova arquivo"
+resposta;a fonte oficial NAO oferece nenhum ano anterior a 2015 neste padrao

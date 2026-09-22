@@ -1,0 +1,12 @@
+presidente;periodo;anos;eventos;eventos_total;eventos_por_ano;agrava_ou_cria_por_ano
+Luiz Inácio Lula da Silva;2023-01-01 a em curso;3.72;"{""agrava"": 13, ""cria pena"": 7, ""abranda"": 5, ""mantem"": 1}";26;6.98;5.37
+Fernando Henrique Cardoso;1995-01-01 a 1999-01-01;4.0;"{""agrava"": 14, ""abranda"": 6, ""mantem"": 1, ""cria pena"": 2}";23;5.75;4.0
+Jair Messias Bolsonaro;2019-01-01 a 2023-01-01;4.0;"{""cria pena"": 21, ""agrava"": 2}";23;5.75;5.75
+Fernando Henrique Cardoso;1999-01-01 a 2003-01-01;4.0;"{""agrava"": 3, ""cria pena"": 15}";18;4.5;4.5
+Fernando Collor;1990-03-15 a 1992-10-02;2.55;"{""agrava"": 4, ""abranda"": 2}";6;2.35;1.57
+Luiz Inácio Lula da Silva;2003-01-01 a 2011-01-01;8.0;"{""mantem"": 1, ""agrava"": 9, ""abranda"": 2, ""cria pena"": 5}";17;2.12;1.75
+Michel Temer;2016-05-12 a 2019-01-01;2.64;"{""cria pena"": 2, ""agrava"": 2}";4;1.52;1.52
+Dilma Rousseff;2011-01-01 a 2016-05-12;5.36;"{""cria pena"": 5, ""mantem"": 2, ""abranda"": 1}";8;1.49;0.93
+Costa e Silva;1967-03-15 a 1969-08-31;2.46;"{""agrava"": 2}";2;0.81;0.81
+Itamar Franco;1992-10-02 a 1995-01-01;2.25;"{""mantem"": 1}";1;0.44;0.0
+João Baptista Figueiredo;1979-03-15 a 1985-03-15;6.0;"{""mantem"": 1, ""agrava"": 1}";2;0.33;0.17

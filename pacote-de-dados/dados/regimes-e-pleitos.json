@@ -1,0 +1,105 @@
+{
+  "regimes": [
+    {
+      "regime": "Estado Novo",
+      "de": 1940,
+      "ate": 1945,
+      "anos": 6,
+      "anos_com_pleito": 1,
+      "anos_sem_pleito": 5,
+      "pleitos": [
+        1945
+      ],
+      "descricao": "ditadura civil de Vargas; o Codigo Penal NASCE aqui, por decreto-lei, sem Congresso",
+      "normas_que_tocaram_o_CP": 2,
+      "normas_que_ALTERARAM_o_texto": 0,
+      "alteradoras_por_ano": 0.0
+    },
+    {
+      "regime": "Republica de 1946",
+      "de": 1946,
+      "ate": 1964,
+      "anos": 19,
+      "anos_com_pleito": 8,
+      "anos_sem_pleito": 11,
+      "pleitos": [
+        1947,
+        1950,
+        1954,
+        1955,
+        1958,
+        1960,
+        1962,
+        1964
+      ],
+      "descricao": "democracia representativa com eleicao direta para todos os cargos",
+      "normas_que_tocaram_o_CP": 6,
+      "normas_que_ALTERARAM_o_texto": 3,
+      "alteradoras_por_ano": 0.158
+    },
+    {
+      "regime": "Ditadura militar",
+      "de": 1964,
+      "ate": 1985,
+      "anos": 22,
+      "anos_com_pleito": 12,
+      "anos_sem_pleito": 10,
+      "pleitos": [
+        1964,
+        1965,
+        1966,
+        1968,
+        1969,
+        1970,
+        1972,
+        1974,
+        1976,
+        1978,
+        1982,
+        1985
+      ],
+      "descricao": "Presidente e, de 1966 a 1978, Governador eleitos INDIRETAMENTE",
+      "normas_que_tocaram_o_CP": 19,
+      "normas_que_ALTERARAM_o_texto": 14,
+      "alteradoras_por_ano": 0.636
+    },
+    {
+      "regime": "Nova Republica",
+      "de": 1985,
+      "ate": 2026,
+      "anos": 42,
+      "anos_com_pleito": 23,
+      "anos_sem_pleito": 19,
+      "pleitos": [
+        1985,
+        1986,
+        1988,
+        1989,
+        1990,
+        1992,
+        1994,
+        1996,
+        1998,
+        2000,
+        2002,
+        2004,
+        2006,
+        2008,
+        2010,
+        2012,
+        2014,
+        2016,
+        2018,
+        2020,
+        2022,
+        2024,
+        2026
+      ],
+      "descricao": "transicao em 1985; Constituicao de 1988; direta para Presidente desde 1989",
+      "normas_que_tocaram_o_CP": 110,
+      "normas_que_ALTERARAM_o_texto": 98,
+      "alteradoras_por_ano": 2.333
+    }
+  ],
+  "total_anos_de_pleito_1940_2026": 42
+}

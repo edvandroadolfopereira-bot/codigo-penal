@@ -1,0 +1,684 @@
+{
+ "gerado_em": "30/08/2026",
+ "o_que_se_mede": "eventos de AGRAVAMENTO de pena por ano, e nao contagem de normas. Agravamento inclui criar pena onde nao havia",
+ "fonte_dos_eventos": "cp-eventos-de-severidade.csv",
+ "eventos_totais": 130,
+ "eventos_de_agravamento": 107,
+ "eventos_de_abrandamento": 16,
+ "anos_com_ao_menos_um_evento": 28,
+ "primeiro_ano_com_evento": 1968,
+ "limite_declarado": "a serie e' rala antes de 1990 por propriedade da FONTE, que exibe apenas a anotacao sobrevivente. O recorte de 1940 nao mede o periodo antigo, mede o que sobreviveu dele",
+ "testes": {
+  "serie inteira, sem o ano em curso": {
+   "GOVERNADOR direto": {
+    "recorte": "1940 a 2025",
+    "anos_no_recorte": 81,
+    "anos_excluidos_por_zero_estrutural": [
+     1940,
+     1941,
+     1942,
+     1943,
+     1944
+    ],
+    "anos_COM_pleito": 20,
+    "anos_SEM_pleito": 61,
+    "normas_no_recorte": 99,
+    "examinavel": true,
+    "normas_no_grupo": 20,
+    "normas_fora": 79,
+    "media_no_grupo": 1.0,
+    "media_fora": 1.2951,
+    "razao": 0.7722,
+    "diferenca_observada": -0.2951,
+    "bloco_de_permutacao_anos": 10,
+    "sorteios": 200000,
+    "p_valor_bilateral": 0.80914,
+    "anos_do_grupo": [
+     1947,
+     1950,
+     1954,
+     1955,
+     1958,
+     1960,
+     1962,
+     1965,
+     1982,
+     1986,
+     1988,
+     1990,
+     1994,
+     1998,
+     2002,
+     2006,
+     2010,
+     2014,
+     2018,
+     2022
+    ]
+   },
+   "LEGISLATIVA FEDERAL direta": {
+    "recorte": "1940 a 2025",
+    "anos_no_recorte": 81,
+    "anos_excluidos_por_zero_estrutural": [
+     1940,
+     1941,
+     1942,
+     1943,
+     1944
+    ],
+    "anos_COM_pleito": 22,
+    "anos_SEM_pleito": 59,
+    "normas_no_recorte": 99,
+    "examinavel": true,
+    "normas_no_grupo": 20,
+    "normas_fora": 79,
+    "media_no_grupo": 0.9091,
+    "media_fora": 1.339,
+    "razao": 0.6789,
+    "diferenca_observada": -0.4299,
+    "bloco_de_permutacao_anos": 10,
+    "sorteios": 200000,
+    "p_valor_bilateral": 0.71718,
+    "anos_do_grupo": [
+     1945,
+     1947,
+     1950,
+     1954,
+     1958,
+     1962,
+     1966,
+     1970,
+     1974,
+     1978,
+     1982,
+     1986,
+     1988,
+     1990,
+     1994,
+     1998,
+     2002,
+     2006,
+     2010,
+     2014,
+     2018,
+     2022
+    ]
+   },
+   "MUNICIPAL ISOLADA, sem presidencial": {
+    "recorte": "1940 a 2025",
+    "anos_no_recorte": 81,
+    "anos_excluidos_por_zero_estrutural": [
+     1940,
+     1941,
+     1942,
+     1943,
+     1944
+    ],
+    "anos_COM_pleito": 21,
+    "anos_SEM_pleito": 60,
+    "normas_no_recorte": 99,
+    "examinavel": true,
+    "normas_no_grupo": 30,
+    "normas_fora": 69,
+    "media_no_grupo": 1.4286,
+    "media_fora": 1.15,
+    "razao": 1.2422,
+    "diferenca_observada": 0.2786,
+    "bloco_de_permutacao_anos": 10,
+    "sorteios": 200000,
+    "p_valor_bilateral": 0.79107,
+    "anos_do_grupo": [
+     1947,
+     1954,
+     1958,
+     1962,
+     1965,
+     1968,
+     1970,
+     1972,
+     1976,
+     1982,
+     1986,
+     1988,
+     1992,
+     1996,
+     2000,
+     2004,
+     2008,
+     2012,
+     2016,
+     2020,
+     2024
+    ]
+   },
+   "MUNICIPAL, qualquer": {
+    "recorte": "1940 a 2025",
+    "anos_no_recorte": 81,
+    "anos_excluidos_por_zero_estrutural": [
+     1940,
+     1941,
+     1942,
+     1943,
+     1944
+    ],
+    "anos_COM_pleito": 28,
+    "anos_SEM_pleito": 53,
+    "normas_no_recorte": 99,
+    "examinavel": true,
+    "normas_no_grupo": 30,
+    "normas_fora": 69,
+    "media_no_grupo": 1.0714,
+    "media_fora": 1.3019,
+    "razao": 0.823,
+    "diferenca_observada": -0.2305,
+    "bloco_de_permutacao_anos": 10,
+    "sorteios": 200000,
+    "p_valor_bilateral": 0.83322,
+    "anos_do_grupo": [
+     1947,
+     1950,
+     1954,
+     1955,
+     1958,
+     1960,
+     1962,
+     1965,
+     1966,
+     1968,
+     1969,
+     1970,
+     1972,
+     1976,
+     1982,
+     1985,
+     1986,
+     1988,
+     1989,
+     1992,
+     1996,
+     2000,
+     2004,
+     2008,
+     2012,
+     2016,
+     2020,
+     2024
+    ]
+   },
+   "PRESIDENCIAL DIRETA": {
+    "recorte": "1940 a 2025",
+    "anos_no_recorte": 81,
+    "anos_excluidos_por_zero_estrutural": [
+     1940,
+     1941,
+     1942,
+     1943,
+     1944
+    ],
+    "anos_COM_pleito": 13,
+    "anos_SEM_pleito": 68,
+    "normas_no_recorte": 99,
+    "examinavel": true,
+    "normas_no_grupo": 16,
+    "normas_fora": 83,
+    "media_no_grupo": 1.2308,
+    "media_fora": 1.2206,
+    "razao": 1.0083,
+    "diferenca_observada": 0.0102,
+    "bloco_de_permutacao_anos": 10,
+    "sorteios": 200000,
+    "p_valor_bilateral": 1.0,
+    "anos_do_grupo": [
+     1945,
+     1950,
+     1955,
+     1960,
+     1989,
+     1994,
+     1998,
+     2002,
+     2006,
+     2010,
+     2014,
+     2018,
+     2022
+    ]
+   },
+   "governador INDIRETO": {
+    "recorte": "1940 a 2025",
+    "anos_no_recorte": 81,
+    "anos_excluidos_por_zero_estrutural": [
+     1940,
+     1941,
+     1942,
+     1943,
+     1944
+    ],
+    "anos_COM_pleito": 4,
+    "anos_SEM_pleito": 77,
+    "normas_no_recorte": 99,
+    "examinavel": true,
+    "normas_no_grupo": 0,
+    "normas_fora": 99,
+    "media_no_grupo": 0.0,
+    "media_fora": 1.2857,
+    "razao": 0.0,
+    "diferenca_observada": -1.2857,
+    "bloco_de_permutacao_anos": 10,
+    "sorteios": 200000,
+    "p_valor_bilateral": 0.63171,
+    "anos_do_grupo": [
+     1966,
+     1970,
+     1974,
+     1978
+    ]
+   },
+   "presidencial INDIRETA": {
+    "recorte": "1940 a 2025",
+    "anos_no_recorte": 81,
+    "anos_excluidos_por_zero_estrutural": [
+     1940,
+     1941,
+     1942,
+     1943,
+     1944
+    ],
+    "anos_COM_pleito": 6,
+    "anos_SEM_pleito": 75,
+    "normas_no_recorte": 99,
+    "examinavel": true,
+    "normas_no_grupo": 0,
+    "normas_fora": 99,
+    "media_no_grupo": 0.0,
+    "media_fora": 1.32,
+    "razao": 0.0,
+    "diferenca_observada": -1.32,
+    "bloco_de_permutacao_anos": 10,
+    "sorteios": 200000,
+    "p_valor_bilateral": 0.56812,
+    "anos_do_grupo": [
+     1964,
+     1966,
+     1969,
+     1974,
+     1978,
+     1985
+    ]
+   },
+   "RUPTURA PRESIDENCIAL, fonte conferida": {
+    "recorte": "1940 a 2025",
+    "anos_no_recorte": 81,
+    "anos_excluidos_por_zero_estrutural": [
+     1940,
+     1941,
+     1942,
+     1943,
+     1944
+    ],
+    "anos_COM_pleito": 3,
+    "anos_SEM_pleito": 78,
+    "normas_no_recorte": 99,
+    "examinavel": true,
+    "normas_no_grupo": 1,
+    "normas_fora": 98,
+    "media_no_grupo": 0.3333,
+    "media_fora": 1.2564,
+    "razao": 0.2653,
+    "diferenca_observada": -0.9231,
+    "bloco_de_permutacao_anos": 10,
+    "sorteios": 200000,
+    "p_valor_bilateral": 0.7512,
+    "anos_do_grupo": [
+     1955,
+     1992,
+     2016
+    ]
+   }
+  },
+  "de 1990 em diante, onde a fonte mostra mais": {
+   "GOVERNADOR direto": {
+    "recorte": "1990 a 2025",
+    "anos_no_recorte": 36,
+    "anos_excluidos_por_zero_estrutural": [],
+    "anos_COM_pleito": 9,
+    "anos_SEM_pleito": 27,
+    "normas_no_recorte": 96,
+    "examinavel": true,
+    "normas_no_grupo": 20,
+    "normas_fora": 76,
+    "media_no_grupo": 2.2222,
+    "media_fora": 2.8148,
+    "razao": 0.7895,
+    "diferenca_observada": -0.5926,
+    "bloco_de_permutacao_anos": 10,
+    "sorteios": 200000,
+    "p_valor_bilateral": 0.80168,
+    "anos_do_grupo": [
+     1990,
+     1994,
+     1998,
+     2002,
+     2006,
+     2010,
+     2014,
+     2018,
+     2022
+    ]
+   },
+   "LEGISLATIVA FEDERAL direta": {
+    "recorte": "1990 a 2025",
+    "anos_no_recorte": 36,
+    "anos_excluidos_por_zero_estrutural": [],
+    "anos_COM_pleito": 9,
+    "anos_SEM_pleito": 27,
+    "normas_no_recorte": 96,
+    "examinavel": true,
+    "normas_no_grupo": 20,
+    "normas_fora": 76,
+    "media_no_grupo": 2.2222,
+    "media_fora": 2.8148,
+    "razao": 0.7895,
+    "diferenca_observada": -0.5926,
+    "bloco_de_permutacao_anos": 10,
+    "sorteios": 200000,
+    "p_valor_bilateral": 0.80168,
+    "anos_do_grupo": [
+     1990,
+     1994,
+     1998,
+     2002,
+     2006,
+     2010,
+     2014,
+     2018,
+     2022
+    ]
+   },
+   "MUNICIPAL ISOLADA, sem presidencial": {
+    "recorte": "1990 a 2025",
+    "anos_no_recorte": 36,
+    "anos_excluidos_por_zero_estrutural": [],
+    "anos_COM_pleito": 9,
+    "anos_SEM_pleito": 27,
+    "normas_no_recorte": 96,
+    "examinavel": true,
+    "normas_no_grupo": 28,
+    "normas_fora": 68,
+    "media_no_grupo": 3.1111,
+    "media_fora": 2.5185,
+    "razao": 1.2353,
+    "diferenca_observada": 0.5926,
+    "bloco_de_permutacao_anos": 10,
+    "sorteios": 200000,
+    "p_valor_bilateral": 0.80585,
+    "anos_do_grupo": [
+     1992,
+     1996,
+     2000,
+     2004,
+     2008,
+     2012,
+     2016,
+     2020,
+     2024
+    ]
+   },
+   "MUNICIPAL, qualquer": {
+    "recorte": "1990 a 2025",
+    "anos_no_recorte": 36,
+    "anos_excluidos_por_zero_estrutural": [],
+    "anos_COM_pleito": 9,
+    "anos_SEM_pleito": 27,
+    "normas_no_recorte": 96,
+    "examinavel": true,
+    "normas_no_grupo": 28,
+    "normas_fora": 68,
+    "media_no_grupo": 3.1111,
+    "media_fora": 2.5185,
+    "razao": 1.2353,
+    "diferenca_observada": 0.5926,
+    "bloco_de_permutacao_anos": 10,
+    "sorteios": 200000,
+    "p_valor_bilateral": 0.80585,
+    "anos_do_grupo": [
+     1992,
+     1996,
+     2000,
+     2004,
+     2008,
+     2012,
+     2016,
+     2020,
+     2024
+    ]
+   },
+   "PRESIDENCIAL DIRETA": {
+    "recorte": "1990 a 2025",
+    "anos_no_recorte": 36,
+    "anos_excluidos_por_zero_estrutural": [],
+    "anos_COM_pleito": 8,
+    "anos_SEM_pleito": 28,
+    "normas_no_recorte": 96,
+    "examinavel": true,
+    "normas_no_grupo": 16,
+    "normas_fora": 80,
+    "media_no_grupo": 2.0,
+    "media_fora": 2.8571,
+    "razao": 0.7,
+    "diferenca_observada": -0.8571,
+    "bloco_de_permutacao_anos": 10,
+    "sorteios": 200000,
+    "p_valor_bilateral": 0.71425,
+    "anos_do_grupo": [
+     1994,
+     1998,
+     2002,
+     2006,
+     2010,
+     2014,
+     2018,
+     2022
+    ]
+   },
+   "governador INDIRETO": {
+    "recorte": "1990 a 2025",
+    "anos_no_recorte": 36,
+    "anos_excluidos_por_zero_estrutural": [],
+    "anos_COM_pleito": 0,
+    "anos_SEM_pleito": 36,
+    "normas_no_recorte": 96,
+    "examinavel": false,
+    "motivo": "grupo com 0 anos contra 36 fora. Abaixo de 3 de cada lado o teste nao tem o que permutar, e o resultado nao seria medida."
+   },
+   "presidencial INDIRETA": {
+    "recorte": "1990 a 2025",
+    "anos_no_recorte": 36,
+    "anos_excluidos_por_zero_estrutural": [],
+    "anos_COM_pleito": 0,
+    "anos_SEM_pleito": 36,
+    "normas_no_recorte": 96,
+    "examinavel": false,
+    "motivo": "grupo com 0 anos contra 36 fora. Abaixo de 3 de cada lado o teste nao tem o que permutar, e o resultado nao seria medida."
+   },
+   "RUPTURA PRESIDENCIAL, fonte conferida": {
+    "recorte": "1990 a 2025",
+    "anos_no_recorte": 36,
+    "anos_excluidos_por_zero_estrutural": [],
+    "anos_COM_pleito": 2,
+    "anos_SEM_pleito": 34,
+    "normas_no_recorte": 96,
+    "examinavel": false,
+    "motivo": "grupo com 2 anos contra 34 fora. Abaixo de 3 de cada lado o teste nao tem o que permutar, e o resultado nao seria medida."
+   }
+  }
+ },
+ "por_regime_descritivo": {
+  "Estado Novo": {
+   "anos": 6,
+   "eventos_de_agravamento": 0,
+   "eventos_de_abrandamento": 0,
+   "agravamento_por_ano": 0.0
+  },
+  "Republica de 1946": {
+   "anos": 19,
+   "eventos_de_agravamento": 0,
+   "eventos_de_abrandamento": 0,
+   "agravamento_por_ano": 0.0
+  },
+  "Ditadura militar": {
+   "anos": 22,
+   "eventos_de_agravamento": 3,
+   "eventos_de_abrandamento": 0,
+   "agravamento_por_ano": 0.136
+  },
+  "Nova Republica": {
+   "anos": 42,
+   "eventos_de_agravamento": 104,
+   "eventos_de_abrandamento": 16,
+   "agravamento_por_ano": 2.476
+  }
+ },
+ "serie_por_ano": {
+  "1968": {
+   "agravamento": 2,
+   "abrandamento": 0,
+   "total": 2
+  },
+  "1981": {
+   "agravamento": 0,
+   "abrandamento": 0,
+   "total": 1
+  },
+  "1984": {
+   "agravamento": 1,
+   "abrandamento": 0,
+   "total": 1
+  },
+  "1990": {
+   "agravamento": 4,
+   "abrandamento": 2,
+   "total": 6
+  },
+  "1993": {
+   "agravamento": 0,
+   "abrandamento": 0,
+   "total": 1
+  },
+  "1995": {
+   "agravamento": 1,
+   "abrandamento": 0,
+   "total": 1
+  },
+  "1996": {
+   "agravamento": 7,
+   "abrandamento": 6,
+   "total": 14
+  },
+  "1998": {
+   "agravamento": 8,
+   "abrandamento": 0,
+   "total": 8
+  },
+  "2000": {
+   "agravamento": 14,
+   "abrandamento": 0,
+   "total": 14
+  },
+  "2001": {
+   "agravamento": 2,
+   "abrandamento": 0,
+   "total": 2
+  },
+  "2002": {
+   "agravamento": 2,
+   "abrandamento": 0,
+   "total": 2
+  },
+  "2003": {
+   "agravamento": 3,
+   "abrandamento": 0,
+   "total": 4
+  },
+  "2004": {
+   "agravamento": 0,
+   "abrandamento": 1,
+   "total": 1
+  },
+  "2006": {
+   "agravamento": 1,
+   "abrandamento": 0,
+   "total": 1
+  },
+  "2007": {
+   "agravamento": 1,
+   "abrandamento": 0,
+   "total": 1
+  },
+  "2009": {
+   "agravamento": 9,
+   "abrandamento": 1,
+   "total": 10
+  },
+  "2011": {
+   "agravamento": 1,
+   "abrandamento": 0,
+   "total": 1
+  },
+  "2012": {
+   "agravamento": 3,
+   "abrandamento": 0,
+   "total": 3
+  },
+  "2013": {
+   "agravamento": 0,
+   "abrandamento": 1,
+   "total": 2
+  },
+  "2014": {
+   "agravamento": 1,
+   "abrandamento": 0,
+   "total": 2
+  },
+  "2016": {
+   "agravamento": 1,
+   "abrandamento": 0,
+   "total": 1
+  },
+  "2018": {
+   "agravamento": 3,
+   "abrandamento": 0,
+   "total": 3
+  },
+  "2021": {
+   "agravamento": 22,
+   "abrandamento": 0,
+   "total": 22
+  },
+  "2022": {
+   "agravamento": 1,
+   "abrandamento": 0,
+   "total": 1
+  },
+  "2023": {
+   "agravamento": 1,
+   "abrandamento": 0,
+   "total": 1
+  },
+  "2024": {
+   "agravamento": 3,
+   "abrandamento": 0,
+   "total": 3
+  },
+  "2025": {
+   "agravamento": 8,
+   "abrandamento": 1,
+   "total": 9
+  },
+  "2026": {
+   "agravamento": 8,
+   "abrandamento": 4,
+   "total": 13
+  }
+ }
+}

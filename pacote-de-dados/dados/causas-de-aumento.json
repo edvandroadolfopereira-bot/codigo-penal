@@ -1,0 +1,370 @@
+{
+ "gerado_por": "apurar_causas_de_aumento.py",
+ "o_que_mede": "comando de aumento, de diminuicao e multiplicador na Parte Especial, e o quanto a regua de faixa subestima por nao os computar",
+ "epocas": {
+  "hoje": {
+   "artigos_da_parte_especial": 241,
+   "comandos_de_aumento": 58,
+   "artigos_com_aumento": 39,
+   "comandos_de_diminuicao": 8,
+   "artigos_com_diminuicao": 8,
+   "comandos_de_multiplicador": 22,
+   "artigos_com_multiplicador": 16,
+   "artigos_cujo_teto_a_regua_subestima": 46,
+   "fator_maximo_observado": 3.0,
+   "fracoes_de_aumento_medidas": {
+    "0.1667": 1,
+    "0.3333": 42,
+    "0.5": 10,
+    "0.6667": 5
+   },
+   "comandos_sem_valor_extraido": [],
+   "subestimacao_por_artigo": [
+    {
+     "artigo": 121,
+     "fator_maximo": 1.3333
+    },
+    {
+     "artigo": 122,
+     "fator_maximo": 2.0
+    },
+    {
+     "artigo": 129,
+     "fator_maximo": 1.6667
+    },
+    {
+     "artigo": 132,
+     "fator_maximo": 1.3333
+    },
+    {
+     "artigo": 133,
+     "fator_maximo": 1.3333
+    },
+    {
+     "artigo": 135,
+     "fator_maximo": 2.0
+    },
+    {
+     "artigo": 136,
+     "fator_maximo": 1.3333
+    },
+    {
+     "artigo": 141,
+     "fator_maximo": 3.0
+    },
+    {
+     "artigo": 146,
+     "fator_maximo": 2.0
+    },
+    {
+     "artigo": 147,
+     "fator_maximo": 2.0
+    },
+    {
+     "artigo": 149,
+     "fator_maximo": 1.5
+    },
+    {
+     "artigo": 151,
+     "fator_maximo": 1.5
+    },
+    {
+     "artigo": 154,
+     "fator_maximo": 1.6667
+    },
+    {
+     "artigo": 155,
+     "fator_maximo": 1.5
+    },
+    {
+     "artigo": 157,
+     "fator_maximo": 3.0
+    },
+    {
+     "artigo": 158,
+     "fator_maximo": 3.0
+    },
+    {
+     "artigo": 159,
+     "fator_maximo": 1.6667
+    },
+    {
+     "artigo": 168,
+     "fator_maximo": 1.3333
+    },
+    {
+     "artigo": 171,
+     "fator_maximo": 2.0
+    },
+    {
+     "artigo": 180,
+     "fator_maximo": 2.0
+    },
+    {
+     "artigo": 183,
+     "fator_maximo": 2.0
+    },
+    {
+     "artigo": 203,
+     "fator_maximo": 1.3333
+    },
+    {
+     "artigo": 207,
+     "fator_maximo": 1.3333
+    },
+    {
+     "artigo": 208,
+     "fator_maximo": 1.3333
+    },
+    {
+     "artigo": 209,
+     "fator_maximo": 1.3333
+    },
+    {
+     "artigo": 216,
+     "fator_maximo": 1.3333
+    },
+    {
+     "artigo": 218,
+     "fator_maximo": 1.3333
+    },
+    {
+     "artigo": 232,
+     "fator_maximo": 1.1667
+    },
+    {
+     "artigo": 250,
+     "fator_maximo": 1.3333
+    },
+    {
+     "artigo": 251,
+     "fator_maximo": 1.3333
+    },
+    {
+     "artigo": 258,
+     "fator_maximo": 1.5
+    },
+    {
+     "artigo": 264,
+     "fator_maximo": 1.3333
+    },
+    {
+     "artigo": 266,
+     "fator_maximo": 2.0
+    },
+    {
+     "artigo": 267,
+     "fator_maximo": 2.0
+    },
+    {
+     "artigo": 268,
+     "fator_maximo": 1.3333
+    },
+    {
+     "artigo": 311,
+     "fator_maximo": 1.3333
+    },
+    {
+     "artigo": 317,
+     "fator_maximo": 1.3333
+    },
+    {
+     "artigo": 333,
+     "fator_maximo": 1.3333
+    },
+    {
+     "artigo": 334,
+     "fator_maximo": 2.0
+    },
+    {
+     "artigo": 337,
+     "fator_maximo": 2.0
+    },
+    {
+     "artigo": 342,
+     "fator_maximo": 1.3333
+    },
+    {
+     "artigo": 343,
+     "fator_maximo": 1.3333
+    },
+    {
+     "artigo": 344,
+     "fator_maximo": 1.3333
+    },
+    {
+     "artigo": 347,
+     "fator_maximo": 2.0
+    },
+    {
+     "artigo": 357,
+     "fator_maximo": 1.3333
+    },
+    {
+     "artigo": 359,
+     "fator_maximo": 2.0
+    }
+   ]
+  },
+  "1940": {
+   "artigos_da_parte_especial": 240,
+   "comandos_de_aumento": 28,
+   "artigos_com_aumento": 26,
+   "comandos_de_diminuicao": 5,
+   "artigos_com_diminuicao": 5,
+   "comandos_de_multiplicador": 8,
+   "artigos_com_multiplicador": 8,
+   "artigos_cujo_teto_a_regua_subestima": 33,
+   "fator_maximo_observado": 2.0,
+   "fracoes_de_aumento_medidas": {
+    "0.3333": 22,
+    "0.5": 6
+   },
+   "comandos_sem_valor_extraido": [],
+   "subestimacao_por_artigo": [
+    {
+     "artigo": 121,
+     "fator_maximo": 1.3333
+    },
+    {
+     "artigo": 129,
+     "fator_maximo": 1.3333
+    },
+    {
+     "artigo": 133,
+     "fator_maximo": 1.3333
+    },
+    {
+     "artigo": 135,
+     "fator_maximo": 1.5
+    },
+    {
+     "artigo": 141,
+     "fator_maximo": 2.0
+    },
+    {
+     "artigo": 146,
+     "fator_maximo": 2.0
+    },
+    {
+     "artigo": 150,
+     "fator_maximo": 1.3333
+    },
+    {
+     "artigo": 151,
+     "fator_maximo": 1.5
+    },
+    {
+     "artigo": 155,
+     "fator_maximo": 1.3333
+    },
+    {
+     "artigo": 157,
+     "fator_maximo": 1.5
+    },
+    {
+     "artigo": 158,
+     "fator_maximo": 1.5
+    },
+    {
+     "artigo": 168,
+     "fator_maximo": 1.3333
+    },
+    {
+     "artigo": 171,
+     "fator_maximo": 1.3333
+    },
+    {
+     "artigo": 187,
+     "fator_maximo": 1.3333
+    },
+    {
+     "artigo": 208,
+     "fator_maximo": 1.3333
+    },
+    {
+     "artigo": 209,
+     "fator_maximo": 1.3333
+    },
+    {
+     "artigo": 250,
+     "fator_maximo": 1.3333
+    },
+    {
+     "artigo": 251,
+     "fator_maximo": 1.3333
+    },
+    {
+     "artigo": 258,
+     "fator_maximo": 1.5
+    },
+    {
+     "artigo": 264,
+     "fator_maximo": 1.3333
+    },
+    {
+     "artigo": 266,
+     "fator_maximo": 2.0
+    },
+    {
+     "artigo": 267,
+     "fator_maximo": 2.0
+    },
+    {
+     "artigo": 268,
+     "fator_maximo": 1.3333
+    },
+    {
+     "artigo": 281,
+     "fator_maximo": 1.3333
+    },
+    {
+     "artigo": 288,
+     "fator_maximo": 2.0
+    },
+    {
+     "artigo": 317,
+     "fator_maximo": 1.3333
+    },
+    {
+     "artigo": 332,
+     "fator_maximo": 1.3333
+    },
+    {
+     "artigo": 333,
+     "fator_maximo": 1.3333
+    },
+    {
+     "artigo": 334,
+     "fator_maximo": 2.0
+    },
+    {
+     "artigo": 342,
+     "fator_maximo": 1.3333
+    },
+    {
+     "artigo": 343,
+     "fator_maximo": 2.0
+    },
+    {
+     "artigo": 347,
+     "fator_maximo": 2.0
+    },
+    {
+     "artigo": 357,
+     "fator_maximo": 1.3333
+    }
+   ]
+  }
+ },
+ "comparacao": {
+  "aumento_1940": 28,
+  "aumento_hoje": 58,
+  "diminuicao_1940": 5,
+  "diminuicao_hoje": 8,
+  "multiplicador_1940": 8,
+  "multiplicador_hoje": 22,
+  "artigos_subestimados_1940": 33,
+  "artigos_subestimados_hoje": 46
+ }
+}

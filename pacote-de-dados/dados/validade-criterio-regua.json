@@ -1,0 +1,225 @@
+{
+ "gerado_em": "30/08/2026",
+ "pre_especificacao": "analise-cientifica/PRE-ESPECIFICACAO-VALIDADE-30-08-2026.md",
+ "metodo": "grupos conhecidos, GIL 8. ed., secao 14.2.7 alinea b; significancia por permutacao do ROTULO DE GRUPO",
+ "criterio_externo": "Lei n. 8.072, de 25 de julho de 1990, texto compilado",
+ "semente": 20260830,
+ "sorteios": 200000,
+ "universo": {
+  "dispositivos_na_base": 432,
+  "com_teto_de_hoje": 250,
+  "sem_teto_e_por_isso_fora": 182
+ },
+ "grupos": {
+  "hediondos_n": 16,
+  "nao_hediondos_n": 234,
+  "do_rol_ausentes_do_universo": []
+ },
+ "P1_medianas": {
+  "hediondos_meses": 300.0,
+  "nao_hediondos_meses": 42.0,
+  "diferenca_meses": 258.0,
+  "hediondos_anos": 25.0,
+  "nao_hediondos_anos": 3.5
+ },
+ "P2_tamanho_do_efeito": {
+  "media_hediondos_meses": 301.5,
+  "media_nao_hediondos_meses": 50.4,
+  "cohen_d": 4.554
+ },
+ "P3_e_P4_permutacao": {
+  "p_da_diferenca_de_medianas": 5e-06,
+  "p_da_diferenca_de_medias": 5e-06,
+  "o_que_isto_e": "a distribuicao sob rotulo embaralhado E o braco de falsificacao: p pequeno significa que o acaso quase nunca reproduz a separacao"
+ },
+ "P5_conferencia_item_a_item": {
+  "quantos": 16,
+  "batem": 16,
+  "percentual": 100.0,
+  "o_que_e": "o teto gravado no CSV foi RELIDO do texto compilado com o leitor e o extrator do proprio projeto, artigo por artigo, e o trecho que produziu cada teto vai ao lado para leitura humana",
+  "detalhe": [
+   {
+    "artigo": "121",
+    "teto_no_csv_meses": 480,
+    "teto_relido_do_texto_meses": 480,
+    "confere": true,
+    "anos": 40.0,
+    "classe": "faixa alterada",
+    "direcao": "agrava",
+    "corpo_localizado": true,
+    "trecho_que_produziu_o_teto": "358, de 2026) Pena - reclusão, de 20 (vinte) a 40 (quarenta anos"
+   },
+   {
+    "artigo": "121-A",
+    "teto_no_csv_meses": 480,
+    "teto_relido_do_texto_meses": 480,
+    "confere": true,
+    "anos": 40.0,
+    "classe": "tipo novo",
+    "direcao": "agrava",
+    "corpo_localizado": true,
+    "trecho_que_produziu_o_teto": "994, de 2024) Pena – reclusão, de 20 (vinte) a 40 (quarenta) anos"
+   },
+   {
+    "artigo": "121-B",
+    "teto_no_csv_meses": 480,
+    "teto_relido_do_texto_meses": 480,
+    "confere": true,
+    "anos": 40.0,
+    "classe": "tipo novo",
+    "direcao": "agrava",
+    "corpo_localizado": true,
+    "trecho_que_produziu_o_teto": "384, de 2026) Pena – reclusão, de 20 (vinte) a 40 (quarenta) anos"
+   },
+   {
+    "artigo": "122",
+    "teto_no_csv_meses": 72,
+    "teto_relido_do_texto_meses": 72,
+    "confere": true,
+    "anos": 6.0,
+    "classe": "faixa alterada",
+    "direcao": "abranda",
+    "corpo_localizado": true,
+    "trecho_que_produziu_o_teto": "968, de 2019) Pena - reclusão, de 6 (seis) meses a 2 (dois) anos"
+   },
+   {
+    "artigo": "129",
+    "teto_no_csv_meses": 480,
+    "teto_relido_do_texto_meses": 480,
+    "confere": true,
+    "anos": 40.0,
+    "classe": "faixa alterada",
+    "direcao": "agrava",
+    "corpo_localizado": true,
+    "trecho_que_produziu_o_teto": "358, de 2026) Pena - reclusão, de 20 (vinte) a 40 (quarenta) anos"
+   },
+   {
+    "artigo": "148",
+    "teto_no_csv_meses": 240,
+    "teto_relido_do_texto_meses": 240,
+    "confere": true,
+    "anos": 20.0,
+    "classe": "faixa alterada",
+    "direcao": "agrava",
+    "corpo_localizado": true,
+    "trecho_que_produziu_o_teto": "358, de 2026) Pena - reclusão, de 12 (doze) a 20 (vinte) anos"
+   },
+   {
+    "artigo": "149-A",
+    "teto_no_csv_meses": 96,
+    "teto_relido_do_texto_meses": 96,
+    "confere": true,
+    "anos": 8.0,
+    "classe": "tipo novo",
+    "direcao": "agrava",
+    "corpo_localizado": true,
+    "trecho_que_produziu_o_teto": "344, de 2016) (Vigência) Pena - reclusão, de 4 (quatro) a 8 (oito) anos"
+   },
+   {
+    "artigo": "155",
+    "teto_no_csv_meses": 120,
+    "teto_relido_do_texto_meses": 120,
+    "confere": true,
+    "anos": 10.0,
+    "classe": "faixa alterada",
+    "direcao": "agrava",
+    "corpo_localizado": true,
+    "trecho_que_produziu_o_teto": "397, de 2026) § 4º-A A pena é de reclusão de 4 (quatro) a 10 (dez) anos"
+   },
+   {
+    "artigo": "157",
+    "teto_no_csv_meses": 480,
+    "teto_relido_do_texto_meses": 480,
+    "confere": true,
+    "anos": 40.0,
+    "classe": "faixa alterada",
+    "direcao": "agrava",
+    "corpo_localizado": true,
+    "trecho_que_produziu_o_teto": "358, de 2026) Pena - reclusão, de 20 (vinte) a 40 (quarenta) anos"
+   },
+   {
+    "artigo": "158",
+    "teto_no_csv_meses": 144,
+    "teto_relido_do_texto_meses": 144,
+    "confere": true,
+    "anos": 12.0,
+    "classe": "faixa alterada",
+    "direcao": "agrava",
+    "corpo_localizado": true,
+    "trecho_que_produziu_o_teto": "90 § 3 o Se o crime é cometido mediante a restrição da liberdade da vítima, e essa condição é necessária para a obtenção da vantagem econômica, a pena é de reclusão, de 6 (seis) a 12 (doze) anos"
+   },
+   {
+    "artigo": "159",
+    "teto_no_csv_meses": 360,
+    "teto_relido_do_texto_meses": 360,
+    "confere": true,
+    "anos": 30.0,
+    "classe": "faixa alterada",
+    "direcao": "agrava",
+    "corpo_localizado": true,
+    "trecho_que_produziu_o_teto": ""
+   },
+   {
+    "artigo": "213",
+    "teto_no_csv_meses": 360,
+    "teto_relido_do_texto_meses": 360,
+    "confere": true,
+    "anos": 30.0,
+    "classe": "faixa alterada",
+    "direcao": "agrava",
+    "corpo_localizado": true,
+    "trecho_que_produziu_o_teto": "015, de 2009) Pena - reclusão, de 12 (doze) a 30 (trinta) anos"
+   },
+   {
+    "artigo": "217-A",
+    "teto_no_csv_meses": 480,
+    "teto_relido_do_texto_meses": 480,
+    "confere": true,
+    "anos": 40.0,
+    "classe": "tipo novo",
+    "direcao": "agrava",
+    "corpo_localizado": true,
+    "trecho_que_produziu_o_teto": "015, de 2009) Pena – reclusão, de 20 (vinte) a 40 (quarenta) anos"
+   },
+   {
+    "artigo": "218-B",
+    "teto_no_csv_meses": 192,
+    "teto_relido_do_texto_meses": 192,
+    "confere": true,
+    "anos": 16.0,
+    "classe": "tipo novo",
+    "direcao": "agrava",
+    "corpo_localizado": true,
+    "trecho_que_produziu_o_teto": "015, de 2009) Pena – reclusão, de 7 (sete) a 16 (dezesseis) anos"
+   },
+   {
+    "artigo": "267",
+    "teto_no_csv_meses": 180,
+    "teto_relido_do_texto_meses": 180,
+    "confere": true,
+    "anos": 15.0,
+    "classe": "faixa alterada",
+    "direcao": "mantem",
+    "corpo_localizado": true,
+    "trecho_que_produziu_o_teto": ""
+   },
+   {
+    "artigo": "273",
+    "teto_no_csv_meses": 180,
+    "teto_relido_do_texto_meses": 180,
+    "confere": true,
+    "anos": 15.0,
+    "classe": "faixa alterada",
+    "direcao": "agrava",
+    "corpo_localizado": true,
+    "trecho_que_produziu_o_teto": "1998) Pena - reclusão, de 10 (dez) a 15 (quinze) anos"
+   }
+  ]
+ },
+ "o_que_este_teste_NAO_faz": [
+  "nao valida o classificador de direcao, que decorre por aritmetica",
+  "nao valida a Parte Geral, que esta fora da regua por construcao",
+  "nao diz que a regua mede bem gravidade percebida, e sim que ela separa dois grupos que a lei separa",
+  "passar nao prova que os resultados do trabalho estao certos: prova que o instrumento nao esta invalido no ponto testado"
+ ]
+}

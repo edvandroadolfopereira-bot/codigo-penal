@@ -1,0 +1,5 @@
+regime;de;ate;anos;anos_com_pleito;anos_sem_pleito;pleitos;descricao;normas_que_tocaram_o_CP;normas_que_ALTERARAM_o_texto;alteradoras_por_ano
+Estado Novo;1940;1945;6;1;5;[1945];"ditadura civil de Vargas; o Codigo Penal NASCE aqui, por decreto-lei, sem Congresso";2;0;0.0
+Republica de 1946;1946;1964;19;8;11;[1947, 1950, 1954, 1955, 1958, 1960, 1962, 1964];democracia representativa com eleicao direta para todos os cargos;6;3;0.158
+Ditadura militar;1964;1985;22;12;10;[1964, 1965, 1966, 1968, 1969, 1970, 1972, 1974, 1976, 1978, 1982, 1985];Presidente e, de 1966 a 1978, Governador eleitos INDIRETAMENTE;19;14;0.636
+Nova Republica;1985;2026;42;23;19;[1985, 1986, 1988, 1989, 1990, 1992, 1994, 1996, 1998, 2000, 2002, 2004, 2006, 2008, 2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026];"transicao em 1985; Constituicao de 1988; direta para Presidente desde 1989";110;98;2.333

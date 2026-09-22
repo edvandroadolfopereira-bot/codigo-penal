@@ -1,0 +1,839 @@
+{
+ "partidos": [
+  {
+   "id": 36768,
+   "sigla": "ARENA",
+   "nome": "Aliança Renovadora Nacional",
+   "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/36768"
+  },
+  {
+   "id": 36783,
+   "sigla": "PDC",
+   "nome": "Partido Democrático Cristão",
+   "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/36783"
+  },
+  {
+   "id": 36785,
+   "sigla": "PDS",
+   "nome": "Partido Democrático Social",
+   "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/36785"
+  },
+  {
+   "id": 36795,
+   "sigla": "PL*",
+   "nome": "Partido Liberal",
+   "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/36795"
+  },
+  {
+   "id": 36807,
+   "sigla": "PNI",
+   "nome": "Não Informado",
+   "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/36807"
+  },
+  {
+   "id": 36814,
+   "sigla": "PR",
+   "nome": "Partido da República",
+   "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/36814"
+  },
+  {
+   "id": 36824,
+   "sigla": "PRP",
+   "nome": "Partido Republicano Progressista",
+   "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/36824"
+  },
+  {
+   "id": 36832,
+   "sigla": "PSB",
+   "nome": "Partido Socialista Brasileiro",
+   "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/36832"
+  },
+  {
+   "id": 36834,
+   "sigla": "PSD",
+   "nome": "Partido Social Democrático",
+   "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834"
+  },
+  {
+   "id": 36840,
+   "sigla": "PSP",
+   "nome": "Partido Social Progressista",
+   "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/36840"
+  },
+  {
+   "id": 36842,
+   "sigla": "PST",
+   "nome": "Partido Social Trabalhista",
+   "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/36842"
+  },
+  {
+   "id": 36845,
+   "sigla": "PTB",
+   "nome": "Partido Trabalhista Brasileiro",
+   "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/36845"
+  },
+  {
+   "id": 36848,
+   "sigla": "PTN",
+   "nome": "Partido Trabalhista Nacional",
+   "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/36848"
+  },
+  {
+   "id": 36849,
+   "sigla": "PTR",
+   "nome": "Partido Trabalhista Renovador",
+   "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/36849"
+  },
+  {
+   "id": 36854,
+   "sigla": "UDN",
+   "nome": "União Democrática Nacional",
+   "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/36854"
+  },
+  {
+   "id": 36774,
+   "sigla": "MDB*",
+   "nome": "Movimento Democrático Brasileiro",
+   "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/36774"
+  },
+  {
+   "id": 36828,
+   "sigla": "PRT",
+   "nome": "Partido Republicano Trabalhista",
+   "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/36828"
+  },
+  {
+   "id": 36775,
+   "sigla": "MTR",
+   "nome": "Movimento Trabalhista Renovador",
+   "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/36775"
+  },
+  {
+   "id": 36866,
+   "sigla": "PL**",
+   "nome": "Partido Libertador",
+   "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/36866"
+  },
+  {
+   "id": 36879,
+   "sigla": "PRP*",
+   "nome": "Partido de Representação Popular",
+   "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/36879"
+  },
+  {
+   "id": 37998,
+   "sigla": "PRT*",
+   "nome": "Partido Rural Trabalhista",
+   "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/37998"
+  },
+  {
+   "id": 37999,
+   "sigla": "PSB*",
+   "nome": "Partido Socialista Brasileiro",
+   "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/37999"
+  },
+  {
+   "id": 38005,
+   "sigla": "PTB*",
+   "nome": "Partido Trabalhista Brasileiro",
+   "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/38005"
+  },
+  {
+   "id": 36786,
+   "sigla": "PDT",
+   "nome": "Partido Democrático Trabalhista",
+   "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/36786"
+  },
+  {
+   "id": 36800,
+   "sigla": "PMDB",
+   "nome": "Partido do Movimento Democrático Brasileiro",
+   "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/36800"
+  },
+  {
+   "id": 36809,
+   "sigla": "PP**",
+   "nome": "Partido Progressista",
+   "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/36809"
+  },
+  {
+   "id": 36844,
+   "sigla": "PT",
+   "nome": "Partido dos Trabalhadores",
+   "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844"
+  },
+  {
+   "id": 37986,
+   "sigla": "PCB***",
+   "nome": "Partido Comunista Brasileiro",
+   "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/37986"
+  },
+  {
+   "id": 36779,
+   "sigla": "PCdoB",
+   "nome": "Partido Comunista do Brasil",
+   "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/36779"
+  },
+  {
+   "id": 36790,
+   "sigla": "PFL",
+   "nome": "Partido da Frente Liberal",
+   "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/36790"
+  },
+  {
+   "id": 36794,
+   "sigla": "PJ",
+   "nome": "Partido da Juventude",
+   "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/36794"
+  },
+  {
+   "id": 36822,
+   "sigla": "PRN",
+   "nome": "Partido da Reconstrução Nacional",
+   "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/36822"
+  },
+  {
+   "id": 36833,
+   "sigla": "PSC",
+   "nome": "Partido Social Cristão",
+   "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/36833"
+  },
+  {
+   "id": 36835,
+   "sigla": "PSDB",
+   "nome": "Partido da Social Democracia Brasileira",
+   "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/36835"
+  },
+  {
+   "id": 36847,
+   "sigla": "PTdoB",
+   "nome": "Partido Trabalhista do Brasil",
+   "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/36847"
+  },
+  {
+   "id": 37989,
+   "sigla": "PDC*",
+   "nome": "Partido Democrata Cristão",
+   "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/37989"
+  },
+  {
+   "id": 36801,
+   "sigla": "PMN",
+   "nome": "Partido da Mobilização Nacional",
+   "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/36801"
+  },
+  {
+   "id": 36827,
+   "sigla": "PRS",
+   "nome": "Partido das Reformas Sociais",
+   "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/36827"
+  },
+  {
+   "id": 38000,
+   "sigla": "PSD*",
+   "nome": "Partido Social Democrático",
+   "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/38000"
+  },
+  {
+   "id": 36843,
+   "sigla": "PSTU",
+   "nome": "Partido Socialista dos Trabalhadores Unificado",
+   "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/36843"
+  },
+  {
+   "id": 37994,
+   "sigla": "PP***",
+   "nome": "Partido Progressista",
+   "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/37994"
+  },
+  {
+   "id": 36811,
+   "sigla": "PPB",
+   "nome": "Partido Progressista Brasileiro",
+   "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/36811"
+  },
+  {
+   "id": 36812,
+   "sigla": "PPR",
+   "nome": "Partido Progressista Reformador",
+   "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/36812"
+  },
+  {
+   "id": 36813,
+   "sigla": "PPS",
+   "nome": "Partido Popular Socialista",
+   "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/36813"
+  },
+  {
+   "id": 36851,
+   "sigla": "PV",
+   "nome": "Partido Verde",
+   "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/36851"
+  },
+  {
+   "id": 36823,
+   "sigla": "PRONA",
+   "nome": "Partido de Reedificação da Ordem Nacional",
+   "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/36823"
+  },
+  {
+   "id": 36837,
+   "sigla": "PSL",
+   "nome": "Partido Social Liberal",
+   "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/36837"
+  },
+  {
+   "id": 36802,
+   "sigla": "PMR",
+   "nome": "Partido Municipalista Renovador",
+   "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/36802"
+  },
+  {
+   "id": 36815,
+   "sigla": "PRB",
+   "nome": "Partido Republicano Brasileiro",
+   "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/36815"
+  },
+  {
+   "id": 36836,
+   "sigla": "PSDC",
+   "nome": "Partido Social Democrata Cristão",
+   "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/36836"
+  },
+  {
+   "id": 36839,
+   "sigla": "PSOL",
+   "nome": "Partido Socialismo e Liberdade",
+   "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/36839"
+  },
+  {
+   "id": 36846,
+   "sigla": "PTC",
+   "nome": "Partido Trabalhista Cristão",
+   "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/36846"
+  },
+  {
+   "id": 36852,
+   "sigla": "S.PART.",
+   "nome": "Sem Partido",
+   "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/36852"
+  },
+  {
+   "id": 36769,
+   "sigla": "DEM",
+   "nome": "Democratas",
+   "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/36769"
+  },
+  {
+   "id": 36776,
+   "sigla": "PAN",
+   "nome": "Partido dos Aposentados da Nação",
+   "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/36776"
+  },
+  {
+   "id": 36793,
+   "sigla": "PHS",
+   "nome": "Partido Humanista da Solidariedade",
+   "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/36793"
+  },
+  {
+   "id": 36829,
+   "sigla": "PRTB",
+   "nome": "Partido Renovador Trabalhista Brasileiro",
+   "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/36829"
+  },
+  {
+   "id": 36761,
+   "sigla": "PEN",
+   "nome": "Partido Ecológico Nacional",
+   "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/36761"
+  },
+  {
+   "id": 36763,
+   "sigla": "PROS",
+   "nome": "Partido Republicano da Ordem Social",
+   "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/36763"
+  },
+  {
+   "id": 36765,
+   "sigla": "SD",
+   "nome": "Solidariedade",
+   "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/36765"
+  },
+  {
+   "id": 36764,
+   "sigla": "SDD",
+   "nome": "Solidariedade",
+   "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/36764"
+  },
+  {
+   "id": 36898,
+   "sigla": "AVANTE",
+   "nome": "Avante",
+   "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/36898"
+  },
+  {
+   "id": 36899,
+   "sigla": "MDB",
+   "nome": "Movimento Democrático Brasileiro",
+   "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899"
+  },
+  {
+   "id": 37900,
+   "sigla": "PATRI",
+   "nome": "Patriota",
+   "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/37900"
+  },
+  {
+   "id": 36887,
+   "sigla": "PMB",
+   "nome": "Partido da Mulher Brasileira",
+   "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/36887"
+  },
+  {
+   "id": 36896,
+   "sigla": "PODE",
+   "nome": "Podemos",
+   "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/36896"
+  },
+  {
+   "id": 37903,
+   "sigla": "PP",
+   "nome": "Progressistas",
+   "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/37903"
+  },
+  {
+   "id": 36762,
+   "sigla": "PPL",
+   "nome": "Partido Pátria Livre",
+   "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/36762"
+  },
+  {
+   "id": 36886,
+   "sigla": "REDE",
+   "nome": "Rede Sustentabilidade",
+   "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/36886"
+  },
+  {
+   "id": 37904,
+   "sigla": "SOLIDARIEDADE",
+   "nome": "Solidariedade",
+   "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/37904"
+  },
+  {
+   "id": 37905,
+   "sigla": "CIDADANIA",
+   "nome": "Cidadania",
+   "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/37905"
+  },
+  {
+   "id": 37902,
+   "sigla": "DC",
+   "nome": "Democracia Cristã",
+   "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/37902"
+  },
+  {
+   "id": 37901,
+   "sigla": "NOVO",
+   "nome": "Partido Novo",
+   "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/37901"
+  },
+  {
+   "id": 37907,
+   "sigla": "PATRIOTA",
+   "nome": "Patriota",
+   "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/37907"
+  },
+  {
+   "id": 37906,
+   "sigla": "PL",
+   "nome": "Partido Liberal",
+   "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906"
+  },
+  {
+   "id": 37908,
+   "sigla": "REPUBLICANOS",
+   "nome": "Republicanos",
+   "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/37908"
+  },
+  {
+   "id": 38009,
+   "sigla": "UNIÃO",
+   "nome": "União Brasil",
+   "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/38009"
+  },
+  {
+   "id": 38011,
+   "sigla": "MISSÃO",
+   "nome": "Partido Missão",
+   "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/38011"
+  },
+  {
+   "id": 38010,
+   "sigla": "PRD",
+   "nome": "Partido Renovação Democrática",
+   "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/38010"
+  }
+ ],
+ "por_legislatura": {
+  "40": [
+   "ARENA",
+   "PDC",
+   "PDS",
+   "PL*",
+   "PNI",
+   "PR",
+   "PRP",
+   "PSB",
+   "PSD",
+   "PSP",
+   "PST",
+   "PTB",
+   "PTN",
+   "PTR",
+   "UDN"
+  ],
+  "41": [
+   "ARENA",
+   "MDB*",
+   "PDC",
+   "PDS",
+   "PL*",
+   "PNI",
+   "PR",
+   "PRP",
+   "PRT",
+   "PSB",
+   "PSD",
+   "PSP",
+   "PST",
+   "PTB",
+   "PTN",
+   "UDN"
+  ],
+  "42": [
+   "ARENA",
+   "MDB*",
+   "MTR",
+   "PDC",
+   "PL**",
+   "PR",
+   "PRP",
+   "PRP*",
+   "PRT*",
+   "PSB",
+   "PSB*",
+   "PSD",
+   "PSP",
+   "PST",
+   "PTB",
+   "PTB*",
+   "PTN",
+   "UDN"
+  ],
+  "43": [
+   "ARENA",
+   "MDB*"
+  ],
+  "44": [
+   "ARENA",
+   "MDB*"
+  ],
+  "45": [
+   "ARENA",
+   "MDB*",
+   "PNI"
+  ],
+  "46": [
+   "ARENA",
+   "MDB*",
+   "PDS",
+   "PDT",
+   "PMDB",
+   "PNI",
+   "PP**",
+   "PTB"
+  ],
+  "47": [
+   "PDS",
+   "PDT",
+   "PMDB",
+   "PT",
+   "PTB"
+  ],
+  "48": [
+   "PCB***",
+   "PCdoB",
+   "PDC",
+   "PDS",
+   "PDT",
+   "PFL",
+   "PJ",
+   "PL*",
+   "PMDB",
+   "PRN",
+   "PSB",
+   "PSC",
+   "PSDB",
+   "PT",
+   "PTB",
+   "PTdoB"
+  ],
+  "49": [
+   "PCB***",
+   "PCdoB",
+   "PDC",
+   "PDC*",
+   "PDS",
+   "PDT",
+   "PFL",
+   "PL*",
+   "PMDB",
+   "PMN",
+   "PP**",
+   "PRN",
+   "PRS",
+   "PSB",
+   "PSC",
+   "PSD*",
+   "PSDB",
+   "PST",
+   "PSTU",
+   "PT",
+   "PTB",
+   "PTR"
+  ],
+  "50": [
+   "PCdoB",
+   "PDT",
+   "PFL",
+   "PL*",
+   "PMDB",
+   "PMN",
+   "PP***",
+   "PPB",
+   "PPR",
+   "PPS",
+   "PRN",
+   "PRP",
+   "PSB",
+   "PSC",
+   "PSD*",
+   "PSDB",
+   "PT",
+   "PTB",
+   "PV"
+  ],
+  "51": [
+   "PCdoB",
+   "PDT",
+   "PFL",
+   "PL*",
+   "PMDB",
+   "PMN",
+   "PPB",
+   "PPS",
+   "PRONA",
+   "PSB",
+   "PSC",
+   "PSD*",
+   "PSDB",
+   "PSL",
+   "PST",
+   "PT",
+   "PTB",
+   "PV"
+  ],
+  "52": [
+   "PCdoB",
+   "PDT",
+   "PFL",
+   "PL*",
+   "PMDB",
+   "PMN",
+   "PMR",
+   "PP**",
+   "PPB",
+   "PPS",
+   "PR",
+   "PRB",
+   "PRONA",
+   "PRP",
+   "PSB",
+   "PSC",
+   "PSDB",
+   "PSDC",
+   "PSL",
+   "PSOL",
+   "PST",
+   "PT",
+   "PTB",
+   "PTC",
+   "PV",
+   "S.PART."
+  ],
+  "53": [
+   "DEM",
+   "PAN",
+   "PCdoB",
+   "PDT",
+   "PFL",
+   "PHS",
+   "PMDB",
+   "PMN",
+   "PP**",
+   "PPS",
+   "PR",
+   "PRB",
+   "PRTB",
+   "PSB",
+   "PSC",
+   "PSDB",
+   "PSOL",
+   "PT",
+   "PTB",
+   "PTC",
+   "PTdoB",
+   "PV",
+   "S.PART."
+  ],
+  "54": [
+   "DEM",
+   "PCdoB",
+   "PDT",
+   "PEN",
+   "PHS",
+   "PMDB",
+   "PMN",
+   "PP**",
+   "PPS",
+   "PR",
+   "PRB",
+   "PROS",
+   "PRP",
+   "PRTB",
+   "PSB",
+   "PSC",
+   "PSD",
+   "PSDB",
+   "PSDC",
+   "PSL",
+   "PSOL",
+   "PT",
+   "PTB",
+   "PTC",
+   "PTdoB",
+   "PV",
+   "S.PART.",
+   "SD",
+   "SDD"
+  ],
+  "55": [
+   "AVANTE",
+   "DEM",
+   "MDB",
+   "PATRI",
+   "PCdoB",
+   "PDT",
+   "PEN",
+   "PHS",
+   "PMB",
+   "PMDB",
+   "PMN",
+   "PODE",
+   "PP",
+   "PP**",
+   "PPL",
+   "PPS",
+   "PR",
+   "PRB",
+   "PROS",
+   "PRP",
+   "PRTB",
+   "PSB",
+   "PSC",
+   "PSD",
+   "PSDB",
+   "PSDC",
+   "PSL",
+   "PSOL",
+   "PT",
+   "PTB",
+   "PTC",
+   "PTdoB",
+   "PTN",
+   "PV",
+   "REDE",
+   "S.PART.",
+   "SD",
+   "SOLIDARIEDADE"
+  ],
+  "56": [
+   "AVANTE",
+   "CIDADANIA",
+   "DC",
+   "DEM",
+   "MDB",
+   "NOVO",
+   "PATRI",
+   "PATRIOTA",
+   "PCdoB",
+   "PDT",
+   "PHS",
+   "PL",
+   "PMN",
+   "PODE",
+   "PP",
+   "PPL",
+   "PPS",
+   "PR",
+   "PRB",
+   "PROS",
+   "PRP",
+   "PSB",
+   "PSC",
+   "PSD",
+   "PSDB",
+   "PSL",
+   "PSOL",
+   "PT",
+   "PTB",
+   "PTC",
+   "PV",
+   "REDE",
+   "REPUBLICANOS",
+   "S.PART.",
+   "SOLIDARIEDADE",
+   "UNIÃO"
+  ],
+  "57": [
+   "AVANTE",
+   "CIDADANIA",
+   "DC",
+   "MDB",
+   "MISSÃO",
+   "NOVO",
+   "PATRIOTA",
+   "PCdoB",
+   "PDT",
+   "PL",
+   "PODE",
+   "PP",
+   "PRD",
+   "PROS",
+   "PSB",
+   "PSC",
+   "PSD",
+   "PSDB",
+   "PSOL",
+   "PT",
+   "PTB",
+   "PV",
+   "REDE",
+   "REPUBLICANOS",
+   "S.PART.",
+   "SOLIDARIEDADE",
+   "UNIÃO"
+  ]
+ }
+}

@@ -1,0 +1,30 @@
+chave;valor
+gerado_por;apurar_notas_sinesp_jc.py
+data;2026-09-22
+fonte;BRASIL. Ministério da Justiça e Segurança Pública. Notas dos Gestores Estaduais: Sinesp JC (2004-2022). Publicado em 14/02/2019, atualizado em 15/08/2023. Disponível em: https://www.gov.br/mj/pt-br/assuntos/sua-seguranca/seguranca-publica/estatistica/dados-nacionais-1/notas-dos-gestores-estaduais. Acesso em: 22 set. 2026.
+o_que_a_pagina_publica;as notas metodológicas enviadas pelas Unidades da Federação, e NAO a série do Sinesp JC
+unidades_da_federacao_com_nota;16
+unidades_da_federacao_sem_nota;11
+declaracoes_por_ponto.morte por intervencao policial;11
+declaracoes_por_ponto.feminicidio dentro do homicidio doloso;8
+declaracoes_por_ponto.doloso e culposo nao separados;2
+declaracoes_por_ponto.morte a esclarecer somada ao homicidio;4
+declaracoes_por_ponto.ano ou periodo sem dado;9
+por_unidade_da_federacao.ACRE.caracteres_da_nota;590
+por_unidade_da_federacao.BAHIA.caracteres_da_nota;2055
+por_unidade_da_federacao.CEARÁ.caracteres_da_nota;6608
+por_unidade_da_federacao.GOIÁS.caracteres_da_nota;17638
+por_unidade_da_federacao.MINAS GERAIS.caracteres_da_nota;4002
+por_unidade_da_federacao.MATO GROSSO DO SUL.caracteres_da_nota;749
+por_unidade_da_federacao.MATO GROSSO.caracteres_da_nota;1159
+por_unidade_da_federacao.PARÁ.caracteres_da_nota;2975
+por_unidade_da_federacao.PARAÍBA.caracteres_da_nota;863
+por_unidade_da_federacao.PERNAMBUCO.caracteres_da_nota;1054
+por_unidade_da_federacao.PIAUÍ.caracteres_da_nota;850
+por_unidade_da_federacao.PARANÁ.caracteres_da_nota;4091
+por_unidade_da_federacao.RIO DE JANEIRO.caracteres_da_nota;1266
+por_unidade_da_federacao.RONDÔNIA.caracteres_da_nota;995
+por_unidade_da_federacao.SÃO PAULO.caracteres_da_nota;7355
+por_unidade_da_federacao.TOCANTINS.caracteres_da_nota;6500
+o_que_isto_sustenta;"[""a mesma rubrica conta coisas diferentes em cada Unidade da Federação, pela declaração do próprio gestor estadual"", ""a comparação entre estados na série do Sinesp JC não se sustenta sem essas notas ao lado, e por isso ela não foi emendada às demais séries deste trabalho""]"
+o_que_isto_NAO_diz;"[""não diz que algum estado informou dado errado: diz que os critérios declarados diferem entre si"", ""não substitui a série: a página publica as notas, e a série não está nela""]"

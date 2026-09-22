@@ -1,0 +1,321 @@
+{
+ "o_que_e": "normas cujo conteudo criado o portal do Congresso substituiu por reticencias, medido em 30/08/2026",
+ "alvo": 35,
+ "normas": [
+  {
+   "urn": "urn:lex:br:federal:lei.complementar:2026-01-08;225",
+   "especie": "LC",
+   "numero": "225",
+   "ano": "2026",
+   "data": "2026-01-08",
+   "caracteres_no_congresso": 64556,
+   "trechos_engolidos": 8
+  },
+  {
+   "urn": "urn:lex:br:federal:lei:2017-12-07;13531",
+   "especie": "LEI",
+   "numero": "13531",
+   "ano": "2017",
+   "data": "2017-12-07",
+   "caracteres_no_congresso": 1679,
+   "trechos_engolidos": 2
+  },
+  {
+   "urn": "urn:lex:br:federal:lei:2018-01-09;13606",
+   "especie": "LEI",
+   "numero": "13606",
+   "ano": "2018",
+   "data": "2018-01-09",
+   "caracteres_no_congresso": 73284,
+   "trechos_engolidos": 5
+  },
+  {
+   "urn": "urn:lex:br:federal:lei:2018-04-23;13654",
+   "especie": "LEI",
+   "numero": "13654",
+   "ano": "2018",
+   "data": "2018-04-23",
+   "caracteres_no_congresso": 4143,
+   "trechos_engolidos": 1
+  },
+  {
+   "urn": "urn:lex:br:federal:lei:2018-09-24;13715",
+   "especie": "LEI",
+   "numero": "13715",
+   "ano": "2018",
+   "data": "2018-09-24",
+   "caracteres_no_congresso": 3211,
+   "trechos_engolidos": 3
+  },
+  {
+   "urn": "urn:lex:br:federal:lei:2018-12-19;13771",
+   "especie": "LEI",
+   "numero": "13771",
+   "ano": "2018",
+   "data": "2018-12-19",
+   "caracteres_no_congresso": 1101,
+   "trechos_engolidos": 1
+  },
+  {
+   "urn": "urn:lex:br:federal:lei:2018-12-19;13772",
+   "especie": "LEI",
+   "numero": "13772",
+   "ano": "2018",
+   "data": "2018-12-19",
+   "caracteres_no_congresso": 2330,
+   "trechos_engolidos": 1
+  },
+  {
+   "urn": "urn:lex:br:federal:lei:2019-09-05;13869",
+   "especie": "LEI",
+   "numero": "13869",
+   "ano": "2019",
+   "data": "2019-09-05",
+   "caracteres_no_congresso": 17387,
+   "trechos_engolidos": 1
+  },
+  {
+   "urn": "urn:lex:br:federal:lei:2021-04-01;14133",
+   "especie": "LEI",
+   "numero": "14133",
+   "ano": "2021",
+   "data": "2021-04-01",
+   "caracteres_no_congresso": 260909,
+   "trechos_engolidos": 2
+  },
+  {
+   "urn": "urn:lex:br:federal:lei:2021-05-27;14155",
+   "especie": "LEI",
+   "numero": "14155",
+   "ano": "2021",
+   "data": "2021-05-27",
+   "caracteres_no_congresso": 3667,
+   "trechos_engolidos": 1
+  },
+  {
+   "urn": "urn:lex:br:federal:lei:2021-07-28;14188",
+   "especie": "LEI",
+   "numero": "14188",
+   "ano": "2021",
+   "data": "2021-07-28",
+   "caracteres_no_congresso": 3977,
+   "trechos_engolidos": 1
+  },
+  {
+   "urn": "urn:lex:br:federal:lei:2021-09-01;14197",
+   "especie": "LEI",
+   "numero": "14197",
+   "ano": "2021",
+   "data": "2021-09-01",
+   "caracteres_no_congresso": 5698,
+   "trechos_engolidos": 2
+  },
+  {
+   "urn": "urn:lex:br:federal:lei:2021-11-22;14245",
+   "especie": "LEI",
+   "numero": "14245",
+   "ano": "2021",
+   "data": "2021-11-22",
+   "caracteres_no_congresso": 3365,
+   "trechos_engolidos": 2
+  },
+  {
+   "urn": "urn:lex:br:federal:lei:2022-05-24;14344",
+   "especie": "LEI",
+   "numero": "14344",
+   "ano": "2022",
+   "data": "2022-05-24",
+   "caracteres_no_congresso": 32108,
+   "trechos_engolidos": 5
+  },
+  {
+   "urn": "urn:lex:br:federal:lei:2022-12-21;14478",
+   "especie": "LEI",
+   "numero": "14478",
+   "ano": "2022",
+   "data": "2022-12-21",
+   "caracteres_no_congresso": 9304,
+   "trechos_engolidos": 2
+  },
+  {
+   "urn": "urn:lex:br:federal:lei:2023-01-11;14532",
+   "especie": "LEI",
+   "numero": "14532",
+   "ano": "2023",
+   "data": "2023-01-11",
+   "caracteres_no_congresso": 3546,
+   "trechos_engolidos": 1
+  },
+  {
+   "urn": "urn:lex:br:federal:lei:2024-01-12;14811",
+   "especie": "LEI",
+   "numero": "14811",
+   "ano": "2024",
+   "data": "2024-01-12",
+   "caracteres_no_congresso": 9285,
+   "trechos_engolidos": 3
+  },
+  {
+   "urn": "urn:lex:br:federal:lei:2024-09-09;14967",
+   "especie": "LEI",
+   "numero": "14967",
+   "ano": "2024",
+   "data": "2024-09-09",
+   "caracteres_no_congresso": 56359,
+   "trechos_engolidos": 3
+  },
+  {
+   "urn": "urn:lex:br:federal:lei:2024-10-09;14994",
+   "especie": "LEI",
+   "numero": "14994",
+   "ano": "2024",
+   "data": "2024-10-09",
+   "caracteres_no_congresso": 8566,
+   "trechos_engolidos": 5
+  },
+  {
+   "urn": "urn:lex:br:federal:lei:2024-11-27;15035",
+   "especie": "LEI",
+   "numero": "15035",
+   "ano": "2024",
+   "data": "2024-11-27",
+   "caracteres_no_congresso": 2101,
+   "trechos_engolidos": 1
+  },
+  {
+   "urn": "urn:lex:br:federal:lei:2025-04-24;15123",
+   "especie": "LEI",
+   "numero": "15123",
+   "ano": "2025",
+   "data": "2025-04-24",
+   "caracteres_no_congresso": 1297,
+   "trechos_engolidos": 1
+  },
+  {
+   "urn": "urn:lex:br:federal:lei:2025-05-06;15134",
+   "especie": "LEI",
+   "numero": "15134",
+   "ano": "2025",
+   "data": "2025-05-06",
+   "caracteres_no_congresso": 5669,
+   "trechos_engolidos": 3
+  },
+  {
+   "urn": "urn:lex:br:federal:lei:2025-07-03;15159",
+   "especie": "LEI",
+   "numero": "15159",
+   "ano": "2025",
+   "data": "2025-07-03",
+   "caracteres_no_congresso": 4721,
+   "trechos_engolidos": 2
+  },
+  {
+   "urn": "urn:lex:br:federal:lei:2025-07-03;15160",
+   "especie": "LEI",
+   "numero": "15160",
+   "ano": "2025",
+   "data": "2025-07-03",
+   "caracteres_no_congresso": 1712,
+   "trechos_engolidos": 1
+  },
+  {
+   "urn": "urn:lex:br:federal:lei:2025-07-03;15163",
+   "especie": "LEI",
+   "numero": "15163",
+   "ano": "2025",
+   "data": "2025-07-03",
+   "caracteres_no_congresso": 4351,
+   "trechos_engolidos": 3
+  },
+  {
+   "urn": "urn:lex:br:federal:lei:2025-07-28;15181",
+   "especie": "LEI",
+   "numero": "15181",
+   "ano": "2025",
+   "data": "2025-07-28",
+   "caracteres_no_congresso": 4697,
+   "trechos_engolidos": 2
+  },
+  {
+   "urn": "urn:lex:br:federal:lei:2025-10-29;15245",
+   "especie": "LEI",
+   "numero": "15245",
+   "ano": "2025",
+   "data": "2025-10-29",
+   "caracteres_no_congresso": 4894,
+   "trechos_engolidos": 2
+  },
+  {
+   "urn": "urn:lex:br:federal:lei:2025-12-05;15280",
+   "especie": "LEI",
+   "numero": "15280",
+   "ano": "2025",
+   "data": "2025-12-05",
+   "caracteres_no_congresso": 9164,
+   "trechos_engolidos": 3
+  },
+  {
+   "urn": "urn:lex:br:federal:lei:2026-03-08;15353",
+   "especie": "LEI",
+   "numero": "15353",
+   "ano": "2026",
+   "data": "2026-03-08",
+   "caracteres_no_congresso": 1586,
+   "trechos_engolidos": 1
+  },
+  {
+   "urn": "urn:lex:br:federal:lei:2026-03-24;15358",
+   "especie": "LEI",
+   "numero": "15358",
+   "ano": "2026",
+   "data": "2026-03-24",
+   "caracteres_no_congresso": 78129,
+   "trechos_engolidos": 5
+  },
+  {
+   "urn": "urn:lex:br:federal:lei:2026-04-09;15384",
+   "especie": "LEI",
+   "numero": "15384",
+   "ano": "2026",
+   "data": "2026-04-09",
+   "caracteres_no_congresso": 2483,
+   "trechos_engolidos": 2
+  },
+  {
+   "urn": "urn:lex:br:federal:lei:2026-04-30;15397",
+   "especie": "LEI",
+   "numero": "15397",
+   "ano": "2026",
+   "data": "2026-04-30",
+   "caracteres_no_congresso": 6149,
+   "trechos_engolidos": 1
+  },
+  {
+   "urn": "urn:lex:br:federal:lei:2026-06-18;15438",
+   "especie": "LEI",
+   "numero": "15438",
+   "ano": "2026",
+   "data": "2026-06-18",
+   "caracteres_no_congresso": 2747,
+   "trechos_engolidos": 2
+  },
+  {
+   "urn": "urn:lex:br:federal:lei:2026-07-01;15455",
+   "especie": "LEI",
+   "numero": "15455",
+   "ano": "2026",
+   "data": "2026-07-01",
+   "caracteres_no_congresso": 6344,
+   "trechos_engolidos": 2
+  },
+  {
+   "urn": "urn:lex:br:federal:lei:2026-08-06;15487",
+   "especie": "LEI",
+   "numero": "15487",
+   "ano": "2026",
+   "data": "2026-08-06",
+   "caracteres_no_congresso": 15111,
+   "trechos_engolidos": 4
+  }
+ ]
+}

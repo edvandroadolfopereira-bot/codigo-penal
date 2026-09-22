@@ -1,0 +1,4 @@
+parametro;porque;vigente;no_regime_comum;no_rol
+Livramento condicional, fracao exigida do primario;fracao maior obriga a cumprir mais antes de sair;True;um terço;dois terços
+Progressao de regime, fracao do primario;parametro HISTORICO: o paragrafo que o fixava foi revogado pela Lei 13.964/2019, que remeteu a materia ao art. 112 da Lei de Execucao Penal;False;;2/5
+Progressao de regime, fracao do reincidente;mesmo parametro historico, para o reincidente;False;;3/5

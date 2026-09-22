@@ -1,0 +1,48 @@
+chave;valor
+gerado_em;30/08/2026
+serie_de_violencia.indicador;Mortes Violentas Intencionais, numeros absolutos, Brasil
+serie_de_violencia.fonte;Forum Brasileiro de Seguranca Publica, 20o Anuario, edicao de 2026, tabela da serie historica
+serie_de_violencia.o_que_a_categoria_soma;homicidio doloso, latrocinio, lesao corporal seguida de morte e morte decorrente de intervencao policial
+serie_de_violencia.por_ano.2012;54694
+serie_de_violencia.por_ano.2013;55844
+serie_de_violencia.por_ano.2014;59739
+serie_de_violencia.por_ano.2015;58437
+serie_de_violencia.por_ano.2016;61600
+serie_de_violencia.por_ano.2017;64079
+serie_de_violencia.por_ano.2018;57592
+serie_de_violencia.por_ano.2019;47765
+serie_de_violencia.por_ano.2020;50448
+serie_de_violencia.por_ano.2021;48286
+serie_de_violencia.por_ano.2022;47963
+serie_de_violencia.por_ano.2023;46441
+serie_de_violencia.por_ano.2024;44220
+serie_de_violencia.por_ano.2025;40775
+serie_de_agravamento.indicador;eventos que aumentam o teto da pena ou criam pena nova
+serie_de_agravamento.fonte;cp-eventos-de-severidade.csv
+serie_de_agravamento.por_ano.2012;3
+serie_de_agravamento.por_ano.2013;0
+serie_de_agravamento.por_ano.2014;1
+serie_de_agravamento.por_ano.2015;0
+serie_de_agravamento.por_ano.2016;1
+serie_de_agravamento.por_ano.2017;0
+serie_de_agravamento.por_ano.2018;3
+serie_de_agravamento.por_ano.2019;0
+serie_de_agravamento.por_ano.2020;0
+serie_de_agravamento.por_ano.2021;22
+serie_de_agravamento.por_ano.2022;1
+serie_de_agravamento.por_ano.2023;1
+serie_de_agravamento.por_ano.2024;3
+serie_de_agravamento.por_ano.2025;8
+janela.de;2012
+janela.ate;2025
+janela.n;14
+variacao.violencia_no_periodo;-25.4
+variacao.agravamentos_somados;43
+associacao.pearson_mesmo_ano;-0.3563616604867988
+associacao.spearman_mesmo_ano;-0.40212948860238107
+associacao.pearson_com_defasagem_de_um_ano;-0.294471562899893
+associacao.spearman_com_defasagem_de_um_ano;-0.35041849664811187
+associacao.n_do_mesmo_ano;14
+associacao.n_da_defasagem;13
+o_que_isto_NAO_diz;"[""nao diz que a lei causou a queda da violencia, nem o contrario"", ""com n de catorze e sem desenho de identificacao, causa nao se afirma"", ""nao mede dissuasao, mede se as duas series andam juntas"", ""a serie do Forum comeca em 2012, e a de agravamento e' densa desde 1990: a janela comum e' a mais curta das duas""]"
+defeito_de_catalogacao_da_fonte;o arquivo de resumo criptografico e40c53ff esta' catalogado em tres itens do acervo do Forum, e um deles o atribui ao 10o Anuario de 2016 quando ele e' o 16o Anuario de 2022

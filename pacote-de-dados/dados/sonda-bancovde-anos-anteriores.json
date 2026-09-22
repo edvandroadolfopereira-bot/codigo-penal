@@ -1,0 +1,117 @@
+{
+ "gerado_por": "sondar_bancovde_anos_anteriores.py",
+ "data": "2026-09-22 17:07:25",
+ "pergunta": "o padrao de endereco do banco do Sinesp VDE responde para os anos anteriores a 2015, que a pagina oficial nao lista?",
+ "padrao_de_endereco": "https://www.gov.br/mj/pt-br/assuntos/sua-seguranca/seguranca-publica/estatistica/download/dnsp-base-de-dados/bancovde-0.xlsx/@@download/file",
+ "anos_de_controle": [
+  {
+   "ano": 2015,
+   "http": 200,
+   "bytes": 25001236,
+   "tipo_de_conteudo": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+   "comeca_com_PK_logo_e_xlsx": true,
+   "situacao": "XLSX DE VERDADE"
+  },
+  {
+   "ano": 2016,
+   "http": 200,
+   "bytes": 26163325,
+   "tipo_de_conteudo": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+   "comeca_com_PK_logo_e_xlsx": true,
+   "situacao": "XLSX DE VERDADE"
+  }
+ ],
+ "anos_testados": [
+  {
+   "ano": 2004,
+   "http": 404,
+   "bytes": 151702,
+   "tipo_de_conteudo": "text/html;charset=utf-8",
+   "comeca_com_PK_logo_e_xlsx": false,
+   "situacao": "NAO E XLSX"
+  },
+  {
+   "ano": 2005,
+   "http": 404,
+   "bytes": 151702,
+   "tipo_de_conteudo": "text/html;charset=utf-8",
+   "comeca_com_PK_logo_e_xlsx": false,
+   "situacao": "NAO E XLSX"
+  },
+  {
+   "ano": 2006,
+   "http": 404,
+   "bytes": 151702,
+   "tipo_de_conteudo": "text/html;charset=utf-8",
+   "comeca_com_PK_logo_e_xlsx": false,
+   "situacao": "NAO E XLSX"
+  },
+  {
+   "ano": 2007,
+   "http": 404,
+   "bytes": 151702,
+   "tipo_de_conteudo": "text/html;charset=utf-8",
+   "comeca_com_PK_logo_e_xlsx": false,
+   "situacao": "NAO E XLSX"
+  },
+  {
+   "ano": 2008,
+   "http": 404,
+   "bytes": 151702,
+   "tipo_de_conteudo": "text/html;charset=utf-8",
+   "comeca_com_PK_logo_e_xlsx": false,
+   "situacao": "NAO E XLSX"
+  },
+  {
+   "ano": 2009,
+   "http": 404,
+   "bytes": 151696,
+   "tipo_de_conteudo": "text/html;charset=utf-8",
+   "comeca_com_PK_logo_e_xlsx": false,
+   "situacao": "NAO E XLSX"
+  },
+  {
+   "ano": 2010,
+   "http": 404,
+   "bytes": 151702,
+   "tipo_de_conteudo": "text/html;charset=utf-8",
+   "comeca_com_PK_logo_e_xlsx": false,
+   "situacao": "NAO E XLSX"
+  },
+  {
+   "ano": 2011,
+   "http": 404,
+   "bytes": 151702,
+   "tipo_de_conteudo": "text/html;charset=utf-8",
+   "comeca_com_PK_logo_e_xlsx": false,
+   "situacao": "NAO E XLSX"
+  },
+  {
+   "ano": 2012,
+   "http": 404,
+   "bytes": 151696,
+   "tipo_de_conteudo": "text/html;charset=utf-8",
+   "comeca_com_PK_logo_e_xlsx": false,
+   "situacao": "NAO E XLSX"
+  },
+  {
+   "ano": 2013,
+   "http": 404,
+   "bytes": 151702,
+   "tipo_de_conteudo": "text/html;charset=utf-8",
+   "comeca_com_PK_logo_e_xlsx": false,
+   "situacao": "NAO E XLSX"
+  },
+  {
+   "ano": 2014,
+   "http": 404,
+   "bytes": 151702,
+   "tipo_de_conteudo": "text/html;charset=utf-8",
+   "comeca_com_PK_logo_e_xlsx": false,
+   "situacao": "NAO E XLSX"
+  }
+ ],
+ "anos_com_arquivo_de_verdade": [],
+ "criterio": "o corpo tem que comecar com os bytes PK, que e a assinatura do xlsx, e passar de mil bytes; codigo HTTP 200 sozinho nao prova arquivo",
+ "resposta": "a fonte oficial NAO oferece nenhum ano anterior a 2015 neste padrao"
+}

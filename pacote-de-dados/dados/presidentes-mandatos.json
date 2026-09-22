@@ -1,0 +1,293 @@
+{
+ "fonte": "Biblioteca da Presidência da República, páginas dos ex-presidentes; gov.br, biografia do Presidente",
+ "acesso": "21/09/2026",
+ "api_oficial": "não existe; o portal não publica a lista e a galeria antiga exige login",
+ "limites": [
+  "a data da eleição de Castello Branco e a hora da vacância vêm do DHBB (FGV CPDOC), verbetes 1205 e 3365; os períodos, da Biblioteca da Presidência",
+  "os períodos de Vargas saem deduzidos de outras linhas da mesma fonte; o 2º mandato de FHC e o de Dilma estão declarados nas páginas de dados e de biografia de cada um, lidas em 21/09/2026",
+  "o fim declarado usa ora o último dia, ora o dia da posse seguinte; aqui vale o dia da posse seguinte"
+ ],
+ "lacunas": [],
+ "periodos": [
+  {
+   "nome": "Getúlio Vargas",
+   "inicio": "1937-11-10",
+   "fim": "1945-10-29",
+   "forma": "Estado Novo, sem eleição",
+   "marca": "deduzido",
+   "fonte": "http://www.biblioteca.presidencia.gov.br/presidencia/presidencia/ex-presidentes/jose-linhares",
+   "acesso": "21/09/2026",
+   "trecho": "Décimo Terceiro Período de Governo Republicano - 10.11.1937 a 31.01.1946 | 2ª fase: 29.10.1945 a 31.01.1946"
+  },
+  {
+   "nome": "José Linhares",
+   "inicio": "1945-10-29",
+   "fim": "1946-01-31",
+   "forma": "Presidente do STF no exercício da Presidência",
+   "marca": "declarado",
+   "fonte": "http://www.biblioteca.presidencia.gov.br/presidencia/presidencia/ex-presidentes/jose-linhares",
+   "acesso": "21/09/2026",
+   "trecho": "2ª fase: 29.10.1945 a 31.01.1946"
+  },
+  {
+   "nome": "Eurico Gaspar Dutra",
+   "inicio": "1946-01-31",
+   "fim": "1951-01-31",
+   "forma": "eleito",
+   "marca": "declarado",
+   "fonte": "http://www.biblioteca.presidencia.gov.br/presidencia/presidencia/ex-presidentes/gaspar-dutra",
+   "acesso": "21/09/2026",
+   "trecho": "Período de Governo: 31.01.1946 a 31.01.1951 (05a)"
+  },
+  {
+   "nome": "Getúlio Vargas",
+   "inicio": "1951-01-31",
+   "fim": "1954-08-24",
+   "forma": "eleito",
+   "marca": "deduzido",
+   "fonte": "http://www.biblioteca.presidencia.gov.br/presidencia/presidencia/ex-presidentes/cafe-filho",
+   "acesso": "21/09/2026",
+   "trecho": "Décimo Quinto Período de Governo Republicano - 31.01.1951 a 31.01.1956 | 2ª fase: de 24.08.1954 a 11.11.1955"
+  },
+  {
+   "nome": "Café Filho",
+   "inicio": "1954-08-24",
+   "fim": "1955-11-08",
+   "forma": "vice que assumiu",
+   "marca": "declarado",
+   "fonte": "http://www.biblioteca.presidencia.gov.br/presidencia/presidencia/ex-presidentes/cafe-filho",
+   "acesso": "21/09/2026",
+   "trecho": "2ª fase: de 24.08.1954 a 11.11.1955; Carlos Luz exerceu de 20.04 a 29.04.1955 e de 08.11 a 11.11.1955"
+  },
+  {
+   "nome": "Carlos Luz",
+   "inicio": "1955-11-08",
+   "fim": "1955-11-11",
+   "forma": "Presidente da Câmara no exercício da Presidência",
+   "marca": "declarado",
+   "fonte": "http://www.biblioteca.presidencia.gov.br/presidencia/presidencia/ex-presidentes/carlos-luz",
+   "acesso": "21/09/2026",
+   "trecho": "Período de Governo: 08.11.1955 a 11.11.1955 (3d)"
+  },
+  {
+   "nome": "Nereu Ramos",
+   "inicio": "1955-11-11",
+   "fim": "1956-01-31",
+   "forma": "Vice-Presidente do Senado no exercício da Presidência",
+   "marca": "declarado",
+   "fonte": "http://www.biblioteca.presidencia.gov.br/presidencia/presidencia/ex-presidentes/nereu-ramos",
+   "acesso": "21/09/2026",
+   "trecho": "Período de Governo: 11.11.1955 a 31.01.1956 (02m21d)"
+  },
+  {
+   "nome": "Juscelino Kubitschek",
+   "inicio": "1956-01-31",
+   "fim": "1961-01-31",
+   "forma": "eleito",
+   "marca": "declarado",
+   "fonte": "http://www.biblioteca.presidencia.gov.br/presidencia/presidencia/ex-presidentes/jk",
+   "acesso": "21/09/2026",
+   "trecho": "Décimo Sexto Período de Governo Republicano - 31.01.1956 a 31.01.1961"
+  },
+  {
+   "nome": "Jânio Quadros",
+   "inicio": "1961-01-31",
+   "fim": "1961-08-25",
+   "forma": "eleito",
+   "marca": "declarado",
+   "fonte": "http://www.biblioteca.presidencia.gov.br/presidencia/presidencia/ex-presidentes/janio-quadros",
+   "acesso": "21/09/2026",
+   "trecho": "1ª fase: 31.01.1961 a 25.08.1961"
+  },
+  {
+   "nome": "Ranieri Mazzilli",
+   "inicio": "1961-08-25",
+   "fim": "1961-09-08",
+   "forma": "Presidente da Câmara no exercício da Presidência",
+   "marca": "declarado",
+   "fonte": "http://www.biblioteca.presidencia.gov.br/presidencia/presidencia/ex-presidentes/ranieri-mazzilli",
+   "acesso": "21/09/2026",
+   "trecho": "2ª fase: 25.08.1961 a 08.09.1961"
+  },
+  {
+   "nome": "João Goulart",
+   "inicio": "1961-09-08",
+   "fim": "1964-04-02",
+   "forma": "vice que assumiu; deposto em 1964, com a vacância declarada pelo presidente do Senado na noite de 1º de abril (DHBB, verbete 1205)",
+   "marca": "deduzido",
+   "fonte": "http://www.biblioteca.presidencia.gov.br/presidencia/presidencia/ex-presidentes/joao-goulart",
+   "acesso": "21/09/2026",
+   "trecho": "Décimo sétimo Período de Governo Republicano - 31.01.1961 a 1º.04.1964 | Fase parlamentarista: 08.09.1961 a 24.01.1963"
+  },
+  {
+   "nome": "Ranieri Mazzilli",
+   "inicio": "1964-04-02",
+   "fim": "1964-04-15",
+   "forma": "Presidente da Câmara no exercício da Presidência, governo provisório, por convocação do Congresso após a vacância",
+   "marca": "declarado",
+   "fonte": "http://www.biblioteca.presidencia.gov.br/presidencia/ex-presidentes/ranieri-mazzilli/nome-do-presidente",
+   "acesso": "21/09/2026",
+   "trecho": "Governo Provisório Período de Governo: 02.04.1964 a 15.04.1964 | como Presidente da Câmara dos Deputados, assumiu a Presidência da República, por convocação do Congresso Nacional, que anunciou a vacância do cargo"
+  },
+  {
+   "nome": "Castello Branco",
+   "inicio": "1964-04-15",
+   "fim": "1967-03-15",
+   "forma": "eleição indireta pelo Congresso Nacional em 11/04/1964, com 361 votos (DHBB, verbete 1205)",
+   "marca": "declarado",
+   "fonte": "http://www.biblioteca.presidencia.gov.br/presidencia/presidencia/ex-presidentes/castello-branco",
+   "acesso": "21/09/2026",
+   "trecho": "Período de Governo: 15.04.1964 a 15.03.1967 (03a11m05d) | Posse: em 15.04.1964, em sessão conjunta do Congresso Nacional"
+  },
+  {
+   "nome": "Costa e Silva",
+   "inicio": "1967-03-15",
+   "fim": "1969-08-31",
+   "forma": "eleição indireta",
+   "marca": "declarado",
+   "fonte": "http://www.biblioteca.presidencia.gov.br/presidencia/presidencia/ex-presidentes/costa-silva",
+   "acesso": "21/09/2026",
+   "trecho": "Período de Governo: 15.03.1967 a 31.08.1969"
+  },
+  {
+   "nome": "Junta Militar (Augusto Rademaker, Aurélio de Lyra Tavares e Márcio de Souza Mello)",
+   "inicio": "1969-08-31",
+   "fim": "1969-10-30",
+   "forma": "Governo Provisório",
+   "marca": "declarado",
+   "fonte": "http://www.biblioteca.presidencia.gov.br/presidencia/ex-presidentes/souza-mello",
+   "acesso": "21/09/2026",
+   "trecho": "Governo Provisório - 31.08.1969 a 30.10.1969 - Junta Militar"
+  },
+  {
+   "nome": "Emílio Garrastazu Médici",
+   "inicio": "1969-10-30",
+   "fim": "1974-03-15",
+   "forma": "eleição indireta",
+   "marca": "declarado",
+   "fonte": "http://www.biblioteca.presidencia.gov.br/presidencia/presidencia/ex-presidentes/emilio-medici",
+   "acesso": "21/09/2026",
+   "trecho": "Vigésimo Período de Governo Republicano - 30.10.1969 a 15.03.1974"
+  },
+  {
+   "nome": "Ernesto Geisel",
+   "inicio": "1974-03-15",
+   "fim": "1979-03-15",
+   "forma": "eleição indireta",
+   "marca": "declarado",
+   "fonte": "http://www.biblioteca.presidencia.gov.br/presidencia/ex-presidentes/ernesto-geisel",
+   "acesso": "21/09/2026",
+   "trecho": "Vigésimo Primeiro Período de Governo Republicano - 15.03.1974 a 15.03.1979"
+  },
+  {
+   "nome": "João Baptista Figueiredo",
+   "inicio": "1979-03-15",
+   "fim": "1985-03-15",
+   "forma": "eleição indireta",
+   "marca": "declarado",
+   "fonte": "http://www.biblioteca.presidencia.gov.br/presidencia/ex-presidentes/jb-figueiredo",
+   "acesso": "21/09/2026",
+   "trecho": "Vigésimo Segundo Período de Governo Republicano - 15.03.1979 a 15.03.1985"
+  },
+  {
+   "nome": "José Sarney",
+   "inicio": "1985-03-15",
+   "fim": "1990-03-15",
+   "forma": "vice que assumiu; Tancredo Neves eleito e não empossado",
+   "marca": "declarado",
+   "fonte": "http://www.biblioteca.presidencia.gov.br/presidencia/ex-presidentes/jose-sarney",
+   "acesso": "21/09/2026",
+   "trecho": "Período de Governo: 15.03.1985 a 15.03.1990 (05a); Até 21.04.1985, exerceu a Presidência, como Vice-Presidente, por motivo de enfermidade do titular"
+  },
+  {
+   "nome": "Fernando Collor",
+   "inicio": "1990-03-15",
+   "fim": "1992-10-02",
+   "forma": "eleito",
+   "marca": "declarado",
+   "fonte": "http://www.biblioteca.presidencia.gov.br/presidencia/ex-presidentes/fernando-collor",
+   "acesso": "21/09/2026",
+   "trecho": "1ª fase: 15.03.1990 a 02.10.1992"
+  },
+  {
+   "nome": "Itamar Franco",
+   "inicio": "1992-10-02",
+   "fim": "1995-01-01",
+   "forma": "vice que assumiu; titular a partir de 29.12.1992",
+   "marca": "declarado",
+   "fonte": "http://www.biblioteca.presidencia.gov.br/presidencia/ex-presidentes/itamar-franco",
+   "acesso": "21/09/2026",
+   "trecho": "2ª fase: 02.10.1992 a 01.01.1995 | Período de Governo: 29.12.1992 a 01.01.1995"
+  },
+  {
+   "nome": "Fernando Henrique Cardoso",
+   "inicio": "1995-01-01",
+   "fim": "1999-01-01",
+   "forma": "eleito, 1º mandato",
+   "marca": "declarado",
+   "fonte": "http://www.biblioteca.presidencia.gov.br/presidencia/ex-presidentes/fernando-henrique-cardoso",
+   "acesso": "21/09/2026",
+   "trecho": "Vigésimo Quinto Período de Governo Republicano: 1º.01.1995 a 1º.01.1999"
+  },
+  {
+   "nome": "Fernando Henrique Cardoso",
+   "inicio": "1999-01-01",
+   "fim": "2003-01-01",
+   "forma": "reeleito, 2º mandato",
+   "marca": "declarado",
+   "fonte": "http://www.biblioteca.presidencia.gov.br/presidencia/ex-presidentes/fernando-henrique-cardoso/fernando-henrique-cardoso",
+   "acesso": "21/09/2026",
+   "trecho": "2º mandato Vigésimo Sexto Período de Governo Republicano - 1º.01.1999 a 1º.01.2003 | Posse: 01.01.1999, em sessão solene do Congresso Nacional"
+  },
+  {
+   "nome": "Luiz Inácio Lula da Silva",
+   "inicio": "2003-01-01",
+   "fim": "2011-01-01",
+   "forma": "eleito, 1º e 2º mandatos",
+   "marca": "declarado",
+   "fonte": "http://www.biblioteca.presidencia.gov.br/presidencia/ex-presidentes/luiz-inacio-lula-da-silva",
+   "acesso": "21/09/2026",
+   "trecho": "1º.01.2003 a 1º.01.2007 | Vigésimo Oitavo Período de Governo Republicano - 1º.01.2007 a 1º.01.2011"
+  },
+  {
+   "nome": "Dilma Rousseff",
+   "inicio": "2011-01-01",
+   "fim": "2016-05-12",
+   "forma": "eleita; afastada no segundo mandato, em 12/05/2016, e com a perda do cargo imposta pelo Senado em 31/08/2016 (Resolução n. 35)",
+   "marca": "declarado",
+   "fonte": "http://www.biblioteca.presidencia.gov.br/presidencia/ex-presidentes/dilma-rousseff/biografia",
+   "acesso": "21/09/2026",
+   "trecho": "Período de governo: 01.01.2011 a 01.01.2015 (1º mandato) | Em 12 de maio de 2016, dois anos antes do término de seu segundo mandato, a Presidenta Dilma Rousseff foi afastada da função de chefe de estado | Em 31 de agosto de 2016 a Resolução nº 35 do Senado Federal [...] impôs à Srª Dilma Vana Rousseff a sanção de perda do cargo"
+  },
+  {
+   "nome": "Michel Temer",
+   "inicio": "2016-05-12",
+   "fim": "2019-01-01",
+   "forma": "vice no exercício desde 12/05/2016, empossado em 31/08/2016",
+   "marca": "declarado",
+   "fonte": "http://www.biblioteca.presidencia.gov.br/presidencia/ex-presidentes/michel-temer/michel_temer",
+   "acesso": "21/09/2026",
+   "trecho": "Presidente em exercício: de 12/05/2016 a 31/08/2016 | Presidente da República: de 31/08/2016 a 31/12/2018"
+  },
+  {
+   "nome": "Jair Messias Bolsonaro",
+   "inicio": "2019-01-01",
+   "fim": "2023-01-01",
+   "forma": "eleito",
+   "marca": "declarado",
+   "fonte": "http://www.biblioteca.presidencia.gov.br/presidencia/ex-presidentes/bolsonaro/Bolsonaro",
+   "acesso": "21/09/2026",
+   "trecho": "Período de Governo: 01/01/2019 a 31/12/2022"
+  },
+  {
+   "nome": "Luiz Inácio Lula da Silva",
+   "inicio": "2023-01-01",
+   "fim": null,
+   "forma": "eleito, 3º mandato, em exercício",
+   "marca": "declarado",
+   "fonte": "https://www.gov.br/planalto/pt-br/conheca-a-presidencia/biografia-do-presidente",
+   "acesso": "21/09/2026",
+   "trecho": "Em 1º de janeiro de 2023, Lula subiu a rampa do Palácio do Planalto"
+  }
+ ]
+}

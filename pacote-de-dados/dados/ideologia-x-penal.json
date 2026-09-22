@@ -1,0 +1,2888 @@
+{
+ "gerado_por": "apurar_ideologia_x_penal.py",
+ "semente": 20260922,
+ "sorteios": 200000,
+ "escala": "0 (esquerda) a 10 (direita), media das respostas de especialistas",
+ "regras": [
+  "so' partido registrado a partir de 1980 recebe posicao",
+  "sucessao so' pela tabela oficial do TSE de fusoes, incorporacoes e mudancas de nome",
+  "escala medida em 2018 e 2022 aplicada a atos anteriores: supoe estabilidade relativa, nao testada"
+ ],
+ "A_voto_nominal": {
+  "votos_lidos": 28083,
+  "votos_sem_norma_do_universo": 3029,
+  "votos_validos_sem_posicao": {
+   "PAN": 5,
+   "S.PART.": 7,
+   "PRD": 105,
+   "MISSÃO": 5
+  },
+  "por_partido": [
+   {
+    "partido": "AVANTE",
+    "posicao_2018": 6.32,
+    "posicao_2022": 6.47,
+    "votos_validos": 315,
+    "pct_sim": 59.7,
+    "votos_normas_que_agravam": 145,
+    "pct_sim_nas_que_agravam": 47.6,
+    "votos_normas_que_abrandam": 0,
+    "pct_sim_nas_que_abrandam": null,
+    "votos_texto_base_que_agrava": 11,
+    "pct_sim_texto_base_que_agrava": 81.8
+   },
+   {
+    "partido": "CIDADANIA",
+    "posicao_2018": 4.92,
+    "posicao_2022": 6.17,
+    "votos_validos": 205,
+    "pct_sim": 48.8,
+    "votos_normas_que_agravam": 103,
+    "pct_sim_nas_que_agravam": 45.6,
+    "votos_normas_que_abrandam": 0,
+    "pct_sim_nas_que_abrandam": null,
+    "votos_texto_base_que_agrava": 10,
+    "pct_sim_texto_base_que_agrava": 100.0
+   },
+   {
+    "partido": "DEM",
+    "posicao_2018": 8.57,
+    "posicao_2022": 8.49,
+    "votos_validos": 450,
+    "pct_sim": 61.1,
+    "votos_normas_que_agravam": 231,
+    "pct_sim_nas_que_agravam": 48.5,
+    "votos_normas_que_abrandam": 0,
+    "pct_sim_nas_que_abrandam": null,
+    "votos_texto_base_que_agrava": 46,
+    "pct_sim_texto_base_que_agrava": 45.7
+   },
+   {
+    "partido": "MDB",
+    "posicao_2018": 7.01,
+    "posicao_2022": 6.5,
+    "votos_validos": 1526,
+    "pct_sim": 54.8,
+    "votos_normas_que_agravam": 749,
+    "pct_sim_nas_que_agravam": 46.2,
+    "votos_normas_que_abrandam": 0,
+    "pct_sim_nas_que_abrandam": null,
+    "votos_texto_base_que_agrava": 62,
+    "pct_sim_texto_base_que_agrava": 98.4
+   },
+   {
+    "partido": "NOVO",
+    "posicao_2018": 8.13,
+    "posicao_2022": 8.67,
+    "votos_validos": 287,
+    "pct_sim": 53.3,
+    "votos_normas_que_agravam": 139,
+    "pct_sim_nas_que_agravam": 51.1,
+    "votos_normas_que_abrandam": 0,
+    "pct_sim_nas_que_abrandam": null,
+    "votos_texto_base_que_agrava": 12,
+    "pct_sim_texto_base_que_agrava": 41.7
+   },
+   {
+    "partido": "PATRIOTA",
+    "posicao_2018": 8.55,
+    "posicao_2022": 8.6,
+    "votos_validos": 94,
+    "pct_sim": 55.3,
+    "votos_normas_que_agravam": 39,
+    "pct_sim_nas_que_agravam": 51.3,
+    "votos_normas_que_abrandam": 0,
+    "pct_sim_nas_que_abrandam": null,
+    "votos_texto_base_que_agrava": 3,
+    "pct_sim_texto_base_que_agrava": 66.7
+   },
+   {
+    "partido": "PCdoB",
+    "posicao_2018": 1.92,
+    "posicao_2022": 1.78,
+    "votos_validos": 459,
+    "pct_sim": 55.6,
+    "votos_normas_que_agravam": 229,
+    "pct_sim_nas_que_agravam": 53.7,
+    "votos_normas_que_abrandam": 0,
+    "pct_sim_nas_que_abrandam": null,
+    "votos_texto_base_que_agrava": 28,
+    "pct_sim_texto_base_que_agrava": 50.0
+   },
+   {
+    "partido": "PDT",
+    "posicao_2018": 3.92,
+    "posicao_2022": 3.86,
+    "votos_validos": 999,
+    "pct_sim": 60.7,
+    "votos_normas_que_agravam": 521,
+    "pct_sim_nas_que_agravam": 49.5,
+    "votos_normas_que_abrandam": 0,
+    "pct_sim_nas_que_abrandam": null,
+    "votos_texto_base_que_agrava": 58,
+    "pct_sim_texto_base_que_agrava": 91.4
+   },
+   {
+    "partido": "PEN",
+    "posicao_2018": 8.55,
+    "posicao_2022": 8.6,
+    "votos_validos": 7,
+    "pct_sim": 71.4,
+    "votos_normas_que_agravam": 1,
+    "pct_sim_nas_que_agravam": 0.0,
+    "votos_normas_que_abrandam": 0,
+    "pct_sim_nas_que_abrandam": null,
+    "votos_texto_base_que_agrava": 0,
+    "pct_sim_texto_base_que_agrava": null
+   },
+   {
+    "partido": "PFL",
+    "posicao_2018": 8.57,
+    "posicao_2022": 8.49,
+    "votos_validos": 94,
+    "pct_sim": 100.0,
+    "votos_normas_que_agravam": 94,
+    "pct_sim_nas_que_agravam": 100.0,
+    "votos_normas_que_abrandam": 0,
+    "pct_sim_nas_que_abrandam": null,
+    "votos_texto_base_que_agrava": 0,
+    "pct_sim_texto_base_que_agrava": null
+   },
+   {
+    "partido": "PHS",
+    "posicao_2018": 6.96,
+    "posicao_2022": null,
+    "votos_validos": 21,
+    "pct_sim": 90.5,
+    "votos_normas_que_agravam": 5,
+    "pct_sim_nas_que_agravam": 80.0,
+    "votos_normas_que_abrandam": 0,
+    "pct_sim_nas_que_abrandam": null,
+    "votos_texto_base_que_agrava": 2,
+    "pct_sim_texto_base_que_agrava": 100.0
+   },
+   {
+    "partido": "PL",
+    "posicao_2018": 7.78,
+    "posicao_2022": 8.8,
+    "votos_validos": 3241,
+    "pct_sim": 59.1,
+    "votos_normas_que_agravam": 1373,
+    "pct_sim_nas_que_agravam": 54.5,
+    "votos_normas_que_abrandam": 0,
+    "pct_sim_nas_que_abrandam": null,
+    "votos_texto_base_que_agrava": 115,
+    "pct_sim_texto_base_que_agrava": 98.3
+   },
+   {
+    "partido": "PMB",
+    "posicao_2018": 6.9,
+    "posicao_2022": 7.29,
+    "votos_validos": 2,
+    "pct_sim": 100.0,
+    "votos_normas_que_agravam": 0,
+    "pct_sim_nas_que_agravam": null,
+    "votos_normas_que_abrandam": 0,
+    "pct_sim_nas_que_abrandam": null,
+    "votos_texto_base_que_agrava": 0,
+    "pct_sim_texto_base_que_agrava": null
+   },
+   {
+    "partido": "PMDB",
+    "posicao_2018": 7.01,
+    "posicao_2022": 6.5,
+    "votos_validos": 384,
+    "pct_sim": 85.7,
+    "votos_normas_que_agravam": 265,
+    "pct_sim_nas_que_agravam": 83.8,
+    "votos_normas_que_abrandam": 0,
+    "pct_sim_nas_que_abrandam": null,
+    "votos_texto_base_que_agrava": 53,
+    "pct_sim_texto_base_que_agrava": 94.3
+   },
+   {
+    "partido": "PMN",
+    "posicao_2018": 6.88,
+    "posicao_2022": 6.74,
+    "votos_validos": 17,
+    "pct_sim": 64.7,
+    "votos_normas_que_agravam": 11,
+    "pct_sim_nas_que_agravam": 72.7,
+    "votos_normas_que_abrandam": 0,
+    "pct_sim_nas_que_abrandam": null,
+    "votos_texto_base_que_agrava": 4,
+    "pct_sim_texto_base_que_agrava": 75.0
+   },
+   {
+    "partido": "PMR",
+    "posicao_2018": 7.78,
+    "posicao_2022": 8.33,
+    "votos_validos": 2,
+    "pct_sim": 100.0,
+    "votos_normas_que_agravam": 2,
+    "pct_sim_nas_que_agravam": 100.0,
+    "votos_normas_que_abrandam": 0,
+    "pct_sim_nas_que_abrandam": null,
+    "votos_texto_base_que_agrava": 0,
+    "pct_sim_texto_base_que_agrava": null
+   },
+   {
+    "partido": "PODE",
+    "posicao_2018": 7.24,
+    "posicao_2022": 7.44,
+    "votos_validos": 623,
+    "pct_sim": 50.2,
+    "votos_normas_que_agravam": 300,
+    "pct_sim_nas_que_agravam": 39.3,
+    "votos_normas_que_abrandam": 0,
+    "pct_sim_nas_que_abrandam": null,
+    "votos_texto_base_que_agrava": 20,
+    "pct_sim_texto_base_que_agrava": 90.0
+   },
+   {
+    "partido": "PP",
+    "posicao_2018": 8.2,
+    "posicao_2022": 8.15,
+    "votos_validos": 2117,
+    "pct_sim": 55.8,
+    "votos_normas_que_agravam": 1043,
+    "pct_sim_nas_que_agravam": 45.9,
+    "votos_normas_que_abrandam": 0,
+    "pct_sim_nas_que_abrandam": null,
+    "votos_texto_base_que_agrava": 95,
+    "pct_sim_texto_base_que_agrava": 97.9
+   },
+   {
+    "partido": "PPS",
+    "posicao_2018": 4.92,
+    "posicao_2022": 6.17,
+    "votos_validos": 68,
+    "pct_sim": 79.4,
+    "votos_normas_que_agravam": 48,
+    "pct_sim_nas_que_agravam": 70.8,
+    "votos_normas_que_abrandam": 0,
+    "pct_sim_nas_que_abrandam": null,
+    "votos_texto_base_que_agrava": 10,
+    "pct_sim_texto_base_que_agrava": 30.0
+   },
+   {
+    "partido": "PR",
+    "posicao_2018": 7.78,
+    "posicao_2022": 8.8,
+    "votos_validos": 161,
+    "pct_sim": 77.6,
+    "votos_normas_que_agravam": 78,
+    "pct_sim_nas_que_agravam": 74.4,
+    "votos_normas_que_abrandam": 0,
+    "pct_sim_nas_que_abrandam": null,
+    "votos_texto_base_que_agrava": 26,
+    "pct_sim_texto_base_que_agrava": 88.5
+   },
+   {
+    "partido": "PRB",
+    "posicao_2018": 7.78,
+    "posicao_2022": 8.33,
+    "votos_validos": 125,
+    "pct_sim": 92.0,
+    "votos_normas_que_agravam": 22,
+    "pct_sim_nas_que_agravam": 68.2,
+    "votos_normas_que_abrandam": 0,
+    "pct_sim_nas_que_abrandam": null,
+    "votos_texto_base_que_agrava": 10,
+    "pct_sim_texto_base_que_agrava": 90.0
+   },
+   {
+    "partido": "PRONA",
+    "posicao_2018": 7.78,
+    "posicao_2022": 8.8,
+    "votos_validos": 2,
+    "pct_sim": 100.0,
+    "votos_normas_que_agravam": 2,
+    "pct_sim_nas_que_agravam": 100.0,
+    "votos_normas_que_abrandam": 0,
+    "pct_sim_nas_que_abrandam": null,
+    "votos_texto_base_que_agrava": 0,
+    "pct_sim_texto_base_que_agrava": null
+   },
+   {
+    "partido": "PROS",
+    "posicao_2018": 7.47,
+    "posicao_2022": 7.45,
+    "votos_validos": 150,
+    "pct_sim": 64.0,
+    "votos_normas_que_agravam": 74,
+    "pct_sim_nas_que_agravam": 55.4,
+    "votos_normas_que_abrandam": 0,
+    "pct_sim_nas_que_abrandam": null,
+    "votos_texto_base_que_agrava": 6,
+    "pct_sim_texto_base_que_agrava": 100.0
+   },
+   {
+    "partido": "PRP",
+    "posicao_2018": 7.59,
+    "posicao_2022": null,
+    "votos_validos": 5,
+    "pct_sim": 60.0,
+    "votos_normas_que_agravam": 2,
+    "pct_sim_nas_que_agravam": 50.0,
+    "votos_normas_que_abrandam": 0,
+    "pct_sim_nas_que_abrandam": null,
+    "votos_texto_base_que_agrava": 1,
+    "pct_sim_texto_base_que_agrava": 100.0
+   },
+   {
+    "partido": "PRTB",
+    "posicao_2018": 7.45,
+    "posicao_2022": 7.49,
+    "votos_validos": 2,
+    "pct_sim": 50.0,
+    "votos_normas_que_agravam": 2,
+    "pct_sim_nas_que_agravam": 50.0,
+    "votos_normas_que_abrandam": 0,
+    "pct_sim_nas_que_abrandam": null,
+    "votos_texto_base_que_agrava": 1,
+    "pct_sim_texto_base_que_agrava": 100.0
+   },
+   {
+    "partido": "PSB",
+    "posicao_2018": 4.05,
+    "posicao_2022": 3.59,
+    "votos_validos": 1033,
+    "pct_sim": 60.8,
+    "votos_normas_que_agravam": 544,
+    "pct_sim_nas_que_agravam": 51.7,
+    "votos_normas_que_abrandam": 0,
+    "pct_sim_nas_que_abrandam": null,
+    "votos_texto_base_que_agrava": 63,
+    "pct_sim_texto_base_que_agrava": 76.2
+   },
+   {
+    "partido": "PSC",
+    "posicao_2018": 8.33,
+    "posicao_2022": 8.41,
+    "votos_validos": 186,
+    "pct_sim": 64.5,
+    "votos_normas_que_agravam": 121,
+    "pct_sim_nas_que_agravam": 62.0,
+    "votos_normas_que_abrandam": 0,
+    "pct_sim_nas_que_abrandam": null,
+    "votos_texto_base_que_agrava": 23,
+    "pct_sim_texto_base_que_agrava": 69.6
+   },
+   {
+    "partido": "PSD",
+    "posicao_2018": 7.09,
+    "posicao_2022": 6.94,
+    "votos_validos": 1871,
+    "pct_sim": 55.3,
+    "votos_normas_que_agravam": 889,
+    "pct_sim_nas_que_agravam": 44.0,
+    "votos_normas_que_abrandam": 0,
+    "pct_sim_nas_que_abrandam": null,
+    "votos_texto_base_que_agrava": 67,
+    "pct_sim_texto_base_que_agrava": 98.5
+   },
+   {
+    "partido": "PSDB",
+    "posicao_2018": 7.11,
+    "posicao_2022": 6.76,
+    "votos_validos": 1120,
+    "pct_sim": 59.9,
+    "votos_normas_que_agravam": 604,
+    "pct_sim_nas_que_agravam": 51.5,
+    "votos_normas_que_abrandam": 0,
+    "pct_sim_nas_que_abrandam": null,
+    "votos_texto_base_que_agrava": 69,
+    "pct_sim_texto_base_que_agrava": 44.9
+   },
+   {
+    "partido": "PSL",
+    "posicao_2018": 8.11,
+    "posicao_2022": 8.49,
+    "votos_validos": 753,
+    "pct_sim": 57.0,
+    "votos_normas_que_agravam": 409,
+    "pct_sim_nas_que_agravam": 64.1,
+    "votos_normas_que_abrandam": 0,
+    "pct_sim_nas_que_abrandam": null,
+    "votos_texto_base_que_agrava": 43,
+    "pct_sim_texto_base_que_agrava": 88.4
+   },
+   {
+    "partido": "PSOL",
+    "posicao_2018": 1.28,
+    "posicao_2022": 1.41,
+    "votos_validos": 514,
+    "pct_sim": 45.9,
+    "votos_normas_que_agravam": 249,
+    "pct_sim_nas_que_agravam": 38.6,
+    "votos_normas_que_abrandam": 0,
+    "pct_sim_nas_que_abrandam": null,
+    "votos_texto_base_que_agrava": 22,
+    "pct_sim_texto_base_que_agrava": 31.8
+   },
+   {
+    "partido": "PT",
+    "posicao_2018": 2.97,
+    "posicao_2022": 2.68,
+    "votos_validos": 3160,
+    "pct_sim": 54.3,
+    "votos_normas_que_agravam": 1641,
+    "pct_sim_nas_que_agravam": 50.1,
+    "votos_normas_que_abrandam": 0,
+    "pct_sim_nas_que_abrandam": null,
+    "votos_texto_base_que_agrava": 167,
+    "pct_sim_texto_base_que_agrava": 58.7
+   },
+   {
+    "partido": "PTB",
+    "posicao_2018": 6.1,
+    "posicao_2022": 7.72,
+    "votos_validos": 246,
+    "pct_sim": 76.4,
+    "votos_normas_que_agravam": 158,
+    "pct_sim_nas_que_agravam": 72.8,
+    "votos_normas_que_abrandam": 0,
+    "pct_sim_nas_que_abrandam": null,
+    "votos_texto_base_que_agrava": 21,
+    "pct_sim_texto_base_que_agrava": 81.0
+   },
+   {
+    "partido": "PTC",
+    "posicao_2018": 7.86,
+    "posicao_2022": 7.55,
+    "votos_validos": 4,
+    "pct_sim": 75.0,
+    "votos_normas_que_agravam": 4,
+    "pct_sim_nas_que_agravam": 75.0,
+    "votos_normas_que_abrandam": 0,
+    "pct_sim_nas_que_abrandam": null,
+    "votos_texto_base_que_agrava": 0,
+    "pct_sim_texto_base_que_agrava": null
+   },
+   {
+    "partido": "PTN",
+    "posicao_2018": 7.24,
+    "posicao_2022": 7.44,
+    "votos_validos": 10,
+    "pct_sim": 80.0,
+    "votos_normas_que_agravam": 0,
+    "pct_sim_nas_que_agravam": null,
+    "votos_normas_que_abrandam": 0,
+    "pct_sim_nas_que_abrandam": null,
+    "votos_texto_base_que_agrava": 0,
+    "pct_sim_texto_base_que_agrava": null
+   },
+   {
+    "partido": "PTdoB",
+    "posicao_2018": 6.32,
+    "posicao_2022": 6.47,
+    "votos_validos": 12,
+    "pct_sim": 91.7,
+    "votos_normas_que_agravam": 6,
+    "pct_sim_nas_que_agravam": 83.3,
+    "votos_normas_que_abrandam": 0,
+    "pct_sim_nas_que_abrandam": null,
+    "votos_texto_base_que_agrava": 1,
+    "pct_sim_texto_base_que_agrava": 100.0
+   },
+   {
+    "partido": "PV",
+    "posicao_2018": 5.29,
+    "posicao_2022": 4.12,
+    "votos_validos": 217,
+    "pct_sim": 58.1,
+    "votos_normas_que_agravam": 123,
+    "pct_sim_nas_que_agravam": 57.7,
+    "votos_normas_que_abrandam": 0,
+    "pct_sim_nas_que_abrandam": null,
+    "votos_texto_base_que_agrava": 18,
+    "pct_sim_texto_base_que_agrava": 72.2
+   },
+   {
+    "partido": "REDE",
+    "posicao_2018": 4.77,
+    "posicao_2022": 3.69,
+    "votos_validos": 94,
+    "pct_sim": 54.3,
+    "votos_normas_que_agravam": 46,
+    "pct_sim_nas_que_agravam": 43.5,
+    "votos_normas_que_abrandam": 0,
+    "pct_sim_nas_que_abrandam": null,
+    "votos_texto_base_que_agrava": 3,
+    "pct_sim_texto_base_que_agrava": 66.7
+   },
+   {
+    "partido": "REPUBLICANOS",
+    "posicao_2018": 7.78,
+    "posicao_2022": 8.33,
+    "votos_validos": 1634,
+    "pct_sim": 55.9,
+    "votos_normas_que_agravam": 800,
+    "pct_sim_nas_que_agravam": 46.1,
+    "votos_normas_que_abrandam": 0,
+    "pct_sim_nas_que_abrandam": null,
+    "votos_texto_base_que_agrava": 65,
+    "pct_sim_texto_base_que_agrava": 98.5
+   },
+   {
+    "partido": "SD",
+    "posicao_2018": 6.5,
+    "posicao_2022": 6.01,
+    "votos_validos": 29,
+    "pct_sim": 79.3,
+    "votos_normas_que_agravam": 0,
+    "pct_sim_nas_que_agravam": null,
+    "votos_normas_que_abrandam": 0,
+    "pct_sim_nas_que_abrandam": null,
+    "votos_texto_base_que_agrava": 0,
+    "pct_sim_texto_base_que_agrava": null
+   },
+   {
+    "partido": "SOLIDARIEDADE",
+    "posicao_2018": 6.5,
+    "posicao_2022": 6.01,
+    "votos_validos": 303,
+    "pct_sim": 62.4,
+    "votos_normas_que_agravam": 142,
+    "pct_sim_nas_que_agravam": 52.1,
+    "votos_normas_que_abrandam": 0,
+    "pct_sim_nas_que_abrandam": null,
+    "votos_texto_base_que_agrava": 12,
+    "pct_sim_texto_base_que_agrava": 91.7
+   },
+   {
+    "partido": "UNIÃO",
+    "posicao_2018": null,
+    "posicao_2022": 8.49,
+    "votos_validos": 1720,
+    "pct_sim": 49.7,
+    "votos_normas_que_agravam": 755,
+    "pct_sim_nas_que_agravam": 36.4,
+    "votos_normas_que_abrandam": 0,
+    "pct_sim_nas_que_abrandam": null,
+    "votos_texto_base_que_agrava": 55,
+    "pct_sim_texto_base_que_agrava": 98.2
+   }
+  ],
+  "testes_partido_como_unidade_minimo_30_votos": {
+   "todas|posicao_2018": {
+    "partidos": 29,
+    "votos": 22429,
+    "spearman": 0.274,
+    "p": 0.1505
+   },
+   "todas|posicao_2022": {
+    "partidos": 30,
+    "votos": 24149,
+    "spearman": 0.211,
+    "p": 0.2624
+   },
+   "agrava|posicao_2018": {
+    "partidos": 28,
+    "votos": 11157,
+    "spearman": 0.22,
+    "p": 0.2599
+   },
+   "agrava|posicao_2022": {
+    "partidos": 29,
+    "votos": 11912,
+    "spearman": 0.228,
+    "p": 0.2329
+   },
+   "abranda|posicao_2018": {
+    "partidos": 0,
+    "teste": "nao feito, menos de 5 partidos"
+   },
+   "abranda|posicao_2022": {
+    "partidos": 0,
+    "teste": "nao feito, menos de 5 partidos"
+   },
+   "texto_base_agrava|posicao_2018": {
+    "partidos": 12,
+    "votos": 903,
+    "spearman": 0.062,
+    "p": 0.8481
+   },
+   "texto_base_agrava|posicao_2022": {
+    "partidos": 13,
+    "votos": 958,
+    "spearman": 0.271,
+    "p": 0.364
+   }
+  }
+ },
+ "B_autoria": {
+  "normas": [
+   {
+    "norma": "9677/1998",
+    "direcao": "agrava",
+    "autores_com_posicao": 1,
+    "posicao_media_2018": 8.2
+   },
+   {
+    "norma": "9777/1998",
+    "direcao": "agrava",
+    "autores_com_posicao": 1,
+    "posicao_media_2018": 2.97
+   },
+   {
+    "norma": "10224/2001",
+    "direcao": "agrava",
+    "autores_com_posicao": 1,
+    "posicao_media_2018": 2.97
+   },
+   {
+    "norma": "10886/2004",
+    "direcao": "abranda",
+    "autores_com_posicao": 1,
+    "posicao_media_2018": 2.97
+   },
+   {
+    "norma": "12012/2009",
+    "direcao": "agrava",
+    "autores_com_posicao": 1,
+    "posicao_media_2018": 8.57
+   },
+   {
+    "norma": "12720/2012",
+    "direcao": "agrava",
+    "autores_com_posicao": 1,
+    "posicao_media_2018": 2.97
+   },
+   {
+    "norma": "12737/2012",
+    "direcao": "agrava",
+    "autores_com_posicao": 6,
+    "posicao_media_2018": 3.807
+   },
+   {
+    "norma": "13008/2014",
+    "direcao": "agrava",
+    "autores_com_posicao": 1,
+    "posicao_media_2018": 8.57
+   },
+   {
+    "norma": "13772/2018",
+    "direcao": "agrava",
+    "autores_com_posicao": 1,
+    "posicao_media_2018": 7.01
+   },
+   {
+    "norma": "14188/2021",
+    "direcao": "agrava",
+    "autores_com_posicao": 4,
+    "posicao_media_2018": 7.442
+   },
+   {
+    "norma": "14197/2021",
+    "direcao": "agrava",
+    "autores_com_posicao": 1,
+    "posicao_media_2018": 2.97
+   },
+   {
+    "norma": "14478/2022",
+    "direcao": "agrava",
+    "autores_com_posicao": 1,
+    "posicao_media_2018": 6.5
+   },
+   {
+    "norma": "14532/2023",
+    "direcao": "agrava",
+    "autores_com_posicao": 2,
+    "posicao_media_2018": 5.915
+   },
+   {
+    "norma": "14811/2024",
+    "direcao": "agrava",
+    "autores_com_posicao": 1,
+    "posicao_media_2018": 7.01
+   },
+   {
+    "norma": "15163/2025",
+    "direcao": "agrava",
+    "autores_com_posicao": 5,
+    "posicao_media_2018": 7.646
+   },
+   {
+    "norma": "15181/2025",
+    "direcao": "abranda",
+    "autores_com_posicao": 1,
+    "posicao_media_2018": 7.09
+   },
+   {
+    "norma": "15384/2026",
+    "direcao": "agrava",
+    "autores_com_posicao": 2,
+    "posicao_media_2018": 2.125
+   }
+  ],
+  "agravam": 15,
+  "abrandam": 2,
+  "media_agravam": 5.645,
+  "media_abrandam": 5.03,
+  "p_diferenca": 0.742
+ },
+ "C_governadores": {
+  "mandatos": [
+   {
+    "uf": "AL",
+    "mandato": "1991-1994",
+    "partido": "PSC",
+    "posicao_2018": 8.33,
+    "via": "propria",
+    "variacao_taxa_uf_pct": -20.7,
+    "variacao_taxa_brasil_pct": -4.5,
+    "diferenca_pontos": -16.2
+   },
+   {
+    "uf": "AM",
+    "mandato": "1991-1994",
+    "partido": "PMDB",
+    "posicao_2018": 7.01,
+    "via": "linhagem: PMDB renomeado MDB, 15/05/2018",
+    "variacao_taxa_uf_pct": -6.3,
+    "variacao_taxa_brasil_pct": -4.5,
+    "diferenca_pontos": -1.9
+   },
+   {
+    "uf": "AP",
+    "mandato": "1991-1994",
+    "partido": "PFL",
+    "posicao_2018": 8.57,
+    "via": "linhagem: PFL renomeado DEM, 12/06/2007",
+    "variacao_taxa_uf_pct": 141.4,
+    "variacao_taxa_brasil_pct": -4.5,
+    "diferenca_pontos": 145.8
+   },
+   {
+    "uf": "BA",
+    "mandato": "1991-1994",
+    "partido": "PFL",
+    "posicao_2018": 8.57,
+    "via": "linhagem: PFL renomeado DEM, 12/06/2007",
+    "variacao_taxa_uf_pct": 87.2,
+    "variacao_taxa_brasil_pct": -4.5,
+    "diferenca_pontos": 91.6
+   },
+   {
+    "uf": "CE",
+    "mandato": "1991-1994",
+    "partido": "PSDB",
+    "posicao_2018": 7.11,
+    "via": "propria",
+    "variacao_taxa_uf_pct": 8.2,
+    "variacao_taxa_brasil_pct": -4.5,
+    "diferenca_pontos": 12.6
+   },
+   {
+    "uf": "ES",
+    "mandato": "1991-1994",
+    "partido": "PDT",
+    "posicao_2018": 3.92,
+    "via": "propria",
+    "variacao_taxa_uf_pct": 22.6,
+    "variacao_taxa_brasil_pct": -4.5,
+    "diferenca_pontos": 27.1
+   },
+   {
+    "uf": "GO",
+    "mandato": "1991-1994",
+    "partido": "PMDB",
+    "posicao_2018": 7.01,
+    "via": "linhagem: PMDB renomeado MDB, 15/05/2018",
+    "variacao_taxa_uf_pct": 5.2,
+    "variacao_taxa_brasil_pct": -4.5,
+    "diferenca_pontos": 9.7
+   },
+   {
+    "uf": "MA",
+    "mandato": "1991-1994",
+    "partido": "PFL",
+    "posicao_2018": 8.57,
+    "via": "linhagem: PFL renomeado DEM, 12/06/2007",
+    "variacao_taxa_uf_pct": -33.6,
+    "variacao_taxa_brasil_pct": -4.5,
+    "diferenca_pontos": -29.1
+   },
+   {
+    "uf": "MS",
+    "mandato": "1991-1994",
+    "partido": "PTB",
+    "posicao_2018": 6.1,
+    "via": "propria",
+    "variacao_taxa_uf_pct": 38.7,
+    "variacao_taxa_brasil_pct": -4.5,
+    "diferenca_pontos": 43.2
+   },
+   {
+    "uf": "MT",
+    "mandato": "1991-1994",
+    "partido": "PFL",
+    "posicao_2018": 8.57,
+    "via": "linhagem: PFL renomeado DEM, 12/06/2007",
+    "variacao_taxa_uf_pct": -34.3,
+    "variacao_taxa_brasil_pct": -4.5,
+    "diferenca_pontos": -29.8
+   },
+   {
+    "uf": "PA",
+    "mandato": "1991-1994",
+    "partido": "PMDB",
+    "posicao_2018": 7.01,
+    "via": "linhagem: PMDB renomeado MDB, 15/05/2018",
+    "variacao_taxa_uf_pct": -14.1,
+    "variacao_taxa_brasil_pct": -4.5,
+    "diferenca_pontos": -9.6
+   },
+   {
+    "uf": "PB",
+    "mandato": "1991-1994",
+    "partido": "PMDB",
+    "posicao_2018": 7.01,
+    "via": "linhagem: PMDB renomeado MDB, 15/05/2018",
+    "variacao_taxa_uf_pct": -16.4,
+    "variacao_taxa_brasil_pct": -4.5,
+    "diferenca_pontos": -12.0
+   },
+   {
+    "uf": "PE",
+    "mandato": "1991-1994",
+    "partido": "PFL",
+    "posicao_2018": 8.57,
+    "via": "linhagem: PFL renomeado DEM, 12/06/2007",
+    "variacao_taxa_uf_pct": -9.8,
+    "variacao_taxa_brasil_pct": -4.5,
+    "diferenca_pontos": -5.3
+   },
+   {
+    "uf": "PI",
+    "mandato": "1991-1994",
+    "partido": "PFL",
+    "posicao_2018": 8.57,
+    "via": "linhagem: PFL renomeado DEM, 12/06/2007",
+    "variacao_taxa_uf_pct": -15.2,
+    "variacao_taxa_brasil_pct": -4.5,
+    "diferenca_pontos": -10.7
+   },
+   {
+    "uf": "PR",
+    "mandato": "1991-1994",
+    "partido": "PMDB",
+    "posicao_2018": 7.01,
+    "via": "linhagem: PMDB renomeado MDB, 15/05/2018",
+    "variacao_taxa_uf_pct": 4.2,
+    "variacao_taxa_brasil_pct": -4.5,
+    "diferenca_pontos": 8.7
+   },
+   {
+    "uf": "RJ",
+    "mandato": "1991-1994",
+    "partido": "PDT",
+    "posicao_2018": 3.92,
+    "via": "propria",
+    "variacao_taxa_uf_pct": -13.2,
+    "variacao_taxa_brasil_pct": -4.5,
+    "diferenca_pontos": -8.7
+   },
+   {
+    "uf": "RR",
+    "mandato": "1991-1994",
+    "partido": "PTB",
+    "posicao_2018": 6.1,
+    "via": "propria",
+    "variacao_taxa_uf_pct": -50.2,
+    "variacao_taxa_brasil_pct": -4.5,
+    "diferenca_pontos": -45.8
+   },
+   {
+    "uf": "RS",
+    "mandato": "1991-1994",
+    "partido": "PDT",
+    "posicao_2018": 3.92,
+    "via": "propria",
+    "variacao_taxa_uf_pct": -24.9,
+    "variacao_taxa_brasil_pct": -4.5,
+    "diferenca_pontos": -20.5
+   },
+   {
+    "uf": "SC",
+    "mandato": "1991-1994",
+    "partido": "PFL",
+    "posicao_2018": 8.57,
+    "via": "linhagem: PFL renomeado DEM, 12/06/2007",
+    "variacao_taxa_uf_pct": -16.9,
+    "variacao_taxa_brasil_pct": -4.5,
+    "diferenca_pontos": -12.4
+   },
+   {
+    "uf": "SE",
+    "mandato": "1991-1994",
+    "partido": "PFL",
+    "posicao_2018": 8.57,
+    "via": "linhagem: PFL renomeado DEM, 12/06/2007",
+    "variacao_taxa_uf_pct": 109.7,
+    "variacao_taxa_brasil_pct": -4.5,
+    "diferenca_pontos": 114.1
+   },
+   {
+    "uf": "SP",
+    "mandato": "1991-1994",
+    "partido": "PMDB",
+    "posicao_2018": 7.01,
+    "via": "linhagem: PMDB renomeado MDB, 15/05/2018",
+    "variacao_taxa_uf_pct": -2.1,
+    "variacao_taxa_brasil_pct": -4.5,
+    "diferenca_pontos": 2.3
+   },
+   {
+    "uf": "TO",
+    "mandato": "1991-1994",
+    "partido": "PMDB",
+    "posicao_2018": 7.01,
+    "via": "linhagem: PMDB renomeado MDB, 15/05/2018",
+    "variacao_taxa_uf_pct": 83.8,
+    "variacao_taxa_brasil_pct": -4.5,
+    "diferenca_pontos": 88.3
+   },
+   {
+    "uf": "AC",
+    "mandato": "1999-2002",
+    "partido": "PT",
+    "posicao_2018": 2.97,
+    "via": "propria",
+    "variacao_taxa_uf_pct": 20.2,
+    "variacao_taxa_brasil_pct": 9.8,
+    "diferenca_pontos": 10.5
+   },
+   {
+    "uf": "AL",
+    "mandato": "1999-2002",
+    "partido": "PSB",
+    "posicao_2018": 4.05,
+    "via": "propria",
+    "variacao_taxa_uf_pct": 58.5,
+    "variacao_taxa_brasil_pct": 9.8,
+    "diferenca_pontos": 48.8
+   },
+   {
+    "uf": "AM",
+    "mandato": "1999-2002",
+    "partido": "PFL",
+    "posicao_2018": 8.57,
+    "via": "linhagem: PFL renomeado DEM, 12/06/2007",
+    "variacao_taxa_uf_pct": -18.2,
+    "variacao_taxa_brasil_pct": 9.8,
+    "diferenca_pontos": -28.0
+   },
+   {
+    "uf": "AP",
+    "mandato": "1999-2002",
+    "partido": "PSB",
+    "posicao_2018": 4.05,
+    "via": "propria",
+    "variacao_taxa_uf_pct": -7.8,
+    "variacao_taxa_brasil_pct": 9.8,
+    "diferenca_pontos": -17.6
+   },
+   {
+    "uf": "BA",
+    "mandato": "1999-2002",
+    "partido": "PFL",
+    "posicao_2018": 8.57,
+    "via": "linhagem: PFL renomeado DEM, 12/06/2007",
+    "variacao_taxa_uf_pct": 33.5,
+    "variacao_taxa_brasil_pct": 9.8,
+    "diferenca_pontos": 23.7
+   },
+   {
+    "uf": "CE",
+    "mandato": "1999-2002",
+    "partido": "PSDB",
+    "posicao_2018": 7.11,
+    "via": "propria",
+    "variacao_taxa_uf_pct": 39.9,
+    "variacao_taxa_brasil_pct": 9.8,
+    "diferenca_pontos": 30.1
+   },
+   {
+    "uf": "DF",
+    "mandato": "1999-2002",
+    "partido": "PMDB",
+    "posicao_2018": 7.01,
+    "via": "linhagem: PMDB renomeado MDB, 15/05/2018",
+    "variacao_taxa_uf_pct": -9.2,
+    "variacao_taxa_brasil_pct": 9.8,
+    "diferenca_pontos": -19.0
+   },
+   {
+    "uf": "ES",
+    "mandato": "1999-2002",
+    "partido": "PSDB",
+    "posicao_2018": 7.11,
+    "via": "propria",
+    "variacao_taxa_uf_pct": -11.2,
+    "variacao_taxa_brasil_pct": 9.8,
+    "diferenca_pontos": -21.0
+   },
+   {
+    "uf": "GO",
+    "mandato": "1999-2002",
+    "partido": "PSDB",
+    "posicao_2018": 7.11,
+    "via": "propria",
+    "variacao_taxa_uf_pct": 77.2,
+    "variacao_taxa_brasil_pct": 9.8,
+    "diferenca_pontos": 67.4
+   },
+   {
+    "uf": "MA",
+    "mandato": "1999-2002",
+    "partido": "PFL",
+    "posicao_2018": 8.57,
+    "via": "linhagem: PFL renomeado DEM, 12/06/2007",
+    "variacao_taxa_uf_pct": 101.9,
+    "variacao_taxa_brasil_pct": 9.8,
+    "diferenca_pontos": 92.2
+   },
+   {
+    "uf": "MG",
+    "mandato": "1999-2002",
+    "partido": "PMDB",
+    "posicao_2018": 7.01,
+    "via": "linhagem: PMDB renomeado MDB, 15/05/2018",
+    "variacao_taxa_uf_pct": 84.7,
+    "variacao_taxa_brasil_pct": 9.8,
+    "diferenca_pontos": 74.9
+   },
+   {
+    "uf": "MS",
+    "mandato": "1999-2002",
+    "partido": "PT",
+    "posicao_2018": 2.97,
+    "via": "propria",
+    "variacao_taxa_uf_pct": -4.8,
+    "variacao_taxa_brasil_pct": 9.8,
+    "diferenca_pontos": -14.6
+   },
+   {
+    "uf": "MT",
+    "mandato": "1999-2002",
+    "partido": "PSDB",
+    "posicao_2018": 7.11,
+    "via": "propria",
+    "variacao_taxa_uf_pct": 2.1,
+    "variacao_taxa_brasil_pct": 9.8,
+    "diferenca_pontos": -7.6
+   },
+   {
+    "uf": "PA",
+    "mandato": "1999-2002",
+    "partido": "PSDB",
+    "posicao_2018": 7.11,
+    "via": "propria",
+    "variacao_taxa_uf_pct": 38.0,
+    "variacao_taxa_brasil_pct": 9.8,
+    "diferenca_pontos": 28.3
+   },
+   {
+    "uf": "PB",
+    "mandato": "1999-2002",
+    "partido": "PMDB",
+    "posicao_2018": 7.01,
+    "via": "linhagem: PMDB renomeado MDB, 15/05/2018",
+    "variacao_taxa_uf_pct": 28.3,
+    "variacao_taxa_brasil_pct": 9.8,
+    "diferenca_pontos": 18.5
+   },
+   {
+    "uf": "PE",
+    "mandato": "1999-2002",
+    "partido": "PMDB",
+    "posicao_2018": 7.01,
+    "via": "linhagem: PMDB renomeado MDB, 15/05/2018",
+    "variacao_taxa_uf_pct": -7.5,
+    "variacao_taxa_brasil_pct": 9.8,
+    "diferenca_pontos": -17.2
+   },
+   {
+    "uf": "PI",
+    "mandato": "1999-2002",
+    "partido": "PFL",
+    "posicao_2018": 8.57,
+    "via": "linhagem: PFL renomeado DEM, 12/06/2007",
+    "variacao_taxa_uf_pct": 106.1,
+    "variacao_taxa_brasil_pct": 9.8,
+    "diferenca_pontos": 96.3
+   },
+   {
+    "uf": "PR",
+    "mandato": "1999-2002",
+    "partido": "PFL",
+    "posicao_2018": 8.57,
+    "via": "linhagem: PFL renomeado DEM, 12/06/2007",
+    "variacao_taxa_uf_pct": 30.2,
+    "variacao_taxa_brasil_pct": 9.8,
+    "diferenca_pontos": 20.5
+   },
+   {
+    "uf": "RJ",
+    "mandato": "1999-2002",
+    "partido": "PDT",
+    "posicao_2018": 3.92,
+    "via": "propria",
+    "variacao_taxa_uf_pct": 1.9,
+    "variacao_taxa_brasil_pct": 9.8,
+    "diferenca_pontos": -7.9
+   },
+   {
+    "uf": "RN",
+    "mandato": "1999-2002",
+    "partido": "PMDB",
+    "posicao_2018": 7.01,
+    "via": "linhagem: PMDB renomeado MDB, 15/05/2018",
+    "variacao_taxa_uf_pct": 23.9,
+    "variacao_taxa_brasil_pct": 9.8,
+    "diferenca_pontos": 14.2
+   },
+   {
+    "uf": "RO",
+    "mandato": "1999-2002",
+    "partido": "PFL",
+    "posicao_2018": 8.57,
+    "via": "linhagem: PFL renomeado DEM, 12/06/2007",
+    "variacao_taxa_uf_pct": 11.0,
+    "variacao_taxa_brasil_pct": 9.8,
+    "diferenca_pontos": 1.2
+   },
+   {
+    "uf": "RR",
+    "mandato": "1999-2002",
+    "partido": "PPB",
+    "posicao_2018": 8.2,
+    "via": "linhagem: PPB renomeado PP, 29/05/2003",
+    "variacao_taxa_uf_pct": -31.1,
+    "variacao_taxa_brasil_pct": 9.8,
+    "diferenca_pontos": -40.8
+   },
+   {
+    "uf": "RS",
+    "mandato": "1999-2002",
+    "partido": "PT",
+    "posicao_2018": 2.97,
+    "via": "propria",
+    "variacao_taxa_uf_pct": 19.2,
+    "variacao_taxa_brasil_pct": 9.8,
+    "diferenca_pontos": 9.5
+   },
+   {
+    "uf": "SC",
+    "mandato": "1999-2002",
+    "partido": "PPB",
+    "posicao_2018": 8.2,
+    "via": "linhagem: PPB renomeado PP, 29/05/2003",
+    "variacao_taxa_uf_pct": 27.8,
+    "variacao_taxa_brasil_pct": 9.8,
+    "diferenca_pontos": 18.0
+   },
+   {
+    "uf": "SE",
+    "mandato": "1999-2002",
+    "partido": "PSDB",
+    "posicao_2018": 7.11,
+    "via": "propria",
+    "variacao_taxa_uf_pct": 189.5,
+    "variacao_taxa_brasil_pct": 9.8,
+    "diferenca_pontos": 179.7
+   },
+   {
+    "uf": "SP",
+    "mandato": "1999-2002",
+    "partido": "PSDB",
+    "posicao_2018": 7.11,
+    "via": "propria",
+    "variacao_taxa_uf_pct": -4.3,
+    "variacao_taxa_brasil_pct": 9.8,
+    "diferenca_pontos": -14.0
+   },
+   {
+    "uf": "TO",
+    "mandato": "1999-2002",
+    "partido": "PFL",
+    "posicao_2018": 8.57,
+    "via": "linhagem: PFL renomeado DEM, 12/06/2007",
+    "variacao_taxa_uf_pct": 20.2,
+    "variacao_taxa_brasil_pct": 9.8,
+    "diferenca_pontos": 10.5
+   },
+   {
+    "uf": "AC",
+    "mandato": "2003-2006",
+    "partido": "PT",
+    "posicao_2018": 2.97,
+    "via": "propria",
+    "variacao_taxa_uf_pct": -10.6,
+    "variacao_taxa_brasil_pct": -7.5,
+    "diferenca_pontos": -3.0
+   },
+   {
+    "uf": "AL",
+    "mandato": "2003-2006",
+    "partido": "PSB",
+    "posicao_2018": 4.05,
+    "via": "propria",
+    "variacao_taxa_uf_pct": 54.5,
+    "variacao_taxa_brasil_pct": -7.5,
+    "diferenca_pontos": 62.1
+   },
+   {
+    "uf": "AM",
+    "mandato": "2003-2006",
+    "partido": "PPS",
+    "posicao_2018": 4.92,
+    "via": "propria",
+    "variacao_taxa_uf_pct": 21.9,
+    "variacao_taxa_brasil_pct": -7.5,
+    "diferenca_pontos": 29.4
+   },
+   {
+    "uf": "AP",
+    "mandato": "2003-2006",
+    "partido": "PDT",
+    "posicao_2018": 3.92,
+    "via": "propria",
+    "variacao_taxa_uf_pct": -6.4,
+    "variacao_taxa_brasil_pct": -7.5,
+    "diferenca_pontos": 1.2
+   },
+   {
+    "uf": "BA",
+    "mandato": "2003-2006",
+    "partido": "PFL",
+    "posicao_2018": 8.57,
+    "via": "linhagem: PFL renomeado DEM, 12/06/2007",
+    "variacao_taxa_uf_pct": 78.5,
+    "variacao_taxa_brasil_pct": -7.5,
+    "diferenca_pontos": 86.1
+   },
+   {
+    "uf": "CE",
+    "mandato": "2003-2006",
+    "partido": "PSDB",
+    "posicao_2018": 7.11,
+    "via": "propria",
+    "variacao_taxa_uf_pct": 15.6,
+    "variacao_taxa_brasil_pct": -7.5,
+    "diferenca_pontos": 23.1
+   },
+   {
+    "uf": "DF",
+    "mandato": "2003-2006",
+    "partido": "PMDB",
+    "posicao_2018": 7.01,
+    "via": "linhagem: PMDB renomeado MDB, 15/05/2018",
+    "variacao_taxa_uf_pct": -7.3,
+    "variacao_taxa_brasil_pct": -7.5,
+    "diferenca_pontos": 0.2
+   },
+   {
+    "uf": "ES",
+    "mandato": "2003-2006",
+    "partido": "PSB",
+    "posicao_2018": 4.05,
+    "via": "propria",
+    "variacao_taxa_uf_pct": -0.9,
+    "variacao_taxa_brasil_pct": -7.5,
+    "diferenca_pontos": 6.6
+   },
+   {
+    "uf": "GO",
+    "mandato": "2003-2006",
+    "partido": "PSDB",
+    "posicao_2018": 7.11,
+    "via": "propria",
+    "variacao_taxa_uf_pct": 0.2,
+    "variacao_taxa_brasil_pct": -7.5,
+    "diferenca_pontos": 7.8
+   },
+   {
+    "uf": "MA",
+    "mandato": "2003-2006",
+    "partido": "PFL",
+    "posicao_2018": 8.57,
+    "via": "linhagem: PFL renomeado DEM, 12/06/2007",
+    "variacao_taxa_uf_pct": 49.1,
+    "variacao_taxa_brasil_pct": -7.5,
+    "diferenca_pontos": 56.6
+   },
+   {
+    "uf": "MG",
+    "mandato": "2003-2006",
+    "partido": "PSDB",
+    "posicao_2018": 7.11,
+    "via": "propria",
+    "variacao_taxa_uf_pct": 31.4,
+    "variacao_taxa_brasil_pct": -7.5,
+    "diferenca_pontos": 38.9
+   },
+   {
+    "uf": "MS",
+    "mandato": "2003-2006",
+    "partido": "PT",
+    "posicao_2018": 2.97,
+    "via": "propria",
+    "variacao_taxa_uf_pct": -7.8,
+    "variacao_taxa_brasil_pct": -7.5,
+    "diferenca_pontos": -0.3
+   },
+   {
+    "uf": "MT",
+    "mandato": "2003-2006",
+    "partido": "PPS",
+    "posicao_2018": 4.92,
+    "via": "propria",
+    "variacao_taxa_uf_pct": -13.9,
+    "variacao_taxa_brasil_pct": -7.5,
+    "diferenca_pontos": -6.4
+   },
+   {
+    "uf": "PA",
+    "mandato": "2003-2006",
+    "partido": "PSDB",
+    "posicao_2018": 7.11,
+    "via": "propria",
+    "variacao_taxa_uf_pct": 57.8,
+    "variacao_taxa_brasil_pct": -7.5,
+    "diferenca_pontos": 65.3
+   },
+   {
+    "uf": "PB",
+    "mandato": "2003-2006",
+    "partido": "PSDB",
+    "posicao_2018": 7.11,
+    "via": "propria",
+    "variacao_taxa_uf_pct": 30.9,
+    "variacao_taxa_brasil_pct": -7.5,
+    "diferenca_pontos": 38.5
+   },
+   {
+    "uf": "PE",
+    "mandato": "2003-2006",
+    "partido": "PMDB",
+    "posicao_2018": 7.01,
+    "via": "linhagem: PMDB renomeado MDB, 15/05/2018",
+    "variacao_taxa_uf_pct": -3.3,
+    "variacao_taxa_brasil_pct": -7.5,
+    "diferenca_pontos": 4.2
+   },
+   {
+    "uf": "PI",
+    "mandato": "2003-2006",
+    "partido": "PT",
+    "posicao_2018": 2.97,
+    "via": "propria",
+    "variacao_taxa_uf_pct": 29.5,
+    "variacao_taxa_brasil_pct": -7.5,
+    "diferenca_pontos": 37.1
+   },
+   {
+    "uf": "PR",
+    "mandato": "2003-2006",
+    "partido": "PMDB",
+    "posicao_2018": 7.01,
+    "via": "linhagem: PMDB renomeado MDB, 15/05/2018",
+    "variacao_taxa_uf_pct": 30.3,
+    "variacao_taxa_brasil_pct": -7.5,
+    "diferenca_pontos": 37.9
+   },
+   {
+    "uf": "RJ",
+    "mandato": "2003-2006",
+    "partido": "PSB",
+    "posicao_2018": 4.05,
+    "via": "propria",
+    "variacao_taxa_uf_pct": -19.1,
+    "variacao_taxa_brasil_pct": -7.5,
+    "diferenca_pontos": -11.5
+   },
+   {
+    "uf": "RN",
+    "mandato": "2003-2006",
+    "partido": "PSB",
+    "posicao_2018": 4.05,
+    "via": "propria",
+    "variacao_taxa_uf_pct": 42.6,
+    "variacao_taxa_brasil_pct": -7.5,
+    "diferenca_pontos": 50.2
+   },
+   {
+    "uf": "RO",
+    "mandato": "2003-2006",
+    "partido": "PSDB",
+    "posicao_2018": 7.11,
+    "via": "propria",
+    "variacao_taxa_uf_pct": -13.0,
+    "variacao_taxa_brasil_pct": -7.5,
+    "diferenca_pontos": -5.4
+   },
+   {
+    "uf": "RR",
+    "mandato": "2003-2006",
+    "partido": "PSL",
+    "posicao_2018": 8.11,
+    "via": "propria",
+    "variacao_taxa_uf_pct": -21.8,
+    "variacao_taxa_brasil_pct": -7.5,
+    "diferenca_pontos": -14.2
+   },
+   {
+    "uf": "RS",
+    "mandato": "2003-2006",
+    "partido": "PMDB",
+    "posicao_2018": 7.01,
+    "via": "linhagem: PMDB renomeado MDB, 15/05/2018",
+    "variacao_taxa_uf_pct": -2.1,
+    "variacao_taxa_brasil_pct": -7.5,
+    "diferenca_pontos": 5.4
+   },
+   {
+    "uf": "SC",
+    "mandato": "2003-2006",
+    "partido": "PMDB",
+    "posicao_2018": 7.01,
+    "via": "linhagem: PMDB renomeado MDB, 15/05/2018",
+    "variacao_taxa_uf_pct": 7.5,
+    "variacao_taxa_brasil_pct": -7.5,
+    "diferenca_pontos": 15.0
+   },
+   {
+    "uf": "SE",
+    "mandato": "2003-2006",
+    "partido": "PFL",
+    "posicao_2018": 8.57,
+    "via": "linhagem: PFL renomeado DEM, 12/06/2007",
+    "variacao_taxa_uf_pct": -2.9,
+    "variacao_taxa_brasil_pct": -7.5,
+    "diferenca_pontos": 4.6
+   },
+   {
+    "uf": "SP",
+    "mandato": "2003-2006",
+    "partido": "PSDB",
+    "posicao_2018": 7.11,
+    "via": "propria",
+    "variacao_taxa_uf_pct": -47.5,
+    "variacao_taxa_brasil_pct": -7.5,
+    "diferenca_pontos": -40.0
+   },
+   {
+    "uf": "TO",
+    "mandato": "2003-2006",
+    "partido": "PFL",
+    "posicao_2018": 8.57,
+    "via": "linhagem: PFL renomeado DEM, 12/06/2007",
+    "variacao_taxa_uf_pct": 21.7,
+    "variacao_taxa_brasil_pct": -7.5,
+    "diferenca_pontos": 29.2
+   },
+   {
+    "uf": "AC",
+    "mandato": "2007-2010",
+    "partido": "PT",
+    "posicao_2018": 2.97,
+    "via": "propria",
+    "variacao_taxa_uf_pct": -2.2,
+    "variacao_taxa_brasil_pct": 4.1,
+    "diferenca_pontos": -6.4
+   },
+   {
+    "uf": "AL",
+    "mandato": "2007-2010",
+    "partido": "PSDB",
+    "posicao_2018": 7.11,
+    "via": "propria",
+    "variacao_taxa_uf_pct": 26.1,
+    "variacao_taxa_brasil_pct": 4.1,
+    "diferenca_pontos": 22.0
+   },
+   {
+    "uf": "AM",
+    "mandato": "2007-2010",
+    "partido": "PMDB",
+    "posicao_2018": 7.01,
+    "via": "linhagem: PMDB renomeado MDB, 15/05/2018",
+    "variacao_taxa_uf_pct": 47.1,
+    "variacao_taxa_brasil_pct": 4.1,
+    "diferenca_pontos": 43.0
+   },
+   {
+    "uf": "AP",
+    "mandato": "2007-2010",
+    "partido": "PDT",
+    "posicao_2018": 3.92,
+    "via": "propria",
+    "variacao_taxa_uf_pct": 18.4,
+    "variacao_taxa_brasil_pct": 4.1,
+    "diferenca_pontos": 14.3
+   },
+   {
+    "uf": "BA",
+    "mandato": "2007-2010",
+    "partido": "PT",
+    "posicao_2018": 2.97,
+    "via": "propria",
+    "variacao_taxa_uf_pct": 74.2,
+    "variacao_taxa_brasil_pct": 4.1,
+    "diferenca_pontos": 70.1
+   },
+   {
+    "uf": "CE",
+    "mandato": "2007-2010",
+    "partido": "PSB",
+    "posicao_2018": 4.05,
+    "via": "propria",
+    "variacao_taxa_uf_pct": 45.8,
+    "variacao_taxa_brasil_pct": 4.1,
+    "diferenca_pontos": 41.7
+   },
+   {
+    "uf": "DF",
+    "mandato": "2007-2010",
+    "partido": "PFL",
+    "posicao_2018": 8.57,
+    "via": "linhagem: PFL renomeado DEM, 12/06/2007",
+    "variacao_taxa_uf_pct": 10.5,
+    "variacao_taxa_brasil_pct": 4.1,
+    "diferenca_pontos": 6.3
+   },
+   {
+    "uf": "ES",
+    "mandato": "2007-2010",
+    "partido": "PMDB",
+    "posicao_2018": 7.01,
+    "via": "linhagem: PMDB renomeado MDB, 15/05/2018",
+    "variacao_taxa_uf_pct": 0.2,
+    "variacao_taxa_brasil_pct": 4.1,
+    "diferenca_pontos": -3.9
+   },
+   {
+    "uf": "GO",
+    "mandato": "2007-2010",
+    "partido": "PP",
+    "posicao_2018": 8.2,
+    "via": "propria",
+    "variacao_taxa_uf_pct": 25.3,
+    "variacao_taxa_brasil_pct": 4.1,
+    "diferenca_pontos": 21.1
+   },
+   {
+    "uf": "MA",
+    "mandato": "2007-2010",
+    "partido": "PDT",
+    "posicao_2018": 3.92,
+    "via": "propria",
+    "variacao_taxa_uf_pct": 48.0,
+    "variacao_taxa_brasil_pct": 4.1,
+    "diferenca_pontos": 43.9
+   },
+   {
+    "uf": "MG",
+    "mandato": "2007-2010",
+    "partido": "PSDB",
+    "posicao_2018": 7.11,
+    "via": "propria",
+    "variacao_taxa_uf_pct": -13.3,
+    "variacao_taxa_brasil_pct": 4.1,
+    "diferenca_pontos": -17.4
+   },
+   {
+    "uf": "MS",
+    "mandato": "2007-2010",
+    "partido": "PMDB",
+    "posicao_2018": 7.01,
+    "via": "linhagem: PMDB renomeado MDB, 15/05/2018",
+    "variacao_taxa_uf_pct": -10.5,
+    "variacao_taxa_brasil_pct": 4.1,
+    "diferenca_pontos": -14.6
+   },
+   {
+    "uf": "MT",
+    "mandato": "2007-2010",
+    "partido": "PPS",
+    "posicao_2018": 4.92,
+    "via": "propria",
+    "variacao_taxa_uf_pct": 2.1,
+    "variacao_taxa_brasil_pct": 4.1,
+    "diferenca_pontos": -2.0
+   },
+   {
+    "uf": "PA",
+    "mandato": "2007-2010",
+    "partido": "PT",
+    "posicao_2018": 2.97,
+    "via": "propria",
+    "variacao_taxa_uf_pct": 59.2,
+    "variacao_taxa_brasil_pct": 4.1,
+    "diferenca_pontos": 55.0
+   },
+   {
+    "uf": "PB",
+    "mandato": "2007-2010",
+    "partido": "PSDB",
+    "posicao_2018": 7.11,
+    "via": "propria",
+    "variacao_taxa_uf_pct": 69.9,
+    "variacao_taxa_brasil_pct": 4.1,
+    "diferenca_pontos": 65.7
+   },
+   {
+    "uf": "PE",
+    "mandato": "2007-2010",
+    "partido": "PSB",
+    "posicao_2018": 4.05,
+    "via": "propria",
+    "variacao_taxa_uf_pct": -25.0,
+    "variacao_taxa_brasil_pct": 4.1,
+    "diferenca_pontos": -29.1
+   },
+   {
+    "uf": "PI",
+    "mandato": "2007-2010",
+    "partido": "PT",
+    "posicao_2018": 2.97,
+    "via": "propria",
+    "variacao_taxa_uf_pct": -4.3,
+    "variacao_taxa_brasil_pct": 4.1,
+    "diferenca_pontos": -8.4
+   },
+   {
+    "uf": "PR",
+    "mandato": "2007-2010",
+    "partido": "PMDB",
+    "posicao_2018": 7.01,
+    "via": "linhagem: PMDB renomeado MDB, 15/05/2018",
+    "variacao_taxa_uf_pct": 15.0,
+    "variacao_taxa_brasil_pct": 4.1,
+    "diferenca_pontos": 10.9
+   },
+   {
+    "uf": "RJ",
+    "mandato": "2007-2010",
+    "partido": "PMDB",
+    "posicao_2018": 7.01,
+    "via": "linhagem: PMDB renomeado MDB, 15/05/2018",
+    "variacao_taxa_uf_pct": -28.0,
+    "variacao_taxa_brasil_pct": 4.1,
+    "diferenca_pontos": -32.1
+   },
+   {
+    "uf": "RN",
+    "mandato": "2007-2010",
+    "partido": "PSB",
+    "posicao_2018": 4.05,
+    "via": "propria",
+    "variacao_taxa_uf_pct": 71.0,
+    "variacao_taxa_brasil_pct": 4.1,
+    "diferenca_pontos": 66.9
+   },
+   {
+    "uf": "RO",
+    "mandato": "2007-2010",
+    "partido": "PPS",
+    "posicao_2018": 4.92,
+    "via": "propria",
+    "variacao_taxa_uf_pct": -6.7,
+    "variacao_taxa_brasil_pct": 4.1,
+    "diferenca_pontos": -10.8
+   },
+   {
+    "uf": "RR",
+    "mandato": "2007-2010",
+    "partido": "PSDB",
+    "posicao_2018": 7.11,
+    "via": "propria",
+    "variacao_taxa_uf_pct": -2.4,
+    "variacao_taxa_brasil_pct": 4.1,
+    "diferenca_pontos": -6.5
+   },
+   {
+    "uf": "RS",
+    "mandato": "2007-2010",
+    "partido": "PSDB",
+    "posicao_2018": 7.11,
+    "via": "propria",
+    "variacao_taxa_uf_pct": 7.5,
+    "variacao_taxa_brasil_pct": 4.1,
+    "diferenca_pontos": 3.4
+   },
+   {
+    "uf": "SC",
+    "mandato": "2007-2010",
+    "partido": "PMDB",
+    "posicao_2018": 7.01,
+    "via": "linhagem: PMDB renomeado MDB, 15/05/2018",
+    "variacao_taxa_uf_pct": 17.9,
+    "variacao_taxa_brasil_pct": 4.1,
+    "diferenca_pontos": 13.8
+   },
+   {
+    "uf": "SE",
+    "mandato": "2007-2010",
+    "partido": "PT",
+    "posicao_2018": 2.97,
+    "via": "propria",
+    "variacao_taxa_uf_pct": 12.0,
+    "variacao_taxa_brasil_pct": 4.1,
+    "diferenca_pontos": 7.9
+   },
+   {
+    "uf": "SP",
+    "mandato": "2007-2010",
+    "partido": "PSDB",
+    "posicao_2018": 7.11,
+    "via": "propria",
+    "variacao_taxa_uf_pct": -28.8,
+    "variacao_taxa_brasil_pct": 4.1,
+    "diferenca_pontos": -33.0
+   },
+   {
+    "uf": "TO",
+    "mandato": "2007-2010",
+    "partido": "PMDB",
+    "posicao_2018": 7.01,
+    "via": "linhagem: PMDB renomeado MDB, 15/05/2018",
+    "variacao_taxa_uf_pct": 37.9,
+    "variacao_taxa_brasil_pct": 4.1,
+    "diferenca_pontos": 33.8
+   },
+   {
+    "uf": "AC",
+    "mandato": "2011-2014",
+    "partido": "PT",
+    "posicao_2018": 2.97,
+    "via": "propria",
+    "variacao_taxa_uf_pct": 30.5,
+    "variacao_taxa_brasil_pct": 7.4,
+    "diferenca_pontos": 23.1
+   },
+   {
+    "uf": "AL",
+    "mandato": "2011-2014",
+    "partido": "PSDB",
+    "posicao_2018": 7.11,
+    "via": "propria",
+    "variacao_taxa_uf_pct": -6.1,
+    "variacao_taxa_brasil_pct": 7.4,
+    "diferenca_pontos": -13.6
+   },
+   {
+    "uf": "AM",
+    "mandato": "2011-2014",
+    "partido": "PMN",
+    "posicao_2018": 6.88,
+    "via": "propria",
+    "variacao_taxa_uf_pct": 3.1,
+    "variacao_taxa_brasil_pct": 7.4,
+    "diferenca_pontos": -4.4
+   },
+   {
+    "uf": "AP",
+    "mandato": "2011-2014",
+    "partido": "PSB",
+    "posicao_2018": 4.05,
+    "via": "propria",
+    "variacao_taxa_uf_pct": -12.2,
+    "variacao_taxa_brasil_pct": 7.4,
+    "diferenca_pontos": -19.6
+   },
+   {
+    "uf": "BA",
+    "mandato": "2011-2014",
+    "partido": "PT",
+    "posicao_2018": 2.97,
+    "via": "propria",
+    "variacao_taxa_uf_pct": -4.7,
+    "variacao_taxa_brasil_pct": 7.4,
+    "diferenca_pontos": -12.2
+   },
+   {
+    "uf": "CE",
+    "mandato": "2011-2014",
+    "partido": "PSB",
+    "posicao_2018": 4.05,
+    "via": "propria",
+    "variacao_taxa_uf_pct": 64.5,
+    "variacao_taxa_brasil_pct": 7.4,
+    "diferenca_pontos": 57.1
+   },
+   {
+    "uf": "DF",
+    "mandato": "2011-2014",
+    "partido": "PT",
+    "posicao_2018": 2.97,
+    "via": "propria",
+    "variacao_taxa_uf_pct": -3.6,
+    "variacao_taxa_brasil_pct": 7.4,
+    "diferenca_pontos": -11.0
+   },
+   {
+    "uf": "ES",
+    "mandato": "2011-2014",
+    "partido": "PSB",
+    "posicao_2018": 4.05,
+    "via": "propria",
+    "variacao_taxa_uf_pct": -18.8,
+    "variacao_taxa_brasil_pct": 7.4,
+    "diferenca_pontos": -26.3
+   },
+   {
+    "uf": "GO",
+    "mandato": "2011-2014",
+    "partido": "PSDB",
+    "posicao_2018": 7.11,
+    "via": "propria",
+    "variacao_taxa_uf_pct": 34.2,
+    "variacao_taxa_brasil_pct": 7.4,
+    "diferenca_pontos": 26.8
+   },
+   {
+    "uf": "MA",
+    "mandato": "2011-2014",
+    "partido": "PMDB",
+    "posicao_2018": 7.01,
+    "via": "linhagem: PMDB renomeado MDB, 15/05/2018",
+    "variacao_taxa_uf_pct": 55.6,
+    "variacao_taxa_brasil_pct": 7.4,
+    "diferenca_pontos": 48.2
+   },
+   {
+    "uf": "MG",
+    "mandato": "2011-2014",
+    "partido": "PSDB",
+    "posicao_2018": 7.11,
+    "via": "propria",
+    "variacao_taxa_uf_pct": 22.5,
+    "variacao_taxa_brasil_pct": 7.4,
+    "diferenca_pontos": 15.0
+   },
+   {
+    "uf": "MS",
+    "mandato": "2011-2014",
+    "partido": "PMDB",
+    "posicao_2018": 7.01,
+    "via": "linhagem: PMDB renomeado MDB, 15/05/2018",
+    "variacao_taxa_uf_pct": 1.2,
+    "variacao_taxa_brasil_pct": 7.4,
+    "diferenca_pontos": -6.3
+   },
+   {
+    "uf": "MT",
+    "mandato": "2011-2014",
+    "partido": "PMDB",
+    "posicao_2018": 7.01,
+    "via": "linhagem: PMDB renomeado MDB, 15/05/2018",
+    "variacao_taxa_uf_pct": 31.5,
+    "variacao_taxa_brasil_pct": 7.4,
+    "diferenca_pontos": 24.0
+   },
+   {
+    "uf": "PA",
+    "mandato": "2011-2014",
+    "partido": "PSDB",
+    "posicao_2018": 7.11,
+    "via": "propria",
+    "variacao_taxa_uf_pct": -8.1,
+    "variacao_taxa_brasil_pct": 7.4,
+    "diferenca_pontos": -15.5
+   },
+   {
+    "uf": "PB",
+    "mandato": "2011-2014",
+    "partido": "PSB",
+    "posicao_2018": 4.05,
+    "via": "propria",
+    "variacao_taxa_uf_pct": 1.8,
+    "variacao_taxa_brasil_pct": 7.4,
+    "diferenca_pontos": -5.6
+   },
+   {
+    "uf": "PE",
+    "mandato": "2011-2014",
+    "partido": "PSB",
+    "posicao_2018": 4.05,
+    "via": "propria",
+    "variacao_taxa_uf_pct": -8.2,
+    "variacao_taxa_brasil_pct": 7.4,
+    "diferenca_pontos": -15.7
+   },
+   {
+    "uf": "PI",
+    "mandato": "2011-2014",
+    "partido": "PSB",
+    "posicao_2018": 4.05,
+    "via": "propria",
+    "variacao_taxa_uf_pct": 70.0,
+    "variacao_taxa_brasil_pct": 7.4,
+    "diferenca_pontos": 62.6
+   },
+   {
+    "uf": "PR",
+    "mandato": "2011-2014",
+    "partido": "PSDB",
+    "posicao_2018": 7.11,
+    "via": "propria",
+    "variacao_taxa_uf_pct": -22.0,
+    "variacao_taxa_brasil_pct": 7.4,
+    "diferenca_pontos": -29.5
+   },
+   {
+    "uf": "RJ",
+    "mandato": "2011-2014",
+    "partido": "PMDB",
+    "posicao_2018": 7.01,
+    "via": "linhagem: PMDB renomeado MDB, 15/05/2018",
+    "variacao_taxa_uf_pct": -0.2,
+    "variacao_taxa_brasil_pct": 7.4,
+    "diferenca_pontos": -7.6
+   },
+   {
+    "uf": "RN",
+    "mandato": "2011-2014",
+    "partido": "DEM",
+    "posicao_2018": 8.57,
+    "via": "propria",
+    "variacao_taxa_uf_pct": 83.8,
+    "variacao_taxa_brasil_pct": 7.4,
+    "diferenca_pontos": 76.4
+   },
+   {
+    "uf": "RO",
+    "mandato": "2011-2014",
+    "partido": "PMDB",
+    "posicao_2018": 7.01,
+    "via": "linhagem: PMDB renomeado MDB, 15/05/2018",
+    "variacao_taxa_uf_pct": -5.4,
+    "variacao_taxa_brasil_pct": 7.4,
+    "diferenca_pontos": -12.8
+   },
+   {
+    "uf": "RR",
+    "mandato": "2011-2014",
+    "partido": "PSDB",
+    "posicao_2018": 7.11,
+    "via": "propria",
+    "variacao_taxa_uf_pct": 18.4,
+    "variacao_taxa_brasil_pct": 7.4,
+    "diferenca_pontos": 10.9
+   },
+   {
+    "uf": "RS",
+    "mandato": "2011-2014",
+    "partido": "PT",
+    "posicao_2018": 2.97,
+    "via": "propria",
+    "variacao_taxa_uf_pct": 25.1,
+    "variacao_taxa_brasil_pct": 7.4,
+    "diferenca_pontos": 17.7
+   },
+   {
+    "uf": "SC",
+    "mandato": "2011-2014",
+    "partido": "DEM",
+    "posicao_2018": 8.57,
+    "via": "propria",
+    "variacao_taxa_uf_pct": -2.4,
+    "variacao_taxa_brasil_pct": 7.4,
+    "diferenca_pontos": -9.8
+   },
+   {
+    "uf": "SE",
+    "mandato": "2011-2014",
+    "partido": "PT",
+    "posicao_2018": 2.97,
+    "via": "propria",
+    "variacao_taxa_uf_pct": 51.2,
+    "variacao_taxa_brasil_pct": 7.4,
+    "diferenca_pontos": 43.8
+   },
+   {
+    "uf": "SP",
+    "mandato": "2011-2014",
+    "partido": "PSDB",
+    "posicao_2018": 7.11,
+    "via": "propria",
+    "variacao_taxa_uf_pct": -4.6,
+    "variacao_taxa_brasil_pct": 7.4,
+    "diferenca_pontos": -12.1
+   },
+   {
+    "uf": "TO",
+    "mandato": "2011-2014",
+    "partido": "PSDB",
+    "posicao_2018": 7.11,
+    "via": "propria",
+    "variacao_taxa_uf_pct": 8.1,
+    "variacao_taxa_brasil_pct": 7.4,
+    "diferenca_pontos": 0.6
+   },
+   {
+    "uf": "AC",
+    "mandato": "2015-2018",
+    "partido": "PT",
+    "posicao_2018": 2.97,
+    "via": "propria",
+    "variacao_taxa_uf_pct": 60.2,
+    "variacao_taxa_brasil_pct": -8.9,
+    "diferenca_pontos": 69.1
+   },
+   {
+    "uf": "AL",
+    "mandato": "2015-2018",
+    "partido": "PMDB",
+    "posicao_2018": 7.01,
+    "via": "linhagem: PMDB renomeado MDB, 15/05/2018",
+    "variacao_taxa_uf_pct": -31.0,
+    "variacao_taxa_brasil_pct": -8.9,
+    "diferenca_pontos": -22.1
+   },
+   {
+    "uf": "AM",
+    "mandato": "2015-2018",
+    "partido": "PROS",
+    "posicao_2018": 7.47,
+    "via": "propria",
+    "variacao_taxa_uf_pct": 18.0,
+    "variacao_taxa_brasil_pct": -8.9,
+    "diferenca_pontos": 26.9
+   },
+   {
+    "uf": "AP",
+    "mandato": "2015-2018",
+    "partido": "PDT",
+    "posicao_2018": 3.92,
+    "via": "propria",
+    "variacao_taxa_uf_pct": 32.3,
+    "variacao_taxa_brasil_pct": -8.9,
+    "diferenca_pontos": 41.1
+   },
+   {
+    "uf": "BA",
+    "mandato": "2015-2018",
+    "partido": "PT",
+    "posicao_2018": 2.97,
+    "via": "propria",
+    "variacao_taxa_uf_pct": 6.7,
+    "variacao_taxa_brasil_pct": -8.9,
+    "diferenca_pontos": 15.6
+   },
+   {
+    "uf": "CE",
+    "mandato": "2015-2018",
+    "partido": "PT",
+    "posicao_2018": 2.97,
+    "via": "propria",
+    "variacao_taxa_uf_pct": 3.1,
+    "variacao_taxa_brasil_pct": -8.9,
+    "diferenca_pontos": 12.0
+   },
+   {
+    "uf": "DF",
+    "mandato": "2015-2018",
+    "partido": "PSB",
+    "posicao_2018": 4.05,
+    "via": "propria",
+    "variacao_taxa_uf_pct": -39.8,
+    "variacao_taxa_brasil_pct": -8.9,
+    "diferenca_pontos": -30.9
+   },
+   {
+    "uf": "ES",
+    "mandato": "2015-2018",
+    "partido": "PMDB",
+    "posicao_2018": 7.01,
+    "via": "linhagem: PMDB renomeado MDB, 15/05/2018",
+    "variacao_taxa_uf_pct": -29.3,
+    "variacao_taxa_brasil_pct": -8.9,
+    "diferenca_pontos": -20.4
+   },
+   {
+    "uf": "GO",
+    "mandato": "2015-2018",
+    "partido": "PSDB",
+    "posicao_2018": 7.11,
+    "via": "propria",
+    "variacao_taxa_uf_pct": -15.1,
+    "variacao_taxa_brasil_pct": -8.9,
+    "diferenca_pontos": -6.2
+   },
+   {
+    "uf": "MA",
+    "mandato": "2015-2018",
+    "partido": "PC do B",
+    "posicao_2018": 1.92,
+    "via": "propria",
+    "variacao_taxa_uf_pct": -21.5,
+    "variacao_taxa_brasil_pct": -8.9,
+    "diferenca_pontos": -12.6
+   },
+   {
+    "uf": "MG",
+    "mandato": "2015-2018",
+    "partido": "PT",
+    "posicao_2018": 2.97,
+    "via": "propria",
+    "variacao_taxa_uf_pct": -29.9,
+    "variacao_taxa_brasil_pct": -8.9,
+    "diferenca_pontos": -21.0
+   },
+   {
+    "uf": "MS",
+    "mandato": "2015-2018",
+    "partido": "PSDB",
+    "posicao_2018": 7.11,
+    "via": "propria",
+    "variacao_taxa_uf_pct": -27.0,
+    "variacao_taxa_brasil_pct": -8.9,
+    "diferenca_pontos": -18.2
+   },
+   {
+    "uf": "MT",
+    "mandato": "2015-2018",
+    "partido": "PDT",
+    "posicao_2018": 3.92,
+    "via": "propria",
+    "variacao_taxa_uf_pct": -32.9,
+    "variacao_taxa_brasil_pct": -8.9,
+    "diferenca_pontos": -24.0
+   },
+   {
+    "uf": "PA",
+    "mandato": "2015-2018",
+    "partido": "PSDB",
+    "posicao_2018": 7.11,
+    "via": "propria",
+    "variacao_taxa_uf_pct": 24.1,
+    "variacao_taxa_brasil_pct": -8.9,
+    "diferenca_pontos": 33.0
+   },
+   {
+    "uf": "PB",
+    "mandato": "2015-2018",
+    "partido": "PSB",
+    "posicao_2018": 4.05,
+    "via": "propria",
+    "variacao_taxa_uf_pct": -21.3,
+    "variacao_taxa_brasil_pct": -8.9,
+    "diferenca_pontos": -12.4
+   },
+   {
+    "uf": "PE",
+    "mandato": "2015-2018",
+    "partido": "PSB",
+    "posicao_2018": 4.05,
+    "via": "propria",
+    "variacao_taxa_uf_pct": 21.8,
+    "variacao_taxa_brasil_pct": -8.9,
+    "diferenca_pontos": 30.7
+   },
+   {
+    "uf": "PI",
+    "mandato": "2015-2018",
+    "partido": "PT",
+    "posicao_2018": 2.97,
+    "via": "propria",
+    "variacao_taxa_uf_pct": -15.7,
+    "variacao_taxa_brasil_pct": -8.9,
+    "diferenca_pontos": -6.8
+   },
+   {
+    "uf": "PR",
+    "mandato": "2015-2018",
+    "partido": "PSDB",
+    "posicao_2018": 7.11,
+    "via": "propria",
+    "variacao_taxa_uf_pct": -23.8,
+    "variacao_taxa_brasil_pct": -8.9,
+    "diferenca_pontos": -14.9
+   },
+   {
+    "uf": "RJ",
+    "mandato": "2015-2018",
+    "partido": "PMDB",
+    "posicao_2018": 7.01,
+    "via": "linhagem: PMDB renomeado MDB, 15/05/2018",
+    "variacao_taxa_uf_pct": -0.1,
+    "variacao_taxa_brasil_pct": -8.9,
+    "diferenca_pontos": 8.8
+   },
+   {
+    "uf": "RN",
+    "mandato": "2015-2018",
+    "partido": "PSD",
+    "posicao_2018": 7.09,
+    "via": "propria, so' o registrado em 27/09/2011",
+    "variacao_taxa_uf_pct": 11.6,
+    "variacao_taxa_brasil_pct": -8.9,
+    "diferenca_pontos": 20.4
+   },
+   {
+    "uf": "RO",
+    "mandato": "2015-2018",
+    "partido": "PMDB",
+    "posicao_2018": 7.01,
+    "via": "linhagem: PMDB renomeado MDB, 15/05/2018",
+    "variacao_taxa_uf_pct": -18.1,
+    "variacao_taxa_brasil_pct": -8.9,
+    "diferenca_pontos": -9.2
+   },
+   {
+    "uf": "RR",
+    "mandato": "2015-2018",
+    "partido": "PP",
+    "posicao_2018": 8.2,
+    "via": "propria",
+    "variacao_taxa_uf_pct": 125.3,
+    "variacao_taxa_brasil_pct": -8.9,
+    "diferenca_pontos": 134.2
+   },
+   {
+    "uf": "RS",
+    "mandato": "2015-2018",
+    "partido": "PMDB",
+    "posicao_2018": 7.01,
+    "via": "linhagem: PMDB renomeado MDB, 15/05/2018",
+    "variacao_taxa_uf_pct": -2.6,
+    "variacao_taxa_brasil_pct": -8.9,
+    "diferenca_pontos": 6.2
+   },
+   {
+    "uf": "SC",
+    "mandato": "2015-2018",
+    "partido": "PSD",
+    "posicao_2018": 7.09,
+    "via": "propria, so' o registrado em 27/09/2011",
+    "variacao_taxa_uf_pct": -11.6,
+    "variacao_taxa_brasil_pct": -8.9,
+    "diferenca_pontos": -2.8
+   },
+   {
+    "uf": "SE",
+    "mandato": "2015-2018",
+    "partido": "PMDB",
+    "posicao_2018": 7.01,
+    "via": "linhagem: PMDB renomeado MDB, 15/05/2018",
+    "variacao_taxa_uf_pct": 0.6,
+    "variacao_taxa_brasil_pct": -8.9,
+    "diferenca_pontos": 9.5
+   },
+   {
+    "uf": "SP",
+    "mandato": "2015-2018",
+    "partido": "PSDB",
+    "posicao_2018": 7.11,
+    "via": "propria",
+    "variacao_taxa_uf_pct": -41.5,
+    "variacao_taxa_brasil_pct": -8.9,
+    "diferenca_pontos": -32.6
+   },
+   {
+    "uf": "TO",
+    "mandato": "2015-2018",
+    "partido": "PMDB",
+    "posicao_2018": 7.01,
+    "via": "linhagem: PMDB renomeado MDB, 15/05/2018",
+    "variacao_taxa_uf_pct": 40.3,
+    "variacao_taxa_brasil_pct": -8.9,
+    "diferenca_pontos": 49.2
+   },
+   {
+    "uf": "AC",
+    "mandato": "2019-2022",
+    "partido": "PP",
+    "posicao_2018": 8.2,
+    "via": "propria",
+    "variacao_taxa_uf_pct": -39.1,
+    "variacao_taxa_brasil_pct": -18.5,
+    "diferenca_pontos": -20.5
+   },
+   {
+    "uf": "AL",
+    "mandato": "2019-2022",
+    "partido": "MDB",
+    "posicao_2018": 7.01,
+    "via": "propria",
+    "variacao_taxa_uf_pct": -17.6,
+    "variacao_taxa_brasil_pct": -18.5,
+    "diferenca_pontos": 0.9
+   },
+   {
+    "uf": "AM",
+    "mandato": "2019-2022",
+    "partido": "PSC",
+    "posicao_2018": 8.33,
+    "via": "propria",
+    "variacao_taxa_uf_pct": 18.9,
+    "variacao_taxa_brasil_pct": -18.5,
+    "diferenca_pontos": 37.4
+   },
+   {
+    "uf": "AP",
+    "mandato": "2019-2022",
+    "partido": "PDT",
+    "posicao_2018": 3.92,
+    "via": "propria",
+    "variacao_taxa_uf_pct": -7.5,
+    "variacao_taxa_brasil_pct": -18.5,
+    "diferenca_pontos": 11.0
+   },
+   {
+    "uf": "BA",
+    "mandato": "2019-2022",
+    "partido": "PT",
+    "posicao_2018": 2.97,
+    "via": "propria",
+    "variacao_taxa_uf_pct": 1.5,
+    "variacao_taxa_brasil_pct": -18.5,
+    "diferenca_pontos": 20.0
+   },
+   {
+    "uf": "CE",
+    "mandato": "2019-2022",
+    "partido": "PT",
+    "posicao_2018": 2.97,
+    "via": "propria",
+    "variacao_taxa_uf_pct": -36.3,
+    "variacao_taxa_brasil_pct": -18.5,
+    "diferenca_pontos": -17.8
+   },
+   {
+    "uf": "DF",
+    "mandato": "2019-2022",
+    "partido": "MDB",
+    "posicao_2018": 7.01,
+    "via": "propria",
+    "variacao_taxa_uf_pct": -31.0,
+    "variacao_taxa_brasil_pct": -18.5,
+    "diferenca_pontos": -12.5
+   },
+   {
+    "uf": "ES",
+    "mandato": "2019-2022",
+    "partido": "PSB",
+    "posicao_2018": 4.05,
+    "via": "propria",
+    "variacao_taxa_uf_pct": 1.8,
+    "variacao_taxa_brasil_pct": -18.5,
+    "diferenca_pontos": 20.4
+   },
+   {
+    "uf": "GO",
+    "mandato": "2019-2022",
+    "partido": "DEM",
+    "posicao_2018": 8.57,
+    "via": "propria",
+    "variacao_taxa_uf_pct": -42.4,
+    "variacao_taxa_brasil_pct": -18.5,
+    "diferenca_pontos": -23.9
+   },
+   {
+    "uf": "MA",
+    "mandato": "2019-2022",
+    "partido": "PC do B",
+    "posicao_2018": 1.92,
+    "via": "propria",
+    "variacao_taxa_uf_pct": 1.6,
+    "variacao_taxa_brasil_pct": -18.5,
+    "diferenca_pontos": 20.2
+   },
+   {
+    "uf": "MG",
+    "mandato": "2019-2022",
+    "partido": "NOVO",
+    "posicao_2018": 8.13,
+    "via": "propria",
+    "variacao_taxa_uf_pct": -18.0,
+    "variacao_taxa_brasil_pct": -18.5,
+    "diferenca_pontos": 0.5
+   },
+   {
+    "uf": "MS",
+    "mandato": "2019-2022",
+    "partido": "PSDB",
+    "posicao_2018": 7.11,
+    "via": "propria",
+    "variacao_taxa_uf_pct": -5.0,
+    "variacao_taxa_brasil_pct": -18.5,
+    "diferenca_pontos": 13.6
+   },
+   {
+    "uf": "MT",
+    "mandato": "2019-2022",
+    "partido": "DEM",
+    "posicao_2018": 8.57,
+    "via": "propria",
+    "variacao_taxa_uf_pct": 1.4,
+    "variacao_taxa_brasil_pct": -18.5,
+    "diferenca_pontos": 20.0
+   },
+   {
+    "uf": "PA",
+    "mandato": "2019-2022",
+    "partido": "MDB",
+    "posicao_2018": 7.01,
+    "via": "propria",
+    "variacao_taxa_uf_pct": -34.6,
+    "variacao_taxa_brasil_pct": -18.5,
+    "diferenca_pontos": -16.0
+   },
+   {
+    "uf": "PB",
+    "mandato": "2019-2022",
+    "partido": "PSB",
+    "posicao_2018": 4.05,
+    "via": "propria",
+    "variacao_taxa_uf_pct": -10.2,
+    "variacao_taxa_brasil_pct": -18.5,
+    "diferenca_pontos": 8.4
+   },
+   {
+    "uf": "PE",
+    "mandato": "2019-2022",
+    "partido": "PSB",
+    "posicao_2018": 4.05,
+    "via": "propria",
+    "variacao_taxa_uf_pct": -14.7,
+    "variacao_taxa_brasil_pct": -18.5,
+    "diferenca_pontos": 3.9
+   },
+   {
+    "uf": "PI",
+    "mandato": "2019-2022",
+    "partido": "PT",
+    "posicao_2018": 2.97,
+    "via": "propria",
+    "variacao_taxa_uf_pct": 28.3,
+    "variacao_taxa_brasil_pct": -18.5,
+    "diferenca_pontos": 46.8
+   },
+   {
+    "uf": "PR",
+    "mandato": "2019-2022",
+    "partido": "PSD",
+    "posicao_2018": 7.09,
+    "via": "propria, so' o registrado em 27/09/2011",
+    "variacao_taxa_uf_pct": -3.8,
+    "variacao_taxa_brasil_pct": -18.5,
+    "diferenca_pontos": 14.7
+   },
+   {
+    "uf": "RJ",
+    "mandato": "2019-2022",
+    "partido": "PSC",
+    "posicao_2018": 8.33,
+    "via": "propria",
+    "variacao_taxa_uf_pct": -34.7,
+    "variacao_taxa_brasil_pct": -18.5,
+    "diferenca_pontos": -16.2
+   },
+   {
+    "uf": "RN",
+    "mandato": "2019-2022",
+    "partido": "PT",
+    "posicao_2018": 2.97,
+    "via": "propria",
+    "variacao_taxa_uf_pct": -32.6,
+    "variacao_taxa_brasil_pct": -18.5,
+    "diferenca_pontos": -14.1
+   },
+   {
+    "uf": "RO",
+    "mandato": "2019-2022",
+    "partido": "PSL",
+    "posicao_2018": 8.11,
+    "via": "propria",
+    "variacao_taxa_uf_pct": 39.9,
+    "variacao_taxa_brasil_pct": -18.5,
+    "diferenca_pontos": 58.5
+   },
+   {
+    "uf": "RR",
+    "mandato": "2019-2022",
+    "partido": "PSL",
+    "posicao_2018": 8.11,
+    "via": "propria",
+    "variacao_taxa_uf_pct": -49.8,
+    "variacao_taxa_brasil_pct": -18.5,
+    "diferenca_pontos": -31.3
+   },
+   {
+    "uf": "RS",
+    "mandato": "2019-2022",
+    "partido": "PSDB",
+    "posicao_2018": 7.11,
+    "via": "propria",
+    "variacao_taxa_uf_pct": -23.4,
+    "variacao_taxa_brasil_pct": -18.5,
+    "diferenca_pontos": -4.9
+   },
+   {
+    "uf": "SC",
+    "mandato": "2019-2022",
+    "partido": "PSL",
+    "posicao_2018": 8.11,
+    "via": "propria",
+    "variacao_taxa_uf_pct": -25.2,
+    "variacao_taxa_brasil_pct": -18.5,
+    "diferenca_pontos": -6.7
+   },
+   {
+    "uf": "SE",
+    "mandato": "2019-2022",
+    "partido": "PSD",
+    "posicao_2018": 7.09,
+    "via": "propria, so' o registrado em 27/09/2011",
+    "variacao_taxa_uf_pct": -30.5,
+    "variacao_taxa_brasil_pct": -18.5,
+    "diferenca_pontos": -11.9
+   },
+   {
+    "uf": "SP",
+    "mandato": "2019-2022",
+    "partido": "PSDB",
+    "posicao_2018": 7.11,
+    "via": "propria",
+    "variacao_taxa_uf_pct": -10.9,
+    "variacao_taxa_brasil_pct": -18.5,
+    "diferenca_pontos": 7.6
+   },
+   {
+    "uf": "TO",
+    "mandato": "2019-2022",
+    "partido": "PHS",
+    "posicao_2018": 6.96,
+    "via": "propria",
+    "variacao_taxa_uf_pct": -16.4,
+    "variacao_taxa_brasil_pct": -18.5,
+    "diferenca_pontos": 2.1
+   },
+   {
+    "uf": "AC",
+    "mandato": "2023-2026",
+    "partido": "PP",
+    "posicao_2018": 8.2,
+    "via": "propria",
+    "variacao_taxa_uf_pct": -27.8,
+    "variacao_taxa_brasil_pct": -24.4,
+    "diferenca_pontos": -3.4
+   },
+   {
+    "uf": "AL",
+    "mandato": "2023-2026",
+    "partido": "MDB",
+    "posicao_2018": 7.01,
+    "via": "propria",
+    "variacao_taxa_uf_pct": -3.8,
+    "variacao_taxa_brasil_pct": -24.4,
+    "diferenca_pontos": 20.7
+   },
+   {
+    "uf": "AP",
+    "mandato": "2023-2026",
+    "partido": "SOLIDARIEDADE",
+    "posicao_2018": 6.5,
+    "via": "propria",
+    "variacao_taxa_uf_pct": -31.0,
+    "variacao_taxa_brasil_pct": -24.4,
+    "diferenca_pontos": -6.6
+   },
+   {
+    "uf": "BA",
+    "mandato": "2023-2026",
+    "partido": "PT",
+    "posicao_2018": 2.97,
+    "via": "propria",
+    "variacao_taxa_uf_pct": -27.8,
+    "variacao_taxa_brasil_pct": -24.4,
+    "diferenca_pontos": -3.4
+   },
+   {
+    "uf": "CE",
+    "mandato": "2023-2026",
+    "partido": "PT",
+    "posicao_2018": 2.97,
+    "via": "propria",
+    "variacao_taxa_uf_pct": -18.7,
+    "variacao_taxa_brasil_pct": -24.4,
+    "diferenca_pontos": 5.8
+   },
+   {
+    "uf": "DF",
+    "mandato": "2023-2026",
+    "partido": "MDB",
+    "posicao_2018": 7.01,
+    "via": "propria",
+    "variacao_taxa_uf_pct": -29.2,
+    "variacao_taxa_brasil_pct": -24.4,
+    "diferenca_pontos": -4.7
+   },
+   {
+    "uf": "ES",
+    "mandato": "2023-2026",
+    "partido": "PSB",
+    "posicao_2018": 4.05,
+    "via": "propria",
+    "variacao_taxa_uf_pct": -25.3,
+    "variacao_taxa_brasil_pct": -24.4,
+    "diferenca_pontos": -0.9
+   },
+   {
+    "uf": "MA",
+    "mandato": "2023-2026",
+    "partido": "PSB",
+    "posicao_2018": 4.05,
+    "via": "propria",
+    "variacao_taxa_uf_pct": 6.4,
+    "variacao_taxa_brasil_pct": -24.4,
+    "diferenca_pontos": 30.8
+   },
+   {
+    "uf": "MG",
+    "mandato": "2023-2026",
+    "partido": "NOVO",
+    "posicao_2018": 8.13,
+    "via": "propria",
+    "variacao_taxa_uf_pct": -22.3,
+    "variacao_taxa_brasil_pct": -24.4,
+    "diferenca_pontos": 2.2
+   },
+   {
+    "uf": "MS",
+    "mandato": "2023-2026",
+    "partido": "PSDB",
+    "posicao_2018": 7.11,
+    "via": "propria",
+    "variacao_taxa_uf_pct": -19.2,
+    "variacao_taxa_brasil_pct": -24.4,
+    "diferenca_pontos": 5.2
+   },
+   {
+    "uf": "PA",
+    "mandato": "2023-2026",
+    "partido": "MDB",
+    "posicao_2018": 7.01,
+    "via": "propria",
+    "variacao_taxa_uf_pct": -28.2,
+    "variacao_taxa_brasil_pct": -24.4,
+    "diferenca_pontos": -3.7
+   },
+   {
+    "uf": "PB",
+    "mandato": "2023-2026",
+    "partido": "PSB",
+    "posicao_2018": 4.05,
+    "via": "propria",
+    "variacao_taxa_uf_pct": -13.1,
+    "variacao_taxa_brasil_pct": -24.4,
+    "diferenca_pontos": 11.3
+   },
+   {
+    "uf": "PE",
+    "mandato": "2023-2026",
+    "partido": "PSDB",
+    "posicao_2018": 7.11,
+    "via": "propria",
+    "variacao_taxa_uf_pct": -12.6,
+    "variacao_taxa_brasil_pct": -24.4,
+    "diferenca_pontos": 11.9
+   },
+   {
+    "uf": "PI",
+    "mandato": "2023-2026",
+    "partido": "PT",
+    "posicao_2018": 2.97,
+    "via": "propria",
+    "variacao_taxa_uf_pct": -33.9,
+    "variacao_taxa_brasil_pct": -24.4,
+    "diferenca_pontos": -9.5
+   },
+   {
+    "uf": "PR",
+    "mandato": "2023-2026",
+    "partido": "PSD",
+    "posicao_2018": 7.09,
+    "via": "propria, so' o registrado em 27/09/2011",
+    "variacao_taxa_uf_pct": -36.7,
+    "variacao_taxa_brasil_pct": -24.4,
+    "diferenca_pontos": -12.2
+   },
+   {
+    "uf": "RJ",
+    "mandato": "2023-2026",
+    "partido": "PL",
+    "posicao_2018": 7.78,
+    "via": "linhagem: PR renomeado PL, 09/02/2019",
+    "variacao_taxa_uf_pct": -24.0,
+    "variacao_taxa_brasil_pct": -24.4,
+    "diferenca_pontos": 0.5
+   },
+   {
+    "uf": "RN",
+    "mandato": "2023-2026",
+    "partido": "PT",
+    "posicao_2018": 2.97,
+    "via": "propria",
+    "variacao_taxa_uf_pct": -28.2,
+    "variacao_taxa_brasil_pct": -24.4,
+    "diferenca_pontos": -3.7
+   },
+   {
+    "uf": "RR",
+    "mandato": "2023-2026",
+    "partido": "PP",
+    "posicao_2018": 8.2,
+    "via": "propria",
+    "variacao_taxa_uf_pct": -18.3,
+    "variacao_taxa_brasil_pct": -24.4,
+    "diferenca_pontos": 6.1
+   },
+   {
+    "uf": "RS",
+    "mandato": "2023-2026",
+    "partido": "PSDB",
+    "posicao_2018": 7.11,
+    "via": "propria",
+    "variacao_taxa_uf_pct": -38.5,
+    "variacao_taxa_brasil_pct": -24.4,
+    "diferenca_pontos": -14.0
+   },
+   {
+    "uf": "SC",
+    "mandato": "2023-2026",
+    "partido": "PL",
+    "posicao_2018": 7.78,
+    "via": "linhagem: PR renomeado PL, 09/02/2019",
+    "variacao_taxa_uf_pct": -22.5,
+    "variacao_taxa_brasil_pct": -24.4,
+    "diferenca_pontos": 2.0
+   },
+   {
+    "uf": "SE",
+    "mandato": "2023-2026",
+    "partido": "PSD",
+    "posicao_2018": 7.09,
+    "via": "propria, so' o registrado em 27/09/2011",
+    "variacao_taxa_uf_pct": -37.7,
+    "variacao_taxa_brasil_pct": -24.4,
+    "diferenca_pontos": -13.3
+   },
+   {
+    "uf": "SP",
+    "mandato": "2023-2026",
+    "partido": "REPUBLICANOS",
+    "posicao_2018": 7.78,
+    "via": "linhagem: PRB renomeado Republicanos, 15/08/2019",
+    "variacao_taxa_uf_pct": -19.9,
+    "variacao_taxa_brasil_pct": -24.4,
+    "diferenca_pontos": 4.5
+   },
+   {
+    "uf": "TO",
+    "mandato": "2023-2026",
+    "partido": "REPUBLICANOS",
+    "posicao_2018": 7.78,
+    "via": "linhagem: PRB renomeado Republicanos, 15/08/2019",
+    "variacao_taxa_uf_pct": -36.9,
+    "variacao_taxa_brasil_pct": -24.4,
+    "diferenca_pontos": -12.5
+   }
+  ],
+  "fora": {
+   "partido sem posicao ou Brasil incompleto": 54,
+   "mandato atravessa a troca da CID-9 para a CID-10": 27
+  },
+  "esquerda_e_centro_esquerda": {
+   "mandatos": 65,
+   "media_diferenca": 11.2
+  },
+  "direita_e_centro_direita": {
+   "mandatos": 138,
+   "media_diferenca": 11.5
+  },
+  "p_diferenca_de_medias": 0.9605,
+  "spearman_posicao_x_diferenca": 0.009,
+  "p_spearman": 0.8932
+ },
+ "D_marco_1988": {
+  "antes": {
+   "eventos": {
+    "agrava": 3,
+    "mantem": 1
+   },
+   "anos": 47.83,
+   "agravam_ou_criam_por_ano": 0.063,
+   "abrandam_por_ano": 0.0
+  },
+  "depois": {
+   "eventos": {
+    "agrava": 47,
+    "abranda": 16,
+    "mantem": 6,
+    "cria pena": 57
+   },
+   "anos": 37.95,
+   "agravam_ou_criam_por_ano": 2.74,
+   "abrandam_por_ano": 0.422
+  }
+ },
+ "D_por_presidente": {
+  "Costa e Silva (1967-03-15 a 1969-08-31)": {
+   "agrava": 2
+  },
+  "Dilma Rousseff (2011-01-01 a 2016-05-12)": {
+   "cria pena": 5,
+   "mantem": 2,
+   "abranda": 1
+  },
+  "Fernando Collor (1990-03-15 a 1992-10-02)": {
+   "agrava": 4,
+   "abranda": 2
+  },
+  "Fernando Henrique Cardoso (1995-01-01 a 1999-01-01)": {
+   "agrava": 14,
+   "abranda": 6,
+   "mantem": 1,
+   "cria pena": 2
+  },
+  "Fernando Henrique Cardoso (1999-01-01 a 2003-01-01)": {
+   "agrava": 3,
+   "cria pena": 15
+  },
+  "Itamar Franco (1992-10-02 a 1995-01-01)": {
+   "mantem": 1
+  },
+  "Jair Messias Bolsonaro (2019-01-01 a 2023-01-01)": {
+   "cria pena": 21,
+   "agrava": 2
+  },
+  "João Baptista Figueiredo (1979-03-15 a 1985-03-15)": {
+   "mantem": 1,
+   "agrava": 1
+  },
+  "Luiz Inácio Lula da Silva (2003-01-01 a 2011-01-01)": {
+   "mantem": 1,
+   "agrava": 9,
+   "abranda": 2,
+   "cria pena": 5
+  },
+  "Luiz Inácio Lula da Silva (2023-01-01 a em curso)": {
+   "agrava": 13,
+   "cria pena": 7,
+   "abranda": 5,
+   "mantem": 1
+  },
+  "Michel Temer (2016-05-12 a 2019-01-01)": {
+   "cria pena": 2,
+   "agrava": 2
+  }
+ }
+}

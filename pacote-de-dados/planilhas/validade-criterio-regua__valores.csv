@@ -1,0 +1,28 @@
+chave;valor
+gerado_em;30/08/2026
+pre_especificacao;analise-cientifica/PRE-ESPECIFICACAO-VALIDADE-30-08-2026.md
+metodo;"grupos conhecidos, GIL 8. ed., secao 14.2.7 alinea b; significancia por permutacao do ROTULO DE GRUPO"
+criterio_externo;Lei n. 8.072, de 25 de julho de 1990, texto compilado
+semente;20260830
+sorteios;200000
+universo.dispositivos_na_base;432
+universo.com_teto_de_hoje;250
+universo.sem_teto_e_por_isso_fora;182
+grupos.hediondos_n;16
+grupos.nao_hediondos_n;234
+P1_medianas.hediondos_meses;300.0
+P1_medianas.nao_hediondos_meses;42.0
+P1_medianas.diferenca_meses;258.0
+P1_medianas.hediondos_anos;25.0
+P1_medianas.nao_hediondos_anos;3.5
+P2_tamanho_do_efeito.media_hediondos_meses;301.5
+P2_tamanho_do_efeito.media_nao_hediondos_meses;50.4
+P2_tamanho_do_efeito.cohen_d;4.554
+P3_e_P4_permutacao.p_da_diferenca_de_medianas;5e-06
+P3_e_P4_permutacao.p_da_diferenca_de_medias;5e-06
+P3_e_P4_permutacao.o_que_isto_e;a distribuicao sob rotulo embaralhado E o braco de falsificacao: p pequeno significa que o acaso quase nunca reproduz a separacao
+P5_conferencia_item_a_item.quantos;16
+P5_conferencia_item_a_item.batem;16
+P5_conferencia_item_a_item.percentual;100.0
+P5_conferencia_item_a_item.o_que_e;o teto gravado no CSV foi RELIDO do texto compilado com o leitor e o extrator do proprio projeto, artigo por artigo, e o trecho que produziu cada teto vai ao lado para leitura humana
+o_que_este_teste_NAO_faz;"[""nao valida o classificador de direcao, que decorre por aritmetica"", ""nao valida a Parte Geral, que esta fora da regua por construcao"", ""nao diz que a regua mede bem gravidade percebida, e sim que ela separa dois grupos que a lei separa"", ""passar nao prova que os resultados do trabalho estao certos: prova que o instrumento nao esta invalido no ponto testado""]"

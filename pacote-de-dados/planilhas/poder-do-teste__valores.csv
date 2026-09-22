@@ -1,0 +1,9 @@
+chave;valor
+grupo;presidencial direta
+recorte;1940-2025
+poder_por_razao.1.0;0.008
+poder_por_razao.1.5;0.328
+poder_por_razao.2.0;0.78
+poder_por_razao.2.5;0.976
+poder_por_razao.3.0;1.0
+leitura;poder abaixo de 0,80 significa que efeito daquele tamanho passaria despercebido com frequencia. Ausencia de achado NAO e prova de ausencia de efeito abaixo do tamanho que o desenho alcanca.

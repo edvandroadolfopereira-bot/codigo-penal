@@ -1,0 +1,162 @@
+{
+ "gerado_por": "apurar_presidentes_partido.py",
+ "regra": "partido no registro da candidatura",
+ "fora": "presidentes escolhidos de forma indireta, de 1964 a 1985, e quem exerceu sem ter sido eleito",
+ "eleicoes": {
+  "1945": {
+   "PRESIDENTE": {
+    "nome": "EURICO GASPAR DUTRA",
+    "partido": "PSD",
+    "turno": 1,
+    "votos": 3251377,
+    "fonte": "TSE, dados abertos, votacao nominal por UF, 1945"
+   },
+   "VICE-PRESIDENTE": {
+    "nao_consta": "a votacao por UF de 1945 nao traz vice-presidente"
+   }
+  },
+  "1950": {
+   "PRESIDENTE": {
+    "nome": "GETÚLIO DORNELLES VARGAS",
+    "partido": "PTB",
+    "turno": 1,
+    "votos": 3849040,
+    "fonte": "TSE, dados abertos, votacao nominal por UF, 1950"
+   },
+   "VICE-PRESIDENTE": {
+    "nome": "JOÃO CAFÉ FILHO",
+    "partido": "PSP",
+    "turno": 1,
+    "votos": 2520790,
+    "fonte": "TSE, dados abertos, votacao nominal por UF, 1950"
+   }
+  },
+  "1955": {
+   "PRESIDENTE": {
+    "nome": "JUSCELINO KUBISTCHECK DE OLIVEIRA",
+    "partido": "PSD",
+    "turno": 1,
+    "votos": 3077411,
+    "fonte": "TSE, dados abertos, votacao nominal por UF, 1955"
+   },
+   "VICE-PRESIDENTE": {
+    "nome": "JOÃO BELCHIOR MARQUES GOULART",
+    "partido": "PTB",
+    "turno": 1,
+    "votos": 3591409,
+    "fonte": "TSE, dados abertos, votacao nominal por UF, 1955"
+   }
+  },
+  "1960": {
+   "PRESIDENTE": {
+    "nome": "JÂNIO DA SILVA QUADROS",
+    "partido": "PTN",
+    "turno": 1,
+    "votos": 5636623,
+    "fonte": "TSE, dados abertos, votacao nominal por UF, 1960"
+   },
+   "VICE-PRESIDENTE": {
+    "nome": "JOÃO BELCHIOR MARQUES GOULART",
+    "partido": "PTB",
+    "turno": 1,
+    "votos": 4547010,
+    "fonte": "TSE, dados abertos, votacao nominal por UF, 1960"
+   }
+  },
+  "1989": {
+   "PRESIDENTE": {
+    "nome": "FERNANDO AFFONSO COLLOR DE MELLO",
+    "partido": "PRN",
+    "turno": 2,
+    "votos": 35090206,
+    "fonte": "TSE, dados abertos, votacao nominal por UF, 1989"
+   },
+   "VICE-PRESIDENTE": {
+    "nao_consta": "a votacao por UF de 1989 nao traz vice-presidente"
+   }
+  },
+  "1994": {
+   "PRESIDENTE": {
+    "nome": "FERNANDO HENRIQUE CARDOSO",
+    "partido": "PSDB",
+    "turno": 1,
+    "fonte": "TSE, consulta de candidatos, 1994"
+   }
+  },
+  "1998": {
+   "PRESIDENTE": {
+    "nome": "FERNANDO HENRIQUE CARDOSO",
+    "partido": "PSDB",
+    "turno": 1,
+    "fonte": "TSE, consulta de candidatos, 1998"
+   }
+  },
+  "2002": {
+   "PRESIDENTE": {
+    "nome": "LUIZ INACIO LULA DA SILVA",
+    "partido": "PT",
+    "turno": 2,
+    "fonte": "TSE, consulta de candidatos, 2002"
+   }
+  },
+  "2006": {
+   "PRESIDENTE": {
+    "nome": "LUIZ INACIO LULA DA SILVA",
+    "partido": "PT",
+    "turno": 1,
+    "fonte": "TSE, consulta de candidatos, 2006",
+    "confirmacao": "situacao #NULO# no arquivo; eleicao confirmada pelo mandato iniciado em 2007-01-01 (Biblioteca da Presidencia)"
+   }
+  },
+  "2010": {
+   "PRESIDENTE": {
+    "nome": "DILMA VANA ROUSSEFF",
+    "partido": "PT",
+    "turno": 2,
+    "fonte": "TSE, consulta de candidatos, 2010"
+   }
+  },
+  "2014": {
+   "VICE-PRESIDENTE": {
+    "nome": "MICHEL MIGUEL ELIAS TEMER LULIA",
+    "partido": "PMDB",
+    "turno": 2,
+    "fonte": "TSE, consulta de candidatos, 2014"
+   },
+   "PRESIDENTE": {
+    "nome": "DILMA VANA ROUSSEFF",
+    "partido": "PT",
+    "turno": 2,
+    "fonte": "TSE, consulta de candidatos, 2014"
+   }
+  },
+  "2018": {
+   "VICE-PRESIDENTE": {
+    "nome": "ANTÔNIO HAMILTON MARTINS MOURÃO",
+    "partido": "PRTB",
+    "turno": 2,
+    "fonte": "TSE, consulta de candidatos, 2018"
+   },
+   "PRESIDENTE": {
+    "nome": "JAIR MESSIAS BOLSONARO",
+    "partido": "PSL",
+    "turno": 2,
+    "fonte": "TSE, consulta de candidatos, 2018"
+   }
+  },
+  "2022": {
+   "PRESIDENTE": {
+    "nome": "LUIZ INÁCIO LULA DA SILVA",
+    "partido": "PT",
+    "turno": 2,
+    "fonte": "TSE, consulta de candidatos, 2022"
+   },
+   "VICE-PRESIDENTE": {
+    "nome": "GERALDO JOSÉ RODRIGUES ALCKMIN FILHO",
+    "partido": "PSB",
+    "turno": 2,
+    "fonte": "TSE, consulta de candidatos, 2022"
+   }
+  }
+ }
+}

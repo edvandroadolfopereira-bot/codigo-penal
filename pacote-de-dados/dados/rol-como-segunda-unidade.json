@@ -1,0 +1,216 @@
+{
+ "gerado_por": "apurar_rol_hediondos.py",
+ "o_que_mede": "o agravamento produzido FORA do texto do Codigo Penal, pela inclusao do artigo no rol de crimes hediondos",
+ "fonte_do_rol": "https://www.planalto.gov.br/ccivil_03/leis/l8072.htm",
+ "fonte_do_texto": "texto-integral-planalto.jsonl",
+ "normas_que_tocaram_o_rol": [
+  {
+   "norma": "Lei 8.930/1994",
+   "numero": 8930,
+   "ano": 1994,
+   "artigos": 2,
+   "entre_as_115": false,
+   "ano_eleitoral": true
+  },
+  {
+   "norma": "Lei 9.695/1998",
+   "numero": 9695,
+   "ano": 1998,
+   "artigos": 1,
+   "entre_as_115": false,
+   "ano_eleitoral": true
+  },
+  {
+   "norma": "Lei 12.015/2009",
+   "numero": 12015,
+   "ano": 2009,
+   "artigos": 2,
+   "entre_as_115": true,
+   "ano_eleitoral": false
+  },
+  {
+   "norma": "Lei 12.978/2014",
+   "numero": 12978,
+   "ano": 2014,
+   "artigos": 1,
+   "entre_as_115": true,
+   "ano_eleitoral": true
+  },
+  {
+   "norma": "Lei 13.964/2019",
+   "numero": 13964,
+   "ano": 2019,
+   "artigos": 3,
+   "entre_as_115": true,
+   "ano_eleitoral": false
+  },
+  {
+   "norma": "Lei 14.994/2024",
+   "numero": 14994,
+   "ano": 2024,
+   "artigos": 1,
+   "entre_as_115": true,
+   "ano_eleitoral": true
+  },
+  {
+   "norma": "Lei 14.811/2024",
+   "numero": 14811,
+   "ano": 2024,
+   "artigos": 3,
+   "entre_as_115": true,
+   "ano_eleitoral": true
+  },
+  {
+   "norma": "Lei 15.159/2025",
+   "numero": 15159,
+   "ano": 2025,
+   "artigos": 2,
+   "entre_as_115": true,
+   "ano_eleitoral": false
+  },
+  {
+   "norma": "Lei 15.384/2026",
+   "numero": 15384,
+   "ano": 2026,
+   "artigos": 1,
+   "entre_as_115": true,
+   "ano_eleitoral": true
+  }
+ ],
+ "normas_fora_das_115": [
+  "Lei 8.930/1994",
+  "Lei 9.695/1998"
+ ],
+ "artigos_afetados_por_norma_fora_das_115": 3,
+ "sobreposicao_com_a_regua_do_texto": [
+  {
+   "artigo": "121",
+   "crime": "homicidio em grupo de exterminio e homicidio qualificado",
+   "eventos_no_texto": 1
+  },
+  {
+   "artigo": "121-A",
+   "crime": "feminicidio",
+   "eventos_no_texto": 1
+  },
+  {
+   "artigo": "121-B",
+   "crime": "vicaricidio",
+   "eventos_no_texto": 1
+  },
+  {
+   "artigo": "122",
+   "crime": "induzimento a suicidio por rede de computadores",
+   "eventos_no_texto": 0
+  },
+  {
+   "artigo": "129",
+   "crime": "lesao corporal gravissima e seguida de morte, qualificada",
+   "eventos_no_texto": 4
+  },
+  {
+   "artigo": "148",
+   "crime": "sequestro e carcere privado contra menor de 18",
+   "eventos_no_texto": 1
+  },
+  {
+   "artigo": "149-A",
+   "crime": "trafico de pessoas contra crianca ou adolescente",
+   "eventos_no_texto": 1
+  },
+  {
+   "artigo": "155",
+   "crime": "furto qualificado por explosivo",
+   "eventos_no_texto": 3
+  },
+  {
+   "artigo": "157",
+   "crime": "roubo circunstanciado e qualificado",
+   "eventos_no_texto": 5
+  },
+  {
+   "artigo": "158",
+   "crime": "extorsao qualificada",
+   "eventos_no_texto": 1
+  },
+  {
+   "artigo": "159",
+   "crime": "extorsao mediante sequestro",
+   "eventos_no_texto": 1
+  },
+  {
+   "artigo": "213",
+   "crime": "estupro",
+   "eventos_no_texto": 1
+  },
+  {
+   "artigo": "217-A",
+   "crime": "estupro de vulneravel",
+   "eventos_no_texto": 2
+  },
+  {
+   "artigo": "218-B",
+   "crime": "favorecimento da prostituicao de vulneravel",
+   "eventos_no_texto": 2
+  },
+  {
+   "artigo": "267",
+   "crime": "epidemia com resultado morte",
+   "eventos_no_texto": 1
+  },
+  {
+   "artigo": "273",
+   "crime": "falsificacao de produto terapeutico",
+   "eventos_no_texto": 1
+  }
+ ],
+ "artigos_do_rol_invisiveis_para_a_regua": [
+  {
+   "artigo": "122",
+   "crime": "induzimento a suicidio por rede de computadores",
+   "eventos_no_texto": 0
+  }
+ ],
+ "parametros_medidos": [
+  {
+   "parametro": "Livramento condicional, fracao exigida do primario",
+   "porque": "fracao maior obriga a cumprir mais antes de sair",
+   "vigente": true,
+   "no_regime_comum": "um terço",
+   "no_rol": "dois terços"
+  },
+  {
+   "parametro": "Progressao de regime, fracao do primario",
+   "porque": "parametro HISTORICO: o paragrafo que o fixava foi revogado pela Lei 13.964/2019, que remeteu a materia ao art. 112 da Lei de Execucao Penal",
+   "vigente": false,
+   "no_regime_comum": null,
+   "no_rol": "2/5"
+  },
+  {
+   "parametro": "Progressao de regime, fracao do reincidente",
+   "porque": "mesmo parametro historico, para o reincidente",
+   "vigente": false,
+   "no_regime_comum": null,
+   "no_rol": "3/5"
+  }
+ ],
+ "vedacoes": [
+  {
+   "vedacao": "anistia, graca e indulto",
+   "consta_na_lei": true,
+   "trecho": "I - anistia, graça e indulto"
+  },
+  {
+   "vedacao": "fianca",
+   "consta_na_lei": true,
+   "trecho": "II - fiança"
+  },
+  {
+   "vedacao": "regime inicial obrigatoriamente fechado",
+   "consta_na_lei": true,
+   "trecho": "será cumprida inicialmente em regime fechado"
+  }
+ ],
+ "parametros_nao_lidos": [],
+ "limite_declarado": "o rol e decisao legislativa e nao escala de gravidade; isso ENFRAQUECE a separacao esperada no teste e o torna conservador"
+}

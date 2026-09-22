@@ -1,0 +1,110 @@
+{
+ "gerado_por": "sondar_fontes_pendentes.py",
+ "quando": "2026-08-30 20:17:49",
+ "espera_em_segundos": 12,
+ "agente": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120 Safari/537.36",
+ "o_que_isto_prova": "que o endereco testado, na data testada, respondeu de tal forma; nao prova que o dado nao existe",
+ "sondas": [
+  {
+   "item": 6,
+   "assunto": "serie de violencia anterior a 2012",
+   "fonte": "DATASUS, Sistema de Informacoes sobre Mortalidade",
+   "url": "https://apidadosabertos.saude.gov.br/v1/sim",
+   "o_que_daria": "obito por agressao com codigo da Classificacao Internacional de Doencas, desde 1979",
+   "resultado": {
+    "resposta": "HTTP 404",
+    "codigo": 404,
+    "bytes_lidos": 0,
+    "segundos": 0.2,
+    "limitado_por_taxa": false,
+    "motivo": "NOT FOUND"
+   }
+  },
+  {
+   "item": 6,
+   "assunto": "serie de violencia anterior a 2012",
+   "fonte": "IBGE, SIDRA, tabela 2654, Registro Civil",
+   "url": "https://apisidra.ibge.gov.br/values/t/2654/n1/all/v/all/p/1996",
+   "o_que_daria": "obito por natureza, natural ou nao natural, de 2003 a 2024",
+   "resultado": {
+    "resposta": "HTTP 200",
+    "codigo": 200,
+    "bytes_lidos": 722,
+    "segundos": 0.1,
+    "tipo": "application/json; charset=utf-8"
+   }
+  },
+  {
+   "item": 7,
+   "assunto": "resultados eleitorais por ano",
+   "fonte": "Tribunal Superior Eleitoral, portal de dados abertos",
+   "url": "https://dadosabertos.tse.jus.br/api/3/action/package_list",
+   "o_que_daria": "resultado por cargo e por ano, para ligar autoria a composicao eleita",
+   "resultado": {
+    "resposta": "HTTP 403",
+    "codigo": 403,
+    "bytes_lidos": 0,
+    "segundos": 0.1,
+    "limitado_por_taxa": false,
+    "motivo": "Forbidden"
+   }
+  },
+  {
+   "item": 8,
+   "assunto": "propostas de governo",
+   "fonte": "Tribunal Superior Eleitoral, portal de dados abertos",
+   "url": "https://dadosabertos.tse.jus.br/api/3/action/package_search?q=proposta&rows=1",
+   "o_que_daria": "a proposta de governo registrada, obrigatoria so' a partir de 2010",
+   "resultado": {
+    "resposta": "HTTP 403",
+    "codigo": 403,
+    "bytes_lidos": 0,
+    "segundos": 0.1,
+    "limitado_por_taxa": false,
+    "motivo": "Forbidden"
+   }
+  },
+  {
+   "item": 9,
+   "assunto": "Diario do Congresso Nacional de novembro de 1955",
+   "fonte": "Camara dos Deputados, acervo de imagem",
+   "url": "https://imagem.camara.leg.br/dc_20.asp?selCodColecaoCsv=J&Datain=17/11/1955",
+   "o_que_daria": "a atribuicao de cada resolucao de impedimento a um presidente determinado",
+   "resultado": {
+    "resposta": "TimeoutError",
+    "codigo": null,
+    "bytes_lidos": 0,
+    "segundos": 12.1,
+    "motivo": "The read operation timed out"
+   }
+  },
+  {
+   "item": 10,
+   "assunto": "inteiro teor das decisoes de controle",
+   "fonte": "Supremo Tribunal Federal, endereco gravado na propria base",
+   "url": "https://portal.stf.jus.br/jurisprudencia/obterInteiroTeor.asp?idDocumento=10162709",
+   "o_que_daria": "dizer se cada artigo foi declarado constitucional ou inconstitucional",
+   "resultado": {
+    "resposta": "HTTP 202",
+    "codigo": 202,
+    "bytes_lidos": 0,
+    "segundos": 0.2,
+    "tipo": "text/html; charset=UTF-8"
+   }
+  },
+  {
+   "item": 14,
+   "assunto": "percepcao de inseguranca",
+   "fonte": "Latinobarometro, pagina de dados",
+   "url": "https://www.latinobarometro.org/latContents.jsp",
+   "o_que_daria": "serie de percepcao, que e' sentimento declarado e nao fato apurado",
+   "resultado": {
+    "resposta": "HTTP 200",
+    "codigo": 200,
+    "bytes_lidos": 4000,
+    "segundos": 0.7,
+    "tipo": "text/html;charset=UTF-8"
+   }
+  }
+ ]
+}

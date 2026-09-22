@@ -1,0 +1,42 @@
+chave;valor
+gerado_por;apurar_pendencias_restantes.py
+A_poder_do_teste_da_agenda.desenho;uma observacao por norma, permutacao em blocos de dez anos, efeito plantado trocando a materia de uma fracao das normas de ano eleitoral
+A_poder_do_teste_da_agenda.normas;49
+A_poder_do_teste_da_agenda.normas_em_ano_eleitoral;26
+A_poder_do_teste_da_agenda.sorteios_por_tamanho;2000
+B_sensibilidade_da_regua.cortes.menor_potencial_ofensivo_meses;24
+B_sensibilidade_da_regua.cortes.suspensao_condicional_do_processo_meses;12
+B_sensibilidade_da_regua.cortes.fonte_dos_cortes;Lei n. 9.099/1995, arts. 61 e 89, e Lei n. 8.072/1990
+B_sensibilidade_da_regua.faixas.1. menor potencial ofensivo, teto ate' 2 anos.n;72
+B_sensibilidade_da_regua.faixas.1. menor potencial ofensivo, teto ate' 2 anos.mediana_do_teto_meses;12.0
+B_sensibilidade_da_regua.faixas.1. menor potencial ofensivo, teto ate' 2 anos.menor;1.0
+B_sensibilidade_da_regua.faixas.1. menor potencial ofensivo, teto ate' 2 anos.maior;24.0
+B_sensibilidade_da_regua.faixas.2. admite suspensao condicional do processo, piso ate' 1 ano.n;77
+B_sensibilidade_da_regua.faixas.2. admite suspensao condicional do processo, piso ate' 1 ano.mediana_do_teto_meses;48.0
+B_sensibilidade_da_regua.faixas.2. admite suspensao condicional do processo, piso ate' 1 ano.menor;36.0
+B_sensibilidade_da_regua.faixas.2. admite suspensao condicional do processo, piso ate' 1 ano.maior;180.0
+B_sensibilidade_da_regua.faixas.3. comum, fora dos dois beneficios.n;32
+B_sensibilidade_da_regua.faixas.3. comum, fora dos dois beneficios.mediana_do_teto_meses;72.0
+B_sensibilidade_da_regua.faixas.3. comum, fora dos dois beneficios.menor;48.0
+B_sensibilidade_da_regua.faixas.3. comum, fora dos dois beneficios.maior;168.0
+B_sensibilidade_da_regua.faixas.4. no rol de crimes hediondos.n;11
+B_sensibilidade_da_regua.faixas.4. no rol de crimes hediondos.mediana_do_teto_meses;240.0
+B_sensibilidade_da_regua.faixas.4. no rol de crimes hediondos.menor;72.0
+B_sensibilidade_da_regua.faixas.4. no rol de crimes hediondos.maior;480.0
+B_sensibilidade_da_regua.mediana_cresce_da_faixa_1_a_4;True
+B_sensibilidade_da_regua.diferenca_entre_as_duas_faixas_vizinhas_meses;24.0
+C_teto_efetivo.o_que_e;limite superior do teto, com a maior causa de aumento do artigo aplicada
+C_teto_efetivo.artigos_com_causa_hoje;46
+C_teto_efetivo.artigos_com_causa_em_1940;33
+C_teto_efetivo.dispositivos_recalculados;91
+C_teto_efetivo.artigos_distintos_recalculados;43
+C_teto_efetivo.soma_dos_tetos_medidos_meses;16616.0
+C_teto_efetivo.soma_dos_tetos_efetivos_meses;22899.92
+C_teto_efetivo.subestimacao_percentual;37.82
+D_objeto_das_votacoes.criterio;"palavra do objeto, lida da descricao que a Camara grava em cada votacao; o que ela nao declara e' lido no detalhe da propria Camara, campo da ultima proposicao apresentada, e so' conta quando e' requerimento"
+D_objeto_das_votacoes.classificadas_por_passagem.pela descricao;540
+D_objeto_das_votacoes.classificadas_por_passagem.detalhe sem requerimento;1
+D_objeto_das_votacoes.classificadas_por_passagem.pelo detalhe da Camara;113
+D_objeto_das_votacoes.limite_da_fonte;o campo da Camara mistura OBJETO e RESULTADO: parte das descricoes diz apenas 'Aprovado', sem dizer o que foi aprovado. Essas saem como resultado sem objeto declarado, e nao forcadas para uma classe
+D_objeto_das_votacoes.votacoes_classificadas;654
+D_objeto_das_votacoes.sem_objeto_declarado;1

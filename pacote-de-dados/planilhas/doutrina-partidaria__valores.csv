@@ -1,0 +1,45 @@
+chave;valor
+gerado_por;apurar_doutrina_partidaria.py
+semente;20260922
+lexicos.ordem;seguran[çc]a p[úu]blica|ordem p[úu]blica|combate [àa] criminalidade|combate ao crime|repress[ãa]o|impunidade|lei e ordem|crime organizado|pol[íi]cia|criminalidade|endurecimento|pena mais
+lexicos.direitos;direitos humanos|garantias individuais|garantias fundamentais|dignidade da pessoa humana|liberdades? (individua|civis|p[úu]blica)|ressocializa|desencarcera|encarceramento em massa|sistema prisional|presunção de inoc[êe]ncia
+lexicos.socialismo;socialis|comunis|marxis|luta de classes|proletari
+lexicos.trabalhismo;trabalhis|classe trabalhadora|trabalhadores
+lexicos.liberalismo;liberalis|livre iniciativa|livre mercado|economia de mercado|estado m[íi]nimo
+lexicos.conservador;conservador|tradi[çc][ãa]o|valores morais
+lexicos.cristao;crist[ãa]|deus|religi
+lexicos.familia;fam[íi]lia
+documentos_doutrinarios;305
+documentos_com_texto;305
+documentos_sem_texto;0
+partidos_atuais_sem_sigla_na_escala;"[""DEMOCRATA"", ""MISSÃO"", ""MOBILIZA"", ""PRD"", ""UP""]"
+testes.indice_ordem_menos_direitos|escala_2018.partidos;24
+testes.indice_ordem_menos_direitos|escala_2018.spearman;0.291
+testes.indice_ordem_menos_direitos|escala_2018.p;0.1656
+testes.ordem|escala_2018.partidos;24
+testes.ordem|escala_2018.spearman;0.441
+testes.ordem|escala_2018.p;0.0321
+testes.direitos|escala_2018.partidos;24
+testes.direitos|escala_2018.spearman;0.305
+testes.direitos|escala_2018.p;0.1468
+testes.indice_ordem_menos_direitos|escala_2022.partidos;25
+testes.indice_ordem_menos_direitos|escala_2022.spearman;0.202
+testes.indice_ordem_menos_direitos|escala_2022.p;0.3321
+testes.ordem|escala_2022.partidos;25
+testes.ordem|escala_2022.spearman;0.33
+testes.ordem|escala_2022.p;0.1067
+testes.direitos|escala_2022.partidos;25
+testes.direitos|escala_2022.spearman;0.31
+testes.direitos|escala_2022.p;0.1313
+testes.indice_ordem_menos_direitos|pct_sim_texto_base_que_agrava.partidos;10
+testes.indice_ordem_menos_direitos|pct_sim_texto_base_que_agrava.spearman;-0.036
+testes.indice_ordem_menos_direitos|pct_sim_texto_base_que_agrava.p;0.9264
+testes.indice_ordem_menos_direitos|pct_sim_texto_base_que_agrava.partidos_usados;"[""MDB"", ""PDT"", ""PL"", ""PP"", ""PSB"", ""PSD"", ""PSDB"", ""PT"", ""REPUBLICANOS"", ""UNIÃO""]"
+testes.ordem|pct_sim_texto_base_que_agrava.partidos;10
+testes.ordem|pct_sim_texto_base_que_agrava.spearman;0.034
+testes.ordem|pct_sim_texto_base_que_agrava.p;0.9266
+testes.ordem|pct_sim_texto_base_que_agrava.partidos_usados;"[""MDB"", ""PDT"", ""PL"", ""PP"", ""PSB"", ""PSD"", ""PSDB"", ""PT"", ""REPUBLICANOS"", ""UNIÃO""]"
+testes.direitos|pct_sim_texto_base_que_agrava.partidos;10
+testes.direitos|pct_sim_texto_base_que_agrava.spearman;0.238
+testes.direitos|pct_sim_texto_base_que_agrava.p;0.5043
+testes.direitos|pct_sim_texto_base_que_agrava.partidos_usados;"[""MDB"", ""PDT"", ""PL"", ""PP"", ""PSB"", ""PSD"", ""PSDB"", ""PT"", ""REPUBLICANOS"", ""UNIÃO""]"

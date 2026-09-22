@@ -1,0 +1,403 @@
+{
+ "gerado_por": "apurar_materia_das_normas.py",
+ "AVISO_DE_UNIDADE": "o teste que vale e' o POR NORMA. Oito eventos da mesma lei, no mesmo dia, nao sao oito observacoes independentes, e testar por evento e' pseudorreplicacao",
+ "teste_por_NORMA_que_vale": {
+  "normas": 49,
+  "eventos": 130,
+  "normas_que_tocam_mais_de_uma_materia": 9,
+  "normas_em_ano_eleitoral": 26,
+  "primeiro_elo_ano_eleitoral_x_materia": {
+   "qui_quadrado": 6.0728564913347505,
+   "tao_ou_mais_extremas": 179365,
+   "p": 0.8968255158724207
+  },
+  "segundo_elo_materia_x_direcao": {
+   "qui_quadrado": 8.160479797979798,
+   "tao_ou_mais_extremas": 132745,
+   "p": 0.6637266813665932
+  }
+ },
+ "concentracao_por_materia": {
+  "DOS CRIMES CONTRA A ADMINISTRAÇÃO PÚBLICA": {
+   "eventos": 37,
+   "normas": 13,
+   "maior_norma": "14133/2021",
+   "eventos_da_maior": 11,
+   "percentual_da_maior": 29.7
+  },
+  "DOS CRIMES CONTRA A DIGNIDADE SEXUAL": {
+   "eventos": 15,
+   "normas": 4,
+   "maior_norma": "12015/2009",
+   "eventos_da_maior": 8,
+   "percentual_da_maior": 53.3
+  },
+  "DOS CRIMES CONTRA A FAMÍLIA": {
+   "eventos": 3,
+   "normas": 3,
+   "maior_norma": "5478/1968",
+   "eventos_da_maior": 1,
+   "percentual_da_maior": 33.3
+  },
+  "DOS CRIMES CONTRA A FÉ PÚBLICA": {
+   "eventos": 4,
+   "normas": 2,
+   "maior_norma": "9426/1996",
+   "eventos_da_maior": 3,
+   "percentual_da_maior": 75.0
+  },
+  "DOS CRIMES CONTRA A INCOLUMIDADE PÚBLICA": {
+   "eventos": 9,
+   "normas": 3,
+   "maior_norma": "9677/1998",
+   "eventos_da_maior": 6,
+   "percentual_da_maior": 66.7
+  },
+  "DOS CRIMES CONTRA A ORGANIZAÇÃO DO TRABALHO": {
+   "eventos": 3,
+   "normas": 2,
+   "maior_norma": "9777/1998",
+   "eventos_da_maior": 2,
+   "percentual_da_maior": 66.7
+  },
+  "DOS CRIMES CONTRA A PAZ PÚBLICA": {
+   "eventos": 2,
+   "normas": 2,
+   "maior_norma": "12720/2012",
+   "eventos_da_maior": 1,
+   "percentual_da_maior": 50.0
+  },
+  "DOS CRIMES CONTRA A PESSOA": {
+   "eventos": 20,
+   "normas": 15,
+   "maior_norma": "15358/2026",
+   "eventos_da_maior": 4,
+   "percentual_da_maior": 20.0
+  },
+  "DOS CRIMES CONTRA A PROPRIEDADE IMATERIAL": {
+   "eventos": 10,
+   "normas": 2,
+   "maior_norma": "9279/1996",
+   "eventos_da_maior": 9,
+   "percentual_da_maior": 90.0
+  },
+  "DOS CRIMES CONTRA O ESTADO DEMOCRÁTICO DE DIREITO": {
+   "eventos": 8,
+   "normas": 1,
+   "maior_norma": "14197/2021",
+   "eventos_da_maior": 8,
+   "percentual_da_maior": 100.0
+  },
+  "DOS CRIMES CONTRA O PATRIMÔNIO": {
+   "eventos": 19,
+   "normas": 12,
+   "maior_norma": "15397/2026",
+   "eventos_da_maior": 5,
+   "percentual_da_maior": 26.3
+  }
+ },
+ "criterio_da_materia": "Titulo do proprio Codigo Penal, lido da estrutura do texto oficial compilado; a materia nao e' categoria do autor",
+ "titulos_lidos": [
+  {
+   "parte": "GERAL",
+   "titulo": "I",
+   "nome": "DA APLICAÇÃO DA LEI PENAL",
+   "primeiro_artigo": "1",
+   "ultimo_artigo": "12",
+   "artigos_no_titulo": 12
+  },
+  {
+   "parte": "GERAL",
+   "titulo": "II",
+   "nome": "DO CRIME",
+   "primeiro_artigo": "13",
+   "ultimo_artigo": "25",
+   "artigos_no_titulo": 13
+  },
+  {
+   "parte": "GERAL",
+   "titulo": "III",
+   "nome": "DA IMPUTABILIDADE PENAL",
+   "primeiro_artigo": "26",
+   "ultimo_artigo": "28",
+   "artigos_no_titulo": 3
+  },
+  {
+   "parte": "GERAL",
+   "titulo": "IV",
+   "nome": "DO CONCURSO DE PESSOAS",
+   "primeiro_artigo": "29",
+   "ultimo_artigo": "31",
+   "artigos_no_titulo": 3
+  },
+  {
+   "parte": "GERAL",
+   "titulo": "V",
+   "nome": "DAS PENAS",
+   "primeiro_artigo": "32",
+   "ultimo_artigo": "95",
+   "artigos_no_titulo": 65
+  },
+  {
+   "parte": "GERAL",
+   "titulo": "VI",
+   "nome": "DAS MEDIDAS DE SEGURANÇA",
+   "primeiro_artigo": "96",
+   "ultimo_artigo": "99",
+   "artigos_no_titulo": 4
+  },
+  {
+   "parte": "GERAL",
+   "titulo": "VII",
+   "nome": "DA AÇÃO PENAL",
+   "primeiro_artigo": "100",
+   "ultimo_artigo": "106",
+   "artigos_no_titulo": 7
+  },
+  {
+   "parte": "GERAL",
+   "titulo": "VIII",
+   "nome": "DA EXTINÇÃO DA PUNIBILIDADE",
+   "primeiro_artigo": "107",
+   "ultimo_artigo": "120",
+   "artigos_no_titulo": 14
+  },
+  {
+   "parte": "ESPECIAL",
+   "titulo": "I",
+   "nome": "DOS CRIMES CONTRA A PESSOA",
+   "primeiro_artigo": "121",
+   "ultimo_artigo": "154-B",
+   "artigos_no_titulo": 44
+  },
+  {
+   "parte": "ESPECIAL",
+   "titulo": "II",
+   "nome": "DOS CRIMES CONTRA O PATRIMÔNIO",
+   "primeiro_artigo": "155",
+   "ultimo_artigo": "183-A",
+   "artigos_no_titulo": 33
+  },
+  {
+   "parte": "ESPECIAL",
+   "titulo": "III",
+   "nome": "DOS CRIMES CONTRA A PROPRIEDADE IMATERIAL",
+   "primeiro_artigo": "184",
+   "ultimo_artigo": "196",
+   "artigos_no_titulo": 13
+  },
+  {
+   "parte": "ESPECIAL",
+   "titulo": "IV",
+   "nome": "DOS CRIMES CONTRA A ORGANIZAÇÃO DO TRABALHO",
+   "primeiro_artigo": "197",
+   "ultimo_artigo": "207",
+   "artigos_no_titulo": 11
+  },
+  {
+   "parte": "ESPECIAL",
+   "titulo": "V",
+   "nome": "DOS CRIMES CONTRA O SENTIMENTO RELIGIOSO E CONTRA O RESPEITO AOS MORTOS",
+   "primeiro_artigo": "208",
+   "ultimo_artigo": "212",
+   "artigos_no_titulo": 5
+  },
+  {
+   "parte": "ESPECIAL",
+   "titulo": "VI",
+   "nome": "DOS CRIMES CONTRA A DIGNIDADE SEXUAL",
+   "primeiro_artigo": "213",
+   "ultimo_artigo": "234-C",
+   "artigos_no_titulo": 34
+  },
+  {
+   "parte": "ESPECIAL",
+   "titulo": "VII",
+   "nome": "DOS CRIMES CONTRA A FAMÍLIA",
+   "primeiro_artigo": "235",
+   "ultimo_artigo": "249",
+   "artigos_no_titulo": 15
+  },
+  {
+   "parte": "ESPECIAL",
+   "titulo": "VIII",
+   "nome": "DOS CRIMES CONTRA A INCOLUMIDADE PÚBLICA",
+   "primeiro_artigo": "250",
+   "ultimo_artigo": "285",
+   "artigos_no_titulo": 36
+  },
+  {
+   "parte": "ESPECIAL",
+   "titulo": "IX",
+   "nome": "DOS CRIMES CONTRA A PAZ PÚBLICA",
+   "primeiro_artigo": "286",
+   "ultimo_artigo": "288-A",
+   "artigos_no_titulo": 4
+  },
+  {
+   "parte": "ESPECIAL",
+   "titulo": "X",
+   "nome": "DOS CRIMES CONTRA A FÉ PÚBLICA",
+   "primeiro_artigo": "289",
+   "ultimo_artigo": "311-A",
+   "artigos_no_titulo": 24
+  },
+  {
+   "parte": "ESPECIAL",
+   "titulo": "XI",
+   "nome": "DOS CRIMES CONTRA A ADMINISTRAÇÃO PÚBLICA",
+   "primeiro_artigo": "312",
+   "ultimo_artigo": "359-H",
+   "artigos_no_titulo": 78
+  },
+  {
+   "parte": "ESPECIAL",
+   "titulo": "XII",
+   "nome": "DOS CRIMES CONTRA O ESTADO DEMOCRÁTICO DE DIREITO",
+   "primeiro_artigo": "359-I",
+   "ultimo_artigo": "361",
+   "artigos_no_titulo": 14
+  }
+ ],
+ "artigos_em_mais_de_um_titulo": [],
+ "eventos_classificados": 130,
+ "eventos_sem_titulo": [],
+ "eventos_por_materia": {
+  "DOS CRIMES CONTRA A ADMINISTRAÇÃO PÚBLICA": {
+   "abranda": 2,
+   "agrava": 6,
+   "cria pena": 28,
+   "mantem": 1
+  },
+  "DOS CRIMES CONTRA A DIGNIDADE SEXUAL": {
+   "cria pena": 6,
+   "agrava": 8,
+   "abranda": 1
+  },
+  "DOS CRIMES CONTRA A FAMÍLIA": {
+   "agrava": 2,
+   "mantem": 1
+  },
+  "DOS CRIMES CONTRA A FÉ PÚBLICA": {
+   "agrava": 2,
+   "abranda": 1,
+   "cria pena": 1
+  },
+  "DOS CRIMES CONTRA A INCOLUMIDADE PÚBLICA": {
+   "agrava": 9
+  },
+  "DOS CRIMES CONTRA A ORGANIZAÇÃO DO TRABALHO": {
+   "mantem": 1,
+   "agrava": 2
+  },
+  "DOS CRIMES CONTRA A PAZ PÚBLICA": {
+   "cria pena": 1,
+   "mantem": 1
+  },
+  "DOS CRIMES CONTRA A PESSOA": {
+   "agrava": 10,
+   "mantem": 1,
+   "abranda": 1,
+   "cria pena": 8
+  },
+  "DOS CRIMES CONTRA A PROPRIEDADE IMATERIAL": {
+   "abranda": 5,
+   "agrava": 2,
+   "mantem": 1,
+   "cria pena": 2
+  },
+  "DOS CRIMES CONTRA O ESTADO DEMOCRÁTICO DE DIREITO": {
+   "cria pena": 8
+  },
+  "DOS CRIMES CONTRA O PATRIMÔNIO": {
+   "agrava": 9,
+   "abranda": 6,
+   "cria pena": 3,
+   "mantem": 1
+  }
+ },
+ "artigos_da_regua_por_materia": {
+  "DA APLICAÇÃO DA LEI PENAL": 12,
+  "DO CRIME": 13,
+  "DA IMPUTABILIDADE PENAL": 3,
+  "DO CONCURSO DE PESSOAS": 3,
+  "DAS PENAS": 65,
+  "DAS MEDIDAS DE SEGURANÇA": 4,
+  "DA AÇÃO PENAL": 7,
+  "DA EXTINÇÃO DA PUNIBILIDADE": 14,
+  "DOS CRIMES CONTRA A PESSOA": 44,
+  "DOS CRIMES CONTRA O PATRIMÔNIO": 33,
+  "DOS CRIMES CONTRA A PROPRIEDADE IMATERIAL": 13,
+  "DOS CRIMES CONTRA A ORGANIZAÇÃO DO TRABALHO": 11,
+  "DOS CRIMES CONTRA O SENTIMENTO RELIGIOSO E CONTRA O RESPEITO AOS MORTOS": 5,
+  "DOS CRIMES CONTRA A DIGNIDADE SEXUAL": 34,
+  "DOS CRIMES CONTRA A FAMÍLIA": 15,
+  "DOS CRIMES CONTRA A INCOLUMIDADE PÚBLICA": 36,
+  "DOS CRIMES CONTRA A PAZ PÚBLICA": 4,
+  "DOS CRIMES CONTRA A FÉ PÚBLICA": 24,
+  "DOS CRIMES CONTRA A ADMINISTRAÇÃO PÚBLICA": 78,
+  "DOS CRIMES CONTRA O ESTADO DEMOCRÁTICO DE DIREITO": 14
+ },
+ "segundo_elo_materia_x_direcao": {
+  "pergunta": "a direcao do evento depende da materia?",
+  "qui_quadrado": 27.717738590190955,
+  "permutacoes": 200000,
+  "bloco_de_permutacao_anos": 10,
+  "tao_ou_mais_extremas": 4655,
+  "p": 0.023279883600582,
+  "p_por_permutacao_SIMPLES_que_nao_vale": 0.0025649871750641246
+ },
+ "primeiro_elo_ano_eleitoral_x_materia": {
+  "pergunta": "a mistura de materias difere entre ano eleitoral e nao eleitoral?",
+  "qui_quadrado": 46.861193455699144,
+  "permutacoes": 200000,
+  "bloco_de_permutacao_anos": 10,
+  "tao_ou_mais_extremas": 2,
+  "p": 1.4999925000374999e-05,
+  "p_por_permutacao_SIMPLES_que_nao_vale": 4.9999750001249995e-06
+ },
+ "anos_eleitorais_usados": [
+  1945,
+  1947,
+  1950,
+  1954,
+  1955,
+  1958,
+  1960,
+  1962,
+  1964,
+  1965,
+  1966,
+  1968,
+  1969,
+  1970,
+  1972,
+  1974,
+  1976,
+  1978,
+  1982,
+  1985,
+  1986,
+  1988,
+  1989,
+  1990,
+  1992,
+  1994,
+  1996,
+  1998,
+  2000,
+  2002,
+  2004,
+  2006,
+  2008,
+  2010,
+  2012,
+  2014,
+  2016,
+  2018,
+  2020,
+  2022,
+  2024,
+  2026
+ ]
+}

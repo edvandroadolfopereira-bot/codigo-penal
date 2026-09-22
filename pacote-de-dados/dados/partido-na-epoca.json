@@ -1,0 +1,1223 @@
+{
+ "fonte": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/{id} e /deputados/{id}/historico",
+ "coletado_em": "2026-09-21 15:07:37",
+ "autorias": {
+  "PL 1254/1948|DAMASO ROCHA": {
+   "apresentacao": "1948-11-24",
+   "legislatura": 38,
+   "partido": "PSD",
+   "criterio": "partido no início da legislatura (a fonte não registra troca datada antes de 2015)",
+   "ficha": "PSD",
+   "id_deputado": "130322"
+  },
+  "PL 1440/1951|MARREY JUNIOR": {
+   "apresentacao": "1951-11-27",
+   "legislatura": 39,
+   "partido": "PTB",
+   "criterio": "partido no início da legislatura (a fonte não registra troca datada antes de 2015)",
+   "ficha": "PTB",
+   "id_deputado": "2631"
+  },
+  "PL 249/1951|ADROALDO COSTA": {
+   "apresentacao": "1951-04-27",
+   "legislatura": 39,
+   "partido": "PSD",
+   "criterio": "partido no início da legislatura (a fonte não registra troca datada antes de 2015)",
+   "ficha": "PSD",
+   "id_deputado": "130389"
+  },
+  "PL 698/1959|COUTINHO CAVALCANTI": {
+   "apresentacao": "1959-07-31",
+   "legislatura": 41,
+   "partido": "PTB",
+   "criterio": "partido no início da legislatura (a fonte não registra troca datada antes de 2015)",
+   "ficha": "PTB",
+   "id_deputado": "130457"
+  },
+  "PL 3364/1961|ALMINO AFFONSO": {
+   "apresentacao": "1961-09-21",
+   "legislatura": 41,
+   "partido": "PTB",
+   "criterio": "partido no início da legislatura (a fonte não registra troca datada antes de 2015)",
+   "ficha": "PSB",
+   "id_deputado": "73429"
+  },
+  "PL 203/1975|BRAGA RAMOS": {
+   "apresentacao": "1975-04-10",
+   "legislatura": 45,
+   "partido": "ARENA",
+   "criterio": "partido no início da legislatura (a fonte não registra troca datada antes de 2015)",
+   "ficha": "ARENA",
+   "id_deputado": "131767"
+  },
+  "PL 1066/1975|NORTON MACEDO": {
+   "apresentacao": "1975-09-11",
+   "legislatura": 45,
+   "partido": "ARENA",
+   "criterio": "partido no início da legislatura (a fonte não registra troca datada antes de 2015)",
+   "ficha": "ARENA",
+   "id_deputado": "132038"
+  },
+  "PL 285/1979|ADHEMAR GHISI": {
+   "apresentacao": "1979-04-03",
+   "legislatura": 46,
+   "partido": null,
+   "criterio": "a Câmara registra PDS para a legislatura 1979-1983, partido criado depois da apresentação pela Lei 6.767/1979; o partido na data não consta da fonte",
+   "ficha": "ARENA",
+   "id_deputado": "131828"
+  },
+  "PL 2460/1991|DIOGO NOMURA": {
+   "apresentacao": "1991-03-05",
+   "legislatura": 49,
+   "partido": "PL",
+   "criterio": "partido no início da legislatura (a fonte não registra troca datada antes de 2015)",
+   "ficha": "ARENA",
+   "id_deputado": "133885"
+  },
+  "PL 3081/1989|MARCOS FORMIGA": {
+   "apresentacao": "1989-06-30",
+   "legislatura": 48,
+   "partido": "PST",
+   "criterio": "partido no início da legislatura (a fonte não registra troca datada antes de 2015)",
+   "ficha": "PSDB",
+   "id_deputado": "67144"
+  },
+  "PL 209/1991|EDUARDO JORGE": {
+   "apresentacao": "1991-03-06",
+   "legislatura": 49,
+   "partido": "PT",
+   "criterio": "partido no início da legislatura (a fonte não registra troca datada antes de 2015)",
+   "ficha": "PT",
+   "id_deputado": "73448"
+  },
+  "PL 1374/1991|ROSE DE FREITAS": {
+   "apresentacao": "1991-06-25",
+   "legislatura": 49,
+   "partido": "PSDB",
+   "criterio": "partido no início da legislatura (a fonte não registra troca datada antes de 2015)",
+   "ficha": "PSDB",
+   "id_deputado": "73507"
+  },
+  "PL 2797/1989|GEOVANI BORGES": {
+   "apresentacao": "1989-06-26",
+   "legislatura": 48,
+   "partido": "PFL",
+   "criterio": "partido no início da legislatura (a fonte não registra troca datada antes de 2015)",
+   "ficha": "PDS",
+   "id_deputado": "139218"
+  },
+  "PL 1240/1995|PAULO PAIM": {
+   "apresentacao": "1995-11-21",
+   "legislatura": 50,
+   "partido": "PT",
+   "criterio": "partido no início da legislatura (a fonte não registra troca datada antes de 2015)",
+   "ficha": "PT",
+   "id_deputado": "73910"
+  },
+  "PL 4207/1998|BENEDITO DOMINGOS": {
+   "apresentacao": "1998-03-04",
+   "legislatura": 50,
+   "partido": "PPB",
+   "criterio": "partido no início da legislatura (a fonte não registra troca datada antes de 2015)",
+   "ficha": "PP",
+   "id_deputado": "73656"
+  },
+  "PL 929/1995|PAULO ROCHA": {
+   "apresentacao": "1995-09-06",
+   "legislatura": 50,
+   "partido": "PT",
+   "criterio": "partido no início da legislatura (a fonte não registra troca datada antes de 2015)",
+   "ficha": "PT",
+   "id_deputado": "74082"
+  },
+  "PL 61/1999|Iara Bernardi": {
+   "apresentacao": "1999-02-24",
+   "legislatura": 51,
+   "partido": "PT",
+   "criterio": "partido no início da legislatura (a fonte não registra troca datada antes de 2015)",
+   "ficha": "PT",
+   "id_deputado": "74780"
+  },
+  "PL 3561/1997|Paulo Paim": {
+   "apresentacao": "1997-08-28",
+   "legislatura": 50,
+   "partido": "PT",
+   "criterio": "partido no início da legislatura (a fonte não registra troca datada antes de 2015)",
+   "ficha": "PT",
+   "id_deputado": "73910"
+  },
+  "PL 3/2003|Iara Bernardi": {
+   "apresentacao": "2003-02-18",
+   "legislatura": 52,
+   "partido": "PT",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "PT",
+   "id_deputado": "74780"
+  },
+  "PL 117/2003|Iara Bernardi": {
+   "apresentacao": "2003-02-19",
+   "legislatura": 52,
+   "partido": "PT",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "PT",
+   "id_deputado": "74780"
+  },
+  "PL 7024/2006|Alberto Fraga": {
+   "apresentacao": "2006-05-15",
+   "legislatura": 52,
+   "partido": "PFL",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "DEM",
+   "id_deputado": "73579"
+  },
+  "PL 36/1999|Paulo Rocha": {
+   "apresentacao": "1999-02-03",
+   "legislatura": 51,
+   "partido": "PT",
+   "criterio": "partido no início da legislatura (a fonte não registra troca datada antes de 2015)",
+   "ficha": "PT",
+   "id_deputado": "74082"
+  },
+  "PL 1383/2003|Antonio Carlos Biscaia": {
+   "apresentacao": "2003-07-02",
+   "legislatura": 52,
+   "partido": "PT",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "PT",
+   "id_deputado": "73492"
+  },
+  "PL 370/2007|Luiz Couto": {
+   "apresentacao": "2007-03-08",
+   "legislatura": 53,
+   "partido": "PT",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "PT",
+   "id_deputado": "74041"
+  },
+  "PL 84/1999|Luiz Piauhylino": {
+   "apresentacao": "1999-02-24",
+   "legislatura": 51,
+   "partido": "PSDB",
+   "criterio": "partido no início da legislatura (a fonte não registra troca datada antes de 2015)",
+   "ficha": "PDT",
+   "id_deputado": "74427"
+  },
+  "PL 2793/2011|Brizola Neto": {
+   "apresentacao": "2011-11-29",
+   "legislatura": 54,
+   "partido": "PDT",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "PDT",
+   "id_deputado": "141399"
+  },
+  "PL 2793/2011|Emiliano José": {
+   "apresentacao": "2011-11-29",
+   "legislatura": 54,
+   "partido": "PT",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "PT",
+   "id_deputado": "154997"
+  },
+  "PL 2793/2011|João Arruda": {
+   "apresentacao": "2011-11-29",
+   "legislatura": 54,
+   "partido": "PMDB",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "PMDB",
+   "id_deputado": "160573"
+  },
+  "PL 2793/2011|Luiza Erundina": {
+   "apresentacao": "2011-11-29",
+   "legislatura": 54,
+   "partido": "PSB",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "PSB",
+   "id_deputado": "74784"
+  },
+  "PL 2793/2011|Manuela D'ávila": {
+   "apresentacao": "2011-11-29",
+   "legislatura": 54,
+   "partido": "PCdoB",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "PCdoB",
+   "id_deputado": "141492"
+  },
+  "PL 2793/2011|Paulo Teixeira": {
+   "apresentacao": "2011-11-29",
+   "legislatura": 54,
+   "partido": "PT",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "PT",
+   "id_deputado": "141488"
+  },
+  "PL 643/2011|Efraim Filho": {
+   "apresentacao": "2011-03-02",
+   "legislatura": 54,
+   "partido": "DEM",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "DEM",
+   "id_deputado": "141422"
+  },
+  "PL 846/2015|Leonardo Picciani": {
+   "apresentacao": "2015-03-19",
+   "legislatura": 55,
+   "partido": "PMDB",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "PMDB",
+   "id_deputado": "74254"
+  },
+  "PL 6920/2010|Márcio Marinho": {
+   "apresentacao": "2010-03-09",
+   "legislatura": 53,
+   "partido": "PRB",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "PRB",
+   "id_deputado": "150418"
+  },
+  "PL 6999/2013|Afonso Hamm": {
+   "apresentacao": "2013-12-18",
+   "legislatura": 54,
+   "partido": "PP",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "PP",
+   "id_deputado": "136811"
+  },
+  "PL 3763/2004|Coronel Alves": {
+   "apresentacao": "2004-06-09",
+   "legislatura": 52,
+   "partido": "PL",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "PR",
+   "id_deputado": "73923"
+  },
+  "PL 9206/2017|Nilson Leitão": {
+   "apresentacao": "2017-11-28",
+   "legislatura": 55,
+   "partido": "PSDB",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "PSDB",
+   "id_deputado": "166401"
+  },
+  "PL 9206/2017|Zé Silva": {
+   "apresentacao": "2017-11-28",
+   "legislatura": 55,
+   "partido": "SD",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "SD",
+   "id_deputado": "160632"
+  },
+  "PL 7874/2017|Laura Carneiro": {
+   "apresentacao": "2017-06-13",
+   "legislatura": 55,
+   "partido": "PMDB",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "DEM",
+   "id_deputado": "74856"
+  },
+  "PL 3030/2015|Lincoln Portela": {
+   "apresentacao": "2015-09-17",
+   "legislatura": 55,
+   "partido": "PR",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "PR",
+   "id_deputado": "74585"
+  },
+  "PL 5555/2013|João Arruda": {
+   "apresentacao": "2013-05-09",
+   "legislatura": 54,
+   "partido": "PMDB",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "MDB",
+   "id_deputado": "160573"
+  },
+  "PL 10372/2018|Aureo": {
+   "apresentacao": "2018-06-06",
+   "legislatura": 55,
+   "partido": "SD",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "SOLIDARIEDADE",
+   "id_deputado": "160512"
+  },
+  "PL 10372/2018|Baleia Rossi": {
+   "apresentacao": "2018-06-06",
+   "legislatura": 55,
+   "partido": "MDB",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "MDB",
+   "id_deputado": "178975"
+  },
+  "PL 10372/2018|Celso Russomanno": {
+   "apresentacao": "2018-06-06",
+   "legislatura": 55,
+   "partido": "PRB",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "REPUBLICANOS",
+   "id_deputado": "73441"
+  },
+  "PL 10372/2018|Domingos Neto": {
+   "apresentacao": "2018-06-06",
+   "legislatura": 55,
+   "partido": "PSD",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "PSD",
+   "id_deputado": "143632"
+  },
+  "PL 10372/2018|José Rocha": {
+   "apresentacao": "2018-06-06",
+   "legislatura": 55,
+   "partido": "PR",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "PL",
+   "id_deputado": "74554"
+  },
+  "PL 10372/2018|Luis Tibé": {
+   "apresentacao": "2018-06-06",
+   "legislatura": 55,
+   "partido": "AVANTE",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "AVANTE",
+   "id_deputado": "160510"
+  },
+  "PL 10372/2018|Marcelo Aro": {
+   "apresentacao": "2018-06-06",
+   "legislatura": 55,
+   "partido": "PHS",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "PP",
+   "id_deputado": "146788"
+  },
+  "PL 10372/2018|Nilson Leitão": {
+   "apresentacao": "2018-06-06",
+   "legislatura": 55,
+   "partido": "PSDB",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "PSDB",
+   "id_deputado": "166401"
+  },
+  "PL 10372/2018|Ricardo Teobaldo": {
+   "apresentacao": "2018-06-06",
+   "legislatura": 55,
+   "partido": "PODE",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "PODE",
+   "id_deputado": "178920"
+  },
+  "PL 10372/2018|Rodrigo Garcia": {
+   "apresentacao": "2018-06-06",
+   "legislatura": 55,
+   "partido": "DEM",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "DEM",
+   "id_deputado": "88950"
+  },
+  "PL 10372/2018|Wladimir Costa": {
+   "apresentacao": "2018-06-06",
+   "legislatura": 55,
+   "partido": "SD",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "SOLIDARIEDADE",
+   "id_deputado": "73930"
+  },
+  "PL 2810/2020|Arthur Lira": {
+   "apresentacao": "2020-05-21",
+   "legislatura": 56,
+   "partido": "PP",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "PP",
+   "id_deputado": "160541"
+  },
+  "PL 741/2021|Carla Dickson": {
+   "apresentacao": "2021-03-04",
+   "legislatura": 56,
+   "partido": "PROS",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "PROS",
+   "id_deputado": "213762"
+  },
+  "PL 741/2021|Greyce Elias": {
+   "apresentacao": "2021-03-04",
+   "legislatura": 56,
+   "partido": "AVANTE",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "AVANTE",
+   "id_deputado": "198197"
+  },
+  "PL 741/2021|Margarete Coelho": {
+   "apresentacao": "2021-03-04",
+   "legislatura": 56,
+   "partido": "PP",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "PP",
+   "id_deputado": "204430"
+  },
+  "PL 741/2021|Soraya Santos": {
+   "apresentacao": "2021-03-04",
+   "legislatura": 56,
+   "partido": "PL",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "PL",
+   "id_deputado": "178946"
+  },
+  "PL 2462/1991|HELIO BICUDO": {
+   "apresentacao": "1991-03-05",
+   "legislatura": 49,
+   "partido": "PT",
+   "criterio": "partido no início da legislatura (a fonte não registra troca datada antes de 2015)",
+   "ficha": "PT",
+   "id_deputado": "73453"
+  },
+  "PL 5096/2020|Aline Gurgel": {
+   "apresentacao": "2020-11-05",
+   "legislatura": 56,
+   "partido": "REPUBLICANOS",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "REPUBLICANOS",
+   "id_deputado": "204353"
+  },
+  "PL 5096/2020|Angela Amin": {
+   "apresentacao": "2020-11-05",
+   "legislatura": 56,
+   "partido": "PP",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "PP",
+   "id_deputado": "73696"
+  },
+  "PL 5096/2020|Áurea Carolina": {
+   "apresentacao": "2020-11-05",
+   "legislatura": 56,
+   "partido": "PSOL",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "PSOL",
+   "id_deputado": "204509"
+  },
+  "PL 5096/2020|Daniela do Waguinho": {
+   "apresentacao": "2020-11-05",
+   "legislatura": 56,
+   "partido": "MDB",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "MDB",
+   "id_deputado": "204459"
+  },
+  "PL 5096/2020|Dulce Miranda": {
+   "apresentacao": "2020-11-05",
+   "legislatura": 56,
+   "partido": "MDB",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "MDB",
+   "id_deputado": "178994"
+  },
+  "PL 5096/2020|Erika Kokay": {
+   "apresentacao": "2020-11-05",
+   "legislatura": 56,
+   "partido": "PT",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "PT",
+   "id_deputado": "160575"
+  },
+  "PL 5096/2020|Fernanda Melchionna": {
+   "apresentacao": "2020-11-05",
+   "legislatura": 56,
+   "partido": "PSOL",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "PSOL",
+   "id_deputado": "204407"
+  },
+  "PL 5096/2020|Iracema Portella": {
+   "apresentacao": "2020-11-05",
+   "legislatura": 56,
+   "partido": "PP",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "PP",
+   "id_deputado": "67138"
+  },
+  "PL 5096/2020|Jandira Feghali": {
+   "apresentacao": "2020-11-05",
+   "legislatura": 56,
+   "partido": "PCdoB",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "PCdoB",
+   "id_deputado": "74848"
+  },
+  "PL 5096/2020|João H. Campos": {
+   "apresentacao": "2020-11-05",
+   "legislatura": 56,
+   "partido": "PSB",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "PSB",
+   "id_deputado": "204429"
+  },
+  "PL 5096/2020|Joenia Wapichana": {
+   "apresentacao": "2020-11-05",
+   "legislatura": 56,
+   "partido": "REDE",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "REDE",
+   "id_deputado": "204468"
+  },
+  "PL 5096/2020|Joice Hasselmann": {
+   "apresentacao": "2020-11-05",
+   "legislatura": 56,
+   "partido": "PSL",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "PSL",
+   "id_deputado": "204546"
+  },
+  "PL 5096/2020|Lídice da Mata": {
+   "apresentacao": "2020-11-05",
+   "legislatura": 56,
+   "partido": "PSB",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "PSB",
+   "id_deputado": "139285"
+  },
+  "PL 5096/2020|Luiza Erundina": {
+   "apresentacao": "2020-11-05",
+   "legislatura": 56,
+   "partido": "PSOL",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "PSOL",
+   "id_deputado": "74784"
+  },
+  "PL 5096/2020|Mara Rocha": {
+   "apresentacao": "2020-11-05",
+   "legislatura": 56,
+   "partido": "PSDB",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "PSDB",
+   "id_deputado": "204471"
+  },
+  "PL 5096/2020|Marcelo Nilo": {
+   "apresentacao": "2020-11-05",
+   "legislatura": 56,
+   "partido": "PSB",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "PSB",
+   "id_deputado": "204558"
+  },
+  "PL 5096/2020|Maria do Rosário": {
+   "apresentacao": "2020-11-05",
+   "legislatura": 56,
+   "partido": "PT",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "PT",
+   "id_deputado": "74398"
+  },
+  "PL 5096/2020|Marília Arraes": {
+   "apresentacao": "2020-11-05",
+   "legislatura": 56,
+   "partido": "PT",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "PT",
+   "id_deputado": "204428"
+  },
+  "PL 5096/2020|Norma Ayub": {
+   "apresentacao": "2020-11-05",
+   "legislatura": 56,
+   "partido": "DEM",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "DEM",
+   "id_deputado": "66179"
+  },
+  "PL 5096/2020|Rodrigo Agostinho": {
+   "apresentacao": "2020-11-05",
+   "legislatura": 56,
+   "partido": "PSB",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "PSB",
+   "id_deputado": "204530"
+  },
+  "PL 5096/2020|Rose Modesto": {
+   "apresentacao": "2020-11-05",
+   "legislatura": 56,
+   "partido": "PSDB",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "PSDB",
+   "id_deputado": "204357"
+  },
+  "PL 5096/2020|Sâmia Bomfim": {
+   "apresentacao": "2020-11-05",
+   "legislatura": 56,
+   "partido": "PSOL",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "PSOL",
+   "id_deputado": "204535"
+  },
+  "PL 5096/2020|Tabata Amaral": {
+   "apresentacao": "2020-11-05",
+   "legislatura": 56,
+   "partido": "PDT",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "PSB",
+   "id_deputado": "204534"
+  },
+  "PL 5096/2020|Talíria Petrone": {
+   "apresentacao": "2020-11-05",
+   "legislatura": 56,
+   "partido": "PSOL",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "PSOL",
+   "id_deputado": "204464"
+  },
+  "PL 5096/2020|Tereza Nelma": {
+   "apresentacao": "2020-11-05",
+   "legislatura": 56,
+   "partido": "PSDB",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "PSDB",
+   "id_deputado": "204466"
+  },
+  "PL 5096/2020|Vilson da Fetaemg": {
+   "apresentacao": "2020-11-05",
+   "legislatura": 56,
+   "partido": "PSB",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "PSB",
+   "id_deputado": "204483"
+  },
+  "PL 1360/2021|Alê Silva": {
+   "apresentacao": "2021-04-13",
+   "legislatura": 56,
+   "partido": "PSL",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "REPUBLICANOS",
+   "id_deputado": "204545"
+  },
+  "PL 1360/2021|Carla Zambelli": {
+   "apresentacao": "2021-04-13",
+   "legislatura": 56,
+   "partido": "PSL",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "PL",
+   "id_deputado": "204507"
+  },
+  "PL 1360/2021|Jaqueline Cassol": {
+   "apresentacao": "2021-04-13",
+   "legislatura": 56,
+   "partido": "PP",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "PP",
+   "id_deputado": "108338"
+  },
+  "PL 4401/2021|Aureo": {
+   "apresentacao": "2015-07-08",
+   "legislatura": 55,
+   "partido": "SD",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "SOLIDARIEDADE",
+   "id_deputado": "160512"
+  },
+  "PL 4566/2021|Bebeto": {
+   "apresentacao": "2015-05-28",
+   "legislatura": 55,
+   "partido": "PSB",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "PSB",
+   "id_deputado": "178834"
+  },
+  "PL 4566/2021|Tia Eron": {
+   "apresentacao": "2015-05-28",
+   "legislatura": 55,
+   "partido": "PRB",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "REPUBLICANOS",
+   "id_deputado": "178862"
+  },
+  "PL 5385/2019|Paulo Ganime": {
+   "apresentacao": "2019-10-03",
+   "legislatura": 56,
+   "partido": "NOVO",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "NOVO",
+   "id_deputado": "204461"
+  },
+  "PL 976/2022|Benedita da Silva": {
+   "apresentacao": "2022-04-20",
+   "legislatura": 56,
+   "partido": "PT",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "PT",
+   "id_deputado": "73701"
+  },
+  "PL 976/2022|Erika Kokay": {
+   "apresentacao": "2022-04-20",
+   "legislatura": 56,
+   "partido": "PT",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "PT",
+   "id_deputado": "160575"
+  },
+  "PL 976/2022|Gleisi Hoffmann": {
+   "apresentacao": "2022-04-20",
+   "legislatura": 56,
+   "partido": "PT",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "PT",
+   "id_deputado": "107283"
+  },
+  "PL 976/2022|Luizianne Lins": {
+   "apresentacao": "2022-04-20",
+   "legislatura": 56,
+   "partido": "PT",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "PT",
+   "id_deputado": "178866"
+  },
+  "PL 976/2022|Maria do Rosário": {
+   "apresentacao": "2022-04-20",
+   "legislatura": 56,
+   "partido": "PT",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "PT",
+   "id_deputado": "74398"
+  },
+  "PL 976/2022|Natália Bonavides": {
+   "apresentacao": "2022-04-20",
+   "legislatura": 56,
+   "partido": "PT",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "PT",
+   "id_deputado": "204453"
+  },
+  "PL 976/2022|Professora Rosa Neide": {
+   "apresentacao": "2022-04-20",
+   "legislatura": 56,
+   "partido": "PT",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "PT",
+   "id_deputado": "204467"
+  },
+  "PL 976/2022|Rejane Dias": {
+   "apresentacao": "2022-04-20",
+   "legislatura": 56,
+   "partido": "PT",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "PT",
+   "id_deputado": "178925"
+  },
+  "PL 4224/2021|Osmar Terra": {
+   "apresentacao": "2021-12-01",
+   "legislatura": 56,
+   "partido": "MDB",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "PMDB",
+   "id_deputado": "73692"
+  },
+  "PL 370/2024|Jandira Feghali": {
+   "apresentacao": "2024-02-21",
+   "legislatura": 57,
+   "partido": "PCdoB",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "PCdoB",
+   "id_deputado": "74848"
+  },
+  "PL 4015/2023|Evandro Rogerio Roman": {
+   "apresentacao": "2015-03-31",
+   "legislatura": 55,
+   "partido": "PSD",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "PSD",
+   "id_deputado": "178930"
+  },
+  "PL 419/2023|Laura Carneiro": {
+   "apresentacao": "2023-02-09",
+   "legislatura": 57,
+   "partido": "PSD",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "UNIÃO",
+   "id_deputado": "74856"
+  },
+  "PL 4626/2020|Alex Santana": {
+   "apresentacao": "2020-09-17",
+   "legislatura": 56,
+   "partido": "PDT",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "REPUBLICANOS",
+   "id_deputado": "204571"
+  },
+  "PL 4626/2020|Carla Zambelli": {
+   "apresentacao": "2020-09-17",
+   "legislatura": 56,
+   "partido": "PSL",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "PL",
+   "id_deputado": "204507"
+  },
+  "PL 4626/2020|Daniel Freitas": {
+   "apresentacao": "2020-09-17",
+   "legislatura": 56,
+   "partido": "PSL",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "PL",
+   "id_deputado": "204367"
+  },
+  "PL 4626/2020|Helio Lopes": {
+   "apresentacao": "2020-09-17",
+   "legislatura": 56,
+   "partido": "PSL",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "PL",
+   "id_deputado": "204444"
+  },
+  "PL 4626/2020|Lucas Redecker": {
+   "apresentacao": "2020-09-17",
+   "legislatura": 56,
+   "partido": "PSDB",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "PSDB",
+   "id_deputado": "204404"
+  },
+  "PL 4872/2024|Sandro Alex": {
+   "apresentacao": "2016-07-14",
+   "legislatura": 55,
+   "partido": "PSD",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "PSD",
+   "id_deputado": "160621"
+  },
+  "PL 2195/2024|Laura Carneiro": {
+   "apresentacao": "2024-06-05",
+   "legislatura": 57,
+   "partido": "PSD",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "UNIÃO",
+   "id_deputado": "74856"
+  },
+  "PL 3880/2024|Fernanda Melchionna": {
+   "apresentacao": "2024-10-10",
+   "legislatura": 57,
+   "partido": "PSOL",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "PSOL",
+   "id_deputado": "204407"
+  },
+  "PL 3880/2024|Laura Carneiro": {
+   "apresentacao": "2024-10-10",
+   "legislatura": 57,
+   "partido": "PSD",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "UNIÃO",
+   "id_deputado": "74856"
+  },
+  "PL 3880/2024|Maria do Rosário": {
+   "apresentacao": "2024-10-10",
+   "legislatura": 57,
+   "partido": "PT",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "PT",
+   "id_deputado": "74398"
+  },
+  "PL 3780/2023|Delegado da Cunha": {
+   "apresentacao": "2023-08-08",
+   "legislatura": 57,
+   "partido": "PP",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "UNIÃO",
+   "id_deputado": "220649"
+  },
+  "PL 3780/2023|Kim Kataguiri": {
+   "apresentacao": "2023-08-08",
+   "legislatura": 57,
+   "partido": "UNIÃO",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "MISSÃO",
+   "id_deputado": "204536"
+  },
+  "PL 3780/2023|Marcos Pollon": {
+   "apresentacao": "2023-08-08",
+   "legislatura": 57,
+   "partido": "PL",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "PL",
+   "id_deputado": "220547"
+  },
+  "PL 2162/2023|Adilson Barroso": {
+   "apresentacao": "2023-04-26",
+   "legislatura": 57,
+   "partido": "PL",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "PL",
+   "id_deputado": "221328"
+  },
+  "PL 2162/2023|Alex Santana": {
+   "apresentacao": "2023-04-26",
+   "legislatura": 57,
+   "partido": "REPUBLICANOS",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "REPUBLICANOS",
+   "id_deputado": "204571"
+  },
+  "PL 2162/2023|Alexandre Guimarães": {
+   "apresentacao": "2023-04-26",
+   "legislatura": 57,
+   "partido": "REPUBLICANOS",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "MDB",
+   "id_deputado": "220542"
+  },
+  "PL 2162/2023|Aluisio Mendes": {
+   "apresentacao": "2023-04-26",
+   "legislatura": 57,
+   "partido": "REPUBLICANOS",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "REPUBLICANOS",
+   "id_deputado": "178881"
+  },
+  "PL 2162/2023|Amaro Neto": {
+   "apresentacao": "2023-04-26",
+   "legislatura": 57,
+   "partido": "REPUBLICANOS",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "PP",
+   "id_deputado": "204356"
+  },
+  "PL 2162/2023|Antonio Andrade": {
+   "apresentacao": "2023-04-26",
+   "legislatura": 57,
+   "partido": "REPUBLICANOS",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "PSDB",
+   "id_deputado": "220544"
+  },
+  "PL 2162/2023|Carlos Gomes": {
+   "apresentacao": "2023-04-26",
+   "legislatura": 57,
+   "partido": "REPUBLICANOS",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "REPUBLICANOS",
+   "id_deputado": "178962"
+  },
+  "PL 2162/2023|Coronel Meira": {
+   "apresentacao": "2023-04-26",
+   "legislatura": 57,
+   "partido": "PL",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "PL",
+   "id_deputado": "220666"
+  },
+  "PL 2162/2023|Defensor Stélio Dener": {
+   "apresentacao": "2023-04-26",
+   "legislatura": 57,
+   "partido": "REPUBLICANOS",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "UNIÃO",
+   "id_deputado": "220539"
+  },
+  "PL 2162/2023|Diego Garcia": {
+   "apresentacao": "2023-04-26",
+   "legislatura": 57,
+   "partido": "REPUBLICANOS",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "UNIÃO",
+   "id_deputado": "178929"
+  },
+  "PL 2162/2023|Domingos Sávio": {
+   "apresentacao": "2023-04-26",
+   "legislatura": 57,
+   "partido": "PL",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "PSDB",
+   "id_deputado": "160758"
+  },
+  "PL 2162/2023|Franciane Bayer": {
+   "apresentacao": "2023-04-26",
+   "legislatura": 57,
+   "partido": "REPUBLICANOS",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "REPUBLICANOS",
+   "id_deputado": "220551"
+  },
+  "PL 2162/2023|Fred Linhares": {
+   "apresentacao": "2023-04-26",
+   "legislatura": 57,
+   "partido": "REPUBLICANOS",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "REPUBLICANOS",
+   "id_deputado": "220534"
+  },
+  "PL 2162/2023|Gabriel Mota": {
+   "apresentacao": "2023-04-26",
+   "legislatura": 57,
+   "partido": "REPUBLICANOS",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "UNIÃO",
+   "id_deputado": "224117"
+  },
+  "PL 2162/2023|Gilberto Abramo": {
+   "apresentacao": "2023-04-26",
+   "legislatura": 57,
+   "partido": "REPUBLICANOS",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "REPUBLICANOS",
+   "id_deputado": "204491"
+  },
+  "PL 2162/2023|Gustinho Ribeiro": {
+   "apresentacao": "2023-04-26",
+   "legislatura": 57,
+   "partido": "REPUBLICANOS",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "PP",
+   "id_deputado": "204408"
+  },
+  "PL 2162/2023|Jorge Braz": {
+   "apresentacao": "2023-04-26",
+   "legislatura": 57,
+   "partido": "REPUBLICANOS",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "REPUBLICANOS",
+   "id_deputado": "205550"
+  },
+  "PL 2162/2023|Lafayette de Andrada": {
+   "apresentacao": "2023-04-26",
+   "legislatura": 57,
+   "partido": "REPUBLICANOS",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "PL",
+   "id_deputado": "98057"
+  },
+  "PL 2162/2023|Luis Carlos Gomes": {
+   "apresentacao": "2023-04-26",
+   "legislatura": 57,
+   "partido": "REPUBLICANOS",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "REPUBLICANOS",
+   "id_deputado": "222429"
+  },
+  "PL 2162/2023|Marcelo Crivella": {
+   "apresentacao": "2023-04-26",
+   "legislatura": 57,
+   "partido": "REPUBLICANOS",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "REPUBLICANOS",
+   "id_deputado": "220599"
+  },
+  "PL 2162/2023|Márcio Marinho": {
+   "apresentacao": "2023-04-26",
+   "legislatura": 57,
+   "partido": "REPUBLICANOS",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "REPUBLICANOS",
+   "id_deputado": "150418"
+  },
+  "PL 2162/2023|Maria Rosas": {
+   "apresentacao": "2023-04-26",
+   "legislatura": 57,
+   "partido": "REPUBLICANOS",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "REPUBLICANOS",
+   "id_deputado": "204540"
+  },
+  "PL 2162/2023|Messias Donato": {
+   "apresentacao": "2023-04-26",
+   "legislatura": 57,
+   "partido": "REPUBLICANOS",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "UNIÃO",
+   "id_deputado": "220530"
+  },
+  "PL 2162/2023|Milton Vieira": {
+   "apresentacao": "2023-04-26",
+   "legislatura": 57,
+   "partido": "REPUBLICANOS",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "REPUBLICANOS",
+   "id_deputado": "154178"
+  },
+  "PL 2162/2023|Murilo Galdino": {
+   "apresentacao": "2023-04-26",
+   "legislatura": 57,
+   "partido": "REPUBLICANOS",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "REPUBLICANOS",
+   "id_deputado": "220584"
+  },
+  "PL 2162/2023|Roberto Duarte": {
+   "apresentacao": "2023-04-26",
+   "legislatura": 57,
+   "partido": "REPUBLICANOS",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "REPUBLICANOS",
+   "id_deputado": "220588"
+  },
+  "PL 2162/2023|Rogéria Santos": {
+   "apresentacao": "2023-04-26",
+   "legislatura": 57,
+   "partido": "REPUBLICANOS",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "REPUBLICANOS",
+   "id_deputado": "220695"
+  },
+  "PL 2162/2023|Sóstenes Cavalcante": {
+   "apresentacao": "2023-04-26",
+   "legislatura": 57,
+   "partido": "PL",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "PL",
+   "id_deputado": "178947"
+  },
+  "PL 2162/2023|Tenente Coronel Zucco": {
+   "apresentacao": "2023-04-26",
+   "legislatura": 57,
+   "partido": "REPUBLICANOS",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "PL",
+   "id_deputado": "220552"
+  },
+  "PL 2162/2023|Vinicius Carvalho": {
+   "apresentacao": "2023-04-26",
+   "legislatura": 57,
+   "partido": "REPUBLICANOS",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "PL",
+   "id_deputado": "141555"
+  },
+  "PL 2162/2023|Wilson Santiago": {
+   "apresentacao": "2023-04-26",
+   "legislatura": 57,
+   "partido": "REPUBLICANOS",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "REPUBLICANOS",
+   "id_deputado": "74044"
+  },
+  "PL 1099/2024|Silvye Alves": {
+   "apresentacao": "2024-04-05",
+   "legislatura": 57,
+   "partido": "UNIÃO",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "UNIÃO",
+   "id_deputado": "220569"
+  },
+  "PL 7323/2014|Guilherme Campos": {
+   "apresentacao": "2014-03-27",
+   "legislatura": 54,
+   "partido": "PSD",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "PSD",
+   "id_deputado": "141447"
+  },
+  "PL 421/2023|Laura Carneiro": {
+   "apresentacao": "2023-02-09",
+   "legislatura": 57,
+   "partido": "PSD",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "UNIÃO",
+   "id_deputado": "74856"
+  },
+  "PL 5760/2023|Reimont": {
+   "apresentacao": "2023-11-28",
+   "legislatura": 57,
+   "partido": "PT",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "PT",
+   "id_deputado": "220606"
+  },
+  "PL 3066/2025|Osmar Terra": {
+   "apresentacao": "2025-06-25",
+   "legislatura": 57,
+   "partido": "MDB",
+   "criterio": "histórico datado da Câmara",
+   "ficha": "PL",
+   "id_deputado": "73692"
+  }
+ },
+ "falhas": []
+}

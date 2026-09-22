@@ -1,0 +1,24 @@
+chave;valor
+fonte;FGV CPDOC, Dicionário Histórico-Biográfico Brasileiro, corpus aberto github.com/cpdoc/dhbb, ramo master
+verbetes_lidos;7863
+criterio;cargo 'gov. UF AAAA' com início em 1971, 1975 ou 1979
+territorios_e_df_excluidos;"[""AP"", ""DF"", ""FN"", ""RO"", ""RR""]"
+janelas_de_nomeacao.AC.de;1947
+janelas_de_nomeacao.AC.ate;1961
+janelas_de_nomeacao.AC.unidade;território até 1962
+janelas_de_nomeacao.AP.de;1947
+janelas_de_nomeacao.AP.ate;1990
+janelas_de_nomeacao.AP.unidade;território até 1988
+janelas_de_nomeacao.RR.de;1947
+janelas_de_nomeacao.RR.ate;1990
+janelas_de_nomeacao.RR.unidade;território até 1988, chamado Rio Branco até 1962
+janelas_de_nomeacao.RO.de;1947
+janelas_de_nomeacao.RO.ate;1986
+janelas_de_nomeacao.RO.unidade;"território até 1981, chamado Guaporé até 1956; estado com governador nomeado até 1986"
+janelas_de_nomeacao.DF.de;1960
+janelas_de_nomeacao.DF.ate;1990
+janelas_de_nomeacao.DF.unidade;Distrito Federal, governador nomeado até a primeira eleição, em 1990
+janelas_de_nomeacao.MS.de;1979
+janelas_de_nomeacao.MS.ate;1982
+janelas_de_nomeacao.MS.unidade;estado criado em 1977, governador nomeado até a eleição de 1982
+limite_dos_nomeados;"lista parcial: só entra quem tem verbete no DHBB; o número de governadores nomeados em cada unidade não se mede nesta fonte"

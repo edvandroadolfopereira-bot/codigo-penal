@@ -1,0 +1,11 @@
+chave;valor
+gerado_por;apurar_severidade_parte_geral.py
+o_que_mede;parametro numerico de instituto da Parte Geral, 1940 contra o texto vigente, pareado por INSTITUTO e nunca por numero de artigo
+porque_nao_por_numero_de_artigo;"a Lei 7.209/1984 remanejou a numeracao inteira da Parte Geral; o art. 44 de 1940 sao as agravantes e hoje sao as penas restritivas de direitos"
+o_que_nao_mede;"pena de multa, porque 1940 a fixa em contos de reis e hoje em dias-multa, e comparar exigiria conversao monetaria de 86 anos; e instituto sem parametro numerico, como o regime progressivo de cumprimento, criado em 1984 e sem contraparte de 1940"
+institutos_medidos;16
+contagem_por_direcao.agrava;2
+contagem_por_direcao.abranda;5
+contagem_por_direcao.mantem;6
+contagem_por_direcao.instituto CRIADO depois de 1940;2
+contagem_por_direcao.instituto EXTINTO depois de 1940;1

@@ -1,0 +1,116 @@
+especie;numero;ano;data;fonte;url;caracteres;numero_no_corpo;data_no_corpo;situacao;motivo
+LEI;1431;1951;1951-09-12;planalto;https://www.planalto.gov.br/ccivil_03/leis/1950-1969/l1431.htm;2193;False;True;OK;
+LEI;2505;1955;1955-06-11;planalto;https://www.planalto.gov.br/ccivil_03/leis/1950-1969/l2505.htm;1959;True;True;OK;
+LEI;4451;1964;1964-11-04;planalto;https://www.planalto.gov.br/ccivil_03/leis/1950-1969/l4451.htm;2198;False;True;OK;
+LEI;4729;1965;1965-07-14;planalto;https://www.planalto.gov.br/ccivil_03/leis/1950-1969/l4729.htm;6563;False;True;OK;
+LEI;5346;1967;1967-11-03;planalto;https://www.planalto.gov.br/ccivil_03/leis/1950-1969/l5346.htm;1687;False;True;OK;
+DL;385;1968;1968-12-26;planalto;https://www.planalto.gov.br/ccivil_03/Decreto-Lei/1965-1988/Del0385.htm;4112;False;True;OK;
+LEI;5467;1968;1968-07-05;planalto;https://www.planalto.gov.br/ccivil_03/leis/1950-1969/l5467.htm;2485;False;True;OK;
+LEI;5474;1968;1968-07-18;planalto;https://www.planalto.gov.br/ccivil_03/leis/l5474.htm;26945;False;True;OK;
+LEI;5478;1968;1968-07-25;planalto;https://www.planalto.gov.br/ccivil_03/leis/l5478.htm;15025;False;True;OK;
+LEI;5726;1971;1971-10-29;planalto;https://www.planalto.gov.br/ccivil_03/leis/1970-1979/l5726.htm;20031;True;True;OK;
+LEI;6368;1976;;planalto;https://www.planalto.gov.br/ccivil_03/leis/l6368.htm;34622;False;True;OK;
+LEI;6416;1977;1977-05-24;planalto;https://www.planalto.gov.br/ccivil_03/leis/l6416.htm;24778;True;True;OK;
+LEI;6799;1980;1980-06-23;planalto;https://www.planalto.gov.br/ccivil_03/leis/1980-1988/l6799.htm;2038;False;True;OK;
+LEI;6895;1980;1980-12-17;planalto;https://www.planalto.gov.br/ccivil_03/leis/1980-1988/l6895.htm;2144;False;True;OK;
+LEI;6898;1981;1981-03-30;planalto;https://www.planalto.gov.br/ccivil_03/leis/1980-1988/l6898.htm;1269;False;True;CURTA;apenas 1269 caracteres. Pode ser norma de artigo unico, e pode ser pagina truncada. Pede leitura humana
+LEI;7209;1984;1984-07-11;planalto;https://www.planalto.gov.br/ccivil_03/leis/1980-1988/l7209.htm;52961;False;True;OK;
+LEI;7251;1984;1984-11-19;planalto;https://www.planalto.gov.br/ccivil_03/leis/1980-1988/l7251.htm;1453;False;True;CURTA;apenas 1453 caracteres. Pode ser norma de artigo unico, e pode ser pagina truncada. Pede leitura humana
+LEI;8069;1990;1990-07-13;planalto;https://www.planalto.gov.br/ccivil_03/leis/l8069.htm;329322;False;True;OK;
+LEI;8072;1990;1990-07-25;planalto;https://www.planalto.gov.br/ccivil_03/leis/l8072.htm;19671;False;True;OK;
+LEI;8137;1990;1990-12-27;planalto;https://www.planalto.gov.br/ccivil_03/leis/l8137.htm;18498;False;True;OK;
+LEI;8176;1991;1991-02-08;planalto;https://www.planalto.gov.br/ccivil_03/leis/l8176.htm;3255;False;True;OK;
+LEI;8635;1993;1993-03-16;planalto;https://www.planalto.gov.br/ccivil_03/leis/1989_1994/l8635.htm;1862;False;True;OK;
+LEI;8683;1993;1993-07-15;planalto;https://www.planalto.gov.br/ccivil_03/leis/1989_1994/l8683.htm;1040;False;True;CURTA;apenas 1040 caracteres. Pode ser norma de artigo unico, e pode ser pagina truncada. Pede leitura humana
+LEI;9127;1995;1995-11-16;planalto;https://www.planalto.gov.br/ccivil_03/leis/l9127.htm;1262;False;True;CURTA;apenas 1262 caracteres. Pode ser norma de artigo unico, e pode ser pagina truncada. Pede leitura humana
+LEI;9268;1996;1996-04-01;planalto;https://www.planalto.gov.br/ccivil_03/leis/l9268.htm;3135;False;True;OK;
+LEI;9269;1996;1996-04-02;planalto;https://www.planalto.gov.br/ccivil_03/leis/l9269.htm;1031;False;True;CURTA;apenas 1031 caracteres. Pode ser norma de artigo unico, e pode ser pagina truncada. Pede leitura humana
+LEI;9279;1996;1996-05-14;planalto;https://www.planalto.gov.br/ccivil_03/leis/l9279.htm;117801;False;True;OK;
+LEI;9281;1996;1996-06-04;planalto;https://www.planalto.gov.br/ccivil_03/leis/l9281.htm;917;False;True;CURTA;apenas 917 caracteres. Pode ser norma de artigo unico, e pode ser pagina truncada. Pede leitura humana
+LEI;9318;1996;1996-12-05;planalto;https://www.planalto.gov.br/ccivil_03/leis/l9318.htm;1449;False;True;CURTA;apenas 1449 caracteres. Pode ser norma de artigo unico, e pode ser pagina truncada. Pede leitura humana
+LEI;9426;1996;1996-12-24;planalto;https://www.planalto.gov.br/ccivil_03/leis/l9426.htm;4491;False;True;OK;
+LEI;9459;1997;1997-05-13;planalto;https://www.planalto.gov.br/ccivil_03/leis/l9459.htm;2803;False;True;OK;
+LEI;9677;1998;1998-07-02;planalto;https://www.planalto.gov.br/ccivil_03/leis/l9677.htm;4366;False;True;OK;
+LEI;9714;1998;1998-11-25;planalto;https://www.planalto.gov.br/ccivil_03/leis/l9714.htm;5971;False;True;OK;
+LEI;9777;1998;1998-12-29;planalto;https://www.planalto.gov.br/ccivil_03/leis/l9777.htm;2495;False;True;OK;
+LEI;10028;2000;2000-10-19;planalto;https://www.planalto.gov.br/ccivil_03/leis/l10028.htm;11596;True;True;OK;
+LEI;9983;2000;2000-07-14;planalto;https://www.planalto.gov.br/ccivil_03/leis/l9983.htm;10091;True;True;OK;
+LEI;10224;2001;2001-05-15;planalto;https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10224.htm;1222;True;True;CURTA;apenas 1222 caracteres. Pode ser norma de artigo unico, e pode ser pagina truncada. Pede leitura humana
+LEI;10268;2001;2001-08-28;planalto;https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10268.htm;2125;True;True;OK;
+LEI;10467;2002;2002-06-11;planalto;https://www.planalto.gov.br/ccivil_03/leis/2002/l10467.htm;4155;True;True;OK;
+LEI;10695;2003;2003-07-01;planalto;https://www.planalto.gov.br/ccivil_03/leis/2003/l10.695.htm;6717;True;True;OK;
+LEI;10741;2003;2003-10-01;planalto;https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741.htm;97329;True;True;OK;
+LEI;10763;2003;2003-11-12;planalto;https://www.planalto.gov.br/ccivil_03/leis/2003/l10.763.htm;1894;True;True;OK;
+LEI;10803;2003;2003-12-11;planalto;https://www.planalto.gov.br/ccivil_03/leis/2003/l10.803.htm;1843;True;True;OK;
+LEI;10886;2004;2004-06-17;planalto;https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.886.htm;1607;False;True;OK;
+LEI;11035;2004;2004-12-22;planalto;https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l11035.htm;2313;False;True;OK;
+LEI;11106;2005;2005-03-28;planalto;https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11106.htm;5295;False;True;OK;
+LEI;11340;2006;2006-08-07;planalto;https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11340.htm;55520;False;True;OK;
+LEI;11466;2007;2007-03-28;planalto;https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11466.htm;1863;False;True;OK;
+LEI;11596;2007;2007-11-29;planalto;https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11596.htm;1610;False;True;OK;
+LEI;11923;2009;2009-04-17;planalto;https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11923.htm;1482;False;True;CURTA;apenas 1482 caracteres. Pode ser norma de artigo unico, e pode ser pagina truncada. Pede leitura humana
+LEI;12012;2009;2009-08-06;planalto;https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12012.htm;1485;False;True;CURTA;apenas 1485 caracteres. Pode ser norma de artigo unico, e pode ser pagina truncada. Pede leitura humana
+LEI;12015;2009;2009-08-07;planalto;https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12015.htm;12502;False;True;OK;
+LEI;12033;2009;2009-09-29;planalto;https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12033.htm;1590;False;True;OK;
+LEI;12234;2010;2010-05-05;planalto;https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12234.htm;2036;False;True;OK;
+LEI;12550;2011;2011-12-15;planalto;https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12550.htm;13191;False;True;OK;
+LEI;12650;2012;2012-05-17;planalto;https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12650.htm;1517;False;True;OK;
+LEI;12653;2012;2012-05-28;planalto;https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12653.htm;2147;False;True;OK;
+LEI;12694;2012;2012-07-24;planalto;https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12694.htm;16758;False;True;OK;
+LEI;12720;2012;2012-09-27;planalto;https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12720.htm;2568;False;True;OK;
+LEI;12735;2012;2012-11-30;planalto;https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12735.htm;2693;False;True;OK;
+LEI;12737;2012;2012-11-30;planalto;https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12737.htm;4228;False;True;OK;
+LEI;12850;2013;2013-08-02;planalto;https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12850.htm;41478;False;True;OK;
+LEI;12978;2014;2014-05-21;planalto;https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12978.htm;1834;False;True;OK;
+LEI;13008;2014;2014-06-26;planalto;https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l13008.htm;3490;False;True;OK;
+LEI;13104;2015;2015-03-09;planalto;https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13104.htm;3220;False;True;OK;
+LEI;13142;2015;2015-07-06;planalto;https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13142.htm;3720;False;True;OK;
+LEI;13188;2015;2015-11-11;planalto;https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13188.htm;10424;False;True;OK;
+LEI;13228;2015;2015-12-28;planalto;https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13228.htm;1585;False;True;OK;
+LEI;13330;2016;2016-08-02;planalto;https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13330.htm;2330;False;True;OK;
+LEI;13344;2016;2016-10-06;planalto;https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13344.htm;15502;False;True;OK;
+LEI;13445;2017;2017-05-24;congresso;;63034;False;True;OK;
+LEI;13531;2017;2017-12-07;congresso;;1679;False;True;OK;
+LEI;13606;2018;2018-01-09;congresso;;73284;False;True;OK;
+LEI;13654;2018;2018-04-23;congresso;;4143;False;True;OK;
+LEI;13715;2018;2018-09-24;congresso;;3211;False;True;OK;
+LEI;13718;2018;2018-09-24;congresso;;4046;False;True;OK;
+LEI;13771;2018;2018-12-19;congresso;;1101;False;True;CURTA;apenas 1101 caracteres. Pode ser norma de artigo unico, e pode ser pagina truncada. Pede leitura humana
+LEI;13772;2018;2018-12-19;congresso;;2330;False;True;OK;
+LEI;13869;2019;2019-09-05;congresso;;17387;False;True;OK;
+LEI;13964;2019;2019-12-24;planalto;https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13964.htm;104000;True;True;OK;
+LEI;13968;2019;2019-12-26;congresso;;2414;False;True;OK;
+LEI;14110;2020;2020-12-18;congresso;;910;False;True;CURTA;apenas 910 caracteres. Pode ser norma de artigo unico, e pode ser pagina truncada. Pede leitura humana
+LEI;14132;2021;2021-03-31;congresso;;1550;False;True;OK;
+LEI;14133;2021;2021-04-01;congresso;;260909;False;True;OK;
+LEI;14155;2021;2021-05-27;congresso;;3667;False;True;OK;
+LEI;14188;2021;2021-07-28;congresso;;3977;False;True;OK;
+LEI;14197;2021;2021-09-01;congresso;;5698;False;True;OK;
+LEI;14245;2021;2021-11-22;congresso;;3365;False;True;OK;
+LEI;14344;2022;2022-05-24;congresso;;32108;False;True;OK;
+LEI;14478;2022;2022-12-21;congresso;;9304;False;True;OK;
+LEI;14532;2023;2023-01-11;congresso;;3546;False;True;OK;
+LEI;14562;2023;2023-04-26;congresso;;2506;False;True;OK;
+LEI;14811;2024;2024-01-12;congresso;;9285;False;True;OK;
+LEI;14967;2024;2024-09-09;congresso;;56359;False;True;OK;
+LEI;14994;2024;2024-10-09;congresso;;8566;False;True;OK;
+LEI;15035;2024;2024-11-27;congresso;;2101;False;True;OK;
+LEI;15123;2025;2025-04-24;congresso;;1297;False;True;CURTA;apenas 1297 caracteres. Pode ser norma de artigo unico, e pode ser pagina truncada. Pede leitura humana
+LEI;15134;2025;2025-05-06;congresso;;5669;False;True;OK;
+LEI;15159;2025;2025-07-03;congresso;;4721;False;True;OK;
+LEI;15160;2025;2025-07-03;congresso;;1712;False;True;OK;
+LEI;15163;2025;2025-07-03;congresso;;4351;False;True;OK;
+LEI;15181;2025;2025-07-28;congresso;;4697;False;True;OK;
+LEI;15229;2025;2025-10-02;congresso;;868;False;True;CURTA;apenas 868 caracteres. Pode ser norma de artigo unico, e pode ser pagina truncada. Pede leitura humana
+LEI;15245;2025;2025-10-29;congresso;;4894;False;True;OK;
+LEI;15280;2025;2025-12-05;congresso;;9164;False;True;OK;
+LEI;15353;2026;2026-03-08;congresso;;1586;False;True;OK;
+LEI;15358;2026;2026-03-24;congresso;;78129;False;True;OK;
+LEI;15384;2026;2026-04-09;congresso;;2483;False;True;OK;
+LEI;15397;2026;2026-04-30;congresso;;6149;False;True;OK;
+LEI;15402;2026;2026-05-08;congresso;;2817;False;True;OK;
+LEI;15425;2026;2026-06-03;congresso;;1637;False;True;OK;
+LEI;15438;2026;2026-06-18;congresso;;2747;False;True;OK;
+LEI;15455;2026;2026-07-01;congresso;;6344;False;True;OK;
+LEI;15487;2026;2026-08-06;congresso;;15111;False;True;OK;
+LC;225;2026;2026-01-08;congresso;;64556;False;True;OK;

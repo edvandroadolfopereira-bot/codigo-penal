@@ -1,0 +1,2256 @@
+{
+ "gerado_por": "apurar_doutrina_partidaria.py",
+ "semente": 20260922,
+ "lexicos": {
+  "ordem": "seguran[çc]a p[úu]blica|ordem p[úu]blica|combate [àa] criminalidade|combate ao crime|repress[ãa]o|impunidade|lei e ordem|crime organizado|pol[íi]cia|criminalidade|endurecimento|pena mais",
+  "direitos": "direitos humanos|garantias individuais|garantias fundamentais|dignidade da pessoa humana|liberdades? (individua|civis|p[úu]blica)|ressocializa|desencarcera|encarceramento em massa|sistema prisional|presunção de inoc[êe]ncia",
+  "socialismo": "socialis|comunis|marxis|luta de classes|proletari",
+  "trabalhismo": "trabalhis|classe trabalhadora|trabalhadores",
+  "liberalismo": "liberalis|livre iniciativa|livre mercado|economia de mercado|estado m[íi]nimo",
+  "conservador": "conservador|tradi[çc][ãa]o|valores morais",
+  "cristao": "crist[ãa]|deus|religi",
+  "familia": "fam[íi]lia"
+ },
+ "documentos_doutrinarios": 305,
+ "documentos_com_texto": 305,
+ "documentos_sem_texto": 0,
+ "partidos_atuais_sem_sigla_na_escala": [
+  "DEMOCRATA",
+  "MISSÃO",
+  "MOBILIZA",
+  "PRD",
+  "UP"
+ ],
+ "por_partido": [
+  {
+   "partido": "AGIR",
+   "tipo": "atual",
+   "docs_lidos": 10,
+   "docs_sem_texto": 0,
+   "palavras": 55503,
+   "por_10mil_palavras": {
+    "ordem": 1.62,
+    "direitos": 1.26,
+    "socialismo": 0.0,
+    "trabalhismo": 16.94,
+    "liberalismo": 0.0,
+    "conservador": 0.0,
+    "cristao": 17.12,
+    "familia": 0.72
+   },
+   "ocorrencias": {
+    "ordem": 9,
+    "direitos": 7,
+    "socialismo": 0,
+    "trabalhismo": 94,
+    "liberalismo": 0,
+    "conservador": 0,
+    "cristao": 95,
+    "familia": 4
+   },
+   "indice_ordem_menos_direitos": 0.36
+  },
+  {
+   "partido": "AVANTE",
+   "tipo": "atual",
+   "docs_lidos": 6,
+   "docs_sem_texto": 0,
+   "palavras": 59276,
+   "por_10mil_palavras": {
+    "ordem": 0.34,
+    "direitos": 0.34,
+    "socialismo": 0.0,
+    "trabalhismo": 10.29,
+    "liberalismo": 0.0,
+    "conservador": 0.17,
+    "cristao": 3.21,
+    "familia": 0.0
+   },
+   "ocorrencias": {
+    "ordem": 2,
+    "direitos": 2,
+    "socialismo": 0,
+    "trabalhismo": 61,
+    "liberalismo": 0,
+    "conservador": 1,
+    "cristao": 19,
+    "familia": 0
+   },
+   "indice_ordem_menos_direitos": 0.0
+  },
+  {
+   "partido": "Aliança Democrática Brasileira",
+   "tipo": "historico",
+   "docs_lidos": 2,
+   "docs_sem_texto": 0,
+   "palavras": 4170,
+   "por_10mil_palavras": {
+    "ordem": 0.0,
+    "direitos": 0.0,
+    "socialismo": 0.0,
+    "trabalhismo": 4.8,
+    "liberalismo": 0.0,
+    "conservador": 2.4,
+    "cristao": 2.4,
+    "familia": 0.0
+   },
+   "ocorrencias": {
+    "ordem": 0,
+    "direitos": 0,
+    "socialismo": 0,
+    "trabalhismo": 2,
+    "liberalismo": 0,
+    "conservador": 1,
+    "cristao": 1,
+    "familia": 0
+   },
+   "indice_ordem_menos_direitos": 0.0
+  },
+  {
+   "partido": "Aliança Renovadora Nacional",
+   "tipo": "historico",
+   "docs_lidos": 1,
+   "docs_sem_texto": 0,
+   "palavras": 9995,
+   "por_10mil_palavras": {
+    "ordem": 0.0,
+    "direitos": 0.0,
+    "socialismo": 0.0,
+    "trabalhismo": 0.0,
+    "liberalismo": 0.0,
+    "conservador": 0.0,
+    "cristao": 2.0,
+    "familia": 0.0
+   },
+   "ocorrencias": {
+    "ordem": 0,
+    "direitos": 0,
+    "socialismo": 0,
+    "trabalhismo": 0,
+    "liberalismo": 0,
+    "conservador": 0,
+    "cristao": 2,
+    "familia": 0
+   },
+   "indice_ordem_menos_direitos": 0.0
+  },
+  {
+   "partido": "Aliança Social Democrata",
+   "tipo": "historico",
+   "docs_lidos": 3,
+   "docs_sem_texto": 0,
+   "palavras": 2103,
+   "por_10mil_palavras": {
+    "ordem": 0.0,
+    "direitos": 0.0,
+    "socialismo": 0.0,
+    "trabalhismo": 0.0,
+    "liberalismo": 0.0,
+    "conservador": 0.0,
+    "cristao": 0.0,
+    "familia": 0.0
+   },
+   "ocorrencias": {
+    "ordem": 0,
+    "direitos": 0,
+    "socialismo": 0,
+    "trabalhismo": 0,
+    "liberalismo": 0,
+    "conservador": 0,
+    "cristao": 0,
+    "familia": 0
+   },
+   "indice_ordem_menos_direitos": 0.0
+  },
+  {
+   "partido": "CIDADANIA",
+   "tipo": "atual",
+   "docs_lidos": 9,
+   "docs_sem_texto": 0,
+   "palavras": 58221,
+   "por_10mil_palavras": {
+    "ordem": 0.17,
+    "direitos": 1.2,
+    "socialismo": 10.65,
+    "trabalhismo": 0.0,
+    "liberalismo": 0.0,
+    "conservador": 2.4,
+    "cristao": 1.55,
+    "familia": 0.0
+   },
+   "ocorrencias": {
+    "ordem": 1,
+    "direitos": 7,
+    "socialismo": 62,
+    "trabalhismo": 0,
+    "liberalismo": 0,
+    "conservador": 14,
+    "cristao": 9,
+    "familia": 0
+   },
+   "indice_ordem_menos_direitos": -1.03
+  },
+  {
+   "partido": "DC",
+   "tipo": "atual",
+   "docs_lidos": 10,
+   "docs_sem_texto": 0,
+   "palavras": 95470,
+   "por_10mil_palavras": {
+    "ordem": 0.42,
+    "direitos": 0.42,
+    "socialismo": 0.21,
+    "trabalhismo": 2.41,
+    "liberalismo": 0.21,
+    "conservador": 0.0,
+    "cristao": 22.21,
+    "familia": 1.05
+   },
+   "ocorrencias": {
+    "ordem": 4,
+    "direitos": 4,
+    "socialismo": 2,
+    "trabalhismo": 23,
+    "liberalismo": 2,
+    "conservador": 0,
+    "cristao": 212,
+    "familia": 10
+   },
+   "indice_ordem_menos_direitos": 0.0
+  },
+  {
+   "partido": "DEMOCRATA",
+   "tipo": "atual",
+   "docs_lidos": 7,
+   "docs_sem_texto": 0,
+   "palavras": 55780,
+   "por_10mil_palavras": {
+    "ordem": 0.54,
+    "direitos": 0.18,
+    "socialismo": 0.0,
+    "trabalhismo": 1.43,
+    "liberalismo": 0.18,
+    "conservador": 0.0,
+    "cristao": 1.61,
+    "familia": 0.72
+   },
+   "ocorrencias": {
+    "ordem": 3,
+    "direitos": 1,
+    "socialismo": 0,
+    "trabalhismo": 8,
+    "liberalismo": 1,
+    "conservador": 0,
+    "cristao": 9,
+    "familia": 4
+   },
+   "indice_ordem_menos_direitos": 0.36
+  },
+  {
+   "partido": "MDB",
+   "tipo": "atual",
+   "docs_lidos": 8,
+   "docs_sem_texto": 0,
+   "palavras": 121891,
+   "por_10mil_palavras": {
+    "ordem": 0.74,
+    "direitos": 0.25,
+    "socialismo": 0.25,
+    "trabalhismo": 0.49,
+    "liberalismo": 0.25,
+    "conservador": 0.08,
+    "cristao": 0.82,
+    "familia": 0.49
+   },
+   "ocorrencias": {
+    "ordem": 9,
+    "direitos": 3,
+    "socialismo": 3,
+    "trabalhismo": 6,
+    "liberalismo": 3,
+    "conservador": 1,
+    "cristao": 10,
+    "familia": 6
+   },
+   "indice_ordem_menos_direitos": 0.49
+  },
+  {
+   "partido": "MISSÃO",
+   "tipo": "atual",
+   "docs_lidos": 2,
+   "docs_sem_texto": 0,
+   "palavras": 15516,
+   "por_10mil_palavras": {
+    "ordem": 1.29,
+    "direitos": 0.64,
+    "socialismo": 0.0,
+    "trabalhismo": 0.0,
+    "liberalismo": 0.0,
+    "conservador": 0.0,
+    "cristao": 0.64,
+    "familia": 1.29
+   },
+   "ocorrencias": {
+    "ordem": 2,
+    "direitos": 1,
+    "socialismo": 0,
+    "trabalhismo": 0,
+    "liberalismo": 0,
+    "conservador": 0,
+    "cristao": 1,
+    "familia": 2
+   },
+   "indice_ordem_menos_direitos": 0.65
+  },
+  {
+   "partido": "MOBILIZA",
+   "tipo": "atual",
+   "docs_lidos": 7,
+   "docs_sem_texto": 0,
+   "palavras": 71466,
+   "por_10mil_palavras": {
+    "ordem": 0.0,
+    "direitos": 0.0,
+    "socialismo": 1.4,
+    "trabalhismo": 0.14,
+    "liberalismo": 0.0,
+    "conservador": 0.0,
+    "cristao": 0.98,
+    "familia": 0.0
+   },
+   "ocorrencias": {
+    "ordem": 0,
+    "direitos": 0,
+    "socialismo": 10,
+    "trabalhismo": 1,
+    "liberalismo": 0,
+    "conservador": 0,
+    "cristao": 7,
+    "familia": 0
+   },
+   "indice_ordem_menos_direitos": 0.0
+  },
+  {
+   "partido": "Movimento Democrático Brasileiro",
+   "tipo": "historico",
+   "docs_lidos": 2,
+   "docs_sem_texto": 0,
+   "palavras": 5254,
+   "por_10mil_palavras": {
+    "ordem": 1.9,
+    "direitos": 0.0,
+    "socialismo": 0.0,
+    "trabalhismo": 3.81,
+    "liberalismo": 0.0,
+    "conservador": 0.0,
+    "cristao": 1.9,
+    "familia": 0.0
+   },
+   "ocorrencias": {
+    "ordem": 1,
+    "direitos": 0,
+    "socialismo": 0,
+    "trabalhismo": 2,
+    "liberalismo": 0,
+    "conservador": 0,
+    "cristao": 1,
+    "familia": 0
+   },
+   "indice_ordem_menos_direitos": 1.9
+  },
+  {
+   "partido": "Movimento Trabalhista Renovador",
+   "tipo": "historico",
+   "docs_lidos": 2,
+   "docs_sem_texto": 0,
+   "palavras": 8174,
+   "por_10mil_palavras": {
+    "ordem": 0.0,
+    "direitos": 0.0,
+    "socialismo": 0.0,
+    "trabalhismo": 19.57,
+    "liberalismo": 0.0,
+    "conservador": 0.0,
+    "cristao": 0.0,
+    "familia": 3.67
+   },
+   "ocorrencias": {
+    "ordem": 0,
+    "direitos": 0,
+    "socialismo": 0,
+    "trabalhismo": 16,
+    "liberalismo": 0,
+    "conservador": 0,
+    "cristao": 0,
+    "familia": 3
+   },
+   "indice_ordem_menos_direitos": 0.0
+  },
+  {
+   "partido": "NOVO",
+   "tipo": "atual",
+   "docs_lidos": 6,
+   "docs_sem_texto": 0,
+   "palavras": 79917,
+   "por_10mil_palavras": {
+    "ordem": 0.88,
+    "direitos": 0.5,
+    "socialismo": 0.0,
+    "trabalhismo": 0.63,
+    "liberalismo": 0.38,
+    "conservador": 0.0,
+    "cristao": 0.5,
+    "familia": 0.0
+   },
+   "ocorrencias": {
+    "ordem": 7,
+    "direitos": 4,
+    "socialismo": 0,
+    "trabalhismo": 5,
+    "liberalismo": 3,
+    "conservador": 0,
+    "cristao": 4,
+    "familia": 0
+   },
+   "indice_ordem_menos_direitos": 0.38
+  },
+  {
+   "partido": "Núcleo Eleitoral Pró-Emancipação Carioca",
+   "tipo": "historico",
+   "docs_lidos": 1,
+   "docs_sem_texto": 0,
+   "palavras": 1097,
+   "por_10mil_palavras": {
+    "ordem": 0.0,
+    "direitos": 0.0,
+    "socialismo": 0.0,
+    "trabalhismo": 0.0,
+    "liberalismo": 0.0,
+    "conservador": 0.0,
+    "cristao": 0.0,
+    "familia": 0.0
+   },
+   "ocorrencias": {
+    "ordem": 0,
+    "direitos": 0,
+    "socialismo": 0,
+    "trabalhismo": 0,
+    "liberalismo": 0,
+    "conservador": 0,
+    "cristao": 0,
+    "familia": 0
+   },
+   "indice_ordem_menos_direitos": 0.0
+  },
+  {
+   "partido": "Organização Político-Social Feminina",
+   "tipo": "historico",
+   "docs_lidos": 2,
+   "docs_sem_texto": 0,
+   "palavras": 1802,
+   "por_10mil_palavras": {
+    "ordem": 0.0,
+    "direitos": 0.0,
+    "socialismo": 0.0,
+    "trabalhismo": 0.0,
+    "liberalismo": 0.0,
+    "conservador": 0.0,
+    "cristao": 0.0,
+    "familia": 0.0
+   },
+   "ocorrencias": {
+    "ordem": 0,
+    "direitos": 0,
+    "socialismo": 0,
+    "trabalhismo": 0,
+    "liberalismo": 0,
+    "conservador": 0,
+    "cristao": 0,
+    "familia": 0
+   },
+   "indice_ordem_menos_direitos": 0.0
+  },
+  {
+   "partido": "PCB",
+   "tipo": "atual",
+   "docs_lidos": 4,
+   "docs_sem_texto": 0,
+   "palavras": 25369,
+   "por_10mil_palavras": {
+    "ordem": 0.79,
+    "direitos": 0.0,
+    "socialismo": 20.5,
+    "trabalhismo": 7.49,
+    "liberalismo": 0.0,
+    "conservador": 0.0,
+    "cristao": 0.0,
+    "familia": 0.0
+   },
+   "ocorrencias": {
+    "ordem": 2,
+    "direitos": 0,
+    "socialismo": 52,
+    "trabalhismo": 19,
+    "liberalismo": 0,
+    "conservador": 0,
+    "cristao": 0,
+    "familia": 0
+   },
+   "indice_ordem_menos_direitos": 0.79
+  },
+  {
+   "partido": "PCO",
+   "tipo": "atual",
+   "docs_lidos": 1,
+   "docs_sem_texto": 0,
+   "palavras": 1062,
+   "por_10mil_palavras": {
+    "ordem": 0.0,
+    "direitos": 0.0,
+    "socialismo": 0.0,
+    "trabalhismo": 0.0,
+    "liberalismo": 0.0,
+    "conservador": 0.0,
+    "cristao": 0.0,
+    "familia": 0.0
+   },
+   "ocorrencias": {
+    "ordem": 0,
+    "direitos": 0,
+    "socialismo": 0,
+    "trabalhismo": 0,
+    "liberalismo": 0,
+    "conservador": 0,
+    "cristao": 0,
+    "familia": 0
+   },
+   "indice_ordem_menos_direitos": 0.0
+  },
+  {
+   "partido": "PCdoB",
+   "tipo": "atual",
+   "docs_lidos": 10,
+   "docs_sem_texto": 0,
+   "palavras": 101230,
+   "por_10mil_palavras": {
+    "ordem": 0.2,
+    "direitos": 0.79,
+    "socialismo": 48.8,
+    "trabalhismo": 10.67,
+    "liberalismo": 0.1,
+    "conservador": 0.79,
+    "cristao": 0.69,
+    "familia": 0.0
+   },
+   "ocorrencias": {
+    "ordem": 2,
+    "direitos": 8,
+    "socialismo": 494,
+    "trabalhismo": 108,
+    "liberalismo": 1,
+    "conservador": 8,
+    "cristao": 7,
+    "familia": 0
+   },
+   "indice_ordem_menos_direitos": -0.59
+  },
+  {
+   "partido": "PDT",
+   "tipo": "atual",
+   "docs_lidos": 5,
+   "docs_sem_texto": 0,
+   "palavras": 57546,
+   "por_10mil_palavras": {
+    "ordem": 0.0,
+    "direitos": 0.17,
+    "socialismo": 2.61,
+    "trabalhismo": 12.86,
+    "liberalismo": 0.0,
+    "conservador": 0.7,
+    "cristao": 0.0,
+    "familia": 0.52
+   },
+   "ocorrencias": {
+    "ordem": 0,
+    "direitos": 1,
+    "socialismo": 15,
+    "trabalhismo": 74,
+    "liberalismo": 0,
+    "conservador": 4,
+    "cristao": 0,
+    "familia": 3
+   },
+   "indice_ordem_menos_direitos": -0.17
+  },
+  {
+   "partido": "PL",
+   "tipo": "atual",
+   "docs_lidos": 10,
+   "docs_sem_texto": 0,
+   "palavras": 82758,
+   "por_10mil_palavras": {
+    "ordem": 0.48,
+    "direitos": 0.48,
+    "socialismo": 0.12,
+    "trabalhismo": 0.24,
+    "liberalismo": 0.0,
+    "conservador": 0.0,
+    "cristao": 0.12,
+    "familia": 2.3
+   },
+   "ocorrencias": {
+    "ordem": 4,
+    "direitos": 4,
+    "socialismo": 1,
+    "trabalhismo": 2,
+    "liberalismo": 0,
+    "conservador": 0,
+    "cristao": 1,
+    "familia": 19
+   },
+   "indice_ordem_menos_direitos": 0.0
+  },
+  {
+   "partido": "PODE",
+   "tipo": "atual",
+   "docs_lidos": 7,
+   "docs_sem_texto": 0,
+   "palavras": 70854,
+   "por_10mil_palavras": {
+    "ordem": 3.95,
+    "direitos": 0.71,
+    "socialismo": 0.0,
+    "trabalhismo": 7.9,
+    "liberalismo": 0.0,
+    "conservador": 0.0,
+    "cristao": 1.27,
+    "familia": 0.56
+   },
+   "ocorrencias": {
+    "ordem": 28,
+    "direitos": 5,
+    "socialismo": 0,
+    "trabalhismo": 56,
+    "liberalismo": 0,
+    "conservador": 0,
+    "cristao": 9,
+    "familia": 4
+   },
+   "indice_ordem_menos_direitos": 3.24
+  },
+  {
+   "partido": "PP",
+   "tipo": "atual",
+   "docs_lidos": 18,
+   "docs_sem_texto": 0,
+   "palavras": 249325,
+   "por_10mil_palavras": {
+    "ordem": 0.52,
+    "direitos": 0.32,
+    "socialismo": 0.0,
+    "trabalhismo": 3.21,
+    "liberalismo": 0.2,
+    "conservador": 0.04,
+    "cristao": 0.6,
+    "familia": 0.76
+   },
+   "ocorrencias": {
+    "ordem": 13,
+    "direitos": 8,
+    "socialismo": 0,
+    "trabalhismo": 80,
+    "liberalismo": 5,
+    "conservador": 1,
+    "cristao": 15,
+    "familia": 19
+   },
+   "indice_ordem_menos_direitos": 0.2
+  },
+  {
+   "partido": "PRD",
+   "tipo": "atual",
+   "docs_lidos": 2,
+   "docs_sem_texto": 0,
+   "palavras": 22642,
+   "por_10mil_palavras": {
+    "ordem": 0.0,
+    "direitos": 0.0,
+    "socialismo": 0.0,
+    "trabalhismo": 1.32,
+    "liberalismo": 0.0,
+    "conservador": 0.0,
+    "cristao": 0.0,
+    "familia": 0.0
+   },
+   "ocorrencias": {
+    "ordem": 0,
+    "direitos": 0,
+    "socialismo": 0,
+    "trabalhismo": 3,
+    "liberalismo": 0,
+    "conservador": 0,
+    "cristao": 0,
+    "familia": 0
+   },
+   "indice_ordem_menos_direitos": 0.0
+  },
+  {
+   "partido": "PRTB",
+   "tipo": "atual",
+   "docs_lidos": 3,
+   "docs_sem_texto": 0,
+   "palavras": 37315,
+   "por_10mil_palavras": {
+    "ordem": 0.0,
+    "direitos": 0.0,
+    "socialismo": 0.0,
+    "trabalhismo": 14.74,
+    "liberalismo": 0.0,
+    "conservador": 0.0,
+    "cristao": 0.0,
+    "familia": 0.0
+   },
+   "ocorrencias": {
+    "ordem": 0,
+    "direitos": 0,
+    "socialismo": 0,
+    "trabalhismo": 55,
+    "liberalismo": 0,
+    "conservador": 0,
+    "cristao": 0,
+    "familia": 0
+   },
+   "indice_ordem_menos_direitos": 0.0
+  },
+  {
+   "partido": "PSB",
+   "tipo": "atual",
+   "docs_lidos": 4,
+   "docs_sem_texto": 0,
+   "palavras": 40104,
+   "por_10mil_palavras": {
+    "ordem": 0.0,
+    "direitos": 0.75,
+    "socialismo": 12.47,
+    "trabalhismo": 4.49,
+    "liberalismo": 0.0,
+    "conservador": 0.5,
+    "cristao": 0.0,
+    "familia": 0.0
+   },
+   "ocorrencias": {
+    "ordem": 0,
+    "direitos": 3,
+    "socialismo": 50,
+    "trabalhismo": 18,
+    "liberalismo": 0,
+    "conservador": 2,
+    "cristao": 0,
+    "familia": 0
+   },
+   "indice_ordem_menos_direitos": -0.75
+  },
+  {
+   "partido": "PSD",
+   "tipo": "atual",
+   "docs_lidos": 7,
+   "docs_sem_texto": 0,
+   "palavras": 75771,
+   "por_10mil_palavras": {
+    "ordem": 0.0,
+    "direitos": 0.13,
+    "socialismo": 0.0,
+    "trabalhismo": 0.79,
+    "liberalismo": 0.0,
+    "conservador": 0.13,
+    "cristao": 0.0,
+    "familia": 0.26
+   },
+   "ocorrencias": {
+    "ordem": 0,
+    "direitos": 1,
+    "socialismo": 0,
+    "trabalhismo": 6,
+    "liberalismo": 0,
+    "conservador": 1,
+    "cristao": 0,
+    "familia": 2
+   },
+   "indice_ordem_menos_direitos": -0.13
+  },
+  {
+   "partido": "PSDB",
+   "tipo": "atual",
+   "docs_lidos": 11,
+   "docs_sem_texto": 0,
+   "palavras": 245338,
+   "por_10mil_palavras": {
+    "ordem": 0.53,
+    "direitos": 0.0,
+    "socialismo": 0.0,
+    "trabalhismo": 2.28,
+    "liberalismo": 0.0,
+    "conservador": 0.0,
+    "cristao": 0.49,
+    "familia": 0.16
+   },
+   "ocorrencias": {
+    "ordem": 13,
+    "direitos": 0,
+    "socialismo": 0,
+    "trabalhismo": 56,
+    "liberalismo": 0,
+    "conservador": 0,
+    "cristao": 12,
+    "familia": 4
+   },
+   "indice_ordem_menos_direitos": 0.53
+  },
+  {
+   "partido": "PSOL",
+   "tipo": "atual",
+   "docs_lidos": 3,
+   "docs_sem_texto": 0,
+   "palavras": 29289,
+   "por_10mil_palavras": {
+    "ordem": 0.0,
+    "direitos": 0.0,
+    "socialismo": 16.05,
+    "trabalhismo": 4.1,
+    "liberalismo": 0.0,
+    "conservador": 0.0,
+    "cristao": 3.07,
+    "familia": 0.0
+   },
+   "ocorrencias": {
+    "ordem": 0,
+    "direitos": 0,
+    "socialismo": 47,
+    "trabalhismo": 12,
+    "liberalismo": 0,
+    "conservador": 0,
+    "cristao": 9,
+    "familia": 0
+   },
+   "indice_ordem_menos_direitos": 0.0
+  },
+  {
+   "partido": "PSTU",
+   "tipo": "atual",
+   "docs_lidos": 7,
+   "docs_sem_texto": 0,
+   "palavras": 59205,
+   "por_10mil_palavras": {
+    "ordem": 0.0,
+    "direitos": 0.0,
+    "socialismo": 12.33,
+    "trabalhismo": 17.73,
+    "liberalismo": 0.0,
+    "conservador": 0.0,
+    "cristao": 1.35,
+    "familia": 0.0
+   },
+   "ocorrencias": {
+    "ordem": 0,
+    "direitos": 0,
+    "socialismo": 73,
+    "trabalhismo": 105,
+    "liberalismo": 0,
+    "conservador": 0,
+    "cristao": 8,
+    "familia": 0
+   },
+   "indice_ordem_menos_direitos": 0.0
+  },
+  {
+   "partido": "PT",
+   "tipo": "atual",
+   "docs_lidos": 12,
+   "docs_sem_texto": 0,
+   "palavras": 177643,
+   "por_10mil_palavras": {
+    "ordem": 0.79,
+    "direitos": 0.06,
+    "socialismo": 0.28,
+    "trabalhismo": 11.37,
+    "liberalismo": 0.0,
+    "conservador": 0.23,
+    "cristao": 1.18,
+    "familia": 0.0
+   },
+   "ocorrencias": {
+    "ordem": 14,
+    "direitos": 1,
+    "socialismo": 5,
+    "trabalhismo": 202,
+    "liberalismo": 0,
+    "conservador": 4,
+    "cristao": 21,
+    "familia": 0
+   },
+   "indice_ordem_menos_direitos": 0.73
+  },
+  {
+   "partido": "PV",
+   "tipo": "atual",
+   "docs_lidos": 9,
+   "docs_sem_texto": 0,
+   "palavras": 71915,
+   "por_10mil_palavras": {
+    "ordem": 0.7,
+    "direitos": 2.09,
+    "socialismo": 0.0,
+    "trabalhismo": 0.42,
+    "liberalismo": 0.0,
+    "conservador": 0.0,
+    "cristao": 0.97,
+    "familia": 0.42
+   },
+   "ocorrencias": {
+    "ordem": 5,
+    "direitos": 15,
+    "socialismo": 0,
+    "trabalhismo": 3,
+    "liberalismo": 0,
+    "conservador": 0,
+    "cristao": 7,
+    "familia": 3
+   },
+   "indice_ordem_menos_direitos": -1.39
+  },
+  {
+   "partido": "Partido Agrário Nacional",
+   "tipo": "historico",
+   "docs_lidos": 3,
+   "docs_sem_texto": 0,
+   "palavras": 9402,
+   "por_10mil_palavras": {
+    "ordem": 0.0,
+    "direitos": 0.0,
+    "socialismo": 0.0,
+    "trabalhismo": 2.13,
+    "liberalismo": 0.0,
+    "conservador": 0.0,
+    "cristao": 3.19,
+    "familia": 1.06
+   },
+   "ocorrencias": {
+    "ordem": 0,
+    "direitos": 0,
+    "socialismo": 0,
+    "trabalhismo": 2,
+    "liberalismo": 0,
+    "conservador": 0,
+    "cristao": 3,
+    "familia": 1
+   },
+   "indice_ordem_menos_direitos": 0.0
+  },
+  {
+   "partido": "Partido Comunista Brasileiro",
+   "tipo": "historico",
+   "docs_lidos": 2,
+   "docs_sem_texto": 0,
+   "palavras": 6892,
+   "por_10mil_palavras": {
+    "ordem": 0.0,
+    "direitos": 0.0,
+    "socialismo": 49.33,
+    "trabalhismo": 11.61,
+    "liberalismo": 0.0,
+    "conservador": 0.0,
+    "cristao": 1.45,
+    "familia": 1.45
+   },
+   "ocorrencias": {
+    "ordem": 0,
+    "direitos": 0,
+    "socialismo": 34,
+    "trabalhismo": 8,
+    "liberalismo": 0,
+    "conservador": 0,
+    "cristao": 1,
+    "familia": 1
+   },
+   "indice_ordem_menos_direitos": 0.0
+  },
+  {
+   "partido": "Partido Comunista Do Brasil",
+   "tipo": "historico",
+   "docs_lidos": 2,
+   "docs_sem_texto": 0,
+   "palavras": 3151,
+   "por_10mil_palavras": {
+    "ordem": 0.0,
+    "direitos": 0.0,
+    "socialismo": 31.74,
+    "trabalhismo": 0.0,
+    "liberalismo": 0.0,
+    "conservador": 0.0,
+    "cristao": 3.17,
+    "familia": 0.0
+   },
+   "ocorrencias": {
+    "ordem": 0,
+    "direitos": 0,
+    "socialismo": 10,
+    "trabalhismo": 0,
+    "liberalismo": 0,
+    "conservador": 0,
+    "cristao": 1,
+    "familia": 0
+   },
+   "indice_ordem_menos_direitos": 0.0
+  },
+  {
+   "partido": "Partido Constitucionalista Brasileiro",
+   "tipo": "historico",
+   "docs_lidos": 1,
+   "docs_sem_texto": 0,
+   "palavras": 1075,
+   "por_10mil_palavras": {
+    "ordem": 0.0,
+    "direitos": 0.0,
+    "socialismo": 0.0,
+    "trabalhismo": 0.0,
+    "liberalismo": 0.0,
+    "conservador": 0.0,
+    "cristao": 0.0,
+    "familia": 0.0
+   },
+   "ocorrencias": {
+    "ordem": 0,
+    "direitos": 0,
+    "socialismo": 0,
+    "trabalhismo": 0,
+    "liberalismo": 0,
+    "conservador": 0,
+    "cristao": 0,
+    "familia": 0
+   },
+   "indice_ordem_menos_direitos": 0.0
+  },
+  {
+   "partido": "Partido Da Boa Vontade",
+   "tipo": "historico",
+   "docs_lidos": 2,
+   "docs_sem_texto": 0,
+   "palavras": 2846,
+   "por_10mil_palavras": {
+    "ordem": 0.0,
+    "direitos": 0.0,
+    "socialismo": 0.0,
+    "trabalhismo": 3.51,
+    "liberalismo": 0.0,
+    "conservador": 0.0,
+    "cristao": 42.16,
+    "familia": 3.51
+   },
+   "ocorrencias": {
+    "ordem": 0,
+    "direitos": 0,
+    "socialismo": 0,
+    "trabalhismo": 1,
+    "liberalismo": 0,
+    "conservador": 0,
+    "cristao": 12,
+    "familia": 1
+   },
+   "indice_ordem_menos_direitos": 0.0
+  },
+  {
+   "partido": "Partido Da Lavoura, Indústria e Comércio",
+   "tipo": "historico",
+   "docs_lidos": 3,
+   "docs_sem_texto": 0,
+   "palavras": 4426,
+   "por_10mil_palavras": {
+    "ordem": 2.26,
+    "direitos": 0.0,
+    "socialismo": 0.0,
+    "trabalhismo": 0.0,
+    "liberalismo": 0.0,
+    "conservador": 0.0,
+    "cristao": 2.26,
+    "familia": 2.26
+   },
+   "ocorrencias": {
+    "ordem": 1,
+    "direitos": 0,
+    "socialismo": 0,
+    "trabalhismo": 0,
+    "liberalismo": 0,
+    "conservador": 0,
+    "cristao": 1,
+    "familia": 1
+   },
+   "indice_ordem_menos_direitos": 2.26
+  },
+  {
+   "partido": "Partido De Representação Popular",
+   "tipo": "historico",
+   "docs_lidos": 3,
+   "docs_sem_texto": 0,
+   "palavras": 6362,
+   "por_10mil_palavras": {
+    "ordem": 0.0,
+    "direitos": 1.57,
+    "socialismo": 0.0,
+    "trabalhismo": 3.14,
+    "liberalismo": 0.0,
+    "conservador": 1.57,
+    "cristao": 12.57,
+    "familia": 4.72
+   },
+   "ocorrencias": {
+    "ordem": 0,
+    "direitos": 1,
+    "socialismo": 0,
+    "trabalhismo": 2,
+    "liberalismo": 0,
+    "conservador": 1,
+    "cristao": 8,
+    "familia": 3
+   },
+   "indice_ordem_menos_direitos": -1.57
+  },
+  {
+   "partido": "Partido Democrata Cristão",
+   "tipo": "historico",
+   "docs_lidos": 11,
+   "docs_sem_texto": 0,
+   "palavras": 20935,
+   "por_10mil_palavras": {
+    "ordem": 0.96,
+    "direitos": 0.0,
+    "socialismo": 0.0,
+    "trabalhismo": 0.96,
+    "liberalismo": 0.0,
+    "conservador": 0.0,
+    "cristao": 21.02,
+    "familia": 4.78
+   },
+   "ocorrencias": {
+    "ordem": 2,
+    "direitos": 0,
+    "socialismo": 0,
+    "trabalhismo": 2,
+    "liberalismo": 0,
+    "conservador": 0,
+    "cristao": 44,
+    "familia": 10
+   },
+   "indice_ordem_menos_direitos": 0.96
+  },
+  {
+   "partido": "Partido Democrático Progressista",
+   "tipo": "historico",
+   "docs_lidos": 2,
+   "docs_sem_texto": 0,
+   "palavras": 3274,
+   "por_10mil_palavras": {
+    "ordem": 0.0,
+    "direitos": 0.0,
+    "socialismo": 3.05,
+    "trabalhismo": 0.0,
+    "liberalismo": 0.0,
+    "conservador": 0.0,
+    "cristao": 3.05,
+    "familia": 0.0
+   },
+   "ocorrencias": {
+    "ordem": 0,
+    "direitos": 0,
+    "socialismo": 1,
+    "trabalhismo": 0,
+    "liberalismo": 0,
+    "conservador": 0,
+    "cristao": 1,
+    "familia": 0
+   },
+   "indice_ordem_menos_direitos": 0.0
+  },
+  {
+   "partido": "Partido Industrial Agrícola Democrático",
+   "tipo": "historico",
+   "docs_lidos": 3,
+   "docs_sem_texto": 0,
+   "palavras": 3304,
+   "por_10mil_palavras": {
+    "ordem": 0.0,
+    "direitos": 0.0,
+    "socialismo": 0.0,
+    "trabalhismo": 0.0,
+    "liberalismo": 0.0,
+    "conservador": 0.0,
+    "cristao": 0.0,
+    "familia": 3.03
+   },
+   "ocorrencias": {
+    "ordem": 0,
+    "direitos": 0,
+    "socialismo": 0,
+    "trabalhismo": 0,
+    "liberalismo": 0,
+    "conservador": 0,
+    "cristao": 0,
+    "familia": 1
+   },
+   "indice_ordem_menos_direitos": 0.0
+  },
+  {
+   "partido": "Partido Libertador",
+   "tipo": "historico",
+   "docs_lidos": 2,
+   "docs_sem_texto": 0,
+   "palavras": 4483,
+   "por_10mil_palavras": {
+    "ordem": 0.0,
+    "direitos": 0.0,
+    "socialismo": 0.0,
+    "trabalhismo": 0.0,
+    "liberalismo": 0.0,
+    "conservador": 0.0,
+    "cristao": 11.15,
+    "familia": 11.15
+   },
+   "ocorrencias": {
+    "ordem": 0,
+    "direitos": 0,
+    "socialismo": 0,
+    "trabalhismo": 0,
+    "liberalismo": 0,
+    "conservador": 0,
+    "cristao": 5,
+    "familia": 5
+   },
+   "indice_ordem_menos_direitos": 0.0
+  },
+  {
+   "partido": "Partido Nacional Classista",
+   "tipo": "historico",
+   "docs_lidos": 2,
+   "docs_sem_texto": 0,
+   "palavras": 4252,
+   "por_10mil_palavras": {
+    "ordem": 0.0,
+    "direitos": 0.0,
+    "socialismo": 0.0,
+    "trabalhismo": 0.0,
+    "liberalismo": 0.0,
+    "conservador": 0.0,
+    "cristao": 0.0,
+    "familia": 2.35
+   },
+   "ocorrencias": {
+    "ordem": 0,
+    "direitos": 0,
+    "socialismo": 0,
+    "trabalhismo": 0,
+    "liberalismo": 0,
+    "conservador": 0,
+    "cristao": 0,
+    "familia": 1
+   },
+   "indice_ordem_menos_direitos": 0.0
+  },
+  {
+   "partido": "Partido Nacional Evolucionista",
+   "tipo": "historico",
+   "docs_lidos": 3,
+   "docs_sem_texto": 0,
+   "palavras": 5163,
+   "por_10mil_palavras": {
+    "ordem": 1.94,
+    "direitos": 1.94,
+    "socialismo": 1.94,
+    "trabalhismo": 5.81,
+    "liberalismo": 0.0,
+    "conservador": 0.0,
+    "cristao": 5.81,
+    "familia": 1.94
+   },
+   "ocorrencias": {
+    "ordem": 1,
+    "direitos": 1,
+    "socialismo": 1,
+    "trabalhismo": 3,
+    "liberalismo": 0,
+    "conservador": 0,
+    "cristao": 3,
+    "familia": 1
+   },
+   "indice_ordem_menos_direitos": 0.0
+  },
+  {
+   "partido": "Partido Nacional Popular Democrático",
+   "tipo": "historico",
+   "docs_lidos": 2,
+   "docs_sem_texto": 0,
+   "palavras": 2268,
+   "por_10mil_palavras": {
+    "ordem": 0.0,
+    "direitos": 0.0,
+    "socialismo": 0.0,
+    "trabalhismo": 0.0,
+    "liberalismo": 0.0,
+    "conservador": 0.0,
+    "cristao": 17.64,
+    "familia": 0.0
+   },
+   "ocorrencias": {
+    "ordem": 0,
+    "direitos": 0,
+    "socialismo": 0,
+    "trabalhismo": 0,
+    "liberalismo": 0,
+    "conservador": 0,
+    "cristao": 4,
+    "familia": 0
+   },
+   "indice_ordem_menos_direitos": 0.0
+  },
+  {
+   "partido": "Partido Nacionalista",
+   "tipo": "historico",
+   "docs_lidos": 2,
+   "docs_sem_texto": 0,
+   "palavras": 4510,
+   "por_10mil_palavras": {
+    "ordem": 0.0,
+    "direitos": 0.0,
+    "socialismo": 0.0,
+    "trabalhismo": 2.22,
+    "liberalismo": 0.0,
+    "conservador": 0.0,
+    "cristao": 0.0,
+    "familia": 4.43
+   },
+   "ocorrencias": {
+    "ordem": 0,
+    "direitos": 0,
+    "socialismo": 0,
+    "trabalhismo": 1,
+    "liberalismo": 0,
+    "conservador": 0,
+    "cristao": 0,
+    "familia": 2
+   },
+   "indice_ordem_menos_direitos": 0.0
+  },
+  {
+   "partido": "Partido Orientador Trabalhista",
+   "tipo": "historico",
+   "docs_lidos": 3,
+   "docs_sem_texto": 0,
+   "palavras": 7991,
+   "por_10mil_palavras": {
+    "ordem": 0.0,
+    "direitos": 0.0,
+    "socialismo": 0.0,
+    "trabalhismo": 7.51,
+    "liberalismo": 0.0,
+    "conservador": 1.25,
+    "cristao": 5.01,
+    "familia": 0.0
+   },
+   "ocorrencias": {
+    "ordem": 0,
+    "direitos": 0,
+    "socialismo": 0,
+    "trabalhismo": 6,
+    "liberalismo": 0,
+    "conservador": 1,
+    "cristao": 4,
+    "familia": 0
+   },
+   "indice_ordem_menos_direitos": 0.0
+  },
+  {
+   "partido": "Partido Popular Progressista",
+   "tipo": "historico",
+   "docs_lidos": 3,
+   "docs_sem_texto": 0,
+   "palavras": 4008,
+   "por_10mil_palavras": {
+    "ordem": 0.0,
+    "direitos": 0.0,
+    "socialismo": 0.0,
+    "trabalhismo": 4.99,
+    "liberalismo": 0.0,
+    "conservador": 0.0,
+    "cristao": 0.0,
+    "familia": 0.0
+   },
+   "ocorrencias": {
+    "ordem": 0,
+    "direitos": 0,
+    "socialismo": 0,
+    "trabalhismo": 2,
+    "liberalismo": 0,
+    "conservador": 0,
+    "cristao": 0,
+    "familia": 0
+   },
+   "indice_ordem_menos_direitos": 0.0
+  },
+  {
+   "partido": "Partido Popular Sindicalista",
+   "tipo": "historico",
+   "docs_lidos": 3,
+   "docs_sem_texto": 0,
+   "palavras": 6966,
+   "por_10mil_palavras": {
+    "ordem": 0.0,
+    "direitos": 0.0,
+    "socialismo": 0.0,
+    "trabalhismo": 4.31,
+    "liberalismo": 0.0,
+    "conservador": 4.31,
+    "cristao": 4.31,
+    "familia": 1.44
+   },
+   "ocorrencias": {
+    "ordem": 0,
+    "direitos": 0,
+    "socialismo": 0,
+    "trabalhismo": 3,
+    "liberalismo": 0,
+    "conservador": 3,
+    "cristao": 3,
+    "familia": 1
+   },
+   "indice_ordem_menos_direitos": 0.0
+  },
+  {
+   "partido": "Partido Regenerador",
+   "tipo": "historico",
+   "docs_lidos": 2,
+   "docs_sem_texto": 0,
+   "palavras": 6776,
+   "por_10mil_palavras": {
+    "ordem": 1.48,
+    "direitos": 0.0,
+    "socialismo": 0.0,
+    "trabalhismo": 0.0,
+    "liberalismo": 0.0,
+    "conservador": 1.48,
+    "cristao": 5.9,
+    "familia": 2.95
+   },
+   "ocorrencias": {
+    "ordem": 1,
+    "direitos": 0,
+    "socialismo": 0,
+    "trabalhismo": 0,
+    "liberalismo": 0,
+    "conservador": 1,
+    "cristao": 4,
+    "familia": 2
+   },
+   "indice_ordem_menos_direitos": 1.48
+  },
+  {
+   "partido": "Partido Republicano",
+   "tipo": "historico",
+   "docs_lidos": 3,
+   "docs_sem_texto": 0,
+   "palavras": 6160,
+   "por_10mil_palavras": {
+    "ordem": 6.49,
+    "direitos": 0.0,
+    "socialismo": 0.0,
+    "trabalhismo": 0.0,
+    "liberalismo": 0.0,
+    "conservador": 0.0,
+    "cristao": 0.0,
+    "familia": 3.25
+   },
+   "ocorrencias": {
+    "ordem": 4,
+    "direitos": 0,
+    "socialismo": 0,
+    "trabalhismo": 0,
+    "liberalismo": 0,
+    "conservador": 0,
+    "cristao": 0,
+    "familia": 2
+   },
+   "indice_ordem_menos_direitos": 6.49
+  },
+  {
+   "partido": "Partido Republicano Progressista",
+   "tipo": "historico",
+   "docs_lidos": 2,
+   "docs_sem_texto": 0,
+   "palavras": 4213,
+   "por_10mil_palavras": {
+    "ordem": 0.0,
+    "direitos": 0.0,
+    "socialismo": 0.0,
+    "trabalhismo": 11.87,
+    "liberalismo": 0.0,
+    "conservador": 0.0,
+    "cristao": 0.0,
+    "familia": 7.12
+   },
+   "ocorrencias": {
+    "ordem": 0,
+    "direitos": 0,
+    "socialismo": 0,
+    "trabalhismo": 5,
+    "liberalismo": 0,
+    "conservador": 0,
+    "cristao": 0,
+    "familia": 3
+   },
+   "indice_ordem_menos_direitos": 0.0
+  },
+  {
+   "partido": "Partido Republicano Trabalhista",
+   "tipo": "historico",
+   "docs_lidos": 2,
+   "docs_sem_texto": 0,
+   "palavras": 4765,
+   "por_10mil_palavras": {
+    "ordem": 0.0,
+    "direitos": 0.0,
+    "socialismo": 0.0,
+    "trabalhismo": 0.0,
+    "liberalismo": 0.0,
+    "conservador": 0.0,
+    "cristao": 0.0,
+    "familia": 0.0
+   },
+   "ocorrencias": {
+    "ordem": 0,
+    "direitos": 0,
+    "socialismo": 0,
+    "trabalhismo": 0,
+    "liberalismo": 0,
+    "conservador": 0,
+    "cristao": 0,
+    "familia": 0
+   },
+   "indice_ordem_menos_direitos": 0.0
+  },
+  {
+   "partido": "Partido Ruralista Brasileiro",
+   "tipo": "historico",
+   "docs_lidos": 4,
+   "docs_sem_texto": 0,
+   "palavras": 8264,
+   "por_10mil_palavras": {
+    "ordem": 0.0,
+    "direitos": 0.0,
+    "socialismo": 0.0,
+    "trabalhismo": 0.0,
+    "liberalismo": 0.0,
+    "conservador": 0.0,
+    "cristao": 0.0,
+    "familia": 2.42
+   },
+   "ocorrencias": {
+    "ordem": 0,
+    "direitos": 0,
+    "socialismo": 0,
+    "trabalhismo": 0,
+    "liberalismo": 0,
+    "conservador": 0,
+    "cristao": 0,
+    "familia": 2
+   },
+   "indice_ordem_menos_direitos": 0.0
+  },
+  {
+   "partido": "Partido Social Democrático",
+   "tipo": "historico",
+   "docs_lidos": 3,
+   "docs_sem_texto": 0,
+   "palavras": 5571,
+   "por_10mil_palavras": {
+    "ordem": 0.0,
+    "direitos": 0.0,
+    "socialismo": 0.0,
+    "trabalhismo": 5.39,
+    "liberalismo": 0.0,
+    "conservador": 1.8,
+    "cristao": 3.59,
+    "familia": 7.18
+   },
+   "ocorrencias": {
+    "ordem": 0,
+    "direitos": 0,
+    "socialismo": 0,
+    "trabalhismo": 3,
+    "liberalismo": 0,
+    "conservador": 1,
+    "cristao": 2,
+    "familia": 4
+   },
+   "indice_ordem_menos_direitos": 0.0
+  },
+  {
+   "partido": "Partido Social Progressista",
+   "tipo": "historico",
+   "docs_lidos": 3,
+   "docs_sem_texto": 0,
+   "palavras": 7488,
+   "por_10mil_palavras": {
+    "ordem": 1.34,
+    "direitos": 0.0,
+    "socialismo": 0.0,
+    "trabalhismo": 8.01,
+    "liberalismo": 0.0,
+    "conservador": 4.01,
+    "cristao": 6.68,
+    "familia": 4.01
+   },
+   "ocorrencias": {
+    "ordem": 1,
+    "direitos": 0,
+    "socialismo": 0,
+    "trabalhismo": 6,
+    "liberalismo": 0,
+    "conservador": 3,
+    "cristao": 5,
+    "familia": 3
+   },
+   "indice_ordem_menos_direitos": 1.34
+  },
+  {
+   "partido": "Partido Social Trabalhista",
+   "tipo": "historico",
+   "docs_lidos": 2,
+   "docs_sem_texto": 0,
+   "palavras": 3614,
+   "por_10mil_palavras": {
+    "ordem": 0.0,
+    "direitos": 0.0,
+    "socialismo": 0.0,
+    "trabalhismo": 19.37,
+    "liberalismo": 0.0,
+    "conservador": 0.0,
+    "cristao": 2.77,
+    "familia": 5.53
+   },
+   "ocorrencias": {
+    "ordem": 0,
+    "direitos": 0,
+    "socialismo": 0,
+    "trabalhismo": 7,
+    "liberalismo": 0,
+    "conservador": 0,
+    "cristao": 1,
+    "familia": 2
+   },
+   "indice_ordem_menos_direitos": 0.0
+  },
+  {
+   "partido": "Partido Socialista Brasileiro",
+   "tipo": "historico",
+   "docs_lidos": 3,
+   "docs_sem_texto": 0,
+   "palavras": 5257,
+   "por_10mil_palavras": {
+    "ordem": 1.9,
+    "direitos": 0.0,
+    "socialismo": 0.0,
+    "trabalhismo": 0.0,
+    "liberalismo": 1.9,
+    "conservador": 0.0,
+    "cristao": 1.9,
+    "familia": 1.9
+   },
+   "ocorrencias": {
+    "ordem": 1,
+    "direitos": 0,
+    "socialismo": 0,
+    "trabalhismo": 0,
+    "liberalismo": 1,
+    "conservador": 0,
+    "cristao": 1,
+    "familia": 1
+   },
+   "indice_ordem_menos_direitos": 1.9
+  },
+  {
+   "partido": "Partido Socialista Cristão",
+   "tipo": "historico",
+   "docs_lidos": 2,
+   "docs_sem_texto": 0,
+   "palavras": 2428,
+   "por_10mil_palavras": {
+    "ordem": 4.12,
+    "direitos": 0.0,
+    "socialismo": 49.42,
+    "trabalhismo": 4.12,
+    "liberalismo": 0.0,
+    "conservador": 0.0,
+    "cristao": 70.02,
+    "familia": 0.0
+   },
+   "ocorrencias": {
+    "ordem": 1,
+    "direitos": 0,
+    "socialismo": 12,
+    "trabalhismo": 1,
+    "liberalismo": 0,
+    "conservador": 0,
+    "cristao": 17,
+    "familia": 0
+   },
+   "indice_ordem_menos_direitos": 4.12
+  },
+  {
+   "partido": "Partido Socialista Do Brasil",
+   "tipo": "historico",
+   "docs_lidos": 3,
+   "docs_sem_texto": 0,
+   "palavras": 13770,
+   "por_10mil_palavras": {
+    "ordem": 2.9,
+    "direitos": 0.0,
+    "socialismo": 20.33,
+    "trabalhismo": 3.63,
+    "liberalismo": 0.0,
+    "conservador": 0.0,
+    "cristao": 2.18,
+    "familia": 7.99
+   },
+   "ocorrencias": {
+    "ordem": 4,
+    "direitos": 0,
+    "socialismo": 28,
+    "trabalhismo": 5,
+    "liberalismo": 0,
+    "conservador": 0,
+    "cristao": 3,
+    "familia": 11
+   },
+   "indice_ordem_menos_direitos": 2.9
+  },
+  {
+   "partido": "Partido Trabalhista Nacional",
+   "tipo": "historico",
+   "docs_lidos": 2,
+   "docs_sem_texto": 0,
+   "palavras": 5591,
+   "por_10mil_palavras": {
+    "ordem": 0.0,
+    "direitos": 0.0,
+    "socialismo": 0.0,
+    "trabalhismo": 7.15,
+    "liberalismo": 0.0,
+    "conservador": 0.0,
+    "cristao": 0.0,
+    "familia": 0.0
+   },
+   "ocorrencias": {
+    "ordem": 0,
+    "direitos": 0,
+    "socialismo": 0,
+    "trabalhismo": 4,
+    "liberalismo": 0,
+    "conservador": 0,
+    "cristao": 0,
+    "familia": 0
+   },
+   "indice_ordem_menos_direitos": 0.0
+  },
+  {
+   "partido": "Partido Trabalhista Republicano",
+   "tipo": "historico",
+   "docs_lidos": 2,
+   "docs_sem_texto": 0,
+   "palavras": 8619,
+   "por_10mil_palavras": {
+    "ordem": 0.0,
+    "direitos": 0.0,
+    "socialismo": 0.0,
+    "trabalhismo": 24.36,
+    "liberalismo": 0.0,
+    "conservador": 0.0,
+    "cristao": 0.0,
+    "familia": 1.16
+   },
+   "ocorrencias": {
+    "ordem": 0,
+    "direitos": 0,
+    "socialismo": 0,
+    "trabalhismo": 21,
+    "liberalismo": 0,
+    "conservador": 0,
+    "cristao": 0,
+    "familia": 1
+   },
+   "indice_ordem_menos_direitos": 0.0
+  },
+  {
+   "partido": "REDE",
+   "tipo": "atual",
+   "docs_lidos": 4,
+   "docs_sem_texto": 0,
+   "palavras": 76991,
+   "por_10mil_palavras": {
+    "ordem": 0.52,
+    "direitos": 1.04,
+    "socialismo": 0.0,
+    "trabalhismo": 0.52,
+    "liberalismo": 0.0,
+    "conservador": 0.0,
+    "cristao": 1.56,
+    "familia": 0.0
+   },
+   "ocorrencias": {
+    "ordem": 4,
+    "direitos": 8,
+    "socialismo": 0,
+    "trabalhismo": 4,
+    "liberalismo": 0,
+    "conservador": 0,
+    "cristao": 12,
+    "familia": 0
+   },
+   "indice_ordem_menos_direitos": -0.52
+  },
+  {
+   "partido": "REPUBLICANOS",
+   "tipo": "atual",
+   "docs_lidos": 8,
+   "docs_sem_texto": 0,
+   "palavras": 74347,
+   "por_10mil_palavras": {
+    "ordem": 0.94,
+    "direitos": 0.27,
+    "socialismo": 0.0,
+    "trabalhismo": 0.0,
+    "liberalismo": 0.0,
+    "conservador": 0.0,
+    "cristao": 2.56,
+    "familia": 0.4
+   },
+   "ocorrencias": {
+    "ordem": 7,
+    "direitos": 2,
+    "socialismo": 0,
+    "trabalhismo": 0,
+    "liberalismo": 0,
+    "conservador": 0,
+    "cristao": 19,
+    "familia": 3
+   },
+   "indice_ordem_menos_direitos": 0.67
+  },
+  {
+   "partido": "SOLIDARIEDADE",
+   "tipo": "atual",
+   "docs_lidos": 5,
+   "docs_sem_texto": 0,
+   "palavras": 55993,
+   "por_10mil_palavras": {
+    "ordem": 0.0,
+    "direitos": 0.0,
+    "socialismo": 0.0,
+    "trabalhismo": 0.0,
+    "liberalismo": 0.0,
+    "conservador": 0.0,
+    "cristao": 0.71,
+    "familia": 2.32
+   },
+   "ocorrencias": {
+    "ordem": 0,
+    "direitos": 0,
+    "socialismo": 0,
+    "trabalhismo": 0,
+    "liberalismo": 0,
+    "conservador": 0,
+    "cristao": 4,
+    "familia": 13
+   },
+   "indice_ordem_menos_direitos": 0.0
+  },
+  {
+   "partido": "UNIÃO",
+   "tipo": "atual",
+   "docs_lidos": 2,
+   "docs_sem_texto": 0,
+   "palavras": 20688,
+   "por_10mil_palavras": {
+    "ordem": 0.0,
+    "direitos": 0.48,
+    "socialismo": 0.0,
+    "trabalhismo": 0.0,
+    "liberalismo": 0.48,
+    "conservador": 0.0,
+    "cristao": 0.0,
+    "familia": 0.0
+   },
+   "ocorrencias": {
+    "ordem": 0,
+    "direitos": 1,
+    "socialismo": 0,
+    "trabalhismo": 0,
+    "liberalismo": 1,
+    "conservador": 0,
+    "cristao": 0,
+    "familia": 0
+   },
+   "indice_ordem_menos_direitos": -0.48
+  },
+  {
+   "partido": "UP",
+   "tipo": "atual",
+   "docs_lidos": 2,
+   "docs_sem_texto": 0,
+   "palavras": 17341,
+   "por_10mil_palavras": {
+    "ordem": 1.73,
+    "direitos": 0.0,
+    "socialismo": 3.46,
+    "trabalhismo": 1.15,
+    "liberalismo": 0.0,
+    "conservador": 0.0,
+    "cristao": 2.31,
+    "familia": 1.15
+   },
+   "ocorrencias": {
+    "ordem": 3,
+    "direitos": 0,
+    "socialismo": 6,
+    "trabalhismo": 2,
+    "liberalismo": 0,
+    "conservador": 0,
+    "cristao": 4,
+    "familia": 2
+   },
+   "indice_ordem_menos_direitos": 1.73
+  },
+  {
+   "partido": "União Democrática Nacional",
+   "tipo": "historico",
+   "docs_lidos": 3,
+   "docs_sem_texto": 0,
+   "palavras": 4905,
+   "por_10mil_palavras": {
+    "ordem": 0.0,
+    "direitos": 0.0,
+    "socialismo": 0.0,
+    "trabalhismo": 0.0,
+    "liberalismo": 0.0,
+    "conservador": 0.0,
+    "cristao": 2.04,
+    "familia": 0.0
+   },
+   "ocorrencias": {
+    "ordem": 0,
+    "direitos": 0,
+    "socialismo": 0,
+    "trabalhismo": 0,
+    "liberalismo": 0,
+    "conservador": 0,
+    "cristao": 1,
+    "familia": 0
+   },
+   "indice_ordem_menos_direitos": 0.0
+  },
+  {
+   "partido": "União Nacional Do Trabalho",
+   "tipo": "historico",
+   "docs_lidos": 3,
+   "docs_sem_texto": 0,
+   "palavras": 7295,
+   "por_10mil_palavras": {
+    "ordem": 0.0,
+    "direitos": 0.0,
+    "socialismo": 5.48,
+    "trabalhismo": 15.08,
+    "liberalismo": 0.0,
+    "conservador": 6.85,
+    "cristao": 5.48,
+    "familia": 0.0
+   },
+   "ocorrencias": {
+    "ordem": 0,
+    "direitos": 0,
+    "socialismo": 4,
+    "trabalhismo": 11,
+    "liberalismo": 0,
+    "conservador": 5,
+    "cristao": 4,
+    "familia": 0
+   },
+   "indice_ordem_menos_direitos": 0.0
+  },
+  {
+   "partido": "União Social Pelos Direitos Do Homem",
+   "tipo": "historico",
+   "docs_lidos": 2,
+   "docs_sem_texto": 0,
+   "palavras": 3179,
+   "por_10mil_palavras": {
+    "ordem": 0.0,
+    "direitos": 0.0,
+    "socialismo": 0.0,
+    "trabalhismo": 0.0,
+    "liberalismo": 0.0,
+    "conservador": 0.0,
+    "cristao": 0.0,
+    "familia": 0.0
+   },
+   "ocorrencias": {
+    "ordem": 0,
+    "direitos": 0,
+    "socialismo": 0,
+    "trabalhismo": 0,
+    "liberalismo": 0,
+    "conservador": 0,
+    "cristao": 0,
+    "familia": 0
+   },
+   "indice_ordem_menos_direitos": 0.0
+  }
+ ],
+ "testes": {
+  "indice_ordem_menos_direitos|escala_2018": {
+   "partidos": 24,
+   "spearman": 0.291,
+   "p": 0.1656,
+   "partidos_usados": [
+    "AGIR",
+    "AVANTE",
+    "CIDADANIA",
+    "DC",
+    "MDB",
+    "NOVO",
+    "PCB",
+    "PCO",
+    "PCdoB",
+    "PDT",
+    "PL",
+    "PODE",
+    "PP",
+    "PRTB",
+    "PSB",
+    "PSD",
+    "PSDB",
+    "PSOL",
+    "PSTU",
+    "PT",
+    "PV",
+    "REDE",
+    "REPUBLICANOS",
+    "SOLIDARIEDADE"
+   ]
+  },
+  "ordem|escala_2018": {
+   "partidos": 24,
+   "spearman": 0.441,
+   "p": 0.0321,
+   "partidos_usados": [
+    "AGIR",
+    "AVANTE",
+    "CIDADANIA",
+    "DC",
+    "MDB",
+    "NOVO",
+    "PCB",
+    "PCO",
+    "PCdoB",
+    "PDT",
+    "PL",
+    "PODE",
+    "PP",
+    "PRTB",
+    "PSB",
+    "PSD",
+    "PSDB",
+    "PSOL",
+    "PSTU",
+    "PT",
+    "PV",
+    "REDE",
+    "REPUBLICANOS",
+    "SOLIDARIEDADE"
+   ]
+  },
+  "direitos|escala_2018": {
+   "partidos": 24,
+   "spearman": 0.305,
+   "p": 0.1468,
+   "partidos_usados": [
+    "AGIR",
+    "AVANTE",
+    "CIDADANIA",
+    "DC",
+    "MDB",
+    "NOVO",
+    "PCB",
+    "PCO",
+    "PCdoB",
+    "PDT",
+    "PL",
+    "PODE",
+    "PP",
+    "PRTB",
+    "PSB",
+    "PSD",
+    "PSDB",
+    "PSOL",
+    "PSTU",
+    "PT",
+    "PV",
+    "REDE",
+    "REPUBLICANOS",
+    "SOLIDARIEDADE"
+   ]
+  },
+  "indice_ordem_menos_direitos|escala_2022": {
+   "partidos": 25,
+   "spearman": 0.202,
+   "p": 0.3321,
+   "partidos_usados": [
+    "AGIR",
+    "AVANTE",
+    "CIDADANIA",
+    "DC",
+    "MDB",
+    "NOVO",
+    "PCB",
+    "PCO",
+    "PCdoB",
+    "PDT",
+    "PL",
+    "PODE",
+    "PP",
+    "PRTB",
+    "PSB",
+    "PSD",
+    "PSDB",
+    "PSOL",
+    "PSTU",
+    "PT",
+    "PV",
+    "REDE",
+    "REPUBLICANOS",
+    "SOLIDARIEDADE",
+    "UNIÃO"
+   ]
+  },
+  "ordem|escala_2022": {
+   "partidos": 25,
+   "spearman": 0.33,
+   "p": 0.1067,
+   "partidos_usados": [
+    "AGIR",
+    "AVANTE",
+    "CIDADANIA",
+    "DC",
+    "MDB",
+    "NOVO",
+    "PCB",
+    "PCO",
+    "PCdoB",
+    "PDT",
+    "PL",
+    "PODE",
+    "PP",
+    "PRTB",
+    "PSB",
+    "PSD",
+    "PSDB",
+    "PSOL",
+    "PSTU",
+    "PT",
+    "PV",
+    "REDE",
+    "REPUBLICANOS",
+    "SOLIDARIEDADE",
+    "UNIÃO"
+   ]
+  },
+  "direitos|escala_2022": {
+   "partidos": 25,
+   "spearman": 0.31,
+   "p": 0.1313,
+   "partidos_usados": [
+    "AGIR",
+    "AVANTE",
+    "CIDADANIA",
+    "DC",
+    "MDB",
+    "NOVO",
+    "PCB",
+    "PCO",
+    "PCdoB",
+    "PDT",
+    "PL",
+    "PODE",
+    "PP",
+    "PRTB",
+    "PSB",
+    "PSD",
+    "PSDB",
+    "PSOL",
+    "PSTU",
+    "PT",
+    "PV",
+    "REDE",
+    "REPUBLICANOS",
+    "SOLIDARIEDADE",
+    "UNIÃO"
+   ]
+  },
+  "indice_ordem_menos_direitos|pct_sim_texto_base_que_agrava": {
+   "partidos": 10,
+   "spearman": -0.036,
+   "p": 0.9264,
+   "partidos_usados": [
+    "MDB",
+    "PDT",
+    "PL",
+    "PP",
+    "PSB",
+    "PSD",
+    "PSDB",
+    "PT",
+    "REPUBLICANOS",
+    "UNIÃO"
+   ]
+  },
+  "ordem|pct_sim_texto_base_que_agrava": {
+   "partidos": 10,
+   "spearman": 0.034,
+   "p": 0.9266,
+   "partidos_usados": [
+    "MDB",
+    "PDT",
+    "PL",
+    "PP",
+    "PSB",
+    "PSD",
+    "PSDB",
+    "PT",
+    "REPUBLICANOS",
+    "UNIÃO"
+   ]
+  },
+  "direitos|pct_sim_texto_base_que_agrava": {
+   "partidos": 10,
+   "spearman": 0.238,
+   "p": 0.5043,
+   "partidos_usados": [
+    "MDB",
+    "PDT",
+    "PL",
+    "PP",
+    "PSB",
+    "PSD",
+    "PSDB",
+    "PT",
+    "REPUBLICANOS",
+    "UNIÃO"
+   ]
+  }
+ }
+}

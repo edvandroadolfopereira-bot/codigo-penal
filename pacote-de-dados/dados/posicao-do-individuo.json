@@ -1,0 +1,82 @@
+{
+ "gerado_por": "apurar_posicao_do_individuo.py",
+ "o_que_mede": "a posicao do individuo diante da lei penal, nas duas pontas: como pessoa que a lei diz proteger, e como pessoa que ela alcanca",
+ "o_que_nao_mede": "se a protecao produziu efeito, que exigiria serie de vitimizacao por tipo penal, ausente deste acervo",
+ "criterio_do_recorte": "os Titulos I, VI e VII da Parte Especial, na disposicao do legislador de 1940. O criterio e' do Codigo, e nao do autor",
+ "A_as_duas_pontas": {
+  "parte_geral": {
+   "o_que_e": "o regime juridico de quem responde ao processo e cumpre pena",
+   "institutos_pareados": 16,
+   "por_subtracao_estrita": {
+    "abranda": 5,
+    "agrava": 2,
+    "mantem": 6,
+    "instituto_criado_depois_de_1940": 2,
+    "instituto_extinto_depois_de_1940": 1,
+    "o_que_e": "conta so' o que tem parametro numerico nas duas epocas"
+   },
+   "com_as_tres_leituras_declaradas": {
+    "abranda": 7,
+    "agrava": 3,
+    "mantem": 6,
+    "o_que_e": "os tres institutos sem contraparte em 1940 entram pela leitura que o Quadro 9 declara ao lado de cada um: o periodo depurador da reincidencia e a extincao do prazo agravado da reabilitacao abrandam, e o teto especial do crime continuado agrava"
+   },
+   "por_que_duas_contagens": "tres dos dezesseis institutos nao tem contraparte em 1940. Declarar as duas leituras e' mais honesto que escolher uma em silencio"
+  },
+  "parte_especial": {
+   "o_que_e": "o que alcanca essa pessoa: os tipos penais e as penas",
+   "eventos_datados": 130,
+   "endurece": 107,
+   "pct_endurece": 82.3
+  }
+ },
+ "B_recorte_estreito": {
+  "por_titulo": [
+   {
+    "titulo": "DOS CRIMES CONTRA A PESSOA",
+    "endurece": 18,
+    "abranda": 1,
+    "mantem": 1,
+    "eventos": 20,
+    "pct_endurece": 90.0
+   },
+   {
+    "titulo": "DOS CRIMES CONTRA A DIGNIDADE SEXUAL",
+    "endurece": 14,
+    "abranda": 1,
+    "mantem": 0,
+    "eventos": 15,
+    "pct_endurece": 93.3
+   },
+   {
+    "titulo": "DOS CRIMES CONTRA A FAMÍLIA",
+    "endurece": 2,
+    "abranda": 0,
+    "mantem": 1,
+    "eventos": 3,
+    "pct_endurece": 66.7
+   }
+  ],
+  "soma_do_recorte": {
+   "endurece": 34,
+   "eventos": 38,
+   "pct_endurece": 89.5
+  },
+  "fora_do_recorte": {
+   "endurece": 73,
+   "eventos": 92,
+   "pct_endurece": 79.3
+  },
+  "participacao_do_recorte_no_total": 29.2,
+  "diferenca_em_pontos_percentuais": 10.1,
+  "teste": {
+   "pergunta": "a diferenca entre o recorte e o resto se distingue do acaso?",
+   "metodo": "permutacao simples do rotulo de materia",
+   "permutacoes": 200000,
+   "semente": 20260830,
+   "p_bilateral": 0.2124,
+   "veredito": "a diferenca NAO se distingue do acaso ao nivel de 5%",
+   "o_que_sobrevive": "a COMPOSICAO: 34 dos 38 eventos do recorte endurecem, e 2 abrandam"
+  }
+ }
+}

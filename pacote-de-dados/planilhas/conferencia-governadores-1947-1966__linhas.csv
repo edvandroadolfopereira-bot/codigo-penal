@@ -1,0 +1,117 @@
+uf;estado;data_eleicao;governador_eleito;partidos;votos;pagina_pdf;pagina_impressa;leitura;observacao;resultado;motivo;aberto_nome;aberto_partido;aberto_votos;aberto_situacao;forma;vice;percentual_sobre_nominais
+AC;Acre;1962-10-07;José Augusto de Araujo;PTB;7184;13;11;a olho;primeira eleição do estado;confere;;JOSÉ AUGUSTO DE ARAÚJO;PTB;7184;ELEITO;;;
+AL;Alagoas;1947-01-19;Silvestre Pericles de Góis Monteiro;PSD;33900;22;20;a olho;;confere;;SILVESTRE PÉRICLES DE GÓIS MONTEIRO;PSD;33900;ELEITO;;;
+AL;Alagoas;1950-10-03;Arnon Afonso de Farias Melo;UDN;56962;22;20;a olho;;confere;;ARNON AFONSO DE FARIAS MELO;UDN;56962;ELEITO;;;
+AL;Alagoas;1955-10-03;Sebastião M. Muniz Falcão;PSP;53085;22;20;a olho;;confere;;SEBASTIÃO MARINHO MUNIZ FALCÃO;PSP;53085;ELEITO;;;
+AL;Alagoas;1960-10-03;Luiz de Souza Cavalcanti;UDN;38915;22;20;a olho;;confere;;LUIZ DE SOUZA CAVALCANTE;UDN;38915;ELEITO;;;
+AM;Amazonas;1947-01-19;Leopoldo Amorim da Silva Neves;UDN-PTB;14578;32;30;a olho;;confere;;LEOPOLDO AMORIM DA SILVA NEVES;UDN / PTB;14578;ELEITO;;;
+AM;Amazonas;1950-10-03;Álvaro Botelho Maia;PSD-PDC;29950;32;30;a olho;;confere;;ÁLVARO BOTELHO MAIA;PSD / PDC;29950;ELEITO;;;
+AM;Amazonas;1954-10-03;Plinio Ramos Coelho;PTB;31750;32;30;a olho;;confere;;PLÍNIO LEMOS COELHO;PTB;31750;ELEITO;;;
+AM;Amazonas;1958-10-03;Gilberto Mestrinho de Medeiros Raposo;PTB-PST-PSB;37241;32;30;a olho;;confere;;GILBERTO MESTRINHO DE MEDEIROS RAPOSO;PTB / PST / PSB;37241;ELEITO;;;
+AM;Amazonas;1962-10-03;Plinio Ramos Coelho;PTB-PST-PDC-PL;54800;32;30;a olho;;confere;;PLÍNIO RAMOS COELHO;PTB / PST / PL / PDC;54800;ELEITO;;;
+BA;Bahia;1947-01-19;Otávio Mangabeira;UDN-PSD-PRP;211121;42;40;a olho;;confere;;OTÁVIO MANGABEIRA;UDN / PSD / PRP;211121;ELEITO;;;
+BA;Bahia;1950-10-03;Luiz Regis Pacheco Pereira;PSD;321168;42;40;a olho;dados abertos do TSE (votação nominal por UF) registram 321.181;diverge;votos 321168 contra 321181;LUIS REGIS PACHECO PEREIRA;PSD;321181;ELEITO;;;
+BA;Bahia;1954-10-03;Antônio Balbino de Carvalho Filho;UDN-PTB-PSP;354197;42;40;a olho;;diverge;partido UDN-PTB-PSP contra UDN / PTB / PST (sigla sem sigla);ANTONIO BALBINO DE CARVALHO PINTO;UDN / PTB / PST;354197;ELEITO;;;
+BA;Bahia;1958-10-03;Juracy Montenegro Magalhães;UDN;360746;42;40;a olho;;confere;;JURACY MONTENEGRO MAGALHÃES;UDN;360746;ELEITO;;;
+BA;Bahia;1962-10-03;Antônio Lomanto Junior;PST-UDN-PTB-PR;396051;42;40;a olho;"maior votação;  o asterisco de eleito não aparece ao lado do nome na página, só ao lado do vice";confere;;ANTÔNIO LOMANTO JUNIOR;PST / UDN / PTB / PR;396051;ELEITO;;;
+CE;Ceará;1947-01-19;Faustino de Albuquerque e Souza;UDN;147911;52;50;a olho;;confere;;FAUSTINO DE ALBUQUERQUE E SOUZA;UDN;147911;ELEITO;;;
+CE;Ceará;1950-10-03;Raul Barbosa;PSD-PSP-PR;249132;52;50;a olho;;confere;;RAUL BARBOSA;PSD / PSP / PR;249132;ELEITO;;;
+CE;Ceará;1954-10-03;Paulo Sarazate Ferreira Lopes;PR-PTB-UDN;266168;52;50;a olho;;confere;;PAULO SARASATE FERREIRA LOPES;PR / PTB / UDN;266168;ELEITO;;;
+CE;Ceará;1958-10-03;José Parsifal Barroso;PTB-PSD;279449;52;50;a olho;;confere;;JOSÉ PARSIFAL BARROSO;PTB / PSD;279449;ELEITO;;;
+CE;Ceará;1962-10-03;Virgilio Fernandes Távora;UDN-PSD-PTN;371466;52;50;a olho;;confere;;VIRGÍLIO FERNANDES TÁVORA;UDN / PSD / PTN;371466;ELEITO;;;
+ES;Espírito Santo;1947-01-19;Carlos Fernando Monteiro Lindenberg;PSD-UDN;59008;62;60;a olho, conferido em 170 dpi;;confere;;CARLOS FERNANDO MONTEIRO LINDENBERG;PSD / UDN;59008;ELEITO;;;
+ES;Espírito Santo;1950-10-03;Jones dos Santos Neves;PSD-PTB;71266;62;60;a olho, conferido em 170 dpi;;confere;;JONES DOS SANTOS NEVES;PSD / PTB;71266;ELEITO;;;
+ES;Espírito Santo;1954-10-03;Francisco Lacerda de Aguiar;PTB-PR-PRP-PSP;95389;62;60;a olho, conferido em 170 dpi;dados abertos do TSE (votação nominal por UF) registram 77.467, que o volume atribui ao adversário Eurico de Aguiar Sales;diverge;"votos 95389 contra 77467; partido PTB-PR-PRP-PSP contra PSP / UDN (sigla sem sigla)";EURICO DE AGUIAR SALES;PSP / UDN;77467;NÃO ELEITO;;;
+ES;Espírito Santo;1958-10-03;Carlos Fernando Monteiro Lindenberg;PSD-PSP;97624;62;60;a olho, conferido em 170 dpi;;confere;;CARLOS FERNANDO MONTEIRO LINDEMBERG;PSD / PSP;97624;ELEITO;;;
+ES;Espírito Santo;1962-10-03;Francisco Lacerda de Aguiar;PDC-UDN-PTB-PSP-PRP;114586;62;60;a olho, conferido em 170 dpi;;confere;;FRANCISCO LACERDA DE AGUIAR;PDC / UDN / PTB / PSP / PRP;114586;ELEITO;;;
+GO;Goiás;1947-01-19;Jerônimo Coimbra Bueno;UDN;40792;72;70;a olho;estado deduzido pela ordem alfabética do volume, entre Espírito Santo e Guanabara;confere;;JERÔNIMO COIMBRA BUENO;UDN;40792;ELEITO;;;
+GO;Goiás;1950-10-03;Pedro Ludovico Teixeira;PSD-PTB;84553;72;70;a olho;idem;confere;;PEDRO LUDOVICO TEIXEIRA;PSD / PTB;84553;ELEITO;;;
+GO;Goiás;1954-10-03;José Ludovico de Almeida;PSD;107485;72;70;a olho;idem;confere;;JOSÉ LUDOVICO DE ALMEIDA;PSD;107485;ELEITO;;;
+GO;Goiás;1958-10-03;José Feliciano Ferreira;PSD;151565;72;70;a olho;idem;confere;;JOSÉ FELICIANO FERREIRA;PSD;151565;ELEITO;;;
+GO;Goiás;1960-10-03;Mauro Borges Teixeira;PSD;160365;72;70;a olho;idem;confere;;MAURO BORGES TEIXEIRA;PSD;160365;ELEITO;;;
+GB;Guanabara;1960-10-03;Carlos Lacerda;UDN;357153;82;80;a olho;"maior votação;  o asterisco de eleito não aparece ao lado do nome na página";confere;;CARLOS LACERDA;UDN;357153;ELEITO;;;
+MA;Maranhão;1947-01-19;Sebastião Archer da Silva;PPB;36532;91;89;a olho, conferido ampliado;;confere;;SEBASTIÃO ARCHER DA SILVA;PPB;36532;ELEITO;;;
+MA;Maranhão;1950-10-03;Eugênio de Barros;PST;74743;91;89;a olho, conferido ampliado;dados abertos do TSE (votação nominal por UF) registram 74.279;diverge;votos 74743 contra 74279;EUGÊNIO BARROS;PST;74279;ELEITO;;;
+MA;Maranhão;1955-10-03;José de Matos Carvalho;PSD-PTB;83701;91;89;a olho, conferido ampliado;dados abertos do TSE (votação nominal por UF) registram 83.260;diverge;votos 83701 contra 83260;JOSÉ DE MATTOS CARVALHO;PSD / PTB;83260;ELEITO;;;
+MA;Maranhão;1960-10-03;Newton de Barros Bello;PSD-UDN-PTB-PL;143414;91;89;a olho, conferido ampliado;"o número não está na camada de texto do PDF;  confirmado só na imagem ampliada a 220 dpi";confere;;NEWTON DE BARROS BELO;PSD / UDN / PTB / PL;143414;ELEITO;;;
+MT;Mato Grosso;1947-01-19;Arnaldo Estevão Figueiredo;PSD;21421;99;97;a olho, 170 dpi;dados abertos do TSE (votação nominal por UF) registram 21.293;diverge;votos 21421 contra 21293;ARNALDO ESTEVÃO FIGUEREDO;PSD;21293;ELEITO;;;
+MT;Mato Grosso;1950-10-03;Fernando Corrêa da Costa;UDN;42313;99;97;a olho, 170 dpi;;confere;;FERNANDO CORRÊA DA COSTA;UDN;42313;ELEITO;;;
+MT;Mato Grosso;1955-10-03;João Ponce de Arruda;PSD-PTB;50314;99;97;a olho, 170 dpi;dados abertos do TSE (votação nominal por UF) registram 51.314;diverge;votos 50314 contra 51314;JOÃO PONCE DE ARRUDA;PSD / PTB;51314;ELEITO;;;
+MT;Mato Grosso;1960-10-03;Fernando Corrêa da Costa;UDN;66206;99;97;a olho, 170 dpi;o cabeçalho da fonte imprime 3-10-690, erro de impressão de 1960;confere;;FERNANDO CORRÊA DA COSTA;UDN;66206;ELEITO;;;
+MG;Minas Gerais;1947-01-19;Milton Soares Campos;UDN;448073;108;106;a olho, 170 dpi;;diverge;partido UDN contra UDN / PR / PDC / PTN / PRD (sigla sem sigla);MILTON SOARES DE CAMPOS;UDN / PR / PDC / PTN / PRD;448073;ELEITO;;;
+MG;Minas Gerais;1950-10-03;Juscelino Kubitschek de Oliveira;PSD-PR;714664;108;106;a olho, 170 dpi;;confere;;JUSCELINO KUBITSCHEK DE OLIVEIRA;PSD / PR;714664;ELEITO;;;
+MG;Minas Gerais;1955-10-03;José Francisco Bias Fortes;PSD-PR;850064;108;106;a olho, 170 dpi;;confere;;JOSÉ FRANCISCO BIAS FORTES;PSD / PR;850064;ELEITO;;;
+MG;Minas Gerais;1960-10-03;Magalhães Pinto;UDN-PRT-PL;760427;108;106;a olho, 170 dpi;dados abertos do TSE (votação nominal por UF) registram 760.437;diverge;votos 760427 contra 760437;JOSÉ DE MAGALHÃES PINTO;UDN / PRT / PL;760437;ELEITO;;;
+PA;Pará;1947-01-19;Luiz Geolás de Moura Carvalho;PSD;68302;118;116;a olho, 170 dpi;;confere;;LUIZ GEOLAS DE MOURA CARVALHO;PSD;68302;ELEITO;;;
+PA;Pará;1950-10-03;Alexandre Zacarias D'Assunção;UDN-PSP-PST-PL;94794;118;116;a olho, 170 dpi;;confere;;ALEXANDRE ZACARIAS DE ASSUNÇÃO;UDN / PSP / PST / PL;94794;ELEITO;;;
+PA;Pará;1955-10-03;Joaquim de Magalhães Cardoso Barata;PSD-PTB;97307;118;116;a olho, 170 dpi;;confere;;JOAQUIM DE MAGALHÃES CARDOSO BARATA;PSD / PTB;97307;ELEITO;;;
+PA;Pará;1960-10-03;Aurélio do Carmo;PSD-PDC-PTB;118129;118;116;a olho, 170 dpi;;confere;;AURÉLIO CORRÊA DO CARMO;PSD / PDC / PTB;118129;ELEITO;;;
+PB;Paraíba;1947-01-19;Oswaldo Trigueiro de A. Melo;UDN;80373;128;126;a olho, 170 dpi;"no quadro de 1947 o voto do candidato do PSD aparece deslocado para a linha do vice, irregularidade da fonte que não afeta o eleito; dados abertos do TSE (votação nominal por UF) registram 78.135";diverge;votos 80373 contra 78135;OSWALDO TRIGUEIRO DE ALBUQUERQUE MELO;UDN;78135;ELEITO;;;
+PB;Paraíba;1950-10-03;José Américo de Almeida;PSD-PL;147093;128;126;a olho, 170 dpi;;confere;;JOSÉ AMÉRICO DE ALMEIDA;PSD / PL;147093;ELEITO;;;
+PB;Paraíba;1955-10-03;Flavio Ribeiro;PSB-UDN-PSD-PL;180228;128;126;a olho, 170 dpi;;confere;;FLAVIO RIBEIRO;PSB / UDN / PSD / PL;180228;ELEITO;;;
+PB;Paraíba;1960-10-03;Pedro Moreno Gondim;PSB-UDN-PL-PTB;148961;128;126;a olho, 170 dpi;;confere;;PEDRO MORENO GONDIM;PSB / UDN / PL / PTB;148961;ELEITO;;;
+PR;Paraná;1947-01-19;Moisés Lupion;PSD;91059;138;136;a olho, 170 dpi;;diverge;nome sem correspondência: MOYSÉS LUPION;MOYSÉS LUPION;PSD;91059;ELEITO;;;
+PR;Paraná;1950-10-03;Bento Munhoz da Rocha Neto;UDN-PR-PST-PL-PRP;172638;138;136;a olho, 170 dpi;;confere;;BENTO MUNHOZ DA ROCHA NETO;UDN / PR / PST / PL / PRP;172638;ELEITO;;;
+PR;Paraná;1955-10-03;Moisés Lupion;PSD-PDC-PTN;185108;138;136;a olho, 170 dpi;;confere;;MOISÉS LUPION;PSD / PDC / PTN;185108;ELEITO;;;
+PR;Paraná;1960-10-03;Ney Amintas de Barros Braga;PDC-PL;253552;138;136;a olho, 170 dpi;;confere;;NEY AMINTHAS DE BARROS BRAGA;PDC / PL;253552;ELEITO;;;
+PE;Pernambuco;1947-01-19;Alexandre J. Barbosa Lima Sobrinho;PSD;84178;147;145;a olho, 170 dpi;dados abertos do TSE (votação nominal por UF) registram 91.985;diverge;"votos 84178 contra 91985; partido PSD contra PSD / PRD (sigla sem sigla)";ALEXANDRE JOSÉ BARBOSA LIMA SOBRINHO;PSD / PRD;91985;ELEITO;;;
+PE;Pernambuco;1950-10-03;Agamenon S. Godoi de Magalhães;PSD;198586;147;145;a olho, 170 dpi, corrigido em 260 dpi;"a primeira leitura a olho deu 198.686;  a camada de texto do PDF deu 198.586 e a imagem ampliada confirmou 198.586";confere;;AGAMENON SERGIO DE GODOI MAGALHÃES;PSD;198586;ELEITO;;;
+PE;Pernambuco;1954-10-03;Oswaldo Cordeiro de Faria;PSD;239315;147;145;a olho, 170 dpi;;confere;;OSVALDO CORDEIRO DE FARIAS;PSD;239315;ELEITO;;;
+PE;Pernambuco;1958-10-03;Cid José Sampaio;UDN-PTB-PSP-PTN-PSB;309631;147;145;a olho, 170 dpi;;confere;;CID FEIJÓ SAMPAIO;UDN / PTB / PSP / PTN / PSB;309631;ELEITO;;;
+PE;Pernambuco;1962-10-07;Miguel Arraes de Alencar;PST;264499;147;145;a olho, 170 dpi;;confere;;MIGUEL ARRAES DE ALENCAR;PST;264499;ELEITO;;;
+PI;Piauí;1947-01-19;José da Rocha Furtado;UDN;56650;156;154;a olho, 170 dpi;;confere;;JOSÉ DA ROCHA FURTADO;UDN;56650;ELEITO;;;
+PI;Piauí;1950-10-03;Pedro de Almeida Freitas;PSD;74768;156;154;a olho, 170 dpi;;confere;;PEDRO DE ALMEIDA FREITAS;PSD;74768;ELEITO;;;
+PI;Piauí;1954-10-03;Jacob M. Gayoso e Almendra;PSD-PTB;101689;156;154;a olho, 170 dpi;;confere;;JACOB MANOEL GAYOSO E ALMENDRA;PSD / PTB;101689;ELEITO;;;
+PI;Piauí;1958-10-03;Francisco das C. C. Rodrigues;UDN-PTB;101525;156;154;a olho, 170 dpi;;confere;;FRANCISCO DE CHAGAS CALDAS RODRIGUES;UDN / PTB;101525;ELEITO;;;
+PI;Piauí;1962-10-03;Petronio Portela Nunes;PSD-UDN-PDC;112285;156;154;a olho, 170 dpi;"o número não está na camada de texto do PDF;  confirmado só na imagem ampliada a 260 dpi";confere;;PETRÔNIO PORTELA NUNES;PSD / UDN / PDC;112285;ELEITO;;;
+RJ;Rio de Janeiro;1947-01-19;Edmundo de M. Soares e Silva;PSD-PTB-UDN;250350;166;164;a olho, 170 dpi;estado deduzido pela ordem alfabética do volume, entre Piauí e Rio Grande do Norte;confere;;EDMUNDO DE M. SOARES E SILVA;PSD / PTB / UDN;250350;ELEITO;;;
+RJ;Rio de Janeiro;1950-10-03;Ernani do Amaral Peixoto;PSD-PR-PRT-PST-PTN-PTB;286292;166;164;a olho, 170 dpi;idem;diverge;partido PSD-PR-PRT-PST-PTN-PTB contra PSD (sigla PSD);ERNANI DO AMARAL PEIXOTO;PSD;286292;ELEITO;;;
+RJ;Rio de Janeiro;1954-10-03;Miguel Couto Filho;PTB-PTN-PSD-PR;248562;166;164;a olho, 170 dpi;idem;confere;;MIGUEL COUTO FILHO;PTB / PTN / PSD / PR;248562;ELEITO;;;
+RJ;Rio de Janeiro;1958-10-03;Roberto Teixeira da Silveira;PTB-PDC-UDN-PSB;376949;166;164;a olho, 170 dpi;idem;confere;;ROBERTO TEIXEIRA DA SILVEIRA;PTB / PDC / UDN / PSB;376949;ELEITO;;;
+RJ;Rio de Janeiro;1962-10-07;Badger Silveira;PTB-PDC;260841;166;164;a olho, 170 dpi;idem;confere;;BADGER SILVEIRA;PTB / PDC;260841;ELEITO;;;
+RN;Rio Grande do Norte;1947-01-19;José Augusto Varela;PSD;57296;175;173;a olho, 170 dpi;;confere;;JOSÉ AUGUSTO VARELA;PSD;57296;ELEITO;;;
+RN;Rio Grande do Norte;1950-10-03;Jeronimo Dix-Sept Rosado Maia;PSP-PSD-PR;101690;175;173;a olho, 170 dpi;;confere;;JERONIMO DIX-SEPT ROSADO MAIA;PSD / PR / PSP;101690;ELEITO;;;
+RN;Rio Grande do Norte;1955-10-03;Dinarte de Medeiros Mariz;PSP-PDC-UDN;80921;175;173;a olho, 170 dpi;;confere;;DINARTE DE MEDEIROS MARIZ;PSP / PDC / UDN;80921;ELEITO;;;
+RN;Rio Grande do Norte;1960-10-03;Aloisio Alves;PSD;121076;175;173;a olho, 170 dpi;;diverge;nome sem correspondência: ALUÍZIO ALVES;ALUÍZIO ALVES;PSD;121076;ELEITO;;;
+RS;Rio Grande do Sul;1947-01-19;Walter Jobim;PSD;229129;184;182;a olho, 170 dpi;;confere;;WALTER SÓ JOBIM;PSD;229129;ELEITO;;;
+RS;Rio Grande do Sul;1950-10-03;Ernesto Dorneles;PTB;329884;184;182;a olho, 170 dpi;;confere;;ERNESTO DORNELES;PTB;329884;ELEITO;;;
+RS;Rio Grande do Sul;1954-10-03;Ildo Meneghetti;PSD-UDN-PL;386821;184;182;a olho, 170 dpi;;confere;;ILDO MENEGHETTI;PSD / UDN / PL;386821;ELEITO;;;
+RS;Rio Grande do Sul;1958-10-03;Leonel de Moura Brizola;PTB;670003;184;182;a olho, 170 dpi;;confere;;LEONEL DE MOURA BRIZOLA;PTB;670003;ELEITO;;;
+RS;Rio Grande do Sul;1962-10-07;Ildo Meneghetti;PSD-PL-PRP-PDC-UDN;502356;184;182;a olho, 170 dpi;;diverge;nome sem correspondência: ILDO MENECCHETTI;ILDO MENECCHETTI;PSD / PL / PRP / PDC / UDN;502356;ELEITO;;;
+SC;Santa Catarina;1947-01-19;Aderbal Ramos da Silva;PSD-PTB;95740;194;192;a olho, 170 dpi;;confere;;ADERBAL RAMOS DA SILVA;PSD / PTB;95740;ELEITO;;;
+SC;Santa Catarina;1950-10-03;Irineu Bornhausen;UDN;147074;194;192;a olho, 170 dpi;;confere;;IRINEU BORNHAUSEN;UDN;147074;ELEITO;;;
+SC;Santa Catarina;1955-10-03;Jorge Lacerda;UDN-PDC-PRP-PSP;172548;194;192;a olho, 170 dpi;;confere;;JORGE LACERDA;UDN / PDC / PRP / PSP;172548;ELEITO;;;
+SC;Santa Catarina;1960-10-03;Celso Ramos;PSD;261752;194;192;a olho, 170 dpi;;confere;;CELSO RAMOS;PSD / PDC;261752;ELEITO;;;
+SP;São Paulo;1947-01-19;Ademar de Barros;PSP-PCB;393637;205;203;a olho, 170 dpi;estado deduzido pela ordem alfabética do volume, entre Santa Catarina e Sergipe;confere;;ADEMAR PEREIRA DE BARROS;PCB / PSP;393637;ELEITO;;;
+SP;São Paulo;1950-10-03;Lucas Nogueira Garcez;PSP-PTB;672863;205;203;a olho, 170 dpi;idem;confere;;LUCAS NOGUEIRA GARCEZ;PSP / PTB;672863;ELEITO;;;
+SP;São Paulo;1954-10-03;Janio da Silva Quadros;PSB-PTN;660264;205;203;a olho, 170 dpi;idem;confere;;JANIO DA SILVA QUADROS;PSB / PTN;660264;ELEITO;;;
+SP;São Paulo;1958-10-03;Carlos A. de Carvalho Pinto;PDC-UDN-PTN-PR-PSB;1312017;206;204;a olho, 170 dpi;idem;confere;;CARLOS ALBERTO ALVES DE CARVALHO PINTO;PDC / UDN / PTN / PR / PSB;1312017;ELEITO;;;
+SP;São Paulo;1962-10-07;Ademar de Barros;PSP-PSD;1249414;206;204;a olho, 170 dpi;idem;confere;;ADEMAR DE BARROS;PSP / PSD;1249414;ELEITO;;;
+SE;Sergipe;1947-01-19;José Rolemberg Leite;PSD-PTB-PR;40847;215;213;a olho, 170 dpi;;confere;;JOSÉ ROLEMBERG LEITE;PSD / PTB / PR;40847;ELEITO;;;
+SE;Sergipe;1950-10-03;Arnaldo Rolemberg Garcez;PSD-PR;36374;215;213;a olho, 170 dpi;;confere;;ARNALDO ROLEMBERG GARUZ;PSD / PR;36374;ELEITO;;;
+SE;Sergipe;1954-10-03;Leandro Maynard Maciel;UDN-PSP-PST-PTN;52884;215;213;a olho, 170 dpi;;confere;;LEANDRO MAYNARD MACIEL;UDN / PSP / PST / PTN;52884;ELEITO;;;
+SE;Sergipe;1958-10-03;Luiz Garcia;UDN;56837;215;213;a olho, 170 dpi;;confere;;LUIZ GARCIA;UDN;56837;ELEITO;;;
+SE;Sergipe;1962-10-07;João de Seixas Doria;PSD-PRT;67514;215;213;a olho, 170 dpi;;confere;;JOÃO DE SEIXAS DÓRIA;PSD / PRT;67514;ELEITO;;;
+AL;Alagoas;1965-10-03;Sebastião Marinho Muniz Falcão;PSP;59338;261;258;a olho, 260 dpi;"não proclamado nem diplomado, por não ter maioria absoluta, conforme o art. 2º da Emenda Constitucional n. 13, de 8 de abril de 1965 (nota da própria página);  a página traz ainda Cleto Marques da Luz com um asterisco que ela não explica";confere;;SEBASTIÃO MARINHO MUNIZ FALCÃO;PSP;59338;NÃO ELEITO;direta;;43,90
+GO;Goiás;1965-10-03;Otávio Lage de Siqueira;UDN-PTB-PDC;180962;261;258;a olho, 260 dpi;;confere;;OTÁVIO LAGE DE SIQUEIRA;UDN / PTB / PDC;180962;ELEITO;direta;Osiris Teixeira;50,58
+GB;Guanabara;1965-10-03;Francisco Negrão de Lima;PSD-PTB;582026;261;258;a olho, 260 dpi;;confere;;FRANCISCO NEGRÃO DE LIMA;PSD / PTB;582026;ELEITO;direta;Rubens Berardo;52,68
+MA;Maranhão;1965-10-03;José Sarney Costa;UDN-PSP-PTN;121062;261;258;a olho, 260 dpi;;confere;;JOSÉ SARNEY COSTA;UDN / PSP / PTN;121062;ELEITO;direta;Antônio Jorge Dino;53,63
+MT;Mato Grosso;1965-10-03;Pedro Pedrossian;PSD;109905;261;258;a olho, 260 dpi;;confere;;PEDRO PEDROSSIAN;PSD;109905;ELEITO;direta;Lenine de Campos Póvoas;55,66
+MG;Minas Gerais;1965-10-03;Israel Pinheiro da Silva;PSD;937555;261;258;a olho, 260 dpi;;confere;;ISRAEL PINHEIRO DA SILVA;PSD;937555;ELEITO;direta;Pio Soares Canedo;53,21
+PA;Pará;1965-10-03;Alacid da Silva Nunes;UDN-PTB-PDC-PTN-PR;163527;261;258;a olho, 260 dpi;;confere;;ALACID DA SILVA NUNES;UDN / PTB / PTN / PDC / PR;163527;ELEITO;direta;João Renato Franco;70,89
+PB;Paraíba;1965-10-03;João Agripino;PDC-UDN;168712;261;258;a olho, 260 dpi;o número está degradado na camada de texto do PDF e foi confirmado só a olho, a 260 dpi;confere;;JOÃO AGRIPINO;PDC / UDN;168712;ELEITO;direta;Severino Bezerra Cabral;50,44
+PR;Paraná;1965-10-03;Paulo Pimentel;PTN;518971;261;258;a olho, 260 dpi;o número está degradado na camada de texto do PDF e foi confirmado só a olho, a 260 dpi;confere;;PAULO PIMENTEL;PTN;518971;ELEITO;direta;Plínio F. Ferreira da Costa;53,05
+RN;Rio Grande do Norte;1965-10-03;Mons. Walfredo Gurgel;PSD;151349;261;258;a olho, 260 dpi;"o número está degradado na camada de texto do PDF; leitura corrigida de 161.349 para 151.349: o percentual impresso, 54,94% dos votos apurados, confirma; os dados abertos do TSE trazem o mesmo número";confere;;WALFREDO GURGEL;PSD;151349;ELEITO;direta;Clóvis Mota;54,94
+SC;Santa Catarina;1965-10-03;Ivo Silveira;PSD-PTB;328470;261;258;a olho, 260 dpi;"o número está degradado na camada de texto do PDF e foi confirmado só a olho, a 260 dpi; o volume imprime 328.470, mas o percentual impresso (51,85%) corresponde a 328.480, que é o número dos dados abertos do TSE";diverge;votos 328470 contra 328480;IVO SILVEIRA;PSD / PTB;328480;ELEITO;direta;Francisco Roberto Dall'Igna;51,86
+AC;Acre;1966-09-03;Jorge Kalume;;;274;;a olho, 170 dpi;eleição indireta: a fonte traz só o nome;não dá para saber;eleição ausente dos dados abertos;;;;;indireta;;
+AL;Alagoas;1966-09-03;Antônio Simeão Lamenha Filho;;;274;;a olho, 170 dpi;eleição indireta: a fonte traz só o nome;não dá para saber;eleição ausente dos dados abertos;;;;;indireta;;
+AM;Amazonas;1966-09-03;Danilo Duarte Mattos Areosa;;;274;;a olho, 170 dpi;eleição indireta: a fonte traz só o nome;não dá para saber;eleição ausente dos dados abertos;;;;;indireta;;
+BA;Bahia;1966-09-03;Luiz Vianna Filho;;;274;;a olho, 170 dpi;eleição indireta: a fonte traz só o nome;não dá para saber;eleição ausente dos dados abertos;;;;;indireta;;
+CE;Ceará;1966-09-03;Plácido Castelo;;;274;;a olho, 170 dpi;eleição indireta: a fonte traz só o nome;não dá para saber;eleição ausente dos dados abertos;;;;;indireta;;
+ES;Espírito Santo;1966-09-03;Cristiano Dias Lopes Filho;;;274;;a olho, 170 dpi;eleição indireta: a fonte traz só o nome;não dá para saber;eleição ausente dos dados abertos;;;;;indireta;;
+PE;Pernambuco;1966-09-03;Nilo Coelho;;;274;;a olho, 170 dpi;eleição indireta: a fonte traz só o nome;não dá para saber;eleição ausente dos dados abertos;;;;;indireta;;
+PI;Piauí;1966-09-03;Helvidio Nunes;;;274;;a olho, 170 dpi;eleição indireta: a fonte traz só o nome;não dá para saber;eleição ausente dos dados abertos;;;;;indireta;;
+RJ;Rio de Janeiro;1966-09-03;Jeremias Fontes;;;274;;a olho, 170 dpi;eleição indireta: a fonte traz só o nome;não dá para saber;eleição ausente dos dados abertos;;;;;indireta;;
+RS;Rio Grande do Sul;1966-09-03;Walter Peracchi Barcelos;;;274;;a olho, 170 dpi;eleição indireta: a fonte traz só o nome;não dá para saber;eleição ausente dos dados abertos;;;;;indireta;;
+SP;São Paulo;1966-09-03;Roberto de Abreu Sodré;;;274;;a olho, 170 dpi;eleição indireta: a fonte traz só o nome;não dá para saber;eleição ausente dos dados abertos;;;;;indireta;;
+SE;Sergipe;1966-09-03;Lourival Batista;;;274;;a olho, 170 dpi;eleição indireta: a fonte traz só o nome;não dá para saber;eleição ausente dos dados abertos;;;;;indireta;;

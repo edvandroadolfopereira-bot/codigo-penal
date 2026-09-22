@@ -1,0 +1,245 @@
+chave;valor
+fonte;https://legis.senado.leg.br/dadosabertos
+coletado_em;2026-09-21 18:28:07
+regra;filiação vigente na data da apresentação, pela versão 5 da API
+limite;"o Senado grava o partido pelo nome atual; a data identifica o partido, a sigla é a de hoje"
+autorias.Lei Complementar nº 225, de 8 de janeiro de 2026.materia;PLP 125/2022
+autorias.Lei Complementar nº 225, de 8 de janeiro de 2026.apresentacao;2022-09-16
+autorias.Lei Complementar nº 225, de 8 de janeiro de 2026.autoria_registrada;Senador Rodrigo Pacheco (PSD/MG)
+autorias.Lei Complementar nº 225, de 8 de janeiro de 2026.codigo_senador;5732
+autorias.Lei Complementar nº 225, de 8 de janeiro de 2026.nome_na_ficha;Rodrigo Pacheco
+autorias.Lei Complementar nº 225, de 8 de janeiro de 2026.partido;PSD
+autorias.Lei Complementar nº 225, de 8 de janeiro de 2026.criterio;filiação vigente na data da apresentação
+autorias.Lei Complementar nº 225, de 8 de janeiro de 2026.filiacoes[0];"[""PSB"", ""2026-04-01"", null]"
+autorias.Lei Complementar nº 225, de 8 de janeiro de 2026.filiacoes[1];"[""PSD"", ""2021-10-27"", ""2026-03-31""]"
+autorias.Lei Complementar nº 225, de 8 de janeiro de 2026.filiacoes[2];"[""DEM"", ""2018-03-26"", ""2021-10-27""]"
+autorias.Lei Complementar nº 225, de 8 de janeiro de 2026.filiacoes[3];"[""MDB"", ""2015-02-01"", ""2018-03-25""]"
+autorias.Lei Ordinária nº 10.803, de 11 de dezembro de 2003.materia;PLS 161/2002
+autorias.Lei Ordinária nº 10.803, de 11 de dezembro de 2003.apresentacao;2002-06-05
+autorias.Lei Ordinária nº 10.803, de 11 de dezembro de 2003.autoria_registrada;Senador Waldeck Ornelas (PFL/BA)
+autorias.Lei Ordinária nº 10.803, de 11 de dezembro de 2003.codigo_senador;81
+autorias.Lei Ordinária nº 10.803, de 11 de dezembro de 2003.nome_na_ficha;Waldeck Ornelas
+autorias.Lei Ordinária nº 10.803, de 11 de dezembro de 2003.partido;PFL
+autorias.Lei Ordinária nº 10.803, de 11 de dezembro de 2003.criterio;filiação vigente na data da apresentação
+autorias.Lei Ordinária nº 10.803, de 11 de dezembro de 2003.filiacoes[0];"[""PFL"", ""1995-02-01"", ""2007-08-01""]"
+autorias.Lei Ordinária nº 11.466, de 28 de março de 2007.materia;PLS 136/2006
+autorias.Lei Ordinária nº 11.466, de 28 de março de 2007.apresentacao;2006-05-16
+autorias.Lei Ordinária nº 11.466, de 28 de março de 2007.autoria_registrada;Senador César Borges (PFL/BA)
+autorias.Lei Ordinária nº 11.466, de 28 de março de 2007.codigo_senador;3395
+autorias.Lei Ordinária nº 11.466, de 28 de março de 2007.nome_na_ficha;César Borges
+autorias.Lei Ordinária nº 11.466, de 28 de março de 2007.partido;PFL
+autorias.Lei Ordinária nº 11.466, de 28 de março de 2007.criterio;filiação vigente na data da apresentação
+autorias.Lei Ordinária nº 11.466, de 28 de março de 2007.filiacoes[0];"[""PL"", ""2007-10-01"", null]"
+autorias.Lei Ordinária nº 11.466, de 28 de março de 2007.filiacoes[1];"[""DEM"", ""2007-08-02"", ""2007-09-30""]"
+autorias.Lei Ordinária nº 11.466, de 28 de março de 2007.filiacoes[2];"[""PFL"", ""2003-02-01"", ""2007-08-01""]"
+autorias.Lei Ordinária nº 11.596, de 29 de novembro de 2007.materia;PLS 401/2003
+autorias.Lei Ordinária nº 11.596, de 29 de novembro de 2007.apresentacao;2003-09-23
+autorias.Lei Ordinária nº 11.596, de 29 de novembro de 2007.autoria_registrada;Senador Magno Malta (PL/ES)
+autorias.Lei Ordinária nº 11.596, de 29 de novembro de 2007.codigo_senador;631
+autorias.Lei Ordinária nº 11.596, de 29 de novembro de 2007.nome_na_ficha;Magno Malta
+autorias.Lei Ordinária nº 11.596, de 29 de novembro de 2007.partido;PL
+autorias.Lei Ordinária nº 11.596, de 29 de novembro de 2007.criterio;filiação vigente na data da apresentação
+autorias.Lei Ordinária nº 11.596, de 29 de novembro de 2007.filiacoes[0];"[""PL"", ""2007-02-01"", null]"
+autorias.Lei Ordinária nº 11.596, de 29 de novembro de 2007.filiacoes[1];"[""S/Partido"", ""2006-12-20"", ""2007-01-31""]"
+autorias.Lei Ordinária nº 11.596, de 29 de novembro de 2007.filiacoes[2];"[""PL"", ""2003-02-01"", ""2006-12-19""]"
+autorias.Lei Ordinária nº 11.596, de 29 de novembro de 2007.filiacoes[3];"[""S/Partido"", ""2001-03-22"", ""2003-01-31""]"
+autorias.Lei Ordinária nº 11.596, de 29 de novembro de 2007.filiacoes[4];"[""PTB"", ""1999-02-01"", ""2001-03-21""]"
+autorias.Lei Ordinária nº 11.923, de 17 de abril de 2009.materia;PLS 54/2004
+autorias.Lei Ordinária nº 11.923, de 17 de abril de 2009.apresentacao;2004-03-22
+autorias.Lei Ordinária nº 11.923, de 17 de abril de 2009.autoria_registrada;Senador Rodolpho Tourinho (PFL/BA)
+autorias.Lei Ordinária nº 11.923, de 17 de abril de 2009.codigo_senador;1085
+autorias.Lei Ordinária nº 11.923, de 17 de abril de 2009.nome_na_ficha;Rodolpho Tourinho
+autorias.Lei Ordinária nº 11.923, de 17 de abril de 2009.partido;PFL
+autorias.Lei Ordinária nº 11.923, de 17 de abril de 2009.criterio;filiação vigente na data da apresentação
+autorias.Lei Ordinária nº 11.923, de 17 de abril de 2009.filiacoes[0];"[""PFL"", ""2003-01-01"", ""2007-08-01""]"
+autorias.Lei Ordinária nº 12.850, de 2 de agosto de 2013.materia;PLS 150/2006
+autorias.Lei Ordinária nº 12.850, de 2 de agosto de 2013.apresentacao;2006-05-23
+autorias.Lei Ordinária nº 12.850, de 2 de agosto de 2013.autoria_registrada;Senadora Serys Slhessarenko (PT/MT)
+autorias.Lei Ordinária nº 12.850, de 2 de agosto de 2013.codigo_senador;3362
+autorias.Lei Ordinária nº 12.850, de 2 de agosto de 2013.nome_na_ficha;Serys Slhessarenko
+autorias.Lei Ordinária nº 12.850, de 2 de agosto de 2013.partido;PT
+autorias.Lei Ordinária nº 12.850, de 2 de agosto de 2013.criterio;filiação vigente na data da apresentação
+autorias.Lei Ordinária nº 12.850, de 2 de agosto de 2013.filiacoes[0];"[""PT"", ""2003-02-01"", null]"
+autorias.Lei Ordinária nº 12.894, de 17 de dezembro de 2013.materia;PLS 368/2011
+autorias.Lei Ordinária nº 12.894, de 17 de dezembro de 2013.apresentacao;2011-06-30
+autorias.Lei Ordinária nº 12.894, de 17 de dezembro de 2013.autoria_registrada;Senador Humberto Costa (PT/PE)
+autorias.Lei Ordinária nº 12.894, de 17 de dezembro de 2013.codigo_senador;5008
+autorias.Lei Ordinária nº 12.894, de 17 de dezembro de 2013.nome_na_ficha;Humberto Costa
+autorias.Lei Ordinária nº 12.894, de 17 de dezembro de 2013.partido;PT
+autorias.Lei Ordinária nº 12.894, de 17 de dezembro de 2013.criterio;filiação vigente na data da apresentação
+autorias.Lei Ordinária nº 12.894, de 17 de dezembro de 2013.filiacoes[0];"[""PT"", ""2011-01-27"", null]"
+autorias.Lei Ordinária nº 12.978, de 21 de maio de 2014.materia;PLS 243/2010
+autorias.Lei Ordinária nº 12.978, de 21 de maio de 2014.apresentacao;2010-10-06
+autorias.Lei Ordinária nº 12.978, de 21 de maio de 2014.autoria_registrada;Senador Alfredo Nascimento (PL/AM)
+autorias.Lei Ordinária nº 12.978, de 21 de maio de 2014.codigo_senador;4527
+autorias.Lei Ordinária nº 12.978, de 21 de maio de 2014.nome_na_ficha;Alfredo Nascimento
+autorias.Lei Ordinária nº 12.978, de 21 de maio de 2014.partido;PL
+autorias.Lei Ordinária nº 12.978, de 21 de maio de 2014.criterio;filiação vigente na data da apresentação
+autorias.Lei Ordinária nº 12.978, de 21 de maio de 2014.filiacoes[0];"[""PL"", ""2007-02-01"", null]"
+autorias.Lei Ordinária nº 13.188, de 11 de novembro de 2015.materia;PLS 141/2011
+autorias.Lei Ordinária nº 13.188, de 11 de novembro de 2015.apresentacao;2011-04-05
+autorias.Lei Ordinária nº 13.188, de 11 de novembro de 2015.autoria_registrada;Senador Roberto Requião (MDB/PR)
+autorias.Lei Ordinária nº 13.188, de 11 de novembro de 2015.codigo_senador;72
+autorias.Lei Ordinária nº 13.188, de 11 de novembro de 2015.nome_na_ficha;Roberto Requião
+autorias.Lei Ordinária nº 13.188, de 11 de novembro de 2015.partido;MDB
+autorias.Lei Ordinária nº 13.188, de 11 de novembro de 2015.criterio;filiação vigente na data da apresentação
+autorias.Lei Ordinária nº 13.188, de 11 de novembro de 2015.filiacoes[0];"[""MDB"", ""1995-02-01"", null]"
+autorias.Lei Ordinária nº 13.445, de 24 de maio de 2017.materia;PLS 288/2013
+autorias.Lei Ordinária nº 13.445, de 24 de maio de 2017.apresentacao;2013-07-11
+autorias.Lei Ordinária nº 13.445, de 24 de maio de 2017.autoria_registrada;Senador Aloysio Nunes Ferreira (PSDB/SP)
+autorias.Lei Ordinária nº 13.445, de 24 de maio de 2017.codigo_senador;846
+autorias.Lei Ordinária nº 13.445, de 24 de maio de 2017.nome_na_ficha;Aloysio Nunes Ferreira
+autorias.Lei Ordinária nº 13.445, de 24 de maio de 2017.partido;PSDB
+autorias.Lei Ordinária nº 13.445, de 24 de maio de 2017.criterio;filiação vigente na data da apresentação
+autorias.Lei Ordinária nº 13.445, de 24 de maio de 2017.filiacoes[0];"[""PSDB"", ""1999-02-01"", null]"
+autorias.Lei Ordinária nº 13.654, de 23 de abril de 2018.materia;PLS 149/2015
+autorias.Lei Ordinária nº 13.654, de 23 de abril de 2018.apresentacao;2015-03-24
+autorias.Lei Ordinária nº 13.654, de 23 de abril de 2018.autoria_registrada;Senador Otto Alencar (PSD/BA)
+autorias.Lei Ordinária nº 13.654, de 23 de abril de 2018.codigo_senador;5523
+autorias.Lei Ordinária nº 13.654, de 23 de abril de 2018.nome_na_ficha;Otto Alencar
+autorias.Lei Ordinária nº 13.654, de 23 de abril de 2018.partido;PSD
+autorias.Lei Ordinária nº 13.654, de 23 de abril de 2018.criterio;filiação vigente na data da apresentação
+autorias.Lei Ordinária nº 13.654, de 23 de abril de 2018.filiacoes[0];"[""PSD"", ""2015-02-01"", null]"
+autorias.Lei Ordinária nº 13.718, de 24 de setembro de 2018.materia;PLS 618/2015
+autorias.Lei Ordinária nº 13.718, de 24 de setembro de 2018.apresentacao;2015-09-16
+autorias.Lei Ordinária nº 13.718, de 24 de setembro de 2018.autoria_registrada;Senadora Vanessa Grazziotin (PCdoB/AM)
+autorias.Lei Ordinária nº 13.718, de 24 de setembro de 2018.codigo_senador;558
+autorias.Lei Ordinária nº 13.718, de 24 de setembro de 2018.nome_na_ficha;Vanessa Grazziotin
+autorias.Lei Ordinária nº 13.718, de 24 de setembro de 2018.partido;PCdoB
+autorias.Lei Ordinária nº 13.718, de 24 de setembro de 2018.criterio;filiação vigente na data da apresentação
+autorias.Lei Ordinária nº 13.718, de 24 de setembro de 2018.filiacoes[0];"[""PCdoB"", ""1999-02-01"", null]"
+autorias.Lei Ordinária nº 13.869, de 5 de setembro de 2019.materia;PLS 85/2017
+autorias.Lei Ordinária nº 13.869, de 5 de setembro de 2019.apresentacao;2017-03-29
+autorias.Lei Ordinária nº 13.869, de 5 de setembro de 2019.autoria_registrada;Senador Randolfe Rodrigues (REDE/AP)
+autorias.Lei Ordinária nº 13.869, de 5 de setembro de 2019.codigo_senador;5012
+autorias.Lei Ordinária nº 13.869, de 5 de setembro de 2019.nome_na_ficha;Randolfe Rodrigues
+autorias.Lei Ordinária nº 13.869, de 5 de setembro de 2019.partido;REDE
+autorias.Lei Ordinária nº 13.869, de 5 de setembro de 2019.criterio;filiação vigente na data da apresentação
+autorias.Lei Ordinária nº 13.869, de 5 de setembro de 2019.filiacoes[0];"[""PT"", ""2024-07-18"", null]"
+autorias.Lei Ordinária nº 13.869, de 5 de setembro de 2019.filiacoes[1];"[""S/Partido"", ""2024-01-24"", ""2024-07-17""]"
+autorias.Lei Ordinária nº 13.869, de 5 de setembro de 2019.filiacoes[2];"[""REDE"", ""2015-09-29"", ""2024-01-23""]"
+autorias.Lei Ordinária nº 13.869, de 5 de setembro de 2019.filiacoes[3];"[""PSOL"", ""2011-01-28"", ""2015-09-28""]"
+autorias.Lei Ordinária nº 13.968, de 26 de dezembro de 2019.materia;PLS 664/2015
+autorias.Lei Ordinária nº 13.968, de 26 de dezembro de 2019.apresentacao;2015-10-01
+autorias.Lei Ordinária nº 13.968, de 26 de dezembro de 2019.autoria_registrada;Senador Ciro Nogueira (PP/PI)
+autorias.Lei Ordinária nº 13.968, de 26 de dezembro de 2019.codigo_senador;739
+autorias.Lei Ordinária nº 13.968, de 26 de dezembro de 2019.nome_na_ficha;Ciro Nogueira
+autorias.Lei Ordinária nº 13.968, de 26 de dezembro de 2019.partido;PP
+autorias.Lei Ordinária nº 13.968, de 26 de dezembro de 2019.criterio;filiação vigente na data da apresentação
+autorias.Lei Ordinária nº 13.968, de 26 de dezembro de 2019.filiacoes[0];"[""PP"", ""2004-02-14"", null]"
+autorias.Lei Ordinária nº 13.968, de 26 de dezembro de 2019.filiacoes[1];"[""PFL"", ""1999-02-01"", ""2004-02-13""]"
+autorias.Lei Ordinária nº 14.132, de 31 de março de 2021.materia;PL 1369/2019
+autorias.Lei Ordinária nº 14.132, de 31 de março de 2021.apresentacao;2019-03-12
+autorias.Lei Ordinária nº 14.132, de 31 de março de 2021.autoria_registrada;Senadora Leila Barros (PSB/DF)
+autorias.Lei Ordinária nº 14.132, de 31 de março de 2021.codigo_senador;5979
+autorias.Lei Ordinária nº 14.132, de 31 de março de 2021.nome_na_ficha;Leila Barros
+autorias.Lei Ordinária nº 14.132, de 31 de março de 2021.partido;PSB
+autorias.Lei Ordinária nº 14.132, de 31 de março de 2021.criterio;filiação vigente na data da apresentação
+autorias.Lei Ordinária nº 14.132, de 31 de março de 2021.filiacoes[0];"[""PDT"", ""2022-03-30"", null]"
+autorias.Lei Ordinária nº 14.132, de 31 de março de 2021.filiacoes[1];"[""CIDADANIA"", ""2021-08-12"", ""2022-03-29""]"
+autorias.Lei Ordinária nº 14.132, de 31 de março de 2021.filiacoes[2];"[""S/Partido"", ""2021-08-05"", ""2021-08-11""]"
+autorias.Lei Ordinária nº 14.132, de 31 de março de 2021.filiacoes[3];"[""PSB"", ""2018-12-31"", ""2021-08-04""]"
+autorias.Lei Ordinária nº 14.155, de 27 de maio de 2021.materia;PL 4554/2020
+autorias.Lei Ordinária nº 14.155, de 27 de maio de 2021.apresentacao;2020-09-14
+autorias.Lei Ordinária nº 14.155, de 27 de maio de 2021.autoria_registrada;Senador Izalci Lucas (PSDB/DF)
+autorias.Lei Ordinária nº 14.155, de 27 de maio de 2021.codigo_senador;4770
+autorias.Lei Ordinária nº 14.155, de 27 de maio de 2021.nome_na_ficha;Izalci Lucas
+autorias.Lei Ordinária nº 14.155, de 27 de maio de 2021.partido;PSDB
+autorias.Lei Ordinária nº 14.155, de 27 de maio de 2021.criterio;filiação vigente na data da apresentação
+autorias.Lei Ordinária nº 14.155, de 27 de maio de 2021.filiacoes[0];"[""PL"", ""2024-03-27"", null]"
+autorias.Lei Ordinária nº 14.155, de 27 de maio de 2021.filiacoes[1];"[""PSDB"", ""2012-10-16"", ""2024-03-26""]"
+autorias.Lei Ordinária nº 14.155, de 27 de maio de 2021.filiacoes[2];"[""PL"", ""2011-02-01"", ""2012-10-15""]"
+autorias.Lei Ordinária nº 14.155, de 27 de maio de 2021.filiacoes[3];"[""PSDB"", ""2008-04-29"", ""2011-01-31""]"
+autorias.Lei Ordinária nº 14.155, de 27 de maio de 2021.filiacoes[4];"[""DEM"", ""2007-04-24"", ""2008-04-28""]"
+autorias.Lei Ordinária nº 14.155, de 27 de maio de 2021.filiacoes[5];"[""PFL"", ""2007-03-01"", ""2007-04-23""]"
+autorias.Lei Ordinária nº 14.967, de 9 de setembro de 2024.materia;PLS 135/2010
+autorias.Lei Ordinária nº 14.967, de 9 de setembro de 2024.apresentacao;2010-05-13
+autorias.Lei Ordinária nº 14.967, de 9 de setembro de 2024.autoria_registrada;Senador Marcelo Crivella (REPUBLICANOS/RJ)
+autorias.Lei Ordinária nº 14.967, de 9 de setembro de 2024.codigo_senador;3366
+autorias.Lei Ordinária nº 14.967, de 9 de setembro de 2024.nome_na_ficha;Marcelo Crivella
+autorias.Lei Ordinária nº 14.967, de 9 de setembro de 2024.partido;REPUBLICANOS
+autorias.Lei Ordinária nº 14.967, de 9 de setembro de 2024.criterio;filiação vigente na data da apresentação
+autorias.Lei Ordinária nº 14.967, de 9 de setembro de 2024.filiacoes[0];"[""REPUBLICANOS"", ""2006-04-04"", null]"
+autorias.Lei Ordinária nº 14.967, de 9 de setembro de 2024.filiacoes[1];"[""PMR"", ""2005-10-04"", ""2006-04-03""]"
+autorias.Lei Ordinária nº 14.967, de 9 de setembro de 2024.filiacoes[2];"[""S/Partido"", ""2005-09-29"", ""2005-10-03""]"
+autorias.Lei Ordinária nº 14.967, de 9 de setembro de 2024.filiacoes[3];"[""PL"", ""2003-02-01"", ""2005-09-28""]"
+autorias.Lei Ordinária nº 14.994, de 9 de outubro de 2024.materia;PL 4266/2023
+autorias.Lei Ordinária nº 14.994, de 9 de outubro de 2024.apresentacao;2023-08-31
+autorias.Lei Ordinária nº 14.994, de 9 de outubro de 2024.autoria_registrada;Senadora Margareth Buzetti (PSD/MT)
+autorias.Lei Ordinária nº 14.994, de 9 de outubro de 2024.codigo_senador;6304
+autorias.Lei Ordinária nº 14.994, de 9 de outubro de 2024.nome_na_ficha;Margareth Buzetti
+autorias.Lei Ordinária nº 14.994, de 9 de outubro de 2024.partido;PSD
+autorias.Lei Ordinária nº 14.994, de 9 de outubro de 2024.criterio;filiação vigente na data da apresentação
+autorias.Lei Ordinária nº 14.994, de 9 de outubro de 2024.filiacoes[0];"[""PP"", ""2025-08-21"", null]"
+autorias.Lei Ordinária nº 14.994, de 9 de outubro de 2024.filiacoes[1];"[""S/Partido"", ""2025-08-18"", ""2025-08-20""]"
+autorias.Lei Ordinária nº 14.994, de 9 de outubro de 2024.filiacoes[2];"[""PSD"", ""2023-01-05"", ""2025-08-17""]"
+autorias.Lei Ordinária nº 14.994, de 9 de outubro de 2024.filiacoes[3];"[""PP"", ""2022-06-07"", ""2023-01-04""]"
+autorias.Lei Ordinária nº 15.035, de 27 de novembro de 2024.materia;PL 6212/2023
+autorias.Lei Ordinária nº 15.035, de 27 de novembro de 2024.apresentacao;2023-12-22
+autorias.Lei Ordinária nº 15.035, de 27 de novembro de 2024.autoria_registrada;Senadora Margareth Buzetti (PSD/MT)
+autorias.Lei Ordinária nº 15.035, de 27 de novembro de 2024.codigo_senador;6304
+autorias.Lei Ordinária nº 15.035, de 27 de novembro de 2024.nome_na_ficha;Margareth Buzetti
+autorias.Lei Ordinária nº 15.035, de 27 de novembro de 2024.partido;PSD
+autorias.Lei Ordinária nº 15.035, de 27 de novembro de 2024.criterio;filiação vigente na data da apresentação
+autorias.Lei Ordinária nº 15.035, de 27 de novembro de 2024.filiacoes[0];"[""PP"", ""2025-08-21"", null]"
+autorias.Lei Ordinária nº 15.035, de 27 de novembro de 2024.filiacoes[1];"[""S/Partido"", ""2025-08-18"", ""2025-08-20""]"
+autorias.Lei Ordinária nº 15.035, de 27 de novembro de 2024.filiacoes[2];"[""PSD"", ""2023-01-05"", ""2025-08-17""]"
+autorias.Lei Ordinária nº 15.035, de 27 de novembro de 2024.filiacoes[3];"[""PP"", ""2022-06-07"", ""2023-01-04""]"
+autorias.Lei Ordinária nº 15.229, de 2 de outubro de 2025.materia;PL 3114/2023
+autorias.Lei Ordinária nº 15.229, de 2 de outubro de 2025.apresentacao;2023-06-16
+autorias.Lei Ordinária nº 15.229, de 2 de outubro de 2025.autoria_registrada;Senadora Damares Alves (REPUBLICANOS/DF)
+autorias.Lei Ordinária nº 15.229, de 2 de outubro de 2025.codigo_senador;6335
+autorias.Lei Ordinária nº 15.229, de 2 de outubro de 2025.nome_na_ficha;Damares Alves
+autorias.Lei Ordinária nº 15.229, de 2 de outubro de 2025.partido;REPUBLICANOS
+autorias.Lei Ordinária nº 15.229, de 2 de outubro de 2025.criterio;filiação vigente na data da apresentação
+autorias.Lei Ordinária nº 15.229, de 2 de outubro de 2025.filiacoes[0];"[""REPUBLICANOS"", ""2022-10-02"", null]"
+autorias.Lei Ordinária nº 15.245, de 29 de outubro de 2025.materia;PL 1307/2023
+autorias.Lei Ordinária nº 15.245, de 29 de outubro de 2025.apresentacao;2023-03-22
+autorias.Lei Ordinária nº 15.245, de 29 de outubro de 2025.autoria_registrada;Senador Sergio Moro (UNIÃO/PR)
+autorias.Lei Ordinária nº 15.245, de 29 de outubro de 2025.codigo_senador;6331
+autorias.Lei Ordinária nº 15.245, de 29 de outubro de 2025.nome_na_ficha;Sergio Moro
+autorias.Lei Ordinária nº 15.245, de 29 de outubro de 2025.partido;UNIÃO
+autorias.Lei Ordinária nº 15.245, de 29 de outubro de 2025.criterio;filiação vigente na data da apresentação
+autorias.Lei Ordinária nº 15.245, de 29 de outubro de 2025.filiacoes[0];"[""PL"", ""2026-03-24"", null]"
+autorias.Lei Ordinária nº 15.245, de 29 de outubro de 2025.filiacoes[1];"[""UNIÃO"", ""2022-10-02"", ""2026-03-23""]"
+autorias.Lei Ordinária nº 15.280, de 5 de dezembro de 2025.materia;PL 2810/2025
+autorias.Lei Ordinária nº 15.280, de 5 de dezembro de 2025.apresentacao;2025-06-11
+autorias.Lei Ordinária nº 15.280, de 5 de dezembro de 2025.autoria_registrada;Senadora Margareth Buzetti (PSD/MT)
+autorias.Lei Ordinária nº 15.280, de 5 de dezembro de 2025.codigo_senador;6304
+autorias.Lei Ordinária nº 15.280, de 5 de dezembro de 2025.nome_na_ficha;Margareth Buzetti
+autorias.Lei Ordinária nº 15.280, de 5 de dezembro de 2025.partido;PSD
+autorias.Lei Ordinária nº 15.280, de 5 de dezembro de 2025.criterio;filiação vigente na data da apresentação
+autorias.Lei Ordinária nº 15.280, de 5 de dezembro de 2025.filiacoes[0];"[""PP"", ""2025-08-21"", null]"
+autorias.Lei Ordinária nº 15.280, de 5 de dezembro de 2025.filiacoes[1];"[""S/Partido"", ""2025-08-18"", ""2025-08-20""]"
+autorias.Lei Ordinária nº 15.280, de 5 de dezembro de 2025.filiacoes[2];"[""PSD"", ""2023-01-05"", ""2025-08-17""]"
+autorias.Lei Ordinária nº 15.280, de 5 de dezembro de 2025.filiacoes[3];"[""PP"", ""2022-06-07"", ""2023-01-04""]"
+autorias.Lei Ordinária nº 8.069, de 13 de julho de 1990.materia;PLS 193/1989
+autorias.Lei Ordinária nº 8.069, de 13 de julho de 1990.apresentacao;1989-06-30
+autorias.Lei Ordinária nº 8.069, de 13 de julho de 1990.autoria_registrada;Senador Ronan Tito (MDB/MG)
+autorias.Lei Ordinária nº 8.069, de 13 de julho de 1990.codigo_senador;2224
+autorias.Lei Ordinária nº 8.069, de 13 de julho de 1990.nome_na_ficha;Ronan Tito
+autorias.Lei Ordinária nº 8.069, de 13 de julho de 1990.partido;MDB
+autorias.Lei Ordinária nº 8.069, de 13 de julho de 1990.criterio;filiação vigente na data da apresentação
+autorias.Lei Ordinária nº 8.069, de 13 de julho de 1990.filiacoes[0];"[""MDB"", ""1987-02-01"", null]"
+autorias.Lei Ordinária nº 8.072, de 25 de julho de 1990.materia;PLS 50/1990
+autorias.Lei Ordinária nº 8.072, de 25 de julho de 1990.apresentacao;1990-05-17
+autorias.Lei Ordinária nº 8.072, de 25 de julho de 1990.autoria_registrada;Senador Odacir Soares (/RO)
+autorias.Lei Ordinária nº 8.072, de 25 de julho de 1990.codigo_senador;64
+autorias.Lei Ordinária nº 8.072, de 25 de julho de 1990.nome_na_ficha;Odacir Soares
+autorias.Lei Ordinária nº 8.072, de 25 de julho de 1990.partido;
+autorias.Lei Ordinária nº 8.072, de 25 de julho de 1990.criterio;nenhuma filiação da fonte cobre a data da apresentação
+autorias.Lei Ordinária nº 8.072, de 25 de julho de 1990.filiacoes[0];"[""PP"", ""2014-07-16"", null]"
+autorias.Lei Ordinária nº 8.072, de 25 de julho de 1990.filiacoes[1];"[""PTB"", ""1997-08-20"", ""1999-01-31""]"
+autorias.Lei Ordinária nº 8.072, de 25 de julho de 1990.filiacoes[2];"[""PFL"", ""1991-02-01"", ""1997-08-19""]"
+autorias.Lei Ordinária nº 9.269, de 2 de abril de 1996.materia;PLS 69/1991
+autorias.Lei Ordinária nº 9.269, de 2 de abril de 1996.apresentacao;1991-04-11
+autorias.Lei Ordinária nº 9.269, de 2 de abril de 1996.autoria_registrada;Senador Francisco Rollemberg (/SE)
+autorias.Lei Ordinária nº 9.269, de 2 de abril de 1996.codigo_senador;1687
+autorias.Lei Ordinária nº 9.269, de 2 de abril de 1996.nome_na_ficha;Francisco Rollemberg
+autorias.Lei Ordinária nº 9.269, de 2 de abril de 1996.partido;
+autorias.Lei Ordinária nº 9.269, de 2 de abril de 1996.criterio;nenhuma filiação da fonte cobre a data da apresentação
+autorias.Lei Ordinária nº 9.269, de 2 de abril de 1996.filiacoes[0];"[""PMN"", null, null]"
+autorias.Lei Ordinária nº 9.269, de 2 de abril de 1996.filiacoes[1];"[""PFL"", null, null]"
+autorias.Lei Ordinária nº 9.269, de 2 de abril de 1996.filiacoes[2];"[""MDB"", null, null]"
+autorias.Lei Ordinária nº 9.269, de 2 de abril de 1996.filiacoes[3];"[""PDS"", null, null]"
+autorias.Lei Ordinária nº 9.269, de 2 de abril de 1996.filiacoes[4];"[""ARENA"", null, null]"

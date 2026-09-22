@@ -1,0 +1,37 @@
+chave;valor
+gerado_por;apurar_posicao_do_individuo.py
+o_que_mede;a posicao do individuo diante da lei penal, nas duas pontas: como pessoa que a lei diz proteger, e como pessoa que ela alcanca
+o_que_nao_mede;se a protecao produziu efeito, que exigiria serie de vitimizacao por tipo penal, ausente deste acervo
+criterio_do_recorte;os Titulos I, VI e VII da Parte Especial, na disposicao do legislador de 1940. O criterio e' do Codigo, e nao do autor
+A_as_duas_pontas.parte_geral.o_que_e;o regime juridico de quem responde ao processo e cumpre pena
+A_as_duas_pontas.parte_geral.institutos_pareados;16
+A_as_duas_pontas.parte_geral.por_subtracao_estrita.abranda;5
+A_as_duas_pontas.parte_geral.por_subtracao_estrita.agrava;2
+A_as_duas_pontas.parte_geral.por_subtracao_estrita.mantem;6
+A_as_duas_pontas.parte_geral.por_subtracao_estrita.instituto_criado_depois_de_1940;2
+A_as_duas_pontas.parte_geral.por_subtracao_estrita.instituto_extinto_depois_de_1940;1
+A_as_duas_pontas.parte_geral.por_subtracao_estrita.o_que_e;conta so' o que tem parametro numerico nas duas epocas
+A_as_duas_pontas.parte_geral.com_as_tres_leituras_declaradas.abranda;7
+A_as_duas_pontas.parte_geral.com_as_tres_leituras_declaradas.agrava;3
+A_as_duas_pontas.parte_geral.com_as_tres_leituras_declaradas.mantem;6
+A_as_duas_pontas.parte_geral.com_as_tres_leituras_declaradas.o_que_e;os tres institutos sem contraparte em 1940 entram pela leitura que o Quadro 9 declara ao lado de cada um: o periodo depurador da reincidencia e a extincao do prazo agravado da reabilitacao abrandam, e o teto especial do crime continuado agrava
+A_as_duas_pontas.parte_geral.por_que_duas_contagens;tres dos dezesseis institutos nao tem contraparte em 1940. Declarar as duas leituras e' mais honesto que escolher uma em silencio
+A_as_duas_pontas.parte_especial.o_que_e;o que alcanca essa pessoa: os tipos penais e as penas
+A_as_duas_pontas.parte_especial.eventos_datados;130
+A_as_duas_pontas.parte_especial.endurece;107
+A_as_duas_pontas.parte_especial.pct_endurece;82.3
+B_recorte_estreito.soma_do_recorte.endurece;34
+B_recorte_estreito.soma_do_recorte.eventos;38
+B_recorte_estreito.soma_do_recorte.pct_endurece;89.5
+B_recorte_estreito.fora_do_recorte.endurece;73
+B_recorte_estreito.fora_do_recorte.eventos;92
+B_recorte_estreito.fora_do_recorte.pct_endurece;79.3
+B_recorte_estreito.participacao_do_recorte_no_total;29.2
+B_recorte_estreito.diferenca_em_pontos_percentuais;10.1
+B_recorte_estreito.teste.pergunta;a diferenca entre o recorte e o resto se distingue do acaso?
+B_recorte_estreito.teste.metodo;permutacao simples do rotulo de materia
+B_recorte_estreito.teste.permutacoes;200000
+B_recorte_estreito.teste.semente;20260830
+B_recorte_estreito.teste.p_bilateral;0.2124
+B_recorte_estreito.teste.veredito;a diferenca NAO se distingue do acaso ao nivel de 5%
+B_recorte_estreito.teste.o_que_sobrevive;a COMPOSICAO: 34 dos 38 eventos do recorte endurecem, e 2 abrandam

@@ -1,0 +1,343 @@
+chave;valor
+gerado_em;30/08/2026
+o_que_se_mede;eventos de AGRAVAMENTO de pena por ano, e nao contagem de normas. Agravamento inclui criar pena onde nao havia
+fonte_dos_eventos;cp-eventos-de-severidade.csv
+eventos_totais;130
+eventos_de_agravamento;107
+eventos_de_abrandamento;16
+anos_com_ao_menos_um_evento;28
+primeiro_ano_com_evento;1968
+limite_declarado;a serie e' rala antes de 1990 por propriedade da FONTE, que exibe apenas a anotacao sobrevivente. O recorte de 1940 nao mede o periodo antigo, mede o que sobreviveu dele
+testes.serie inteira, sem o ano em curso.GOVERNADOR direto.recorte;1940 a 2025
+testes.serie inteira, sem o ano em curso.GOVERNADOR direto.anos_no_recorte;81
+testes.serie inteira, sem o ano em curso.GOVERNADOR direto.anos_excluidos_por_zero_estrutural;[1940, 1941, 1942, 1943, 1944]
+testes.serie inteira, sem o ano em curso.GOVERNADOR direto.anos_COM_pleito;20
+testes.serie inteira, sem o ano em curso.GOVERNADOR direto.anos_SEM_pleito;61
+testes.serie inteira, sem o ano em curso.GOVERNADOR direto.normas_no_recorte;99
+testes.serie inteira, sem o ano em curso.GOVERNADOR direto.examinavel;True
+testes.serie inteira, sem o ano em curso.GOVERNADOR direto.normas_no_grupo;20
+testes.serie inteira, sem o ano em curso.GOVERNADOR direto.normas_fora;79
+testes.serie inteira, sem o ano em curso.GOVERNADOR direto.media_no_grupo;1.0
+testes.serie inteira, sem o ano em curso.GOVERNADOR direto.media_fora;1.2951
+testes.serie inteira, sem o ano em curso.GOVERNADOR direto.razao;0.7722
+testes.serie inteira, sem o ano em curso.GOVERNADOR direto.diferenca_observada;-0.2951
+testes.serie inteira, sem o ano em curso.GOVERNADOR direto.bloco_de_permutacao_anos;10
+testes.serie inteira, sem o ano em curso.GOVERNADOR direto.sorteios;200000
+testes.serie inteira, sem o ano em curso.GOVERNADOR direto.p_valor_bilateral;0.80914
+testes.serie inteira, sem o ano em curso.LEGISLATIVA FEDERAL direta.recorte;1940 a 2025
+testes.serie inteira, sem o ano em curso.LEGISLATIVA FEDERAL direta.anos_no_recorte;81
+testes.serie inteira, sem o ano em curso.LEGISLATIVA FEDERAL direta.anos_excluidos_por_zero_estrutural;[1940, 1941, 1942, 1943, 1944]
+testes.serie inteira, sem o ano em curso.LEGISLATIVA FEDERAL direta.anos_COM_pleito;22
+testes.serie inteira, sem o ano em curso.LEGISLATIVA FEDERAL direta.anos_SEM_pleito;59
+testes.serie inteira, sem o ano em curso.LEGISLATIVA FEDERAL direta.normas_no_recorte;99
+testes.serie inteira, sem o ano em curso.LEGISLATIVA FEDERAL direta.examinavel;True
+testes.serie inteira, sem o ano em curso.LEGISLATIVA FEDERAL direta.normas_no_grupo;20
+testes.serie inteira, sem o ano em curso.LEGISLATIVA FEDERAL direta.normas_fora;79
+testes.serie inteira, sem o ano em curso.LEGISLATIVA FEDERAL direta.media_no_grupo;0.9091
+testes.serie inteira, sem o ano em curso.LEGISLATIVA FEDERAL direta.media_fora;1.339
+testes.serie inteira, sem o ano em curso.LEGISLATIVA FEDERAL direta.razao;0.6789
+testes.serie inteira, sem o ano em curso.LEGISLATIVA FEDERAL direta.diferenca_observada;-0.4299
+testes.serie inteira, sem o ano em curso.LEGISLATIVA FEDERAL direta.bloco_de_permutacao_anos;10
+testes.serie inteira, sem o ano em curso.LEGISLATIVA FEDERAL direta.sorteios;200000
+testes.serie inteira, sem o ano em curso.LEGISLATIVA FEDERAL direta.p_valor_bilateral;0.71718
+testes.serie inteira, sem o ano em curso.MUNICIPAL ISOLADA, sem presidencial.recorte;1940 a 2025
+testes.serie inteira, sem o ano em curso.MUNICIPAL ISOLADA, sem presidencial.anos_no_recorte;81
+testes.serie inteira, sem o ano em curso.MUNICIPAL ISOLADA, sem presidencial.anos_excluidos_por_zero_estrutural;[1940, 1941, 1942, 1943, 1944]
+testes.serie inteira, sem o ano em curso.MUNICIPAL ISOLADA, sem presidencial.anos_COM_pleito;21
+testes.serie inteira, sem o ano em curso.MUNICIPAL ISOLADA, sem presidencial.anos_SEM_pleito;60
+testes.serie inteira, sem o ano em curso.MUNICIPAL ISOLADA, sem presidencial.normas_no_recorte;99
+testes.serie inteira, sem o ano em curso.MUNICIPAL ISOLADA, sem presidencial.examinavel;True
+testes.serie inteira, sem o ano em curso.MUNICIPAL ISOLADA, sem presidencial.normas_no_grupo;30
+testes.serie inteira, sem o ano em curso.MUNICIPAL ISOLADA, sem presidencial.normas_fora;69
+testes.serie inteira, sem o ano em curso.MUNICIPAL ISOLADA, sem presidencial.media_no_grupo;1.4286
+testes.serie inteira, sem o ano em curso.MUNICIPAL ISOLADA, sem presidencial.media_fora;1.15
+testes.serie inteira, sem o ano em curso.MUNICIPAL ISOLADA, sem presidencial.razao;1.2422
+testes.serie inteira, sem o ano em curso.MUNICIPAL ISOLADA, sem presidencial.diferenca_observada;0.2786
+testes.serie inteira, sem o ano em curso.MUNICIPAL ISOLADA, sem presidencial.bloco_de_permutacao_anos;10
+testes.serie inteira, sem o ano em curso.MUNICIPAL ISOLADA, sem presidencial.sorteios;200000
+testes.serie inteira, sem o ano em curso.MUNICIPAL ISOLADA, sem presidencial.p_valor_bilateral;0.79107
+testes.serie inteira, sem o ano em curso.MUNICIPAL, qualquer.recorte;1940 a 2025
+testes.serie inteira, sem o ano em curso.MUNICIPAL, qualquer.anos_no_recorte;81
+testes.serie inteira, sem o ano em curso.MUNICIPAL, qualquer.anos_excluidos_por_zero_estrutural;[1940, 1941, 1942, 1943, 1944]
+testes.serie inteira, sem o ano em curso.MUNICIPAL, qualquer.anos_COM_pleito;28
+testes.serie inteira, sem o ano em curso.MUNICIPAL, qualquer.anos_SEM_pleito;53
+testes.serie inteira, sem o ano em curso.MUNICIPAL, qualquer.normas_no_recorte;99
+testes.serie inteira, sem o ano em curso.MUNICIPAL, qualquer.examinavel;True
+testes.serie inteira, sem o ano em curso.MUNICIPAL, qualquer.normas_no_grupo;30
+testes.serie inteira, sem o ano em curso.MUNICIPAL, qualquer.normas_fora;69
+testes.serie inteira, sem o ano em curso.MUNICIPAL, qualquer.media_no_grupo;1.0714
+testes.serie inteira, sem o ano em curso.MUNICIPAL, qualquer.media_fora;1.3019
+testes.serie inteira, sem o ano em curso.MUNICIPAL, qualquer.razao;0.823
+testes.serie inteira, sem o ano em curso.MUNICIPAL, qualquer.diferenca_observada;-0.2305
+testes.serie inteira, sem o ano em curso.MUNICIPAL, qualquer.bloco_de_permutacao_anos;10
+testes.serie inteira, sem o ano em curso.MUNICIPAL, qualquer.sorteios;200000
+testes.serie inteira, sem o ano em curso.MUNICIPAL, qualquer.p_valor_bilateral;0.83322
+testes.serie inteira, sem o ano em curso.PRESIDENCIAL DIRETA.recorte;1940 a 2025
+testes.serie inteira, sem o ano em curso.PRESIDENCIAL DIRETA.anos_no_recorte;81
+testes.serie inteira, sem o ano em curso.PRESIDENCIAL DIRETA.anos_excluidos_por_zero_estrutural;[1940, 1941, 1942, 1943, 1944]
+testes.serie inteira, sem o ano em curso.PRESIDENCIAL DIRETA.anos_COM_pleito;13
+testes.serie inteira, sem o ano em curso.PRESIDENCIAL DIRETA.anos_SEM_pleito;68
+testes.serie inteira, sem o ano em curso.PRESIDENCIAL DIRETA.normas_no_recorte;99
+testes.serie inteira, sem o ano em curso.PRESIDENCIAL DIRETA.examinavel;True
+testes.serie inteira, sem o ano em curso.PRESIDENCIAL DIRETA.normas_no_grupo;16
+testes.serie inteira, sem o ano em curso.PRESIDENCIAL DIRETA.normas_fora;83
+testes.serie inteira, sem o ano em curso.PRESIDENCIAL DIRETA.media_no_grupo;1.2308
+testes.serie inteira, sem o ano em curso.PRESIDENCIAL DIRETA.media_fora;1.2206
+testes.serie inteira, sem o ano em curso.PRESIDENCIAL DIRETA.razao;1.0083
+testes.serie inteira, sem o ano em curso.PRESIDENCIAL DIRETA.diferenca_observada;0.0102
+testes.serie inteira, sem o ano em curso.PRESIDENCIAL DIRETA.bloco_de_permutacao_anos;10
+testes.serie inteira, sem o ano em curso.PRESIDENCIAL DIRETA.sorteios;200000
+testes.serie inteira, sem o ano em curso.PRESIDENCIAL DIRETA.p_valor_bilateral;1.0
+testes.serie inteira, sem o ano em curso.PRESIDENCIAL DIRETA.anos_do_grupo;[1945, 1950, 1955, 1960, 1989, 1994, 1998, 2002, 2006, 2010, 2014, 2018, 2022]
+testes.serie inteira, sem o ano em curso.governador INDIRETO.recorte;1940 a 2025
+testes.serie inteira, sem o ano em curso.governador INDIRETO.anos_no_recorte;81
+testes.serie inteira, sem o ano em curso.governador INDIRETO.anos_excluidos_por_zero_estrutural;[1940, 1941, 1942, 1943, 1944]
+testes.serie inteira, sem o ano em curso.governador INDIRETO.anos_COM_pleito;4
+testes.serie inteira, sem o ano em curso.governador INDIRETO.anos_SEM_pleito;77
+testes.serie inteira, sem o ano em curso.governador INDIRETO.normas_no_recorte;99
+testes.serie inteira, sem o ano em curso.governador INDIRETO.examinavel;True
+testes.serie inteira, sem o ano em curso.governador INDIRETO.normas_no_grupo;0
+testes.serie inteira, sem o ano em curso.governador INDIRETO.normas_fora;99
+testes.serie inteira, sem o ano em curso.governador INDIRETO.media_no_grupo;0.0
+testes.serie inteira, sem o ano em curso.governador INDIRETO.media_fora;1.2857
+testes.serie inteira, sem o ano em curso.governador INDIRETO.razao;0.0
+testes.serie inteira, sem o ano em curso.governador INDIRETO.diferenca_observada;-1.2857
+testes.serie inteira, sem o ano em curso.governador INDIRETO.bloco_de_permutacao_anos;10
+testes.serie inteira, sem o ano em curso.governador INDIRETO.sorteios;200000
+testes.serie inteira, sem o ano em curso.governador INDIRETO.p_valor_bilateral;0.63171
+testes.serie inteira, sem o ano em curso.governador INDIRETO.anos_do_grupo;[1966, 1970, 1974, 1978]
+testes.serie inteira, sem o ano em curso.presidencial INDIRETA.recorte;1940 a 2025
+testes.serie inteira, sem o ano em curso.presidencial INDIRETA.anos_no_recorte;81
+testes.serie inteira, sem o ano em curso.presidencial INDIRETA.anos_excluidos_por_zero_estrutural;[1940, 1941, 1942, 1943, 1944]
+testes.serie inteira, sem o ano em curso.presidencial INDIRETA.anos_COM_pleito;6
+testes.serie inteira, sem o ano em curso.presidencial INDIRETA.anos_SEM_pleito;75
+testes.serie inteira, sem o ano em curso.presidencial INDIRETA.normas_no_recorte;99
+testes.serie inteira, sem o ano em curso.presidencial INDIRETA.examinavel;True
+testes.serie inteira, sem o ano em curso.presidencial INDIRETA.normas_no_grupo;0
+testes.serie inteira, sem o ano em curso.presidencial INDIRETA.normas_fora;99
+testes.serie inteira, sem o ano em curso.presidencial INDIRETA.media_no_grupo;0.0
+testes.serie inteira, sem o ano em curso.presidencial INDIRETA.media_fora;1.32
+testes.serie inteira, sem o ano em curso.presidencial INDIRETA.razao;0.0
+testes.serie inteira, sem o ano em curso.presidencial INDIRETA.diferenca_observada;-1.32
+testes.serie inteira, sem o ano em curso.presidencial INDIRETA.bloco_de_permutacao_anos;10
+testes.serie inteira, sem o ano em curso.presidencial INDIRETA.sorteios;200000
+testes.serie inteira, sem o ano em curso.presidencial INDIRETA.p_valor_bilateral;0.56812
+testes.serie inteira, sem o ano em curso.presidencial INDIRETA.anos_do_grupo;[1964, 1966, 1969, 1974, 1978, 1985]
+testes.serie inteira, sem o ano em curso.RUPTURA PRESIDENCIAL, fonte conferida.recorte;1940 a 2025
+testes.serie inteira, sem o ano em curso.RUPTURA PRESIDENCIAL, fonte conferida.anos_no_recorte;81
+testes.serie inteira, sem o ano em curso.RUPTURA PRESIDENCIAL, fonte conferida.anos_excluidos_por_zero_estrutural;[1940, 1941, 1942, 1943, 1944]
+testes.serie inteira, sem o ano em curso.RUPTURA PRESIDENCIAL, fonte conferida.anos_COM_pleito;3
+testes.serie inteira, sem o ano em curso.RUPTURA PRESIDENCIAL, fonte conferida.anos_SEM_pleito;78
+testes.serie inteira, sem o ano em curso.RUPTURA PRESIDENCIAL, fonte conferida.normas_no_recorte;99
+testes.serie inteira, sem o ano em curso.RUPTURA PRESIDENCIAL, fonte conferida.examinavel;True
+testes.serie inteira, sem o ano em curso.RUPTURA PRESIDENCIAL, fonte conferida.normas_no_grupo;1
+testes.serie inteira, sem o ano em curso.RUPTURA PRESIDENCIAL, fonte conferida.normas_fora;98
+testes.serie inteira, sem o ano em curso.RUPTURA PRESIDENCIAL, fonte conferida.media_no_grupo;0.3333
+testes.serie inteira, sem o ano em curso.RUPTURA PRESIDENCIAL, fonte conferida.media_fora;1.2564
+testes.serie inteira, sem o ano em curso.RUPTURA PRESIDENCIAL, fonte conferida.razao;0.2653
+testes.serie inteira, sem o ano em curso.RUPTURA PRESIDENCIAL, fonte conferida.diferenca_observada;-0.9231
+testes.serie inteira, sem o ano em curso.RUPTURA PRESIDENCIAL, fonte conferida.bloco_de_permutacao_anos;10
+testes.serie inteira, sem o ano em curso.RUPTURA PRESIDENCIAL, fonte conferida.sorteios;200000
+testes.serie inteira, sem o ano em curso.RUPTURA PRESIDENCIAL, fonte conferida.p_valor_bilateral;0.7512
+testes.serie inteira, sem o ano em curso.RUPTURA PRESIDENCIAL, fonte conferida.anos_do_grupo;[1955, 1992, 2016]
+testes.de 1990 em diante, onde a fonte mostra mais.GOVERNADOR direto.recorte;1990 a 2025
+testes.de 1990 em diante, onde a fonte mostra mais.GOVERNADOR direto.anos_no_recorte;36
+testes.de 1990 em diante, onde a fonte mostra mais.GOVERNADOR direto.anos_COM_pleito;9
+testes.de 1990 em diante, onde a fonte mostra mais.GOVERNADOR direto.anos_SEM_pleito;27
+testes.de 1990 em diante, onde a fonte mostra mais.GOVERNADOR direto.normas_no_recorte;96
+testes.de 1990 em diante, onde a fonte mostra mais.GOVERNADOR direto.examinavel;True
+testes.de 1990 em diante, onde a fonte mostra mais.GOVERNADOR direto.normas_no_grupo;20
+testes.de 1990 em diante, onde a fonte mostra mais.GOVERNADOR direto.normas_fora;76
+testes.de 1990 em diante, onde a fonte mostra mais.GOVERNADOR direto.media_no_grupo;2.2222
+testes.de 1990 em diante, onde a fonte mostra mais.GOVERNADOR direto.media_fora;2.8148
+testes.de 1990 em diante, onde a fonte mostra mais.GOVERNADOR direto.razao;0.7895
+testes.de 1990 em diante, onde a fonte mostra mais.GOVERNADOR direto.diferenca_observada;-0.5926
+testes.de 1990 em diante, onde a fonte mostra mais.GOVERNADOR direto.bloco_de_permutacao_anos;10
+testes.de 1990 em diante, onde a fonte mostra mais.GOVERNADOR direto.sorteios;200000
+testes.de 1990 em diante, onde a fonte mostra mais.GOVERNADOR direto.p_valor_bilateral;0.80168
+testes.de 1990 em diante, onde a fonte mostra mais.GOVERNADOR direto.anos_do_grupo;[1990, 1994, 1998, 2002, 2006, 2010, 2014, 2018, 2022]
+testes.de 1990 em diante, onde a fonte mostra mais.LEGISLATIVA FEDERAL direta.recorte;1990 a 2025
+testes.de 1990 em diante, onde a fonte mostra mais.LEGISLATIVA FEDERAL direta.anos_no_recorte;36
+testes.de 1990 em diante, onde a fonte mostra mais.LEGISLATIVA FEDERAL direta.anos_COM_pleito;9
+testes.de 1990 em diante, onde a fonte mostra mais.LEGISLATIVA FEDERAL direta.anos_SEM_pleito;27
+testes.de 1990 em diante, onde a fonte mostra mais.LEGISLATIVA FEDERAL direta.normas_no_recorte;96
+testes.de 1990 em diante, onde a fonte mostra mais.LEGISLATIVA FEDERAL direta.examinavel;True
+testes.de 1990 em diante, onde a fonte mostra mais.LEGISLATIVA FEDERAL direta.normas_no_grupo;20
+testes.de 1990 em diante, onde a fonte mostra mais.LEGISLATIVA FEDERAL direta.normas_fora;76
+testes.de 1990 em diante, onde a fonte mostra mais.LEGISLATIVA FEDERAL direta.media_no_grupo;2.2222
+testes.de 1990 em diante, onde a fonte mostra mais.LEGISLATIVA FEDERAL direta.media_fora;2.8148
+testes.de 1990 em diante, onde a fonte mostra mais.LEGISLATIVA FEDERAL direta.razao;0.7895
+testes.de 1990 em diante, onde a fonte mostra mais.LEGISLATIVA FEDERAL direta.diferenca_observada;-0.5926
+testes.de 1990 em diante, onde a fonte mostra mais.LEGISLATIVA FEDERAL direta.bloco_de_permutacao_anos;10
+testes.de 1990 em diante, onde a fonte mostra mais.LEGISLATIVA FEDERAL direta.sorteios;200000
+testes.de 1990 em diante, onde a fonte mostra mais.LEGISLATIVA FEDERAL direta.p_valor_bilateral;0.80168
+testes.de 1990 em diante, onde a fonte mostra mais.LEGISLATIVA FEDERAL direta.anos_do_grupo;[1990, 1994, 1998, 2002, 2006, 2010, 2014, 2018, 2022]
+testes.de 1990 em diante, onde a fonte mostra mais.MUNICIPAL ISOLADA, sem presidencial.recorte;1990 a 2025
+testes.de 1990 em diante, onde a fonte mostra mais.MUNICIPAL ISOLADA, sem presidencial.anos_no_recorte;36
+testes.de 1990 em diante, onde a fonte mostra mais.MUNICIPAL ISOLADA, sem presidencial.anos_COM_pleito;9
+testes.de 1990 em diante, onde a fonte mostra mais.MUNICIPAL ISOLADA, sem presidencial.anos_SEM_pleito;27
+testes.de 1990 em diante, onde a fonte mostra mais.MUNICIPAL ISOLADA, sem presidencial.normas_no_recorte;96
+testes.de 1990 em diante, onde a fonte mostra mais.MUNICIPAL ISOLADA, sem presidencial.examinavel;True
+testes.de 1990 em diante, onde a fonte mostra mais.MUNICIPAL ISOLADA, sem presidencial.normas_no_grupo;28
+testes.de 1990 em diante, onde a fonte mostra mais.MUNICIPAL ISOLADA, sem presidencial.normas_fora;68
+testes.de 1990 em diante, onde a fonte mostra mais.MUNICIPAL ISOLADA, sem presidencial.media_no_grupo;3.1111
+testes.de 1990 em diante, onde a fonte mostra mais.MUNICIPAL ISOLADA, sem presidencial.media_fora;2.5185
+testes.de 1990 em diante, onde a fonte mostra mais.MUNICIPAL ISOLADA, sem presidencial.razao;1.2353
+testes.de 1990 em diante, onde a fonte mostra mais.MUNICIPAL ISOLADA, sem presidencial.diferenca_observada;0.5926
+testes.de 1990 em diante, onde a fonte mostra mais.MUNICIPAL ISOLADA, sem presidencial.bloco_de_permutacao_anos;10
+testes.de 1990 em diante, onde a fonte mostra mais.MUNICIPAL ISOLADA, sem presidencial.sorteios;200000
+testes.de 1990 em diante, onde a fonte mostra mais.MUNICIPAL ISOLADA, sem presidencial.p_valor_bilateral;0.80585
+testes.de 1990 em diante, onde a fonte mostra mais.MUNICIPAL ISOLADA, sem presidencial.anos_do_grupo;[1992, 1996, 2000, 2004, 2008, 2012, 2016, 2020, 2024]
+testes.de 1990 em diante, onde a fonte mostra mais.MUNICIPAL, qualquer.recorte;1990 a 2025
+testes.de 1990 em diante, onde a fonte mostra mais.MUNICIPAL, qualquer.anos_no_recorte;36
+testes.de 1990 em diante, onde a fonte mostra mais.MUNICIPAL, qualquer.anos_COM_pleito;9
+testes.de 1990 em diante, onde a fonte mostra mais.MUNICIPAL, qualquer.anos_SEM_pleito;27
+testes.de 1990 em diante, onde a fonte mostra mais.MUNICIPAL, qualquer.normas_no_recorte;96
+testes.de 1990 em diante, onde a fonte mostra mais.MUNICIPAL, qualquer.examinavel;True
+testes.de 1990 em diante, onde a fonte mostra mais.MUNICIPAL, qualquer.normas_no_grupo;28
+testes.de 1990 em diante, onde a fonte mostra mais.MUNICIPAL, qualquer.normas_fora;68
+testes.de 1990 em diante, onde a fonte mostra mais.MUNICIPAL, qualquer.media_no_grupo;3.1111
+testes.de 1990 em diante, onde a fonte mostra mais.MUNICIPAL, qualquer.media_fora;2.5185
+testes.de 1990 em diante, onde a fonte mostra mais.MUNICIPAL, qualquer.razao;1.2353
+testes.de 1990 em diante, onde a fonte mostra mais.MUNICIPAL, qualquer.diferenca_observada;0.5926
+testes.de 1990 em diante, onde a fonte mostra mais.MUNICIPAL, qualquer.bloco_de_permutacao_anos;10
+testes.de 1990 em diante, onde a fonte mostra mais.MUNICIPAL, qualquer.sorteios;200000
+testes.de 1990 em diante, onde a fonte mostra mais.MUNICIPAL, qualquer.p_valor_bilateral;0.80585
+testes.de 1990 em diante, onde a fonte mostra mais.MUNICIPAL, qualquer.anos_do_grupo;[1992, 1996, 2000, 2004, 2008, 2012, 2016, 2020, 2024]
+testes.de 1990 em diante, onde a fonte mostra mais.PRESIDENCIAL DIRETA.recorte;1990 a 2025
+testes.de 1990 em diante, onde a fonte mostra mais.PRESIDENCIAL DIRETA.anos_no_recorte;36
+testes.de 1990 em diante, onde a fonte mostra mais.PRESIDENCIAL DIRETA.anos_COM_pleito;8
+testes.de 1990 em diante, onde a fonte mostra mais.PRESIDENCIAL DIRETA.anos_SEM_pleito;28
+testes.de 1990 em diante, onde a fonte mostra mais.PRESIDENCIAL DIRETA.normas_no_recorte;96
+testes.de 1990 em diante, onde a fonte mostra mais.PRESIDENCIAL DIRETA.examinavel;True
+testes.de 1990 em diante, onde a fonte mostra mais.PRESIDENCIAL DIRETA.normas_no_grupo;16
+testes.de 1990 em diante, onde a fonte mostra mais.PRESIDENCIAL DIRETA.normas_fora;80
+testes.de 1990 em diante, onde a fonte mostra mais.PRESIDENCIAL DIRETA.media_no_grupo;2.0
+testes.de 1990 em diante, onde a fonte mostra mais.PRESIDENCIAL DIRETA.media_fora;2.8571
+testes.de 1990 em diante, onde a fonte mostra mais.PRESIDENCIAL DIRETA.razao;0.7
+testes.de 1990 em diante, onde a fonte mostra mais.PRESIDENCIAL DIRETA.diferenca_observada;-0.8571
+testes.de 1990 em diante, onde a fonte mostra mais.PRESIDENCIAL DIRETA.bloco_de_permutacao_anos;10
+testes.de 1990 em diante, onde a fonte mostra mais.PRESIDENCIAL DIRETA.sorteios;200000
+testes.de 1990 em diante, onde a fonte mostra mais.PRESIDENCIAL DIRETA.p_valor_bilateral;0.71425
+testes.de 1990 em diante, onde a fonte mostra mais.PRESIDENCIAL DIRETA.anos_do_grupo;[1994, 1998, 2002, 2006, 2010, 2014, 2018, 2022]
+testes.de 1990 em diante, onde a fonte mostra mais.governador INDIRETO.recorte;1990 a 2025
+testes.de 1990 em diante, onde a fonte mostra mais.governador INDIRETO.anos_no_recorte;36
+testes.de 1990 em diante, onde a fonte mostra mais.governador INDIRETO.anos_COM_pleito;0
+testes.de 1990 em diante, onde a fonte mostra mais.governador INDIRETO.anos_SEM_pleito;36
+testes.de 1990 em diante, onde a fonte mostra mais.governador INDIRETO.normas_no_recorte;96
+testes.de 1990 em diante, onde a fonte mostra mais.governador INDIRETO.examinavel;False
+testes.de 1990 em diante, onde a fonte mostra mais.governador INDIRETO.motivo;grupo com 0 anos contra 36 fora. Abaixo de 3 de cada lado o teste nao tem o que permutar, e o resultado nao seria medida.
+testes.de 1990 em diante, onde a fonte mostra mais.presidencial INDIRETA.recorte;1990 a 2025
+testes.de 1990 em diante, onde a fonte mostra mais.presidencial INDIRETA.anos_no_recorte;36
+testes.de 1990 em diante, onde a fonte mostra mais.presidencial INDIRETA.anos_COM_pleito;0
+testes.de 1990 em diante, onde a fonte mostra mais.presidencial INDIRETA.anos_SEM_pleito;36
+testes.de 1990 em diante, onde a fonte mostra mais.presidencial INDIRETA.normas_no_recorte;96
+testes.de 1990 em diante, onde a fonte mostra mais.presidencial INDIRETA.examinavel;False
+testes.de 1990 em diante, onde a fonte mostra mais.presidencial INDIRETA.motivo;grupo com 0 anos contra 36 fora. Abaixo de 3 de cada lado o teste nao tem o que permutar, e o resultado nao seria medida.
+testes.de 1990 em diante, onde a fonte mostra mais.RUPTURA PRESIDENCIAL, fonte conferida.recorte;1990 a 2025
+testes.de 1990 em diante, onde a fonte mostra mais.RUPTURA PRESIDENCIAL, fonte conferida.anos_no_recorte;36
+testes.de 1990 em diante, onde a fonte mostra mais.RUPTURA PRESIDENCIAL, fonte conferida.anos_COM_pleito;2
+testes.de 1990 em diante, onde a fonte mostra mais.RUPTURA PRESIDENCIAL, fonte conferida.anos_SEM_pleito;34
+testes.de 1990 em diante, onde a fonte mostra mais.RUPTURA PRESIDENCIAL, fonte conferida.normas_no_recorte;96
+testes.de 1990 em diante, onde a fonte mostra mais.RUPTURA PRESIDENCIAL, fonte conferida.examinavel;False
+testes.de 1990 em diante, onde a fonte mostra mais.RUPTURA PRESIDENCIAL, fonte conferida.motivo;grupo com 2 anos contra 34 fora. Abaixo de 3 de cada lado o teste nao tem o que permutar, e o resultado nao seria medida.
+por_regime_descritivo.Estado Novo.anos;6
+por_regime_descritivo.Estado Novo.eventos_de_agravamento;0
+por_regime_descritivo.Estado Novo.eventos_de_abrandamento;0
+por_regime_descritivo.Estado Novo.agravamento_por_ano;0.0
+por_regime_descritivo.Republica de 1946.anos;19
+por_regime_descritivo.Republica de 1946.eventos_de_agravamento;0
+por_regime_descritivo.Republica de 1946.eventos_de_abrandamento;0
+por_regime_descritivo.Republica de 1946.agravamento_por_ano;0.0
+por_regime_descritivo.Ditadura militar.anos;22
+por_regime_descritivo.Ditadura militar.eventos_de_agravamento;3
+por_regime_descritivo.Ditadura militar.eventos_de_abrandamento;0
+por_regime_descritivo.Ditadura militar.agravamento_por_ano;0.136
+por_regime_descritivo.Nova Republica.anos;42
+por_regime_descritivo.Nova Republica.eventos_de_agravamento;104
+por_regime_descritivo.Nova Republica.eventos_de_abrandamento;16
+por_regime_descritivo.Nova Republica.agravamento_por_ano;2.476
+serie_por_ano.1968.agravamento;2
+serie_por_ano.1968.abrandamento;0
+serie_por_ano.1968.total;2
+serie_por_ano.1981.agravamento;0
+serie_por_ano.1981.abrandamento;0
+serie_por_ano.1981.total;1
+serie_por_ano.1984.agravamento;1
+serie_por_ano.1984.abrandamento;0
+serie_por_ano.1984.total;1
+serie_por_ano.1990.agravamento;4
+serie_por_ano.1990.abrandamento;2
+serie_por_ano.1990.total;6
+serie_por_ano.1993.agravamento;0
+serie_por_ano.1993.abrandamento;0
+serie_por_ano.1993.total;1
+serie_por_ano.1995.agravamento;1
+serie_por_ano.1995.abrandamento;0
+serie_por_ano.1995.total;1
+serie_por_ano.1996.agravamento;7
+serie_por_ano.1996.abrandamento;6
+serie_por_ano.1996.total;14
+serie_por_ano.1998.agravamento;8
+serie_por_ano.1998.abrandamento;0
+serie_por_ano.1998.total;8
+serie_por_ano.2000.agravamento;14
+serie_por_ano.2000.abrandamento;0
+serie_por_ano.2000.total;14
+serie_por_ano.2001.agravamento;2
+serie_por_ano.2001.abrandamento;0
+serie_por_ano.2001.total;2
+serie_por_ano.2002.agravamento;2
+serie_por_ano.2002.abrandamento;0
+serie_por_ano.2002.total;2
+serie_por_ano.2003.agravamento;3
+serie_por_ano.2003.abrandamento;0
+serie_por_ano.2003.total;4
+serie_por_ano.2004.agravamento;0
+serie_por_ano.2004.abrandamento;1
+serie_por_ano.2004.total;1
+serie_por_ano.2006.agravamento;1
+serie_por_ano.2006.abrandamento;0
+serie_por_ano.2006.total;1
+serie_por_ano.2007.agravamento;1
+serie_por_ano.2007.abrandamento;0
+serie_por_ano.2007.total;1
+serie_por_ano.2009.agravamento;9
+serie_por_ano.2009.abrandamento;1
+serie_por_ano.2009.total;10
+serie_por_ano.2011.agravamento;1
+serie_por_ano.2011.abrandamento;0
+serie_por_ano.2011.total;1
+serie_por_ano.2012.agravamento;3
+serie_por_ano.2012.abrandamento;0
+serie_por_ano.2012.total;3
+serie_por_ano.2013.agravamento;0
+serie_por_ano.2013.abrandamento;1
+serie_por_ano.2013.total;2
+serie_por_ano.2014.agravamento;1
+serie_por_ano.2014.abrandamento;0
+serie_por_ano.2014.total;2
+serie_por_ano.2016.agravamento;1
+serie_por_ano.2016.abrandamento;0
+serie_por_ano.2016.total;1
+serie_por_ano.2018.agravamento;3
+serie_por_ano.2018.abrandamento;0
+serie_por_ano.2018.total;3
+serie_por_ano.2021.agravamento;22
+serie_por_ano.2021.abrandamento;0
+serie_por_ano.2021.total;22
+serie_por_ano.2022.agravamento;1
+serie_por_ano.2022.abrandamento;0
+serie_por_ano.2022.total;1
+serie_por_ano.2023.agravamento;1
+serie_por_ano.2023.abrandamento;0
+serie_por_ano.2023.total;1
+serie_por_ano.2024.agravamento;3
+serie_por_ano.2024.abrandamento;0
+serie_por_ano.2024.total;3
+serie_por_ano.2025.agravamento;8
+serie_por_ano.2025.abrandamento;1
+serie_por_ano.2025.total;9
+serie_por_ano.2026.agravamento;8
+serie_por_ano.2026.abrandamento;4
+serie_por_ano.2026.total;13

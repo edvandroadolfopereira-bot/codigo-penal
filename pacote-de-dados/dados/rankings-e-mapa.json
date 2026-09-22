@@ -1,0 +1,468 @@
+{
+ "gerado_por": "apurar_rankings_e_mapa.py",
+ "data": "2026-09-22",
+ "fontes": [
+  "ideologia-x-penal.json",
+  "agentes-politicos.json"
+ ],
+ "R1_partidos_por_sim_no_texto_base_que_agrava": [
+  {
+   "partido": "PSD",
+   "votos": 67,
+   "pct_sim": 98.5,
+   "posicao_2018": 7.09
+  },
+  {
+   "partido": "REPUBLICANOS",
+   "votos": 65,
+   "pct_sim": 98.5,
+   "posicao_2018": 7.78
+  },
+  {
+   "partido": "MDB",
+   "votos": 62,
+   "pct_sim": 98.4,
+   "posicao_2018": 7.01
+  },
+  {
+   "partido": "PL",
+   "votos": 115,
+   "pct_sim": 98.3,
+   "posicao_2018": 7.78
+  },
+  {
+   "partido": "UNIÃO",
+   "votos": 55,
+   "pct_sim": 98.2,
+   "posicao_2018": null
+  },
+  {
+   "partido": "PP",
+   "votos": 95,
+   "pct_sim": 97.9,
+   "posicao_2018": 8.2
+  },
+  {
+   "partido": "PMDB",
+   "votos": 53,
+   "pct_sim": 94.3,
+   "posicao_2018": 7.01
+  },
+  {
+   "partido": "PDT",
+   "votos": 58,
+   "pct_sim": 91.4,
+   "posicao_2018": 3.92
+  },
+  {
+   "partido": "PSL",
+   "votos": 43,
+   "pct_sim": 88.4,
+   "posicao_2018": 8.11
+  },
+  {
+   "partido": "PSB",
+   "votos": 63,
+   "pct_sim": 76.2,
+   "posicao_2018": 4.05
+  },
+  {
+   "partido": "PT",
+   "votos": 167,
+   "pct_sim": 58.7,
+   "posicao_2018": 2.97
+  },
+  {
+   "partido": "DEM",
+   "votos": 46,
+   "pct_sim": 45.7,
+   "posicao_2018": 8.57
+  },
+  {
+   "partido": "PSDB",
+   "votos": 69,
+   "pct_sim": 44.9,
+   "posicao_2018": 7.11
+  }
+ ],
+ "R2_partidos_por_autoria": [
+  {
+   "partido": "PT",
+   "normas_que_agravam": 6,
+   "normas_que_abrandam": 2
+  },
+  {
+   "partido": "PSD",
+   "normas_que_agravam": 3,
+   "normas_que_abrandam": 1
+  },
+  {
+   "partido": "DEM",
+   "normas_que_agravam": 2,
+   "normas_que_abrandam": 0
+  },
+  {
+   "partido": "PFL",
+   "normas_que_agravam": 2,
+   "normas_que_abrandam": 0
+  },
+  {
+   "partido": "PL",
+   "normas_que_agravam": 2,
+   "normas_que_abrandam": 0
+  },
+  {
+   "partido": "PMDB",
+   "normas_que_agravam": 2,
+   "normas_que_abrandam": 0
+  },
+  {
+   "partido": "PP",
+   "normas_que_agravam": 2,
+   "normas_que_abrandam": 0
+  },
+  {
+   "partido": "PSB",
+   "normas_que_agravam": 2,
+   "normas_que_abrandam": 0
+  },
+  {
+   "partido": "PSDB",
+   "normas_que_agravam": 2,
+   "normas_que_abrandam": 0
+  },
+  {
+   "partido": "REPUBLICANOS",
+   "normas_que_agravam": 2,
+   "normas_que_abrandam": 0
+  },
+  {
+   "partido": "ARENA",
+   "normas_que_agravam": 1,
+   "normas_que_abrandam": 0
+  },
+  {
+   "partido": "AVANTE",
+   "normas_que_agravam": 1,
+   "normas_que_abrandam": 0
+  },
+  {
+   "partido": "MDB",
+   "normas_que_agravam": 1,
+   "normas_que_abrandam": 0
+  },
+  {
+   "partido": "PCdoB",
+   "normas_que_agravam": 1,
+   "normas_que_abrandam": 0
+  },
+  {
+   "partido": "PDT",
+   "normas_que_agravam": 1,
+   "normas_que_abrandam": 0
+  },
+  {
+   "partido": "PROS",
+   "normas_que_agravam": 1,
+   "normas_que_abrandam": 0
+  },
+  {
+   "partido": "PSOL",
+   "normas_que_agravam": 1,
+   "normas_que_abrandam": 0
+  },
+  {
+   "partido": "SOLIDARIEDADE",
+   "normas_que_agravam": 1,
+   "normas_que_abrandam": 0
+  },
+  {
+   "partido": "UNIÃO",
+   "normas_que_agravam": 1,
+   "normas_que_abrandam": 0
+  }
+ ],
+ "R2_autores_parlamentares_sem_partido_registrado": 1,
+ "R3_presidentes_por_normas_por_ano": [
+  {
+   "presidente": "Luiz Inácio Lula da Silva",
+   "periodo": "2023-01-01 a em curso",
+   "anos": 3.72,
+   "eventos": {
+    "agrava": 13,
+    "cria pena": 7,
+    "abranda": 5,
+    "mantem": 1
+   },
+   "eventos_total": 26,
+   "eventos_por_ano": 6.98,
+   "agrava_ou_cria_por_ano": 5.37
+  },
+  {
+   "presidente": "Fernando Henrique Cardoso",
+   "periodo": "1995-01-01 a 1999-01-01",
+   "anos": 4.0,
+   "eventos": {
+    "agrava": 14,
+    "abranda": 6,
+    "mantem": 1,
+    "cria pena": 2
+   },
+   "eventos_total": 23,
+   "eventos_por_ano": 5.75,
+   "agrava_ou_cria_por_ano": 4.0
+  },
+  {
+   "presidente": "Jair Messias Bolsonaro",
+   "periodo": "2019-01-01 a 2023-01-01",
+   "anos": 4.0,
+   "eventos": {
+    "cria pena": 21,
+    "agrava": 2
+   },
+   "eventos_total": 23,
+   "eventos_por_ano": 5.75,
+   "agrava_ou_cria_por_ano": 5.75
+  },
+  {
+   "presidente": "Fernando Henrique Cardoso",
+   "periodo": "1999-01-01 a 2003-01-01",
+   "anos": 4.0,
+   "eventos": {
+    "agrava": 3,
+    "cria pena": 15
+   },
+   "eventos_total": 18,
+   "eventos_por_ano": 4.5,
+   "agrava_ou_cria_por_ano": 4.5
+  },
+  {
+   "presidente": "Fernando Collor",
+   "periodo": "1990-03-15 a 1992-10-02",
+   "anos": 2.55,
+   "eventos": {
+    "agrava": 4,
+    "abranda": 2
+   },
+   "eventos_total": 6,
+   "eventos_por_ano": 2.35,
+   "agrava_ou_cria_por_ano": 1.57
+  },
+  {
+   "presidente": "Luiz Inácio Lula da Silva",
+   "periodo": "2003-01-01 a 2011-01-01",
+   "anos": 8.0,
+   "eventos": {
+    "mantem": 1,
+    "agrava": 9,
+    "abranda": 2,
+    "cria pena": 5
+   },
+   "eventos_total": 17,
+   "eventos_por_ano": 2.12,
+   "agrava_ou_cria_por_ano": 1.75
+  },
+  {
+   "presidente": "Michel Temer",
+   "periodo": "2016-05-12 a 2019-01-01",
+   "anos": 2.64,
+   "eventos": {
+    "cria pena": 2,
+    "agrava": 2
+   },
+   "eventos_total": 4,
+   "eventos_por_ano": 1.52,
+   "agrava_ou_cria_por_ano": 1.52
+  },
+  {
+   "presidente": "Dilma Rousseff",
+   "periodo": "2011-01-01 a 2016-05-12",
+   "anos": 5.36,
+   "eventos": {
+    "cria pena": 5,
+    "mantem": 2,
+    "abranda": 1
+   },
+   "eventos_total": 8,
+   "eventos_por_ano": 1.49,
+   "agrava_ou_cria_por_ano": 0.93
+  },
+  {
+   "presidente": "Costa e Silva",
+   "periodo": "1967-03-15 a 1969-08-31",
+   "anos": 2.46,
+   "eventos": {
+    "agrava": 2
+   },
+   "eventos_total": 2,
+   "eventos_por_ano": 0.81,
+   "agrava_ou_cria_por_ano": 0.81
+  },
+  {
+   "presidente": "Itamar Franco",
+   "periodo": "1992-10-02 a 1995-01-01",
+   "anos": 2.25,
+   "eventos": {
+    "mantem": 1
+   },
+   "eventos_total": 1,
+   "eventos_por_ano": 0.44,
+   "agrava_ou_cria_por_ano": 0.0
+  },
+  {
+   "presidente": "João Baptista Figueiredo",
+   "periodo": "1979-03-15 a 1985-03-15",
+   "anos": 6.0,
+   "eventos": {
+    "mantem": 1,
+    "agrava": 1
+   },
+   "eventos_total": 2,
+   "eventos_por_ano": 0.33,
+   "agrava_ou_cria_por_ano": 0.17
+  }
+ ],
+ "M_mapa_por_uf": {
+  "AC": {
+   "normas_que_agravam_com_autor_da_uf": 0,
+   "mandatos_de_governador_medidos": 7,
+   "diferenca_mediana_taxa_uf_menos_brasil_pontos": -3.0
+  },
+  "AL": {
+   "normas_que_agravam_com_autor_da_uf": 0,
+   "mandatos_de_governador_medidos": 8,
+   "diferenca_mediana_taxa_uf_menos_brasil_pontos": 10.8
+  },
+  "AM": {
+   "normas_que_agravam_com_autor_da_uf": 0,
+   "mandatos_de_governador_medidos": 7,
+   "diferenca_mediana_taxa_uf_menos_brasil_pontos": 26.9
+  },
+  "AP": {
+   "normas_que_agravam_com_autor_da_uf": 0,
+   "mandatos_de_governador_medidos": 8,
+   "diferenca_mediana_taxa_uf_menos_brasil_pontos": 6.1
+  },
+  "BA": {
+   "normas_que_agravam_com_autor_da_uf": 6,
+   "mandatos_de_governador_medidos": 8,
+   "diferenca_mediana_taxa_uf_menos_brasil_pontos": 21.9
+  },
+  "CE": {
+   "normas_que_agravam_com_autor_da_uf": 0,
+   "mandatos_de_governador_medidos": 8,
+   "diferenca_mediana_taxa_uf_menos_brasil_pontos": 17.9
+  },
+  "DF": {
+   "normas_que_agravam_com_autor_da_uf": 3,
+   "mandatos_de_governador_medidos": 7,
+   "diferenca_mediana_taxa_uf_menos_brasil_pontos": -11.0
+  },
+  "ES": {
+   "normas_que_agravam_com_autor_da_uf": 0,
+   "mandatos_de_governador_medidos": 8,
+   "diferenca_mediana_taxa_uf_menos_brasil_pontos": -2.4
+  },
+  "GO": {
+   "normas_que_agravam_com_autor_da_uf": 0,
+   "mandatos_de_governador_medidos": 7,
+   "diferenca_mediana_taxa_uf_menos_brasil_pontos": 9.7
+  },
+  "MA": {
+   "normas_que_agravam_com_autor_da_uf": 0,
+   "mandatos_de_governador_medidos": 8,
+   "diferenca_mediana_taxa_uf_menos_brasil_pontos": 37.4
+  },
+  "MG": {
+   "normas_que_agravam_com_autor_da_uf": 1,
+   "mandatos_de_governador_medidos": 7,
+   "diferenca_mediana_taxa_uf_menos_brasil_pontos": 2.2
+  },
+  "MS": {
+   "normas_que_agravam_com_autor_da_uf": 0,
+   "mandatos_de_governador_medidos": 8,
+   "diferenca_mediana_taxa_uf_menos_brasil_pontos": -3.3
+  },
+  "MT": {
+   "normas_que_agravam_com_autor_da_uf": 2,
+   "mandatos_de_governador_medidos": 7,
+   "diferenca_mediana_taxa_uf_menos_brasil_pontos": -6.4
+  },
+  "PA": {
+   "normas_que_agravam_com_autor_da_uf": 1,
+   "mandatos_de_governador_medidos": 8,
+   "diferenca_mediana_taxa_uf_menos_brasil_pontos": 12.3
+  },
+  "PB": {
+   "normas_que_agravam_com_autor_da_uf": 2,
+   "mandatos_de_governador_medidos": 8,
+   "diferenca_mediana_taxa_uf_menos_brasil_pontos": 9.9
+  },
+  "PE": {
+   "normas_que_agravam_com_autor_da_uf": 0,
+   "mandatos_de_governador_medidos": 8,
+   "diferenca_mediana_taxa_uf_menos_brasil_pontos": -0.7
+  },
+  "PI": {
+   "normas_que_agravam_com_autor_da_uf": 1,
+   "mandatos_de_governador_medidos": 8,
+   "diferenca_mediana_taxa_uf_menos_brasil_pontos": 15.2
+  },
+  "PR": {
+   "normas_que_agravam_com_autor_da_uf": 2,
+   "mandatos_de_governador_medidos": 8,
+   "diferenca_mediana_taxa_uf_menos_brasil_pontos": 9.8
+  },
+  "RJ": {
+   "normas_que_agravam_com_autor_da_uf": 5,
+   "mandatos_de_governador_medidos": 8,
+   "diferenca_mediana_taxa_uf_menos_brasil_pontos": -8.3
+  },
+  "RN": {
+   "normas_que_agravam_com_autor_da_uf": 1,
+   "mandatos_de_governador_medidos": 7,
+   "diferenca_mediana_taxa_uf_menos_brasil_pontos": 20.4
+  },
+  "RO": {
+   "normas_que_agravam_com_autor_da_uf": 1,
+   "mandatos_de_governador_medidos": 6,
+   "diferenca_mediana_taxa_uf_menos_brasil_pontos": -7.3
+  },
+  "RR": {
+   "normas_que_agravam_com_autor_da_uf": 0,
+   "mandatos_de_governador_medidos": 8,
+   "diferenca_mediana_taxa_uf_menos_brasil_pontos": -10.3
+  },
+  "RS": {
+   "normas_que_agravam_com_autor_da_uf": 4,
+   "mandatos_de_governador_medidos": 8,
+   "diferenca_mediana_taxa_uf_menos_brasil_pontos": 4.4
+  },
+  "SC": {
+   "normas_que_agravam_com_autor_da_uf": 2,
+   "mandatos_de_governador_medidos": 8,
+   "diferenca_mediana_taxa_uf_menos_brasil_pontos": -0.4
+  },
+  "SE": {
+   "normas_que_agravam_com_autor_da_uf": 0,
+   "mandatos_de_governador_medidos": 8,
+   "diferenca_mediana_taxa_uf_menos_brasil_pontos": 8.7
+  },
+  "SP": {
+   "normas_que_agravam_com_autor_da_uf": 4,
+   "mandatos_de_governador_medidos": 8,
+   "diferenca_mediana_taxa_uf_menos_brasil_pontos": -13.1
+  },
+  "TO": {
+   "normas_que_agravam_com_autor_da_uf": 0,
+   "mandatos_de_governador_medidos": 8,
+   "diferenca_mediana_taxa_uf_menos_brasil_pontos": 19.9
+  }
+ },
+ "limites": [
+  "R1 so' partido com 30 votos ou mais no texto-base; percentual alto em partido pequeno pesa pouco",
+  "R2 conta norma, nao proposicao; norma de autoria do Executivo nao entra",
+  "R3 inclui o mandato em curso ate 22/09/2026",
+  "M1 e M2 descritivos, sem teste entre UFs; M2 exclui mandato que atravessa a troca de CID"
+ ]
+}

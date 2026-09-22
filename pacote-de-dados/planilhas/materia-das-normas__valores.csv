@@ -1,0 +1,134 @@
+chave;valor
+gerado_por;apurar_materia_das_normas.py
+AVISO_DE_UNIDADE;o teste que vale e' o POR NORMA. Oito eventos da mesma lei, no mesmo dia, nao sao oito observacoes independentes, e testar por evento e' pseudorreplicacao
+teste_por_NORMA_que_vale.normas;49
+teste_por_NORMA_que_vale.eventos;130
+teste_por_NORMA_que_vale.normas_que_tocam_mais_de_uma_materia;9
+teste_por_NORMA_que_vale.normas_em_ano_eleitoral;26
+teste_por_NORMA_que_vale.primeiro_elo_ano_eleitoral_x_materia.qui_quadrado;6.0728564913347505
+teste_por_NORMA_que_vale.primeiro_elo_ano_eleitoral_x_materia.tao_ou_mais_extremas;179365
+teste_por_NORMA_que_vale.primeiro_elo_ano_eleitoral_x_materia.p;0.8968255158724207
+teste_por_NORMA_que_vale.segundo_elo_materia_x_direcao.qui_quadrado;8.160479797979798
+teste_por_NORMA_que_vale.segundo_elo_materia_x_direcao.tao_ou_mais_extremas;132745
+teste_por_NORMA_que_vale.segundo_elo_materia_x_direcao.p;0.6637266813665932
+concentracao_por_materia.DOS CRIMES CONTRA A ADMINISTRAÇÃO PÚBLICA.eventos;37
+concentracao_por_materia.DOS CRIMES CONTRA A ADMINISTRAÇÃO PÚBLICA.normas;13
+concentracao_por_materia.DOS CRIMES CONTRA A ADMINISTRAÇÃO PÚBLICA.maior_norma;14133/2021
+concentracao_por_materia.DOS CRIMES CONTRA A ADMINISTRAÇÃO PÚBLICA.eventos_da_maior;11
+concentracao_por_materia.DOS CRIMES CONTRA A ADMINISTRAÇÃO PÚBLICA.percentual_da_maior;29.7
+concentracao_por_materia.DOS CRIMES CONTRA A DIGNIDADE SEXUAL.eventos;15
+concentracao_por_materia.DOS CRIMES CONTRA A DIGNIDADE SEXUAL.normas;4
+concentracao_por_materia.DOS CRIMES CONTRA A DIGNIDADE SEXUAL.maior_norma;12015/2009
+concentracao_por_materia.DOS CRIMES CONTRA A DIGNIDADE SEXUAL.eventos_da_maior;8
+concentracao_por_materia.DOS CRIMES CONTRA A DIGNIDADE SEXUAL.percentual_da_maior;53.3
+concentracao_por_materia.DOS CRIMES CONTRA A FAMÍLIA.eventos;3
+concentracao_por_materia.DOS CRIMES CONTRA A FAMÍLIA.normas;3
+concentracao_por_materia.DOS CRIMES CONTRA A FAMÍLIA.maior_norma;5478/1968
+concentracao_por_materia.DOS CRIMES CONTRA A FAMÍLIA.eventos_da_maior;1
+concentracao_por_materia.DOS CRIMES CONTRA A FAMÍLIA.percentual_da_maior;33.3
+concentracao_por_materia.DOS CRIMES CONTRA A FÉ PÚBLICA.eventos;4
+concentracao_por_materia.DOS CRIMES CONTRA A FÉ PÚBLICA.normas;2
+concentracao_por_materia.DOS CRIMES CONTRA A FÉ PÚBLICA.maior_norma;9426/1996
+concentracao_por_materia.DOS CRIMES CONTRA A FÉ PÚBLICA.eventos_da_maior;3
+concentracao_por_materia.DOS CRIMES CONTRA A FÉ PÚBLICA.percentual_da_maior;75.0
+concentracao_por_materia.DOS CRIMES CONTRA A INCOLUMIDADE PÚBLICA.eventos;9
+concentracao_por_materia.DOS CRIMES CONTRA A INCOLUMIDADE PÚBLICA.normas;3
+concentracao_por_materia.DOS CRIMES CONTRA A INCOLUMIDADE PÚBLICA.maior_norma;9677/1998
+concentracao_por_materia.DOS CRIMES CONTRA A INCOLUMIDADE PÚBLICA.eventos_da_maior;6
+concentracao_por_materia.DOS CRIMES CONTRA A INCOLUMIDADE PÚBLICA.percentual_da_maior;66.7
+concentracao_por_materia.DOS CRIMES CONTRA A ORGANIZAÇÃO DO TRABALHO.eventos;3
+concentracao_por_materia.DOS CRIMES CONTRA A ORGANIZAÇÃO DO TRABALHO.normas;2
+concentracao_por_materia.DOS CRIMES CONTRA A ORGANIZAÇÃO DO TRABALHO.maior_norma;9777/1998
+concentracao_por_materia.DOS CRIMES CONTRA A ORGANIZAÇÃO DO TRABALHO.eventos_da_maior;2
+concentracao_por_materia.DOS CRIMES CONTRA A ORGANIZAÇÃO DO TRABALHO.percentual_da_maior;66.7
+concentracao_por_materia.DOS CRIMES CONTRA A PAZ PÚBLICA.eventos;2
+concentracao_por_materia.DOS CRIMES CONTRA A PAZ PÚBLICA.normas;2
+concentracao_por_materia.DOS CRIMES CONTRA A PAZ PÚBLICA.maior_norma;12720/2012
+concentracao_por_materia.DOS CRIMES CONTRA A PAZ PÚBLICA.eventos_da_maior;1
+concentracao_por_materia.DOS CRIMES CONTRA A PAZ PÚBLICA.percentual_da_maior;50.0
+concentracao_por_materia.DOS CRIMES CONTRA A PESSOA.eventos;20
+concentracao_por_materia.DOS CRIMES CONTRA A PESSOA.normas;15
+concentracao_por_materia.DOS CRIMES CONTRA A PESSOA.maior_norma;15358/2026
+concentracao_por_materia.DOS CRIMES CONTRA A PESSOA.eventos_da_maior;4
+concentracao_por_materia.DOS CRIMES CONTRA A PESSOA.percentual_da_maior;20.0
+concentracao_por_materia.DOS CRIMES CONTRA A PROPRIEDADE IMATERIAL.eventos;10
+concentracao_por_materia.DOS CRIMES CONTRA A PROPRIEDADE IMATERIAL.normas;2
+concentracao_por_materia.DOS CRIMES CONTRA A PROPRIEDADE IMATERIAL.maior_norma;9279/1996
+concentracao_por_materia.DOS CRIMES CONTRA A PROPRIEDADE IMATERIAL.eventos_da_maior;9
+concentracao_por_materia.DOS CRIMES CONTRA A PROPRIEDADE IMATERIAL.percentual_da_maior;90.0
+concentracao_por_materia.DOS CRIMES CONTRA O ESTADO DEMOCRÁTICO DE DIREITO.eventos;8
+concentracao_por_materia.DOS CRIMES CONTRA O ESTADO DEMOCRÁTICO DE DIREITO.normas;1
+concentracao_por_materia.DOS CRIMES CONTRA O ESTADO DEMOCRÁTICO DE DIREITO.maior_norma;14197/2021
+concentracao_por_materia.DOS CRIMES CONTRA O ESTADO DEMOCRÁTICO DE DIREITO.eventos_da_maior;8
+concentracao_por_materia.DOS CRIMES CONTRA O ESTADO DEMOCRÁTICO DE DIREITO.percentual_da_maior;100.0
+concentracao_por_materia.DOS CRIMES CONTRA O PATRIMÔNIO.eventos;19
+concentracao_por_materia.DOS CRIMES CONTRA O PATRIMÔNIO.normas;12
+concentracao_por_materia.DOS CRIMES CONTRA O PATRIMÔNIO.maior_norma;15397/2026
+concentracao_por_materia.DOS CRIMES CONTRA O PATRIMÔNIO.eventos_da_maior;5
+concentracao_por_materia.DOS CRIMES CONTRA O PATRIMÔNIO.percentual_da_maior;26.3
+criterio_da_materia;"Titulo do proprio Codigo Penal, lido da estrutura do texto oficial compilado; a materia nao e' categoria do autor"
+eventos_classificados;130
+eventos_por_materia.DOS CRIMES CONTRA A ADMINISTRAÇÃO PÚBLICA.abranda;2
+eventos_por_materia.DOS CRIMES CONTRA A ADMINISTRAÇÃO PÚBLICA.agrava;6
+eventos_por_materia.DOS CRIMES CONTRA A ADMINISTRAÇÃO PÚBLICA.cria pena;28
+eventos_por_materia.DOS CRIMES CONTRA A ADMINISTRAÇÃO PÚBLICA.mantem;1
+eventos_por_materia.DOS CRIMES CONTRA A DIGNIDADE SEXUAL.cria pena;6
+eventos_por_materia.DOS CRIMES CONTRA A DIGNIDADE SEXUAL.agrava;8
+eventos_por_materia.DOS CRIMES CONTRA A DIGNIDADE SEXUAL.abranda;1
+eventos_por_materia.DOS CRIMES CONTRA A FAMÍLIA.agrava;2
+eventos_por_materia.DOS CRIMES CONTRA A FAMÍLIA.mantem;1
+eventos_por_materia.DOS CRIMES CONTRA A FÉ PÚBLICA.agrava;2
+eventos_por_materia.DOS CRIMES CONTRA A FÉ PÚBLICA.abranda;1
+eventos_por_materia.DOS CRIMES CONTRA A FÉ PÚBLICA.cria pena;1
+eventos_por_materia.DOS CRIMES CONTRA A INCOLUMIDADE PÚBLICA.agrava;9
+eventos_por_materia.DOS CRIMES CONTRA A ORGANIZAÇÃO DO TRABALHO.mantem;1
+eventos_por_materia.DOS CRIMES CONTRA A ORGANIZAÇÃO DO TRABALHO.agrava;2
+eventos_por_materia.DOS CRIMES CONTRA A PAZ PÚBLICA.cria pena;1
+eventos_por_materia.DOS CRIMES CONTRA A PAZ PÚBLICA.mantem;1
+eventos_por_materia.DOS CRIMES CONTRA A PESSOA.agrava;10
+eventos_por_materia.DOS CRIMES CONTRA A PESSOA.mantem;1
+eventos_por_materia.DOS CRIMES CONTRA A PESSOA.abranda;1
+eventos_por_materia.DOS CRIMES CONTRA A PESSOA.cria pena;8
+eventos_por_materia.DOS CRIMES CONTRA A PROPRIEDADE IMATERIAL.abranda;5
+eventos_por_materia.DOS CRIMES CONTRA A PROPRIEDADE IMATERIAL.agrava;2
+eventos_por_materia.DOS CRIMES CONTRA A PROPRIEDADE IMATERIAL.mantem;1
+eventos_por_materia.DOS CRIMES CONTRA A PROPRIEDADE IMATERIAL.cria pena;2
+eventos_por_materia.DOS CRIMES CONTRA O ESTADO DEMOCRÁTICO DE DIREITO.cria pena;8
+eventos_por_materia.DOS CRIMES CONTRA O PATRIMÔNIO.agrava;9
+eventos_por_materia.DOS CRIMES CONTRA O PATRIMÔNIO.abranda;6
+eventos_por_materia.DOS CRIMES CONTRA O PATRIMÔNIO.cria pena;3
+eventos_por_materia.DOS CRIMES CONTRA O PATRIMÔNIO.mantem;1
+artigos_da_regua_por_materia.DA APLICAÇÃO DA LEI PENAL;12
+artigos_da_regua_por_materia.DO CRIME;13
+artigos_da_regua_por_materia.DA IMPUTABILIDADE PENAL;3
+artigos_da_regua_por_materia.DO CONCURSO DE PESSOAS;3
+artigos_da_regua_por_materia.DAS PENAS;65
+artigos_da_regua_por_materia.DAS MEDIDAS DE SEGURANÇA;4
+artigos_da_regua_por_materia.DA AÇÃO PENAL;7
+artigos_da_regua_por_materia.DA EXTINÇÃO DA PUNIBILIDADE;14
+artigos_da_regua_por_materia.DOS CRIMES CONTRA A PESSOA;44
+artigos_da_regua_por_materia.DOS CRIMES CONTRA O PATRIMÔNIO;33
+artigos_da_regua_por_materia.DOS CRIMES CONTRA A PROPRIEDADE IMATERIAL;13
+artigos_da_regua_por_materia.DOS CRIMES CONTRA A ORGANIZAÇÃO DO TRABALHO;11
+artigos_da_regua_por_materia.DOS CRIMES CONTRA O SENTIMENTO RELIGIOSO E CONTRA O RESPEITO AOS MORTOS;5
+artigos_da_regua_por_materia.DOS CRIMES CONTRA A DIGNIDADE SEXUAL;34
+artigos_da_regua_por_materia.DOS CRIMES CONTRA A FAMÍLIA;15
+artigos_da_regua_por_materia.DOS CRIMES CONTRA A INCOLUMIDADE PÚBLICA;36
+artigos_da_regua_por_materia.DOS CRIMES CONTRA A PAZ PÚBLICA;4
+artigos_da_regua_por_materia.DOS CRIMES CONTRA A FÉ PÚBLICA;24
+artigos_da_regua_por_materia.DOS CRIMES CONTRA A ADMINISTRAÇÃO PÚBLICA;78
+artigos_da_regua_por_materia.DOS CRIMES CONTRA O ESTADO DEMOCRÁTICO DE DIREITO;14
+segundo_elo_materia_x_direcao.pergunta;a direcao do evento depende da materia?
+segundo_elo_materia_x_direcao.qui_quadrado;27.717738590190955
+segundo_elo_materia_x_direcao.permutacoes;200000
+segundo_elo_materia_x_direcao.bloco_de_permutacao_anos;10
+segundo_elo_materia_x_direcao.tao_ou_mais_extremas;4655
+segundo_elo_materia_x_direcao.p;0.023279883600582
+segundo_elo_materia_x_direcao.p_por_permutacao_SIMPLES_que_nao_vale;0.0025649871750641246
+primeiro_elo_ano_eleitoral_x_materia.pergunta;a mistura de materias difere entre ano eleitoral e nao eleitoral?
+primeiro_elo_ano_eleitoral_x_materia.qui_quadrado;46.861193455699144
+primeiro_elo_ano_eleitoral_x_materia.permutacoes;200000
+primeiro_elo_ano_eleitoral_x_materia.bloco_de_permutacao_anos;10
+primeiro_elo_ano_eleitoral_x_materia.tao_ou_mais_extremas;2
+primeiro_elo_ano_eleitoral_x_materia.p;1.4999925000374999e-05
+primeiro_elo_ano_eleitoral_x_materia.p_por_permutacao_SIMPLES_que_nao_vale;4.9999750001249995e-06

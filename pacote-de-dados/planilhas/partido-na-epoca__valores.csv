@@ -1,0 +1,915 @@
+chave;valor
+fonte;https://dadosabertos.camara.leg.br/api/v2/proposicoes/{id} e /deputados/{id}/historico
+coletado_em;2026-09-21 15:07:37
+autorias.PL 1254/1948|DAMASO ROCHA.apresentacao;1948-11-24
+autorias.PL 1254/1948|DAMASO ROCHA.legislatura;38
+autorias.PL 1254/1948|DAMASO ROCHA.partido;PSD
+autorias.PL 1254/1948|DAMASO ROCHA.criterio;partido no início da legislatura (a fonte não registra troca datada antes de 2015)
+autorias.PL 1254/1948|DAMASO ROCHA.ficha;PSD
+autorias.PL 1254/1948|DAMASO ROCHA.id_deputado;130322
+autorias.PL 1440/1951|MARREY JUNIOR.apresentacao;1951-11-27
+autorias.PL 1440/1951|MARREY JUNIOR.legislatura;39
+autorias.PL 1440/1951|MARREY JUNIOR.partido;PTB
+autorias.PL 1440/1951|MARREY JUNIOR.criterio;partido no início da legislatura (a fonte não registra troca datada antes de 2015)
+autorias.PL 1440/1951|MARREY JUNIOR.ficha;PTB
+autorias.PL 1440/1951|MARREY JUNIOR.id_deputado;2631
+autorias.PL 249/1951|ADROALDO COSTA.apresentacao;1951-04-27
+autorias.PL 249/1951|ADROALDO COSTA.legislatura;39
+autorias.PL 249/1951|ADROALDO COSTA.partido;PSD
+autorias.PL 249/1951|ADROALDO COSTA.criterio;partido no início da legislatura (a fonte não registra troca datada antes de 2015)
+autorias.PL 249/1951|ADROALDO COSTA.ficha;PSD
+autorias.PL 249/1951|ADROALDO COSTA.id_deputado;130389
+autorias.PL 698/1959|COUTINHO CAVALCANTI.apresentacao;1959-07-31
+autorias.PL 698/1959|COUTINHO CAVALCANTI.legislatura;41
+autorias.PL 698/1959|COUTINHO CAVALCANTI.partido;PTB
+autorias.PL 698/1959|COUTINHO CAVALCANTI.criterio;partido no início da legislatura (a fonte não registra troca datada antes de 2015)
+autorias.PL 698/1959|COUTINHO CAVALCANTI.ficha;PTB
+autorias.PL 698/1959|COUTINHO CAVALCANTI.id_deputado;130457
+autorias.PL 3364/1961|ALMINO AFFONSO.apresentacao;1961-09-21
+autorias.PL 3364/1961|ALMINO AFFONSO.legislatura;41
+autorias.PL 3364/1961|ALMINO AFFONSO.partido;PTB
+autorias.PL 3364/1961|ALMINO AFFONSO.criterio;partido no início da legislatura (a fonte não registra troca datada antes de 2015)
+autorias.PL 3364/1961|ALMINO AFFONSO.ficha;PSB
+autorias.PL 3364/1961|ALMINO AFFONSO.id_deputado;73429
+autorias.PL 203/1975|BRAGA RAMOS.apresentacao;1975-04-10
+autorias.PL 203/1975|BRAGA RAMOS.legislatura;45
+autorias.PL 203/1975|BRAGA RAMOS.partido;ARENA
+autorias.PL 203/1975|BRAGA RAMOS.criterio;partido no início da legislatura (a fonte não registra troca datada antes de 2015)
+autorias.PL 203/1975|BRAGA RAMOS.ficha;ARENA
+autorias.PL 203/1975|BRAGA RAMOS.id_deputado;131767
+autorias.PL 1066/1975|NORTON MACEDO.apresentacao;1975-09-11
+autorias.PL 1066/1975|NORTON MACEDO.legislatura;45
+autorias.PL 1066/1975|NORTON MACEDO.partido;ARENA
+autorias.PL 1066/1975|NORTON MACEDO.criterio;partido no início da legislatura (a fonte não registra troca datada antes de 2015)
+autorias.PL 1066/1975|NORTON MACEDO.ficha;ARENA
+autorias.PL 1066/1975|NORTON MACEDO.id_deputado;132038
+autorias.PL 285/1979|ADHEMAR GHISI.apresentacao;1979-04-03
+autorias.PL 285/1979|ADHEMAR GHISI.legislatura;46
+autorias.PL 285/1979|ADHEMAR GHISI.partido;
+autorias.PL 285/1979|ADHEMAR GHISI.criterio;"a Câmara registra PDS para a legislatura 1979-1983, partido criado depois da apresentação pela Lei 6.767/1979; o partido na data não consta da fonte"
+autorias.PL 285/1979|ADHEMAR GHISI.ficha;ARENA
+autorias.PL 285/1979|ADHEMAR GHISI.id_deputado;131828
+autorias.PL 2460/1991|DIOGO NOMURA.apresentacao;1991-03-05
+autorias.PL 2460/1991|DIOGO NOMURA.legislatura;49
+autorias.PL 2460/1991|DIOGO NOMURA.partido;PL
+autorias.PL 2460/1991|DIOGO NOMURA.criterio;partido no início da legislatura (a fonte não registra troca datada antes de 2015)
+autorias.PL 2460/1991|DIOGO NOMURA.ficha;ARENA
+autorias.PL 2460/1991|DIOGO NOMURA.id_deputado;133885
+autorias.PL 3081/1989|MARCOS FORMIGA.apresentacao;1989-06-30
+autorias.PL 3081/1989|MARCOS FORMIGA.legislatura;48
+autorias.PL 3081/1989|MARCOS FORMIGA.partido;PST
+autorias.PL 3081/1989|MARCOS FORMIGA.criterio;partido no início da legislatura (a fonte não registra troca datada antes de 2015)
+autorias.PL 3081/1989|MARCOS FORMIGA.ficha;PSDB
+autorias.PL 3081/1989|MARCOS FORMIGA.id_deputado;67144
+autorias.PL 209/1991|EDUARDO JORGE.apresentacao;1991-03-06
+autorias.PL 209/1991|EDUARDO JORGE.legislatura;49
+autorias.PL 209/1991|EDUARDO JORGE.partido;PT
+autorias.PL 209/1991|EDUARDO JORGE.criterio;partido no início da legislatura (a fonte não registra troca datada antes de 2015)
+autorias.PL 209/1991|EDUARDO JORGE.ficha;PT
+autorias.PL 209/1991|EDUARDO JORGE.id_deputado;73448
+autorias.PL 1374/1991|ROSE DE FREITAS.apresentacao;1991-06-25
+autorias.PL 1374/1991|ROSE DE FREITAS.legislatura;49
+autorias.PL 1374/1991|ROSE DE FREITAS.partido;PSDB
+autorias.PL 1374/1991|ROSE DE FREITAS.criterio;partido no início da legislatura (a fonte não registra troca datada antes de 2015)
+autorias.PL 1374/1991|ROSE DE FREITAS.ficha;PSDB
+autorias.PL 1374/1991|ROSE DE FREITAS.id_deputado;73507
+autorias.PL 2797/1989|GEOVANI BORGES.apresentacao;1989-06-26
+autorias.PL 2797/1989|GEOVANI BORGES.legislatura;48
+autorias.PL 2797/1989|GEOVANI BORGES.partido;PFL
+autorias.PL 2797/1989|GEOVANI BORGES.criterio;partido no início da legislatura (a fonte não registra troca datada antes de 2015)
+autorias.PL 2797/1989|GEOVANI BORGES.ficha;PDS
+autorias.PL 2797/1989|GEOVANI BORGES.id_deputado;139218
+autorias.PL 1240/1995|PAULO PAIM.apresentacao;1995-11-21
+autorias.PL 1240/1995|PAULO PAIM.legislatura;50
+autorias.PL 1240/1995|PAULO PAIM.partido;PT
+autorias.PL 1240/1995|PAULO PAIM.criterio;partido no início da legislatura (a fonte não registra troca datada antes de 2015)
+autorias.PL 1240/1995|PAULO PAIM.ficha;PT
+autorias.PL 1240/1995|PAULO PAIM.id_deputado;73910
+autorias.PL 4207/1998|BENEDITO DOMINGOS.apresentacao;1998-03-04
+autorias.PL 4207/1998|BENEDITO DOMINGOS.legislatura;50
+autorias.PL 4207/1998|BENEDITO DOMINGOS.partido;PPB
+autorias.PL 4207/1998|BENEDITO DOMINGOS.criterio;partido no início da legislatura (a fonte não registra troca datada antes de 2015)
+autorias.PL 4207/1998|BENEDITO DOMINGOS.ficha;PP
+autorias.PL 4207/1998|BENEDITO DOMINGOS.id_deputado;73656
+autorias.PL 929/1995|PAULO ROCHA.apresentacao;1995-09-06
+autorias.PL 929/1995|PAULO ROCHA.legislatura;50
+autorias.PL 929/1995|PAULO ROCHA.partido;PT
+autorias.PL 929/1995|PAULO ROCHA.criterio;partido no início da legislatura (a fonte não registra troca datada antes de 2015)
+autorias.PL 929/1995|PAULO ROCHA.ficha;PT
+autorias.PL 929/1995|PAULO ROCHA.id_deputado;74082
+autorias.PL 61/1999|Iara Bernardi.apresentacao;1999-02-24
+autorias.PL 61/1999|Iara Bernardi.legislatura;51
+autorias.PL 61/1999|Iara Bernardi.partido;PT
+autorias.PL 61/1999|Iara Bernardi.criterio;partido no início da legislatura (a fonte não registra troca datada antes de 2015)
+autorias.PL 61/1999|Iara Bernardi.ficha;PT
+autorias.PL 61/1999|Iara Bernardi.id_deputado;74780
+autorias.PL 3561/1997|Paulo Paim.apresentacao;1997-08-28
+autorias.PL 3561/1997|Paulo Paim.legislatura;50
+autorias.PL 3561/1997|Paulo Paim.partido;PT
+autorias.PL 3561/1997|Paulo Paim.criterio;partido no início da legislatura (a fonte não registra troca datada antes de 2015)
+autorias.PL 3561/1997|Paulo Paim.ficha;PT
+autorias.PL 3561/1997|Paulo Paim.id_deputado;73910
+autorias.PL 3/2003|Iara Bernardi.apresentacao;2003-02-18
+autorias.PL 3/2003|Iara Bernardi.legislatura;52
+autorias.PL 3/2003|Iara Bernardi.partido;PT
+autorias.PL 3/2003|Iara Bernardi.criterio;histórico datado da Câmara
+autorias.PL 3/2003|Iara Bernardi.ficha;PT
+autorias.PL 3/2003|Iara Bernardi.id_deputado;74780
+autorias.PL 117/2003|Iara Bernardi.apresentacao;2003-02-19
+autorias.PL 117/2003|Iara Bernardi.legislatura;52
+autorias.PL 117/2003|Iara Bernardi.partido;PT
+autorias.PL 117/2003|Iara Bernardi.criterio;histórico datado da Câmara
+autorias.PL 117/2003|Iara Bernardi.ficha;PT
+autorias.PL 117/2003|Iara Bernardi.id_deputado;74780
+autorias.PL 7024/2006|Alberto Fraga.apresentacao;2006-05-15
+autorias.PL 7024/2006|Alberto Fraga.legislatura;52
+autorias.PL 7024/2006|Alberto Fraga.partido;PFL
+autorias.PL 7024/2006|Alberto Fraga.criterio;histórico datado da Câmara
+autorias.PL 7024/2006|Alberto Fraga.ficha;DEM
+autorias.PL 7024/2006|Alberto Fraga.id_deputado;73579
+autorias.PL 36/1999|Paulo Rocha.apresentacao;1999-02-03
+autorias.PL 36/1999|Paulo Rocha.legislatura;51
+autorias.PL 36/1999|Paulo Rocha.partido;PT
+autorias.PL 36/1999|Paulo Rocha.criterio;partido no início da legislatura (a fonte não registra troca datada antes de 2015)
+autorias.PL 36/1999|Paulo Rocha.ficha;PT
+autorias.PL 36/1999|Paulo Rocha.id_deputado;74082
+autorias.PL 1383/2003|Antonio Carlos Biscaia.apresentacao;2003-07-02
+autorias.PL 1383/2003|Antonio Carlos Biscaia.legislatura;52
+autorias.PL 1383/2003|Antonio Carlos Biscaia.partido;PT
+autorias.PL 1383/2003|Antonio Carlos Biscaia.criterio;histórico datado da Câmara
+autorias.PL 1383/2003|Antonio Carlos Biscaia.ficha;PT
+autorias.PL 1383/2003|Antonio Carlos Biscaia.id_deputado;73492
+autorias.PL 370/2007|Luiz Couto.apresentacao;2007-03-08
+autorias.PL 370/2007|Luiz Couto.legislatura;53
+autorias.PL 370/2007|Luiz Couto.partido;PT
+autorias.PL 370/2007|Luiz Couto.criterio;histórico datado da Câmara
+autorias.PL 370/2007|Luiz Couto.ficha;PT
+autorias.PL 370/2007|Luiz Couto.id_deputado;74041
+autorias.PL 84/1999|Luiz Piauhylino.apresentacao;1999-02-24
+autorias.PL 84/1999|Luiz Piauhylino.legislatura;51
+autorias.PL 84/1999|Luiz Piauhylino.partido;PSDB
+autorias.PL 84/1999|Luiz Piauhylino.criterio;partido no início da legislatura (a fonte não registra troca datada antes de 2015)
+autorias.PL 84/1999|Luiz Piauhylino.ficha;PDT
+autorias.PL 84/1999|Luiz Piauhylino.id_deputado;74427
+autorias.PL 2793/2011|Brizola Neto.apresentacao;2011-11-29
+autorias.PL 2793/2011|Brizola Neto.legislatura;54
+autorias.PL 2793/2011|Brizola Neto.partido;PDT
+autorias.PL 2793/2011|Brizola Neto.criterio;histórico datado da Câmara
+autorias.PL 2793/2011|Brizola Neto.ficha;PDT
+autorias.PL 2793/2011|Brizola Neto.id_deputado;141399
+autorias.PL 2793/2011|Emiliano José.apresentacao;2011-11-29
+autorias.PL 2793/2011|Emiliano José.legislatura;54
+autorias.PL 2793/2011|Emiliano José.partido;PT
+autorias.PL 2793/2011|Emiliano José.criterio;histórico datado da Câmara
+autorias.PL 2793/2011|Emiliano José.ficha;PT
+autorias.PL 2793/2011|Emiliano José.id_deputado;154997
+autorias.PL 2793/2011|João Arruda.apresentacao;2011-11-29
+autorias.PL 2793/2011|João Arruda.legislatura;54
+autorias.PL 2793/2011|João Arruda.partido;PMDB
+autorias.PL 2793/2011|João Arruda.criterio;histórico datado da Câmara
+autorias.PL 2793/2011|João Arruda.ficha;PMDB
+autorias.PL 2793/2011|João Arruda.id_deputado;160573
+autorias.PL 2793/2011|Luiza Erundina.apresentacao;2011-11-29
+autorias.PL 2793/2011|Luiza Erundina.legislatura;54
+autorias.PL 2793/2011|Luiza Erundina.partido;PSB
+autorias.PL 2793/2011|Luiza Erundina.criterio;histórico datado da Câmara
+autorias.PL 2793/2011|Luiza Erundina.ficha;PSB
+autorias.PL 2793/2011|Luiza Erundina.id_deputado;74784
+autorias.PL 2793/2011|Manuela D'ávila.apresentacao;2011-11-29
+autorias.PL 2793/2011|Manuela D'ávila.legislatura;54
+autorias.PL 2793/2011|Manuela D'ávila.partido;PCdoB
+autorias.PL 2793/2011|Manuela D'ávila.criterio;histórico datado da Câmara
+autorias.PL 2793/2011|Manuela D'ávila.ficha;PCdoB
+autorias.PL 2793/2011|Manuela D'ávila.id_deputado;141492
+autorias.PL 2793/2011|Paulo Teixeira.apresentacao;2011-11-29
+autorias.PL 2793/2011|Paulo Teixeira.legislatura;54
+autorias.PL 2793/2011|Paulo Teixeira.partido;PT
+autorias.PL 2793/2011|Paulo Teixeira.criterio;histórico datado da Câmara
+autorias.PL 2793/2011|Paulo Teixeira.ficha;PT
+autorias.PL 2793/2011|Paulo Teixeira.id_deputado;141488
+autorias.PL 643/2011|Efraim Filho.apresentacao;2011-03-02
+autorias.PL 643/2011|Efraim Filho.legislatura;54
+autorias.PL 643/2011|Efraim Filho.partido;DEM
+autorias.PL 643/2011|Efraim Filho.criterio;histórico datado da Câmara
+autorias.PL 643/2011|Efraim Filho.ficha;DEM
+autorias.PL 643/2011|Efraim Filho.id_deputado;141422
+autorias.PL 846/2015|Leonardo Picciani.apresentacao;2015-03-19
+autorias.PL 846/2015|Leonardo Picciani.legislatura;55
+autorias.PL 846/2015|Leonardo Picciani.partido;PMDB
+autorias.PL 846/2015|Leonardo Picciani.criterio;histórico datado da Câmara
+autorias.PL 846/2015|Leonardo Picciani.ficha;PMDB
+autorias.PL 846/2015|Leonardo Picciani.id_deputado;74254
+autorias.PL 6920/2010|Márcio Marinho.apresentacao;2010-03-09
+autorias.PL 6920/2010|Márcio Marinho.legislatura;53
+autorias.PL 6920/2010|Márcio Marinho.partido;PRB
+autorias.PL 6920/2010|Márcio Marinho.criterio;histórico datado da Câmara
+autorias.PL 6920/2010|Márcio Marinho.ficha;PRB
+autorias.PL 6920/2010|Márcio Marinho.id_deputado;150418
+autorias.PL 6999/2013|Afonso Hamm.apresentacao;2013-12-18
+autorias.PL 6999/2013|Afonso Hamm.legislatura;54
+autorias.PL 6999/2013|Afonso Hamm.partido;PP
+autorias.PL 6999/2013|Afonso Hamm.criterio;histórico datado da Câmara
+autorias.PL 6999/2013|Afonso Hamm.ficha;PP
+autorias.PL 6999/2013|Afonso Hamm.id_deputado;136811
+autorias.PL 3763/2004|Coronel Alves.apresentacao;2004-06-09
+autorias.PL 3763/2004|Coronel Alves.legislatura;52
+autorias.PL 3763/2004|Coronel Alves.partido;PL
+autorias.PL 3763/2004|Coronel Alves.criterio;histórico datado da Câmara
+autorias.PL 3763/2004|Coronel Alves.ficha;PR
+autorias.PL 3763/2004|Coronel Alves.id_deputado;73923
+autorias.PL 9206/2017|Nilson Leitão.apresentacao;2017-11-28
+autorias.PL 9206/2017|Nilson Leitão.legislatura;55
+autorias.PL 9206/2017|Nilson Leitão.partido;PSDB
+autorias.PL 9206/2017|Nilson Leitão.criterio;histórico datado da Câmara
+autorias.PL 9206/2017|Nilson Leitão.ficha;PSDB
+autorias.PL 9206/2017|Nilson Leitão.id_deputado;166401
+autorias.PL 9206/2017|Zé Silva.apresentacao;2017-11-28
+autorias.PL 9206/2017|Zé Silva.legislatura;55
+autorias.PL 9206/2017|Zé Silva.partido;SD
+autorias.PL 9206/2017|Zé Silva.criterio;histórico datado da Câmara
+autorias.PL 9206/2017|Zé Silva.ficha;SD
+autorias.PL 9206/2017|Zé Silva.id_deputado;160632
+autorias.PL 7874/2017|Laura Carneiro.apresentacao;2017-06-13
+autorias.PL 7874/2017|Laura Carneiro.legislatura;55
+autorias.PL 7874/2017|Laura Carneiro.partido;PMDB
+autorias.PL 7874/2017|Laura Carneiro.criterio;histórico datado da Câmara
+autorias.PL 7874/2017|Laura Carneiro.ficha;DEM
+autorias.PL 7874/2017|Laura Carneiro.id_deputado;74856
+autorias.PL 3030/2015|Lincoln Portela.apresentacao;2015-09-17
+autorias.PL 3030/2015|Lincoln Portela.legislatura;55
+autorias.PL 3030/2015|Lincoln Portela.partido;PR
+autorias.PL 3030/2015|Lincoln Portela.criterio;histórico datado da Câmara
+autorias.PL 3030/2015|Lincoln Portela.ficha;PR
+autorias.PL 3030/2015|Lincoln Portela.id_deputado;74585
+autorias.PL 5555/2013|João Arruda.apresentacao;2013-05-09
+autorias.PL 5555/2013|João Arruda.legislatura;54
+autorias.PL 5555/2013|João Arruda.partido;PMDB
+autorias.PL 5555/2013|João Arruda.criterio;histórico datado da Câmara
+autorias.PL 5555/2013|João Arruda.ficha;MDB
+autorias.PL 5555/2013|João Arruda.id_deputado;160573
+autorias.PL 10372/2018|Aureo.apresentacao;2018-06-06
+autorias.PL 10372/2018|Aureo.legislatura;55
+autorias.PL 10372/2018|Aureo.partido;SD
+autorias.PL 10372/2018|Aureo.criterio;histórico datado da Câmara
+autorias.PL 10372/2018|Aureo.ficha;SOLIDARIEDADE
+autorias.PL 10372/2018|Aureo.id_deputado;160512
+autorias.PL 10372/2018|Baleia Rossi.apresentacao;2018-06-06
+autorias.PL 10372/2018|Baleia Rossi.legislatura;55
+autorias.PL 10372/2018|Baleia Rossi.partido;MDB
+autorias.PL 10372/2018|Baleia Rossi.criterio;histórico datado da Câmara
+autorias.PL 10372/2018|Baleia Rossi.ficha;MDB
+autorias.PL 10372/2018|Baleia Rossi.id_deputado;178975
+autorias.PL 10372/2018|Celso Russomanno.apresentacao;2018-06-06
+autorias.PL 10372/2018|Celso Russomanno.legislatura;55
+autorias.PL 10372/2018|Celso Russomanno.partido;PRB
+autorias.PL 10372/2018|Celso Russomanno.criterio;histórico datado da Câmara
+autorias.PL 10372/2018|Celso Russomanno.ficha;REPUBLICANOS
+autorias.PL 10372/2018|Celso Russomanno.id_deputado;73441
+autorias.PL 10372/2018|Domingos Neto.apresentacao;2018-06-06
+autorias.PL 10372/2018|Domingos Neto.legislatura;55
+autorias.PL 10372/2018|Domingos Neto.partido;PSD
+autorias.PL 10372/2018|Domingos Neto.criterio;histórico datado da Câmara
+autorias.PL 10372/2018|Domingos Neto.ficha;PSD
+autorias.PL 10372/2018|Domingos Neto.id_deputado;143632
+autorias.PL 10372/2018|José Rocha.apresentacao;2018-06-06
+autorias.PL 10372/2018|José Rocha.legislatura;55
+autorias.PL 10372/2018|José Rocha.partido;PR
+autorias.PL 10372/2018|José Rocha.criterio;histórico datado da Câmara
+autorias.PL 10372/2018|José Rocha.ficha;PL
+autorias.PL 10372/2018|José Rocha.id_deputado;74554
+autorias.PL 10372/2018|Luis Tibé.apresentacao;2018-06-06
+autorias.PL 10372/2018|Luis Tibé.legislatura;55
+autorias.PL 10372/2018|Luis Tibé.partido;AVANTE
+autorias.PL 10372/2018|Luis Tibé.criterio;histórico datado da Câmara
+autorias.PL 10372/2018|Luis Tibé.ficha;AVANTE
+autorias.PL 10372/2018|Luis Tibé.id_deputado;160510
+autorias.PL 10372/2018|Marcelo Aro.apresentacao;2018-06-06
+autorias.PL 10372/2018|Marcelo Aro.legislatura;55
+autorias.PL 10372/2018|Marcelo Aro.partido;PHS
+autorias.PL 10372/2018|Marcelo Aro.criterio;histórico datado da Câmara
+autorias.PL 10372/2018|Marcelo Aro.ficha;PP
+autorias.PL 10372/2018|Marcelo Aro.id_deputado;146788
+autorias.PL 10372/2018|Nilson Leitão.apresentacao;2018-06-06
+autorias.PL 10372/2018|Nilson Leitão.legislatura;55
+autorias.PL 10372/2018|Nilson Leitão.partido;PSDB
+autorias.PL 10372/2018|Nilson Leitão.criterio;histórico datado da Câmara
+autorias.PL 10372/2018|Nilson Leitão.ficha;PSDB
+autorias.PL 10372/2018|Nilson Leitão.id_deputado;166401
+autorias.PL 10372/2018|Ricardo Teobaldo.apresentacao;2018-06-06
+autorias.PL 10372/2018|Ricardo Teobaldo.legislatura;55
+autorias.PL 10372/2018|Ricardo Teobaldo.partido;PODE
+autorias.PL 10372/2018|Ricardo Teobaldo.criterio;histórico datado da Câmara
+autorias.PL 10372/2018|Ricardo Teobaldo.ficha;PODE
+autorias.PL 10372/2018|Ricardo Teobaldo.id_deputado;178920
+autorias.PL 10372/2018|Rodrigo Garcia.apresentacao;2018-06-06
+autorias.PL 10372/2018|Rodrigo Garcia.legislatura;55
+autorias.PL 10372/2018|Rodrigo Garcia.partido;DEM
+autorias.PL 10372/2018|Rodrigo Garcia.criterio;histórico datado da Câmara
+autorias.PL 10372/2018|Rodrigo Garcia.ficha;DEM
+autorias.PL 10372/2018|Rodrigo Garcia.id_deputado;88950
+autorias.PL 10372/2018|Wladimir Costa.apresentacao;2018-06-06
+autorias.PL 10372/2018|Wladimir Costa.legislatura;55
+autorias.PL 10372/2018|Wladimir Costa.partido;SD
+autorias.PL 10372/2018|Wladimir Costa.criterio;histórico datado da Câmara
+autorias.PL 10372/2018|Wladimir Costa.ficha;SOLIDARIEDADE
+autorias.PL 10372/2018|Wladimir Costa.id_deputado;73930
+autorias.PL 2810/2020|Arthur Lira.apresentacao;2020-05-21
+autorias.PL 2810/2020|Arthur Lira.legislatura;56
+autorias.PL 2810/2020|Arthur Lira.partido;PP
+autorias.PL 2810/2020|Arthur Lira.criterio;histórico datado da Câmara
+autorias.PL 2810/2020|Arthur Lira.ficha;PP
+autorias.PL 2810/2020|Arthur Lira.id_deputado;160541
+autorias.PL 741/2021|Carla Dickson.apresentacao;2021-03-04
+autorias.PL 741/2021|Carla Dickson.legislatura;56
+autorias.PL 741/2021|Carla Dickson.partido;PROS
+autorias.PL 741/2021|Carla Dickson.criterio;histórico datado da Câmara
+autorias.PL 741/2021|Carla Dickson.ficha;PROS
+autorias.PL 741/2021|Carla Dickson.id_deputado;213762
+autorias.PL 741/2021|Greyce Elias.apresentacao;2021-03-04
+autorias.PL 741/2021|Greyce Elias.legislatura;56
+autorias.PL 741/2021|Greyce Elias.partido;AVANTE
+autorias.PL 741/2021|Greyce Elias.criterio;histórico datado da Câmara
+autorias.PL 741/2021|Greyce Elias.ficha;AVANTE
+autorias.PL 741/2021|Greyce Elias.id_deputado;198197
+autorias.PL 741/2021|Margarete Coelho.apresentacao;2021-03-04
+autorias.PL 741/2021|Margarete Coelho.legislatura;56
+autorias.PL 741/2021|Margarete Coelho.partido;PP
+autorias.PL 741/2021|Margarete Coelho.criterio;histórico datado da Câmara
+autorias.PL 741/2021|Margarete Coelho.ficha;PP
+autorias.PL 741/2021|Margarete Coelho.id_deputado;204430
+autorias.PL 741/2021|Soraya Santos.apresentacao;2021-03-04
+autorias.PL 741/2021|Soraya Santos.legislatura;56
+autorias.PL 741/2021|Soraya Santos.partido;PL
+autorias.PL 741/2021|Soraya Santos.criterio;histórico datado da Câmara
+autorias.PL 741/2021|Soraya Santos.ficha;PL
+autorias.PL 741/2021|Soraya Santos.id_deputado;178946
+autorias.PL 2462/1991|HELIO BICUDO.apresentacao;1991-03-05
+autorias.PL 2462/1991|HELIO BICUDO.legislatura;49
+autorias.PL 2462/1991|HELIO BICUDO.partido;PT
+autorias.PL 2462/1991|HELIO BICUDO.criterio;partido no início da legislatura (a fonte não registra troca datada antes de 2015)
+autorias.PL 2462/1991|HELIO BICUDO.ficha;PT
+autorias.PL 2462/1991|HELIO BICUDO.id_deputado;73453
+autorias.PL 5096/2020|Aline Gurgel.apresentacao;2020-11-05
+autorias.PL 5096/2020|Aline Gurgel.legislatura;56
+autorias.PL 5096/2020|Aline Gurgel.partido;REPUBLICANOS
+autorias.PL 5096/2020|Aline Gurgel.criterio;histórico datado da Câmara
+autorias.PL 5096/2020|Aline Gurgel.ficha;REPUBLICANOS
+autorias.PL 5096/2020|Aline Gurgel.id_deputado;204353
+autorias.PL 5096/2020|Angela Amin.apresentacao;2020-11-05
+autorias.PL 5096/2020|Angela Amin.legislatura;56
+autorias.PL 5096/2020|Angela Amin.partido;PP
+autorias.PL 5096/2020|Angela Amin.criterio;histórico datado da Câmara
+autorias.PL 5096/2020|Angela Amin.ficha;PP
+autorias.PL 5096/2020|Angela Amin.id_deputado;73696
+autorias.PL 5096/2020|Áurea Carolina.apresentacao;2020-11-05
+autorias.PL 5096/2020|Áurea Carolina.legislatura;56
+autorias.PL 5096/2020|Áurea Carolina.partido;PSOL
+autorias.PL 5096/2020|Áurea Carolina.criterio;histórico datado da Câmara
+autorias.PL 5096/2020|Áurea Carolina.ficha;PSOL
+autorias.PL 5096/2020|Áurea Carolina.id_deputado;204509
+autorias.PL 5096/2020|Daniela do Waguinho.apresentacao;2020-11-05
+autorias.PL 5096/2020|Daniela do Waguinho.legislatura;56
+autorias.PL 5096/2020|Daniela do Waguinho.partido;MDB
+autorias.PL 5096/2020|Daniela do Waguinho.criterio;histórico datado da Câmara
+autorias.PL 5096/2020|Daniela do Waguinho.ficha;MDB
+autorias.PL 5096/2020|Daniela do Waguinho.id_deputado;204459
+autorias.PL 5096/2020|Dulce Miranda.apresentacao;2020-11-05
+autorias.PL 5096/2020|Dulce Miranda.legislatura;56
+autorias.PL 5096/2020|Dulce Miranda.partido;MDB
+autorias.PL 5096/2020|Dulce Miranda.criterio;histórico datado da Câmara
+autorias.PL 5096/2020|Dulce Miranda.ficha;MDB
+autorias.PL 5096/2020|Dulce Miranda.id_deputado;178994
+autorias.PL 5096/2020|Erika Kokay.apresentacao;2020-11-05
+autorias.PL 5096/2020|Erika Kokay.legislatura;56
+autorias.PL 5096/2020|Erika Kokay.partido;PT
+autorias.PL 5096/2020|Erika Kokay.criterio;histórico datado da Câmara
+autorias.PL 5096/2020|Erika Kokay.ficha;PT
+autorias.PL 5096/2020|Erika Kokay.id_deputado;160575
+autorias.PL 5096/2020|Fernanda Melchionna.apresentacao;2020-11-05
+autorias.PL 5096/2020|Fernanda Melchionna.legislatura;56
+autorias.PL 5096/2020|Fernanda Melchionna.partido;PSOL
+autorias.PL 5096/2020|Fernanda Melchionna.criterio;histórico datado da Câmara
+autorias.PL 5096/2020|Fernanda Melchionna.ficha;PSOL
+autorias.PL 5096/2020|Fernanda Melchionna.id_deputado;204407
+autorias.PL 5096/2020|Iracema Portella.apresentacao;2020-11-05
+autorias.PL 5096/2020|Iracema Portella.legislatura;56
+autorias.PL 5096/2020|Iracema Portella.partido;PP
+autorias.PL 5096/2020|Iracema Portella.criterio;histórico datado da Câmara
+autorias.PL 5096/2020|Iracema Portella.ficha;PP
+autorias.PL 5096/2020|Iracema Portella.id_deputado;67138
+autorias.PL 5096/2020|Jandira Feghali.apresentacao;2020-11-05
+autorias.PL 5096/2020|Jandira Feghali.legislatura;56
+autorias.PL 5096/2020|Jandira Feghali.partido;PCdoB
+autorias.PL 5096/2020|Jandira Feghali.criterio;histórico datado da Câmara
+autorias.PL 5096/2020|Jandira Feghali.ficha;PCdoB
+autorias.PL 5096/2020|Jandira Feghali.id_deputado;74848
+autorias.PL 5096/2020|João H. Campos.apresentacao;2020-11-05
+autorias.PL 5096/2020|João H. Campos.legislatura;56
+autorias.PL 5096/2020|João H. Campos.partido;PSB
+autorias.PL 5096/2020|João H. Campos.criterio;histórico datado da Câmara
+autorias.PL 5096/2020|João H. Campos.ficha;PSB
+autorias.PL 5096/2020|João H. Campos.id_deputado;204429
+autorias.PL 5096/2020|Joenia Wapichana.apresentacao;2020-11-05
+autorias.PL 5096/2020|Joenia Wapichana.legislatura;56
+autorias.PL 5096/2020|Joenia Wapichana.partido;REDE
+autorias.PL 5096/2020|Joenia Wapichana.criterio;histórico datado da Câmara
+autorias.PL 5096/2020|Joenia Wapichana.ficha;REDE
+autorias.PL 5096/2020|Joenia Wapichana.id_deputado;204468
+autorias.PL 5096/2020|Joice Hasselmann.apresentacao;2020-11-05
+autorias.PL 5096/2020|Joice Hasselmann.legislatura;56
+autorias.PL 5096/2020|Joice Hasselmann.partido;PSL
+autorias.PL 5096/2020|Joice Hasselmann.criterio;histórico datado da Câmara
+autorias.PL 5096/2020|Joice Hasselmann.ficha;PSL
+autorias.PL 5096/2020|Joice Hasselmann.id_deputado;204546
+autorias.PL 5096/2020|Lídice da Mata.apresentacao;2020-11-05
+autorias.PL 5096/2020|Lídice da Mata.legislatura;56
+autorias.PL 5096/2020|Lídice da Mata.partido;PSB
+autorias.PL 5096/2020|Lídice da Mata.criterio;histórico datado da Câmara
+autorias.PL 5096/2020|Lídice da Mata.ficha;PSB
+autorias.PL 5096/2020|Lídice da Mata.id_deputado;139285
+autorias.PL 5096/2020|Luiza Erundina.apresentacao;2020-11-05
+autorias.PL 5096/2020|Luiza Erundina.legislatura;56
+autorias.PL 5096/2020|Luiza Erundina.partido;PSOL
+autorias.PL 5096/2020|Luiza Erundina.criterio;histórico datado da Câmara
+autorias.PL 5096/2020|Luiza Erundina.ficha;PSOL
+autorias.PL 5096/2020|Luiza Erundina.id_deputado;74784
+autorias.PL 5096/2020|Mara Rocha.apresentacao;2020-11-05
+autorias.PL 5096/2020|Mara Rocha.legislatura;56
+autorias.PL 5096/2020|Mara Rocha.partido;PSDB
+autorias.PL 5096/2020|Mara Rocha.criterio;histórico datado da Câmara
+autorias.PL 5096/2020|Mara Rocha.ficha;PSDB
+autorias.PL 5096/2020|Mara Rocha.id_deputado;204471
+autorias.PL 5096/2020|Marcelo Nilo.apresentacao;2020-11-05
+autorias.PL 5096/2020|Marcelo Nilo.legislatura;56
+autorias.PL 5096/2020|Marcelo Nilo.partido;PSB
+autorias.PL 5096/2020|Marcelo Nilo.criterio;histórico datado da Câmara
+autorias.PL 5096/2020|Marcelo Nilo.ficha;PSB
+autorias.PL 5096/2020|Marcelo Nilo.id_deputado;204558
+autorias.PL 5096/2020|Maria do Rosário.apresentacao;2020-11-05
+autorias.PL 5096/2020|Maria do Rosário.legislatura;56
+autorias.PL 5096/2020|Maria do Rosário.partido;PT
+autorias.PL 5096/2020|Maria do Rosário.criterio;histórico datado da Câmara
+autorias.PL 5096/2020|Maria do Rosário.ficha;PT
+autorias.PL 5096/2020|Maria do Rosário.id_deputado;74398
+autorias.PL 5096/2020|Marília Arraes.apresentacao;2020-11-05
+autorias.PL 5096/2020|Marília Arraes.legislatura;56
+autorias.PL 5096/2020|Marília Arraes.partido;PT
+autorias.PL 5096/2020|Marília Arraes.criterio;histórico datado da Câmara
+autorias.PL 5096/2020|Marília Arraes.ficha;PT
+autorias.PL 5096/2020|Marília Arraes.id_deputado;204428
+autorias.PL 5096/2020|Norma Ayub.apresentacao;2020-11-05
+autorias.PL 5096/2020|Norma Ayub.legislatura;56
+autorias.PL 5096/2020|Norma Ayub.partido;DEM
+autorias.PL 5096/2020|Norma Ayub.criterio;histórico datado da Câmara
+autorias.PL 5096/2020|Norma Ayub.ficha;DEM
+autorias.PL 5096/2020|Norma Ayub.id_deputado;66179
+autorias.PL 5096/2020|Rodrigo Agostinho.apresentacao;2020-11-05
+autorias.PL 5096/2020|Rodrigo Agostinho.legislatura;56
+autorias.PL 5096/2020|Rodrigo Agostinho.partido;PSB
+autorias.PL 5096/2020|Rodrigo Agostinho.criterio;histórico datado da Câmara
+autorias.PL 5096/2020|Rodrigo Agostinho.ficha;PSB
+autorias.PL 5096/2020|Rodrigo Agostinho.id_deputado;204530
+autorias.PL 5096/2020|Rose Modesto.apresentacao;2020-11-05
+autorias.PL 5096/2020|Rose Modesto.legislatura;56
+autorias.PL 5096/2020|Rose Modesto.partido;PSDB
+autorias.PL 5096/2020|Rose Modesto.criterio;histórico datado da Câmara
+autorias.PL 5096/2020|Rose Modesto.ficha;PSDB
+autorias.PL 5096/2020|Rose Modesto.id_deputado;204357
+autorias.PL 5096/2020|Sâmia Bomfim.apresentacao;2020-11-05
+autorias.PL 5096/2020|Sâmia Bomfim.legislatura;56
+autorias.PL 5096/2020|Sâmia Bomfim.partido;PSOL
+autorias.PL 5096/2020|Sâmia Bomfim.criterio;histórico datado da Câmara
+autorias.PL 5096/2020|Sâmia Bomfim.ficha;PSOL
+autorias.PL 5096/2020|Sâmia Bomfim.id_deputado;204535
+autorias.PL 5096/2020|Tabata Amaral.apresentacao;2020-11-05
+autorias.PL 5096/2020|Tabata Amaral.legislatura;56
+autorias.PL 5096/2020|Tabata Amaral.partido;PDT
+autorias.PL 5096/2020|Tabata Amaral.criterio;histórico datado da Câmara
+autorias.PL 5096/2020|Tabata Amaral.ficha;PSB
+autorias.PL 5096/2020|Tabata Amaral.id_deputado;204534
+autorias.PL 5096/2020|Talíria Petrone.apresentacao;2020-11-05
+autorias.PL 5096/2020|Talíria Petrone.legislatura;56
+autorias.PL 5096/2020|Talíria Petrone.partido;PSOL
+autorias.PL 5096/2020|Talíria Petrone.criterio;histórico datado da Câmara
+autorias.PL 5096/2020|Talíria Petrone.ficha;PSOL
+autorias.PL 5096/2020|Talíria Petrone.id_deputado;204464
+autorias.PL 5096/2020|Tereza Nelma.apresentacao;2020-11-05
+autorias.PL 5096/2020|Tereza Nelma.legislatura;56
+autorias.PL 5096/2020|Tereza Nelma.partido;PSDB
+autorias.PL 5096/2020|Tereza Nelma.criterio;histórico datado da Câmara
+autorias.PL 5096/2020|Tereza Nelma.ficha;PSDB
+autorias.PL 5096/2020|Tereza Nelma.id_deputado;204466
+autorias.PL 5096/2020|Vilson da Fetaemg.apresentacao;2020-11-05
+autorias.PL 5096/2020|Vilson da Fetaemg.legislatura;56
+autorias.PL 5096/2020|Vilson da Fetaemg.partido;PSB
+autorias.PL 5096/2020|Vilson da Fetaemg.criterio;histórico datado da Câmara
+autorias.PL 5096/2020|Vilson da Fetaemg.ficha;PSB
+autorias.PL 5096/2020|Vilson da Fetaemg.id_deputado;204483
+autorias.PL 1360/2021|Alê Silva.apresentacao;2021-04-13
+autorias.PL 1360/2021|Alê Silva.legislatura;56
+autorias.PL 1360/2021|Alê Silva.partido;PSL
+autorias.PL 1360/2021|Alê Silva.criterio;histórico datado da Câmara
+autorias.PL 1360/2021|Alê Silva.ficha;REPUBLICANOS
+autorias.PL 1360/2021|Alê Silva.id_deputado;204545
+autorias.PL 1360/2021|Carla Zambelli.apresentacao;2021-04-13
+autorias.PL 1360/2021|Carla Zambelli.legislatura;56
+autorias.PL 1360/2021|Carla Zambelli.partido;PSL
+autorias.PL 1360/2021|Carla Zambelli.criterio;histórico datado da Câmara
+autorias.PL 1360/2021|Carla Zambelli.ficha;PL
+autorias.PL 1360/2021|Carla Zambelli.id_deputado;204507
+autorias.PL 1360/2021|Jaqueline Cassol.apresentacao;2021-04-13
+autorias.PL 1360/2021|Jaqueline Cassol.legislatura;56
+autorias.PL 1360/2021|Jaqueline Cassol.partido;PP
+autorias.PL 1360/2021|Jaqueline Cassol.criterio;histórico datado da Câmara
+autorias.PL 1360/2021|Jaqueline Cassol.ficha;PP
+autorias.PL 1360/2021|Jaqueline Cassol.id_deputado;108338
+autorias.PL 4401/2021|Aureo.apresentacao;2015-07-08
+autorias.PL 4401/2021|Aureo.legislatura;55
+autorias.PL 4401/2021|Aureo.partido;SD
+autorias.PL 4401/2021|Aureo.criterio;histórico datado da Câmara
+autorias.PL 4401/2021|Aureo.ficha;SOLIDARIEDADE
+autorias.PL 4401/2021|Aureo.id_deputado;160512
+autorias.PL 4566/2021|Bebeto.apresentacao;2015-05-28
+autorias.PL 4566/2021|Bebeto.legislatura;55
+autorias.PL 4566/2021|Bebeto.partido;PSB
+autorias.PL 4566/2021|Bebeto.criterio;histórico datado da Câmara
+autorias.PL 4566/2021|Bebeto.ficha;PSB
+autorias.PL 4566/2021|Bebeto.id_deputado;178834
+autorias.PL 4566/2021|Tia Eron.apresentacao;2015-05-28
+autorias.PL 4566/2021|Tia Eron.legislatura;55
+autorias.PL 4566/2021|Tia Eron.partido;PRB
+autorias.PL 4566/2021|Tia Eron.criterio;histórico datado da Câmara
+autorias.PL 4566/2021|Tia Eron.ficha;REPUBLICANOS
+autorias.PL 4566/2021|Tia Eron.id_deputado;178862
+autorias.PL 5385/2019|Paulo Ganime.apresentacao;2019-10-03
+autorias.PL 5385/2019|Paulo Ganime.legislatura;56
+autorias.PL 5385/2019|Paulo Ganime.partido;NOVO
+autorias.PL 5385/2019|Paulo Ganime.criterio;histórico datado da Câmara
+autorias.PL 5385/2019|Paulo Ganime.ficha;NOVO
+autorias.PL 5385/2019|Paulo Ganime.id_deputado;204461
+autorias.PL 976/2022|Benedita da Silva.apresentacao;2022-04-20
+autorias.PL 976/2022|Benedita da Silva.legislatura;56
+autorias.PL 976/2022|Benedita da Silva.partido;PT
+autorias.PL 976/2022|Benedita da Silva.criterio;histórico datado da Câmara
+autorias.PL 976/2022|Benedita da Silva.ficha;PT
+autorias.PL 976/2022|Benedita da Silva.id_deputado;73701
+autorias.PL 976/2022|Erika Kokay.apresentacao;2022-04-20
+autorias.PL 976/2022|Erika Kokay.legislatura;56
+autorias.PL 976/2022|Erika Kokay.partido;PT
+autorias.PL 976/2022|Erika Kokay.criterio;histórico datado da Câmara
+autorias.PL 976/2022|Erika Kokay.ficha;PT
+autorias.PL 976/2022|Erika Kokay.id_deputado;160575
+autorias.PL 976/2022|Gleisi Hoffmann.apresentacao;2022-04-20
+autorias.PL 976/2022|Gleisi Hoffmann.legislatura;56
+autorias.PL 976/2022|Gleisi Hoffmann.partido;PT
+autorias.PL 976/2022|Gleisi Hoffmann.criterio;histórico datado da Câmara
+autorias.PL 976/2022|Gleisi Hoffmann.ficha;PT
+autorias.PL 976/2022|Gleisi Hoffmann.id_deputado;107283
+autorias.PL 976/2022|Luizianne Lins.apresentacao;2022-04-20
+autorias.PL 976/2022|Luizianne Lins.legislatura;56
+autorias.PL 976/2022|Luizianne Lins.partido;PT
+autorias.PL 976/2022|Luizianne Lins.criterio;histórico datado da Câmara
+autorias.PL 976/2022|Luizianne Lins.ficha;PT
+autorias.PL 976/2022|Luizianne Lins.id_deputado;178866
+autorias.PL 976/2022|Maria do Rosário.apresentacao;2022-04-20
+autorias.PL 976/2022|Maria do Rosário.legislatura;56
+autorias.PL 976/2022|Maria do Rosário.partido;PT
+autorias.PL 976/2022|Maria do Rosário.criterio;histórico datado da Câmara
+autorias.PL 976/2022|Maria do Rosário.ficha;PT
+autorias.PL 976/2022|Maria do Rosário.id_deputado;74398
+autorias.PL 976/2022|Natália Bonavides.apresentacao;2022-04-20
+autorias.PL 976/2022|Natália Bonavides.legislatura;56
+autorias.PL 976/2022|Natália Bonavides.partido;PT
+autorias.PL 976/2022|Natália Bonavides.criterio;histórico datado da Câmara
+autorias.PL 976/2022|Natália Bonavides.ficha;PT
+autorias.PL 976/2022|Natália Bonavides.id_deputado;204453
+autorias.PL 976/2022|Professora Rosa Neide.apresentacao;2022-04-20
+autorias.PL 976/2022|Professora Rosa Neide.legislatura;56
+autorias.PL 976/2022|Professora Rosa Neide.partido;PT
+autorias.PL 976/2022|Professora Rosa Neide.criterio;histórico datado da Câmara
+autorias.PL 976/2022|Professora Rosa Neide.ficha;PT
+autorias.PL 976/2022|Professora Rosa Neide.id_deputado;204467
+autorias.PL 976/2022|Rejane Dias.apresentacao;2022-04-20
+autorias.PL 976/2022|Rejane Dias.legislatura;56
+autorias.PL 976/2022|Rejane Dias.partido;PT
+autorias.PL 976/2022|Rejane Dias.criterio;histórico datado da Câmara
+autorias.PL 976/2022|Rejane Dias.ficha;PT
+autorias.PL 976/2022|Rejane Dias.id_deputado;178925
+autorias.PL 4224/2021|Osmar Terra.apresentacao;2021-12-01
+autorias.PL 4224/2021|Osmar Terra.legislatura;56
+autorias.PL 4224/2021|Osmar Terra.partido;MDB
+autorias.PL 4224/2021|Osmar Terra.criterio;histórico datado da Câmara
+autorias.PL 4224/2021|Osmar Terra.ficha;PMDB
+autorias.PL 4224/2021|Osmar Terra.id_deputado;73692
+autorias.PL 370/2024|Jandira Feghali.apresentacao;2024-02-21
+autorias.PL 370/2024|Jandira Feghali.legislatura;57
+autorias.PL 370/2024|Jandira Feghali.partido;PCdoB
+autorias.PL 370/2024|Jandira Feghali.criterio;histórico datado da Câmara
+autorias.PL 370/2024|Jandira Feghali.ficha;PCdoB
+autorias.PL 370/2024|Jandira Feghali.id_deputado;74848
+autorias.PL 4015/2023|Evandro Rogerio Roman.apresentacao;2015-03-31
+autorias.PL 4015/2023|Evandro Rogerio Roman.legislatura;55
+autorias.PL 4015/2023|Evandro Rogerio Roman.partido;PSD
+autorias.PL 4015/2023|Evandro Rogerio Roman.criterio;histórico datado da Câmara
+autorias.PL 4015/2023|Evandro Rogerio Roman.ficha;PSD
+autorias.PL 4015/2023|Evandro Rogerio Roman.id_deputado;178930
+autorias.PL 419/2023|Laura Carneiro.apresentacao;2023-02-09
+autorias.PL 419/2023|Laura Carneiro.legislatura;57
+autorias.PL 419/2023|Laura Carneiro.partido;PSD
+autorias.PL 419/2023|Laura Carneiro.criterio;histórico datado da Câmara
+autorias.PL 419/2023|Laura Carneiro.ficha;UNIÃO
+autorias.PL 419/2023|Laura Carneiro.id_deputado;74856
+autorias.PL 4626/2020|Alex Santana.apresentacao;2020-09-17
+autorias.PL 4626/2020|Alex Santana.legislatura;56
+autorias.PL 4626/2020|Alex Santana.partido;PDT
+autorias.PL 4626/2020|Alex Santana.criterio;histórico datado da Câmara
+autorias.PL 4626/2020|Alex Santana.ficha;REPUBLICANOS
+autorias.PL 4626/2020|Alex Santana.id_deputado;204571
+autorias.PL 4626/2020|Carla Zambelli.apresentacao;2020-09-17
+autorias.PL 4626/2020|Carla Zambelli.legislatura;56
+autorias.PL 4626/2020|Carla Zambelli.partido;PSL
+autorias.PL 4626/2020|Carla Zambelli.criterio;histórico datado da Câmara
+autorias.PL 4626/2020|Carla Zambelli.ficha;PL
+autorias.PL 4626/2020|Carla Zambelli.id_deputado;204507
+autorias.PL 4626/2020|Daniel Freitas.apresentacao;2020-09-17
+autorias.PL 4626/2020|Daniel Freitas.legislatura;56
+autorias.PL 4626/2020|Daniel Freitas.partido;PSL
+autorias.PL 4626/2020|Daniel Freitas.criterio;histórico datado da Câmara
+autorias.PL 4626/2020|Daniel Freitas.ficha;PL
+autorias.PL 4626/2020|Daniel Freitas.id_deputado;204367
+autorias.PL 4626/2020|Helio Lopes.apresentacao;2020-09-17
+autorias.PL 4626/2020|Helio Lopes.legislatura;56
+autorias.PL 4626/2020|Helio Lopes.partido;PSL
+autorias.PL 4626/2020|Helio Lopes.criterio;histórico datado da Câmara
+autorias.PL 4626/2020|Helio Lopes.ficha;PL
+autorias.PL 4626/2020|Helio Lopes.id_deputado;204444
+autorias.PL 4626/2020|Lucas Redecker.apresentacao;2020-09-17
+autorias.PL 4626/2020|Lucas Redecker.legislatura;56
+autorias.PL 4626/2020|Lucas Redecker.partido;PSDB
+autorias.PL 4626/2020|Lucas Redecker.criterio;histórico datado da Câmara
+autorias.PL 4626/2020|Lucas Redecker.ficha;PSDB
+autorias.PL 4626/2020|Lucas Redecker.id_deputado;204404
+autorias.PL 4872/2024|Sandro Alex.apresentacao;2016-07-14
+autorias.PL 4872/2024|Sandro Alex.legislatura;55
+autorias.PL 4872/2024|Sandro Alex.partido;PSD
+autorias.PL 4872/2024|Sandro Alex.criterio;histórico datado da Câmara
+autorias.PL 4872/2024|Sandro Alex.ficha;PSD
+autorias.PL 4872/2024|Sandro Alex.id_deputado;160621
+autorias.PL 2195/2024|Laura Carneiro.apresentacao;2024-06-05
+autorias.PL 2195/2024|Laura Carneiro.legislatura;57
+autorias.PL 2195/2024|Laura Carneiro.partido;PSD
+autorias.PL 2195/2024|Laura Carneiro.criterio;histórico datado da Câmara
+autorias.PL 2195/2024|Laura Carneiro.ficha;UNIÃO
+autorias.PL 2195/2024|Laura Carneiro.id_deputado;74856
+autorias.PL 3880/2024|Fernanda Melchionna.apresentacao;2024-10-10
+autorias.PL 3880/2024|Fernanda Melchionna.legislatura;57
+autorias.PL 3880/2024|Fernanda Melchionna.partido;PSOL
+autorias.PL 3880/2024|Fernanda Melchionna.criterio;histórico datado da Câmara
+autorias.PL 3880/2024|Fernanda Melchionna.ficha;PSOL
+autorias.PL 3880/2024|Fernanda Melchionna.id_deputado;204407
+autorias.PL 3880/2024|Laura Carneiro.apresentacao;2024-10-10
+autorias.PL 3880/2024|Laura Carneiro.legislatura;57
+autorias.PL 3880/2024|Laura Carneiro.partido;PSD
+autorias.PL 3880/2024|Laura Carneiro.criterio;histórico datado da Câmara
+autorias.PL 3880/2024|Laura Carneiro.ficha;UNIÃO
+autorias.PL 3880/2024|Laura Carneiro.id_deputado;74856
+autorias.PL 3880/2024|Maria do Rosário.apresentacao;2024-10-10
+autorias.PL 3880/2024|Maria do Rosário.legislatura;57
+autorias.PL 3880/2024|Maria do Rosário.partido;PT
+autorias.PL 3880/2024|Maria do Rosário.criterio;histórico datado da Câmara
+autorias.PL 3880/2024|Maria do Rosário.ficha;PT
+autorias.PL 3880/2024|Maria do Rosário.id_deputado;74398
+autorias.PL 3780/2023|Delegado da Cunha.apresentacao;2023-08-08
+autorias.PL 3780/2023|Delegado da Cunha.legislatura;57
+autorias.PL 3780/2023|Delegado da Cunha.partido;PP
+autorias.PL 3780/2023|Delegado da Cunha.criterio;histórico datado da Câmara
+autorias.PL 3780/2023|Delegado da Cunha.ficha;UNIÃO
+autorias.PL 3780/2023|Delegado da Cunha.id_deputado;220649
+autorias.PL 3780/2023|Kim Kataguiri.apresentacao;2023-08-08
+autorias.PL 3780/2023|Kim Kataguiri.legislatura;57
+autorias.PL 3780/2023|Kim Kataguiri.partido;UNIÃO
+autorias.PL 3780/2023|Kim Kataguiri.criterio;histórico datado da Câmara
+autorias.PL 3780/2023|Kim Kataguiri.ficha;MISSÃO
+autorias.PL 3780/2023|Kim Kataguiri.id_deputado;204536
+autorias.PL 3780/2023|Marcos Pollon.apresentacao;2023-08-08
+autorias.PL 3780/2023|Marcos Pollon.legislatura;57
+autorias.PL 3780/2023|Marcos Pollon.partido;PL
+autorias.PL 3780/2023|Marcos Pollon.criterio;histórico datado da Câmara
+autorias.PL 3780/2023|Marcos Pollon.ficha;PL
+autorias.PL 3780/2023|Marcos Pollon.id_deputado;220547
+autorias.PL 2162/2023|Adilson Barroso.apresentacao;2023-04-26
+autorias.PL 2162/2023|Adilson Barroso.legislatura;57
+autorias.PL 2162/2023|Adilson Barroso.partido;PL
+autorias.PL 2162/2023|Adilson Barroso.criterio;histórico datado da Câmara
+autorias.PL 2162/2023|Adilson Barroso.ficha;PL
+autorias.PL 2162/2023|Adilson Barroso.id_deputado;221328
+autorias.PL 2162/2023|Alex Santana.apresentacao;2023-04-26
+autorias.PL 2162/2023|Alex Santana.legislatura;57
+autorias.PL 2162/2023|Alex Santana.partido;REPUBLICANOS
+autorias.PL 2162/2023|Alex Santana.criterio;histórico datado da Câmara
+autorias.PL 2162/2023|Alex Santana.ficha;REPUBLICANOS
+autorias.PL 2162/2023|Alex Santana.id_deputado;204571
+autorias.PL 2162/2023|Alexandre Guimarães.apresentacao;2023-04-26
+autorias.PL 2162/2023|Alexandre Guimarães.legislatura;57
+autorias.PL 2162/2023|Alexandre Guimarães.partido;REPUBLICANOS
+autorias.PL 2162/2023|Alexandre Guimarães.criterio;histórico datado da Câmara
+autorias.PL 2162/2023|Alexandre Guimarães.ficha;MDB
+autorias.PL 2162/2023|Alexandre Guimarães.id_deputado;220542
+autorias.PL 2162/2023|Aluisio Mendes.apresentacao;2023-04-26
+autorias.PL 2162/2023|Aluisio Mendes.legislatura;57
+autorias.PL 2162/2023|Aluisio Mendes.partido;REPUBLICANOS
+autorias.PL 2162/2023|Aluisio Mendes.criterio;histórico datado da Câmara
+autorias.PL 2162/2023|Aluisio Mendes.ficha;REPUBLICANOS
+autorias.PL 2162/2023|Aluisio Mendes.id_deputado;178881
+autorias.PL 2162/2023|Amaro Neto.apresentacao;2023-04-26
+autorias.PL 2162/2023|Amaro Neto.legislatura;57
+autorias.PL 2162/2023|Amaro Neto.partido;REPUBLICANOS
+autorias.PL 2162/2023|Amaro Neto.criterio;histórico datado da Câmara
+autorias.PL 2162/2023|Amaro Neto.ficha;PP
+autorias.PL 2162/2023|Amaro Neto.id_deputado;204356
+autorias.PL 2162/2023|Antonio Andrade.apresentacao;2023-04-26
+autorias.PL 2162/2023|Antonio Andrade.legislatura;57
+autorias.PL 2162/2023|Antonio Andrade.partido;REPUBLICANOS
+autorias.PL 2162/2023|Antonio Andrade.criterio;histórico datado da Câmara
+autorias.PL 2162/2023|Antonio Andrade.ficha;PSDB
+autorias.PL 2162/2023|Antonio Andrade.id_deputado;220544
+autorias.PL 2162/2023|Carlos Gomes.apresentacao;2023-04-26
+autorias.PL 2162/2023|Carlos Gomes.legislatura;57
+autorias.PL 2162/2023|Carlos Gomes.partido;REPUBLICANOS
+autorias.PL 2162/2023|Carlos Gomes.criterio;histórico datado da Câmara
+autorias.PL 2162/2023|Carlos Gomes.ficha;REPUBLICANOS
+autorias.PL 2162/2023|Carlos Gomes.id_deputado;178962
+autorias.PL 2162/2023|Coronel Meira.apresentacao;2023-04-26
+autorias.PL 2162/2023|Coronel Meira.legislatura;57
+autorias.PL 2162/2023|Coronel Meira.partido;PL
+autorias.PL 2162/2023|Coronel Meira.criterio;histórico datado da Câmara
+autorias.PL 2162/2023|Coronel Meira.ficha;PL
+autorias.PL 2162/2023|Coronel Meira.id_deputado;220666
+autorias.PL 2162/2023|Defensor Stélio Dener.apresentacao;2023-04-26
+autorias.PL 2162/2023|Defensor Stélio Dener.legislatura;57
+autorias.PL 2162/2023|Defensor Stélio Dener.partido;REPUBLICANOS
+autorias.PL 2162/2023|Defensor Stélio Dener.criterio;histórico datado da Câmara
+autorias.PL 2162/2023|Defensor Stélio Dener.ficha;UNIÃO
+autorias.PL 2162/2023|Defensor Stélio Dener.id_deputado;220539
+autorias.PL 2162/2023|Diego Garcia.apresentacao;2023-04-26
+autorias.PL 2162/2023|Diego Garcia.legislatura;57
+autorias.PL 2162/2023|Diego Garcia.partido;REPUBLICANOS
+autorias.PL 2162/2023|Diego Garcia.criterio;histórico datado da Câmara
+autorias.PL 2162/2023|Diego Garcia.ficha;UNIÃO
+autorias.PL 2162/2023|Diego Garcia.id_deputado;178929
+autorias.PL 2162/2023|Domingos Sávio.apresentacao;2023-04-26
+autorias.PL 2162/2023|Domingos Sávio.legislatura;57
+autorias.PL 2162/2023|Domingos Sávio.partido;PL
+autorias.PL 2162/2023|Domingos Sávio.criterio;histórico datado da Câmara
+autorias.PL 2162/2023|Domingos Sávio.ficha;PSDB
+autorias.PL 2162/2023|Domingos Sávio.id_deputado;160758
+autorias.PL 2162/2023|Franciane Bayer.apresentacao;2023-04-26
+autorias.PL 2162/2023|Franciane Bayer.legislatura;57
+autorias.PL 2162/2023|Franciane Bayer.partido;REPUBLICANOS
+autorias.PL 2162/2023|Franciane Bayer.criterio;histórico datado da Câmara
+autorias.PL 2162/2023|Franciane Bayer.ficha;REPUBLICANOS
+autorias.PL 2162/2023|Franciane Bayer.id_deputado;220551
+autorias.PL 2162/2023|Fred Linhares.apresentacao;2023-04-26
+autorias.PL 2162/2023|Fred Linhares.legislatura;57
+autorias.PL 2162/2023|Fred Linhares.partido;REPUBLICANOS
+autorias.PL 2162/2023|Fred Linhares.criterio;histórico datado da Câmara
+autorias.PL 2162/2023|Fred Linhares.ficha;REPUBLICANOS
+autorias.PL 2162/2023|Fred Linhares.id_deputado;220534
+autorias.PL 2162/2023|Gabriel Mota.apresentacao;2023-04-26
+autorias.PL 2162/2023|Gabriel Mota.legislatura;57
+autorias.PL 2162/2023|Gabriel Mota.partido;REPUBLICANOS
+autorias.PL 2162/2023|Gabriel Mota.criterio;histórico datado da Câmara
+autorias.PL 2162/2023|Gabriel Mota.ficha;UNIÃO
+autorias.PL 2162/2023|Gabriel Mota.id_deputado;224117
+autorias.PL 2162/2023|Gilberto Abramo.apresentacao;2023-04-26
+autorias.PL 2162/2023|Gilberto Abramo.legislatura;57
+autorias.PL 2162/2023|Gilberto Abramo.partido;REPUBLICANOS
+autorias.PL 2162/2023|Gilberto Abramo.criterio;histórico datado da Câmara
+autorias.PL 2162/2023|Gilberto Abramo.ficha;REPUBLICANOS
+autorias.PL 2162/2023|Gilberto Abramo.id_deputado;204491
+autorias.PL 2162/2023|Gustinho Ribeiro.apresentacao;2023-04-26
+autorias.PL 2162/2023|Gustinho Ribeiro.legislatura;57
+autorias.PL 2162/2023|Gustinho Ribeiro.partido;REPUBLICANOS
+autorias.PL 2162/2023|Gustinho Ribeiro.criterio;histórico datado da Câmara
+autorias.PL 2162/2023|Gustinho Ribeiro.ficha;PP
+autorias.PL 2162/2023|Gustinho Ribeiro.id_deputado;204408
+autorias.PL 2162/2023|Jorge Braz.apresentacao;2023-04-26
+autorias.PL 2162/2023|Jorge Braz.legislatura;57
+autorias.PL 2162/2023|Jorge Braz.partido;REPUBLICANOS
+autorias.PL 2162/2023|Jorge Braz.criterio;histórico datado da Câmara
+autorias.PL 2162/2023|Jorge Braz.ficha;REPUBLICANOS
+autorias.PL 2162/2023|Jorge Braz.id_deputado;205550
+autorias.PL 2162/2023|Lafayette de Andrada.apresentacao;2023-04-26
+autorias.PL 2162/2023|Lafayette de Andrada.legislatura;57
+autorias.PL 2162/2023|Lafayette de Andrada.partido;REPUBLICANOS
+autorias.PL 2162/2023|Lafayette de Andrada.criterio;histórico datado da Câmara
+autorias.PL 2162/2023|Lafayette de Andrada.ficha;PL
+autorias.PL 2162/2023|Lafayette de Andrada.id_deputado;98057
+autorias.PL 2162/2023|Luis Carlos Gomes.apresentacao;2023-04-26
+autorias.PL 2162/2023|Luis Carlos Gomes.legislatura;57
+autorias.PL 2162/2023|Luis Carlos Gomes.partido;REPUBLICANOS
+autorias.PL 2162/2023|Luis Carlos Gomes.criterio;histórico datado da Câmara
+autorias.PL 2162/2023|Luis Carlos Gomes.ficha;REPUBLICANOS
+autorias.PL 2162/2023|Luis Carlos Gomes.id_deputado;222429
+autorias.PL 2162/2023|Marcelo Crivella.apresentacao;2023-04-26
+autorias.PL 2162/2023|Marcelo Crivella.legislatura;57
+autorias.PL 2162/2023|Marcelo Crivella.partido;REPUBLICANOS
+autorias.PL 2162/2023|Marcelo Crivella.criterio;histórico datado da Câmara
+autorias.PL 2162/2023|Marcelo Crivella.ficha;REPUBLICANOS
+autorias.PL 2162/2023|Marcelo Crivella.id_deputado;220599
+autorias.PL 2162/2023|Márcio Marinho.apresentacao;2023-04-26
+autorias.PL 2162/2023|Márcio Marinho.legislatura;57
+autorias.PL 2162/2023|Márcio Marinho.partido;REPUBLICANOS
+autorias.PL 2162/2023|Márcio Marinho.criterio;histórico datado da Câmara
+autorias.PL 2162/2023|Márcio Marinho.ficha;REPUBLICANOS
+autorias.PL 2162/2023|Márcio Marinho.id_deputado;150418
+autorias.PL 2162/2023|Maria Rosas.apresentacao;2023-04-26
+autorias.PL 2162/2023|Maria Rosas.legislatura;57
+autorias.PL 2162/2023|Maria Rosas.partido;REPUBLICANOS
+autorias.PL 2162/2023|Maria Rosas.criterio;histórico datado da Câmara
+autorias.PL 2162/2023|Maria Rosas.ficha;REPUBLICANOS
+autorias.PL 2162/2023|Maria Rosas.id_deputado;204540
+autorias.PL 2162/2023|Messias Donato.apresentacao;2023-04-26
+autorias.PL 2162/2023|Messias Donato.legislatura;57
+autorias.PL 2162/2023|Messias Donato.partido;REPUBLICANOS
+autorias.PL 2162/2023|Messias Donato.criterio;histórico datado da Câmara
+autorias.PL 2162/2023|Messias Donato.ficha;UNIÃO
+autorias.PL 2162/2023|Messias Donato.id_deputado;220530
+autorias.PL 2162/2023|Milton Vieira.apresentacao;2023-04-26
+autorias.PL 2162/2023|Milton Vieira.legislatura;57
+autorias.PL 2162/2023|Milton Vieira.partido;REPUBLICANOS
+autorias.PL 2162/2023|Milton Vieira.criterio;histórico datado da Câmara
+autorias.PL 2162/2023|Milton Vieira.ficha;REPUBLICANOS
+autorias.PL 2162/2023|Milton Vieira.id_deputado;154178
+autorias.PL 2162/2023|Murilo Galdino.apresentacao;2023-04-26
+autorias.PL 2162/2023|Murilo Galdino.legislatura;57
+autorias.PL 2162/2023|Murilo Galdino.partido;REPUBLICANOS
+autorias.PL 2162/2023|Murilo Galdino.criterio;histórico datado da Câmara
+autorias.PL 2162/2023|Murilo Galdino.ficha;REPUBLICANOS
+autorias.PL 2162/2023|Murilo Galdino.id_deputado;220584
+autorias.PL 2162/2023|Roberto Duarte.apresentacao;2023-04-26
+autorias.PL 2162/2023|Roberto Duarte.legislatura;57
+autorias.PL 2162/2023|Roberto Duarte.partido;REPUBLICANOS
+autorias.PL 2162/2023|Roberto Duarte.criterio;histórico datado da Câmara
+autorias.PL 2162/2023|Roberto Duarte.ficha;REPUBLICANOS
+autorias.PL 2162/2023|Roberto Duarte.id_deputado;220588
+autorias.PL 2162/2023|Rogéria Santos.apresentacao;2023-04-26
+autorias.PL 2162/2023|Rogéria Santos.legislatura;57
+autorias.PL 2162/2023|Rogéria Santos.partido;REPUBLICANOS
+autorias.PL 2162/2023|Rogéria Santos.criterio;histórico datado da Câmara
+autorias.PL 2162/2023|Rogéria Santos.ficha;REPUBLICANOS
+autorias.PL 2162/2023|Rogéria Santos.id_deputado;220695
+autorias.PL 2162/2023|Sóstenes Cavalcante.apresentacao;2023-04-26
+autorias.PL 2162/2023|Sóstenes Cavalcante.legislatura;57
+autorias.PL 2162/2023|Sóstenes Cavalcante.partido;PL
+autorias.PL 2162/2023|Sóstenes Cavalcante.criterio;histórico datado da Câmara
+autorias.PL 2162/2023|Sóstenes Cavalcante.ficha;PL
+autorias.PL 2162/2023|Sóstenes Cavalcante.id_deputado;178947
+autorias.PL 2162/2023|Tenente Coronel Zucco.apresentacao;2023-04-26
+autorias.PL 2162/2023|Tenente Coronel Zucco.legislatura;57
+autorias.PL 2162/2023|Tenente Coronel Zucco.partido;REPUBLICANOS
+autorias.PL 2162/2023|Tenente Coronel Zucco.criterio;histórico datado da Câmara
+autorias.PL 2162/2023|Tenente Coronel Zucco.ficha;PL
+autorias.PL 2162/2023|Tenente Coronel Zucco.id_deputado;220552
+autorias.PL 2162/2023|Vinicius Carvalho.apresentacao;2023-04-26
+autorias.PL 2162/2023|Vinicius Carvalho.legislatura;57
+autorias.PL 2162/2023|Vinicius Carvalho.partido;REPUBLICANOS
+autorias.PL 2162/2023|Vinicius Carvalho.criterio;histórico datado da Câmara
+autorias.PL 2162/2023|Vinicius Carvalho.ficha;PL
+autorias.PL 2162/2023|Vinicius Carvalho.id_deputado;141555
+autorias.PL 2162/2023|Wilson Santiago.apresentacao;2023-04-26
+autorias.PL 2162/2023|Wilson Santiago.legislatura;57
+autorias.PL 2162/2023|Wilson Santiago.partido;REPUBLICANOS
+autorias.PL 2162/2023|Wilson Santiago.criterio;histórico datado da Câmara
+autorias.PL 2162/2023|Wilson Santiago.ficha;REPUBLICANOS
+autorias.PL 2162/2023|Wilson Santiago.id_deputado;74044
+autorias.PL 1099/2024|Silvye Alves.apresentacao;2024-04-05
+autorias.PL 1099/2024|Silvye Alves.legislatura;57
+autorias.PL 1099/2024|Silvye Alves.partido;UNIÃO
+autorias.PL 1099/2024|Silvye Alves.criterio;histórico datado da Câmara
+autorias.PL 1099/2024|Silvye Alves.ficha;UNIÃO
+autorias.PL 1099/2024|Silvye Alves.id_deputado;220569
+autorias.PL 7323/2014|Guilherme Campos.apresentacao;2014-03-27
+autorias.PL 7323/2014|Guilherme Campos.legislatura;54
+autorias.PL 7323/2014|Guilherme Campos.partido;PSD
+autorias.PL 7323/2014|Guilherme Campos.criterio;histórico datado da Câmara
+autorias.PL 7323/2014|Guilherme Campos.ficha;PSD
+autorias.PL 7323/2014|Guilherme Campos.id_deputado;141447
+autorias.PL 421/2023|Laura Carneiro.apresentacao;2023-02-09
+autorias.PL 421/2023|Laura Carneiro.legislatura;57
+autorias.PL 421/2023|Laura Carneiro.partido;PSD
+autorias.PL 421/2023|Laura Carneiro.criterio;histórico datado da Câmara
+autorias.PL 421/2023|Laura Carneiro.ficha;UNIÃO
+autorias.PL 421/2023|Laura Carneiro.id_deputado;74856
+autorias.PL 5760/2023|Reimont.apresentacao;2023-11-28
+autorias.PL 5760/2023|Reimont.legislatura;57
+autorias.PL 5760/2023|Reimont.partido;PT
+autorias.PL 5760/2023|Reimont.criterio;histórico datado da Câmara
+autorias.PL 5760/2023|Reimont.ficha;PT
+autorias.PL 5760/2023|Reimont.id_deputado;220606
+autorias.PL 3066/2025|Osmar Terra.apresentacao;2025-06-25
+autorias.PL 3066/2025|Osmar Terra.legislatura;57
+autorias.PL 3066/2025|Osmar Terra.partido;MDB
+autorias.PL 3066/2025|Osmar Terra.criterio;histórico datado da Câmara
+autorias.PL 3066/2025|Osmar Terra.ficha;PL
+autorias.PL 3066/2025|Osmar Terra.id_deputado;73692

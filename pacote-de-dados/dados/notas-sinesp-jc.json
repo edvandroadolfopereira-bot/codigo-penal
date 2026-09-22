@@ -1,0 +1,236 @@
+{
+ "gerado_por": "apurar_notas_sinesp_jc.py",
+ "data": "2026-09-22",
+ "fonte": "BRASIL. Ministério da Justiça e Segurança Pública. Notas dos Gestores Estaduais: Sinesp JC (2004-2022). Publicado em 14/02/2019, atualizado em 15/08/2023. Disponível em: https://www.gov.br/mj/pt-br/assuntos/sua-seguranca/seguranca-publica/estatistica/dados-nacionais-1/notas-dos-gestores-estaduais. Acesso em: 22 set. 2026.",
+ "o_que_a_pagina_publica": "as notas metodológicas enviadas pelas Unidades da Federação, e NAO a série do Sinesp JC",
+ "unidades_da_federacao_com_nota": 16,
+ "unidades_da_federacao_sem_nota": 11,
+ "unidades_procuradas_e_nao_encontradas": [],
+ "declaracoes_por_ponto": {
+  "morte por intervencao policial": 11,
+  "feminicidio dentro do homicidio doloso": 8,
+  "doloso e culposo nao separados": 2,
+  "morte a esclarecer somada ao homicidio": 4,
+  "ano ou periodo sem dado": 9
+ },
+ "por_unidade_da_federacao": {
+  "ACRE": {
+   "caracteres_da_nota": 590,
+   "declaracoes": []
+  },
+  "BAHIA": {
+   "caracteres_da_nota": 2055,
+   "declaracoes": []
+  },
+  "CEARÁ": {
+   "caracteres_da_nota": 6608,
+   "declaracoes": [
+    {
+     "ponto": "morte por intervencao policial",
+     "trecho_literal": "intervenção policial, pois possuem excludente de ilicitude, e as mortes em unidade prisionais, por serem de competência da Secretaria de Administração Penitenciária intervir/prevenir essas ocorrências."
+    },
+    {
+     "ponto": "feminicidio dentro do homicidio doloso",
+     "trecho_literal": "Feminicídio, Lesão corporal seguida de morte e Roubo seguido de morte (Latrocínio)."
+    },
+    {
+     "ponto": "feminicidio dentro do homicidio doloso",
+     "trecho_literal": "feminicídios classificados como dolosos, isto é, praticados voluntária ou intencionalmente, por qualquer instrumento ou meio, exceto crimes culposos."
+    },
+    {
+     "ponto": "feminicidio dentro do homicidio doloso",
+     "trecho_literal": "feminicídio tentado, isto é, cuja execução se iniciou, mas não se consumou, por circunstâncias alheias à vontade do agente, dentro do mês de aferição."
+    },
+    {
+     "ponto": "ano ou periodo sem dado",
+     "trecho_literal": "ficaram temporariamente instáveis nos meses de abril a junho de 2014, por isso não foi possível informá-los no formulário eletrônico da Senasp."
+    },
+    {
+     "ponto": "ano ou periodo sem dado",
+     "trecho_literal": "não existiam tais informações e dados apurados pela própria especializada, não sendo então possível informar tais dados e atender ao histórico solicitado no formulário eletrônico da Senasp."
+    },
+    {
+     "ponto": "ano ou periodo sem dado",
+     "trecho_literal": "ficaram temporariamente instáveis nos meses de abril a junho de 2014, por isso não foi possível informá-los no formulário eletrônico da Senasp."
+    }
+   ]
+  },
+  "GOIÁS": {
+   "caracteres_da_nota": 17638,
+   "declaracoes": [
+    {
+     "ponto": "morte por intervencao policial",
+     "trecho_literal": "intervenção policial."
+    },
+    {
+     "ponto": "morte por intervencao policial",
+     "trecho_literal": "intervenção de agentes públicos, mortes violentas intencionais de policiais em serviço e fora de serviço."
+    },
+    {
+     "ponto": "morte por intervencao policial",
+     "trecho_literal": "intervenção de agente de segurança pública”, que são aquelas mortes praticadas por agentes de segurança pública em estado de necessidade, em legítima defesa própria ou de terceiros e no estrito cumprimento de dever legal ou no exercício regular de direito; e) Inclui-se aqui todas a tentativas de homicídios em que a vítima venha a óbito posteriormente dentro do ano de aferição."
+    },
+    {
+     "ponto": "morte por intervencao policial",
+     "trecho_literal": "intervenção de agente de segurança pública, do sistema prisional ou de outros órgãos públicos no exercício da função policial, em serviço ou em razão dele, desde que a ação tenha sido praticada sob quaisquer das hipóteses de exclusão de ilicitude; b) Pessoas mortas por agentes de segurança pública, sem caracterização de quaisquer das hipóteses de exclusão de ilicitude, são inseridas na categoria “homicídio doloso”."
+    },
+    {
+     "ponto": "feminicidio dentro do homicidio doloso",
+     "trecho_literal": "Feminicídio a) Homicídio praticado contra a mulher por razões da condição de sexo feminino em que envolve violência doméstica e familiar, bem como menosprezo ou discriminação à condição de mulher, nos termos do art."
+    },
+    {
+     "ponto": "feminicidio dentro do homicidio doloso",
+     "trecho_literal": "feminicídios fazem parte, para fins estatísticos, dos homicídios dolosos, podendo ser aferidos em separado quando necessário."
+    },
+    {
+     "ponto": "morte a esclarecer somada ao homicidio",
+     "trecho_literal": "morte a esclarecer” ou “morte suspeita”, sendo que o registro desses casos obedecem a seguinte metodologia: 1."
+    }
+   ]
+  },
+  "MINAS GERAIS": {
+   "caracteres_da_nota": 4002,
+   "declaracoes": [
+    {
+     "ponto": "doloso e culposo nao separados",
+     "trecho_literal": "sem a diferenciação entre homicídio doloso ou culposo; 3) São contabilizados registros de Homicídios Consumados ocorridos em Minas Gerais."
+    },
+    {
+     "ponto": "doloso e culposo nao separados",
+     "trecho_literal": "sem a diferenciação entre homicídio doloso ou culposo; 3) São contabilizadas vítimas de Homicídios Consumados no território de Minas Gerais."
+    },
+    {
+     "ponto": "ano ou periodo sem dado",
+     "trecho_literal": "disponíveis apenas a partir de 2014 devido a alterações sistêmicas ocorridas em período anterior."
+    },
+    {
+     "ponto": "ano ou periodo sem dado",
+     "trecho_literal": "disponíveis apenas a partir de 2014 devido a alterações sistêmicas ocorridas em período anterior."
+    },
+    {
+     "ponto": "ano ou periodo sem dado",
+     "trecho_literal": "disponíveis apenas a partir de 2014 devido a alterações sistêmicas ocorridas em período anterior."
+    },
+    {
+     "ponto": "ano ou periodo sem dado",
+     "trecho_literal": "disponíveis apenas a partir de 2014 devido a alterações sistêmicas ocorridas em período anterior."
+    }
+   ]
+  },
+  "MATO GROSSO DO SUL": {
+   "caracteres_da_nota": 749,
+   "declaracoes": []
+  },
+  "MATO GROSSO": {
+   "caracteres_da_nota": 1159,
+   "declaracoes": [
+    {
+     "ponto": "morte por intervencao policial",
+     "trecho_literal": "Intervenção de Agente do Estado; Tortura com Resultado Morte; Morte com Indício de Crime ou Sinal de Agressão Externa Qualificada, como encontro de cadáver após investigação policial; Mortes em Presídio."
+    },
+    {
+     "ponto": "morte por intervencao policial",
+     "trecho_literal": "intervenção de agente do Estado, Tortura com resultado morte, Morte com Indicio de Crime ou Sinal de Agressão externa qualificada como encontro de cadáver após investigação policial, Mortes em Presídio."
+    },
+    {
+     "ponto": "feminicidio dentro do homicidio doloso",
+     "trecho_literal": "Feminicídio; Mortes por Intervenção de Agente do Estado; Tortura com Resultado Morte; Morte com Indício de Crime ou Sinal de Agressão Externa Qualificada, como encontro de cadáver após investigação policial; Mortes em Presídio."
+    },
+    {
+     "ponto": "feminicidio dentro do homicidio doloso",
+     "trecho_literal": "Feminicídio, Mortes por intervenção de agente do Estado, Tortura com resultado morte, Morte com Indicio de Crime ou Sinal de Agressão externa qualificada como encontro de cadáver após investigação policial, Mortes em Presídio."
+    }
+   ]
+  },
+  "PARÁ": {
+   "caracteres_da_nota": 2975,
+   "declaracoes": []
+  },
+  "PARAÍBA": {
+   "caracteres_da_nota": 863,
+   "declaracoes": []
+  },
+  "PERNAMBUCO": {
+   "caracteres_da_nota": 1054,
+   "declaracoes": [
+    {
+     "ponto": "morte por intervencao policial",
+     "trecho_literal": "intervenção policial, para efeito deste indicador, são consideradas como homicídio."
+    }
+   ]
+  },
+  "PIAUÍ": {
+   "caracteres_da_nota": 850,
+   "declaracoes": [
+    {
+     "ponto": "morte a esclarecer somada ao homicidio",
+     "trecho_literal": "morte a esclarecer com indício de crime” foram inseridas no Sistema Nacional de Informações de Segurança Pública, Prisionais e de Rastreabilidade de Armas e Munições, de Material Genético, de Digitais e de Drogas – Sinesp, na rubrica de homicídio doloso."
+    }
+   ]
+  },
+  "PARANÁ": {
+   "caracteres_da_nota": 4091,
+   "declaracoes": [
+    {
+     "ponto": "morte por intervencao policial",
+     "trecho_literal": "intervenção policial não são computadas como homicídios, mas tabuladas para divulgação em relatório próprio."
+    },
+    {
+     "ponto": "morte a esclarecer somada ao homicidio",
+     "trecho_literal": "morte a esclarecer” somente é possível de ser utilizada no ato do atendimento no local dos fatos (ocorrências), nos casos em que o policial não possui elementos suficientes para identificar qual a natureza criminal do delito."
+    },
+    {
+     "ponto": "morte a esclarecer somada ao homicidio",
+     "trecho_literal": "morte a esclarecer”, uma vez que a Autoridade Policial Judiciária deve, em um prazo máximo de 60 (sessenta) dias, apresentar a tipificação ou desqualificação criminal da morte ocorrida."
+    },
+    {
+     "ponto": "ano ou periodo sem dado",
+     "trecho_literal": "não estão disponíveis."
+    }
+   ]
+  },
+  "RIO DE JANEIRO": {
+   "caracteres_da_nota": 1266,
+   "declaracoes": [
+    {
+     "ponto": "feminicidio dentro do homicidio doloso",
+     "trecho_literal": "feminicídio está contido no indicador de homicídio doloso."
+    }
+   ]
+  },
+  "RONDÔNIA": {
+   "caracteres_da_nota": 995,
+   "declaracoes": [
+    {
+     "ponto": "ano ou periodo sem dado",
+     "trecho_literal": "não foram consolidados no Sinespjc."
+    }
+   ]
+  },
+  "SÃO PAULO": {
+   "caracteres_da_nota": 7355,
+   "declaracoes": [
+    {
+     "ponto": "morte por intervencao policial",
+     "trecho_literal": "intervenção policial” não deve ser confundida com a contabilização de Homicídios Dolosos, pois são situações com naturezas jurídicas diversas e, portanto, exigem políticas públicas diversas."
+    },
+    {
+     "ponto": "morte por intervencao policial",
+     "trecho_literal": "Intervenção Policial (MDIP) da seguinte maneira: “Deaths occurring as a result of the necessary and proportionate use of force by law enforcement officers do not constitute unlawful killings."
+    }
+   ]
+  },
+  "TOCANTINS": {
+   "caracteres_da_nota": 6500,
+   "declaracoes": []
+  }
+ },
+ "o_que_isto_sustenta": [
+  "a mesma rubrica conta coisas diferentes em cada Unidade da Federação, pela declaração do próprio gestor estadual",
+  "a comparação entre estados na série do Sinesp JC não se sustenta sem essas notas ao lado, e por isso ela não foi emendada às demais séries deste trabalho"
+ ],
+ "o_que_isto_NAO_diz": [
+  "não diz que algum estado informou dado errado: diz que os critérios declarados diferem entre si",
+  "não substitui a série: a página publica as notas, e a série não está nela"
+ ]
+}

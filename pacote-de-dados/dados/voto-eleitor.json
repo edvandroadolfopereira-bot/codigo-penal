@@ -1,0 +1,780 @@
+{
+ "gerado_por": "apurar_voto_eleitor.py",
+ "semente": 20260922,
+ "sorteios": 200000,
+ "etapa_1_variacao_no_texto_principal": {
+  "54": {
+   "votacoes_texto_principal": 1,
+   "partidos": {
+    "DEM": {
+     "sim": 2,
+     "nao": 24,
+     "pct_sim": 7.7
+    },
+    "PCdoB": {
+     "sim": 7,
+     "nao": 6,
+     "pct_sim": 53.8
+    },
+    "PDT": {
+     "sim": 17,
+     "nao": 4,
+     "pct_sim": 81.0
+    },
+    "PHS": {
+     "sim": 2,
+     "nao": 0,
+     "pct_sim": 100.0
+    },
+    "PMDB": {
+     "sim": 50,
+     "nao": 3,
+     "pct_sim": 94.3
+    },
+    "PMN": {
+     "sim": 3,
+     "nao": 1,
+     "pct_sim": 75.0
+    },
+    "PP": {
+     "sim": 16,
+     "nao": 1,
+     "pct_sim": 94.1
+    },
+    "PPS": {
+     "sim": 3,
+     "nao": 7,
+     "pct_sim": 30.0
+    },
+    "PR": {
+     "sim": 23,
+     "nao": 3,
+     "pct_sim": 88.5
+    },
+    "PRB": {
+     "sim": 9,
+     "nao": 1,
+     "pct_sim": 90.0
+    },
+    "PRP": {
+     "sim": 1,
+     "nao": 0,
+     "pct_sim": 100.0
+    },
+    "PRTB": {
+     "sim": 1,
+     "nao": 0,
+     "pct_sim": 100.0
+    },
+    "PSB": {
+     "sim": 16,
+     "nao": 7,
+     "pct_sim": 69.6
+    },
+    "PSC": {
+     "sim": 9,
+     "nao": 6,
+     "pct_sim": 60.0
+    },
+    "PSDB": {
+     "sim": 1,
+     "nao": 36,
+     "pct_sim": 2.7
+    },
+    "PSL": {
+     "sim": 2,
+     "nao": 0,
+     "pct_sim": 100.0
+    },
+    "PSOL": {
+     "sim": 0,
+     "nao": 3,
+     "pct_sim": 0.0
+    },
+    "PT": {
+     "sim": 59,
+     "nao": 4,
+     "pct_sim": 93.7
+    },
+    "PTB": {
+     "sim": 10,
+     "nao": 4,
+     "pct_sim": 71.4
+    },
+    "PTdoB": {
+     "sim": 1,
+     "nao": 0,
+     "pct_sim": 100.0
+    },
+    "PV": {
+     "sim": 8,
+     "nao": 2,
+     "pct_sim": 80.0
+    }
+   },
+   "partidos_com_algum_nao": 16,
+   "menor_pct_sim": 0.0,
+   "maior_pct_sim": 100.0
+  },
+  "56": {
+   "votacoes_texto_principal": 1,
+   "partidos": {
+    "AVANTE": {
+     "sim": 5,
+     "nao": 0,
+     "pct_sim": 100.0
+    },
+    "CIDADANIA": {
+     "sim": 6,
+     "nao": 0,
+     "pct_sim": 100.0
+    },
+    "DEM": {
+     "sim": 19,
+     "nao": 1,
+     "pct_sim": 95.0
+    },
+    "MDB": {
+     "sim": 24,
+     "nao": 0,
+     "pct_sim": 100.0
+    },
+    "NOVO": {
+     "sim": 0,
+     "nao": 7,
+     "pct_sim": 0.0
+    },
+    "PATRIOTA": {
+     "sim": 2,
+     "nao": 1,
+     "pct_sim": 66.7
+    },
+    "PCdoB": {
+     "sim": 6,
+     "nao": 0,
+     "pct_sim": 100.0
+    },
+    "PDT": {
+     "sim": 20,
+     "nao": 0,
+     "pct_sim": 100.0
+    },
+    "PL": {
+     "sim": 33,
+     "nao": 0,
+     "pct_sim": 100.0
+    },
+    "PODE": {
+     "sim": 6,
+     "nao": 1,
+     "pct_sim": 85.7
+    },
+    "PP": {
+     "sim": 30,
+     "nao": 0,
+     "pct_sim": 100.0
+    },
+    "PROS": {
+     "sim": 6,
+     "nao": 0,
+     "pct_sim": 100.0
+    },
+    "PSB": {
+     "sim": 25,
+     "nao": 0,
+     "pct_sim": 100.0
+    },
+    "PSC": {
+     "sim": 7,
+     "nao": 1,
+     "pct_sim": 87.5
+    },
+    "PSD": {
+     "sim": 24,
+     "nao": 1,
+     "pct_sim": 96.0
+    },
+    "PSDB": {
+     "sim": 19,
+     "nao": 0,
+     "pct_sim": 100.0
+    },
+    "PSL": {
+     "sim": 36,
+     "nao": 5,
+     "pct_sim": 87.8
+    },
+    "PSOL": {
+     "sim": 7,
+     "nao": 0,
+     "pct_sim": 100.0
+    },
+    "PT": {
+     "sim": 39,
+     "nao": 0,
+     "pct_sim": 100.0
+    },
+    "PTB": {
+     "sim": 7,
+     "nao": 0,
+     "pct_sim": 100.0
+    },
+    "PV": {
+     "sim": 4,
+     "nao": 0,
+     "pct_sim": 100.0
+    },
+    "REDE": {
+     "sim": 1,
+     "nao": 0,
+     "pct_sim": 100.0
+    },
+    "REPUBLICANOS": {
+     "sim": 25,
+     "nao": 0,
+     "pct_sim": 100.0
+    },
+    "SOLIDARIEDADE": {
+     "sim": 7,
+     "nao": 0,
+     "pct_sim": 100.0
+    }
+   },
+   "partidos_com_algum_nao": 7,
+   "menor_pct_sim": 0.0,
+   "maior_pct_sim": 100.0
+  },
+  "57": {
+   "votacoes_texto_principal": 2,
+   "partidos": {
+    "AVANTE": {
+     "sim": 7,
+     "nao": 3,
+     "pct_sim": 70.0
+    },
+    "CIDADANIA": {
+     "sim": 7,
+     "nao": 0,
+     "pct_sim": 100.0
+    },
+    "MDB": {
+     "sim": 64,
+     "nao": 3,
+     "pct_sim": 95.5
+    },
+    "NOVO": {
+     "sim": 8,
+     "nao": 0,
+     "pct_sim": 100.0
+    },
+    "PATRIOTA": {
+     "sim": 4,
+     "nao": 0,
+     "pct_sim": 100.0
+    },
+    "PCdoB": {
+     "sim": 1,
+     "nao": 14,
+     "pct_sim": 6.7
+    },
+    "PDT": {
+     "sim": 25,
+     "nao": 5,
+     "pct_sim": 83.3
+    },
+    "PL": {
+     "sim": 160,
+     "nao": 2,
+     "pct_sim": 98.8
+    },
+    "PODE": {
+     "sim": 20,
+     "nao": 2,
+     "pct_sim": 90.9
+    },
+    "PP": {
+     "sim": 78,
+     "nao": 1,
+     "pct_sim": 98.7
+    },
+    "PRD": {
+     "sim": 5,
+     "nao": 0,
+     "pct_sim": 100.0
+    },
+    "PSB": {
+     "sim": 9,
+     "nao": 16,
+     "pct_sim": 36.0
+    },
+    "PSD": {
+     "sim": 63,
+     "nao": 1,
+     "pct_sim": 98.4
+    },
+    "PSDB": {
+     "sim": 20,
+     "nao": 2,
+     "pct_sim": 90.9
+    },
+    "PSOL": {
+     "sim": 0,
+     "nao": 23,
+     "pct_sim": 0.0
+    },
+    "PT": {
+     "sim": 0,
+     "nao": 113,
+     "pct_sim": 0.0
+    },
+    "PV": {
+     "sim": 2,
+     "nao": 5,
+     "pct_sim": 28.6
+    },
+    "REDE": {
+     "sim": 1,
+     "nao": 2,
+     "pct_sim": 33.3
+    },
+    "REPUBLICANOS": {
+     "sim": 68,
+     "nao": 1,
+     "pct_sim": 98.6
+    },
+    "S.PART.": {
+     "sim": 1,
+     "nao": 0,
+     "pct_sim": 100.0
+    },
+    "SOLIDARIEDADE": {
+     "sim": 6,
+     "nao": 2,
+     "pct_sim": 75.0
+    },
+    "UNIÃO": {
+     "sim": 90,
+     "nao": 2,
+     "pct_sim": 97.8
+    }
+   },
+   "partidos_com_algum_nao": 17,
+   "menor_pct_sim": 0.0,
+   "maior_pct_sim": 100.0
+  }
+ },
+ "etapa_2_cadeiras": {
+  "2010": {
+   "PRP": 2,
+   "DEM": 43,
+   "PC do B": 15,
+   "PSB": 35,
+   "PT": 86,
+   "PV": 13,
+   "PSC": 17,
+   "PR": 41,
+   "PMDB": 78,
+   "PTB": 22,
+   "PP": 44,
+   "PDT": 27,
+   "PPS": 12,
+   "PSDB": 54,
+   "PRB": 8,
+   "PMN": 4,
+   "PSOL": 3,
+   "PT do B": 3,
+   "PTC": 1,
+   "PHS": 2,
+   "PRTB": 2,
+   "PSL": 1
+  },
+  "2014": {
+   "PR": 34,
+   "PSDB": 54,
+   "PSB": 34,
+   "PTB": 25,
+   "PMDB": 65,
+   "PSD": 36,
+   "PP": 38,
+   "PSOL": 5,
+   "PRB": 21,
+   "SD": 15,
+   "PMN": 3,
+   "PRP": 3,
+   "PT": 69,
+   "PROS": 11,
+   "DEM": 21,
+   "PDT": 20,
+   "PHS": 5,
+   "PV": 8,
+   "PPS": 10,
+   "PC do B": 10,
+   "PSC": 13,
+   "PRTB": 1,
+   "PSDC": 2,
+   "PATRIOTA": 2,
+   "PTC": 2,
+   "PT do B": 1,
+   "PSL": 1,
+   "PTN": 4
+  },
+  "2018": {
+   "PTB": 10,
+   "PATRIOTA": 5,
+   "PC do B": 9,
+   "PRB": 29,
+   "SOLIDARIEDADE": 13,
+   "PDT": 28,
+   "DEM": 29,
+   "PSB": 32,
+   "PR": 33,
+   "PPS": 8,
+   "PT": 56,
+   "AVANTE": 7,
+   "PROS": 8,
+   "PP": 37,
+   "PODE": 11,
+   "NOVO": 8,
+   "PSL": 52,
+   "PV": 4,
+   "PSDB": 30,
+   "PSD": 35,
+   "MDB": 34,
+   "PMN": 3,
+   "PHS": 6,
+   "PSOL": 10,
+   "PRP": 4,
+   "PSC": 7,
+   "PTC": 2,
+   "DC": 1,
+   "REDE": 1,
+   "PPL": 1
+  },
+  "2022": {
+   "PODE": 14,
+   "PSB": 15,
+   "PSD": 42,
+   "PROS": 3,
+   "PP": 47,
+   "REPUBLICANOS": 41,
+   "UNIÃO": 57,
+   "PT": 68,
+   "PL": 98,
+   "PATRIOTA": 4,
+   "PSDB": 13,
+   "PSC": 6,
+   "PC do B": 7,
+   "MDB": 41,
+   "CIDADANIA": 5,
+   "REDE": 2,
+   "PDT": 16,
+   "PTB": 1,
+   "PSOL": 13,
+   "SOLIDARIEDADE": 4,
+   "AVANTE": 7,
+   "NOVO": 3,
+   "PV": 6
+  }
+ },
+ "etapa_3_teste": {
+  "54": {
+   "eleicao_de_partida": 2010,
+   "eleicao_seguinte": 2014,
+   "n_partidos": 14,
+   "spearman_sim_x_variacao_de_cadeiras": 0.18921903639263982,
+   "p_permutacao_bicaudal": 0.5154,
+   "fora_do_teste": [
+    "PHS",
+    "PRP"
+   ],
+   "partidos": [
+    {
+     "partido": "MDB",
+     "pct_sim": 94.3,
+     "votos": 53,
+     "cadeiras_antes": 78,
+     "cadeiras_depois": 65,
+     "variacao_pct": -16.7
+    },
+    {
+     "partido": "PROGRE",
+     "pct_sim": 94.1,
+     "votos": 17,
+     "cadeiras_antes": 44,
+     "cadeiras_depois": 38,
+     "variacao_pct": -13.6
+    },
+    {
+     "partido": "PT",
+     "pct_sim": 93.7,
+     "votos": 63,
+     "cadeiras_antes": 86,
+     "cadeiras_depois": 69,
+     "variacao_pct": -19.8
+    },
+    {
+     "partido": "REP",
+     "pct_sim": 90.0,
+     "votos": 10,
+     "cadeiras_antes": 8,
+     "cadeiras_depois": 21,
+     "variacao_pct": 162.5
+    },
+    {
+     "partido": "PL",
+     "pct_sim": 88.5,
+     "votos": 26,
+     "cadeiras_antes": 41,
+     "cadeiras_depois": 34,
+     "variacao_pct": -17.1
+    },
+    {
+     "partido": "PDT",
+     "pct_sim": 81.0,
+     "votos": 21,
+     "cadeiras_antes": 27,
+     "cadeiras_depois": 20,
+     "variacao_pct": -25.9
+    },
+    {
+     "partido": "PV",
+     "pct_sim": 80.0,
+     "votos": 10,
+     "cadeiras_antes": 13,
+     "cadeiras_depois": 8,
+     "variacao_pct": -38.5
+    },
+    {
+     "partido": "PTB",
+     "pct_sim": 71.4,
+     "votos": 14,
+     "cadeiras_antes": 22,
+     "cadeiras_depois": 25,
+     "variacao_pct": 13.6
+    },
+    {
+     "partido": "PSB",
+     "pct_sim": 69.6,
+     "votos": 23,
+     "cadeiras_antes": 35,
+     "cadeiras_depois": 34,
+     "variacao_pct": -2.9
+    },
+    {
+     "partido": "PSC",
+     "pct_sim": 60.0,
+     "votos": 15,
+     "cadeiras_antes": 17,
+     "cadeiras_depois": 13,
+     "variacao_pct": -23.5
+    },
+    {
+     "partido": "PCdoB",
+     "pct_sim": 53.8,
+     "votos": 13,
+     "cadeiras_antes": 15,
+     "cadeiras_depois": 10,
+     "variacao_pct": -33.3
+    },
+    {
+     "partido": "CDD",
+     "pct_sim": 30.0,
+     "votos": 10,
+     "cadeiras_antes": 12,
+     "cadeiras_depois": 10,
+     "variacao_pct": -16.7
+    },
+    {
+     "partido": "UNIAO",
+     "pct_sim": 14.3,
+     "votos": 28,
+     "cadeiras_antes": 44,
+     "cadeiras_depois": 22,
+     "variacao_pct": -50.0
+    },
+    {
+     "partido": "PSDB",
+     "pct_sim": 2.7,
+     "votos": 37,
+     "cadeiras_antes": 54,
+     "cadeiras_depois": 54,
+     "variacao_pct": 0.0
+    }
+   ]
+  },
+  "56": {
+   "eleicao_de_partida": 2018,
+   "eleicao_seguinte": 2022,
+   "n_partidos": 20,
+   "spearman_sim_x_variacao_de_cadeiras": 0.0019770704389438605,
+   "p_permutacao_bicaudal": 0.9958,
+   "fora_do_teste": [
+    "PHS",
+    "PPL",
+    "PRP"
+   ],
+   "partidos": [
+    {
+     "partido": "AVANTE",
+     "pct_sim": 100.0,
+     "votos": 5,
+     "cadeiras_antes": 7,
+     "cadeiras_depois": 7,
+     "variacao_pct": 0.0
+    },
+    {
+     "partido": "CDD",
+     "pct_sim": 100.0,
+     "votos": 6,
+     "cadeiras_antes": 8,
+     "cadeiras_depois": 5,
+     "variacao_pct": -37.5
+    },
+    {
+     "partido": "MDB",
+     "pct_sim": 100.0,
+     "votos": 24,
+     "cadeiras_antes": 34,
+     "cadeiras_depois": 41,
+     "variacao_pct": 20.6
+    },
+    {
+     "partido": "PCdoB",
+     "pct_sim": 100.0,
+     "votos": 6,
+     "cadeiras_antes": 9,
+     "cadeiras_depois": 7,
+     "variacao_pct": -22.2
+    },
+    {
+     "partido": "PDT",
+     "pct_sim": 100.0,
+     "votos": 20,
+     "cadeiras_antes": 28,
+     "cadeiras_depois": 16,
+     "variacao_pct": -42.9
+    },
+    {
+     "partido": "PL",
+     "pct_sim": 100.0,
+     "votos": 33,
+     "cadeiras_antes": 33,
+     "cadeiras_depois": 98,
+     "variacao_pct": 197.0
+    },
+    {
+     "partido": "PROGRE",
+     "pct_sim": 100.0,
+     "votos": 30,
+     "cadeiras_antes": 37,
+     "cadeiras_depois": 47,
+     "variacao_pct": 27.0
+    },
+    {
+     "partido": "PROS",
+     "pct_sim": 100.0,
+     "votos": 6,
+     "cadeiras_antes": 8,
+     "cadeiras_depois": 3,
+     "variacao_pct": -62.5
+    },
+    {
+     "partido": "PSB",
+     "pct_sim": 100.0,
+     "votos": 25,
+     "cadeiras_antes": 32,
+     "cadeiras_depois": 15,
+     "variacao_pct": -53.1
+    },
+    {
+     "partido": "PSDB",
+     "pct_sim": 100.0,
+     "votos": 19,
+     "cadeiras_antes": 30,
+     "cadeiras_depois": 13,
+     "variacao_pct": -56.7
+    },
+    {
+     "partido": "PSOL",
+     "pct_sim": 100.0,
+     "votos": 7,
+     "cadeiras_antes": 10,
+     "cadeiras_depois": 13,
+     "variacao_pct": 30.0
+    },
+    {
+     "partido": "PT",
+     "pct_sim": 100.0,
+     "votos": 39,
+     "cadeiras_antes": 56,
+     "cadeiras_depois": 68,
+     "variacao_pct": 21.4
+    },
+    {
+     "partido": "PTB",
+     "pct_sim": 100.0,
+     "votos": 7,
+     "cadeiras_antes": 10,
+     "cadeiras_depois": 1,
+     "variacao_pct": -90.0
+    },
+    {
+     "partido": "REP",
+     "pct_sim": 100.0,
+     "votos": 25,
+     "cadeiras_antes": 29,
+     "cadeiras_depois": 41,
+     "variacao_pct": 41.4
+    },
+    {
+     "partido": "SDD",
+     "pct_sim": 100.0,
+     "votos": 7,
+     "cadeiras_antes": 13,
+     "cadeiras_depois": 4,
+     "variacao_pct": -69.2
+    },
+    {
+     "partido": "PSD",
+     "pct_sim": 96.0,
+     "votos": 25,
+     "cadeiras_antes": 35,
+     "cadeiras_depois": 42,
+     "variacao_pct": 20.0
+    },
+    {
+     "partido": "UNIAO",
+     "pct_sim": 90.2,
+     "votos": 61,
+     "cadeiras_antes": 81,
+     "cadeiras_depois": 57,
+     "variacao_pct": -29.6
+    },
+    {
+     "partido": "PSC",
+     "pct_sim": 87.5,
+     "votos": 8,
+     "cadeiras_antes": 7,
+     "cadeiras_depois": 6,
+     "variacao_pct": -14.3
+    },
+    {
+     "partido": "PODE",
+     "pct_sim": 85.7,
+     "votos": 7,
+     "cadeiras_antes": 11,
+     "cadeiras_depois": 14,
+     "variacao_pct": 27.3
+    },
+    {
+     "partido": "NOVO",
+     "pct_sim": 0.0,
+     "votos": 7,
+     "cadeiras_antes": 8,
+     "cadeiras_depois": 3,
+     "variacao_pct": -62.5
+    }
+   ]
+  }
+ }
+}

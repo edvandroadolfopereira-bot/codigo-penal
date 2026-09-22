@@ -1,0 +1,568 @@
+{
+ "gerado_por": "apurar_ideologia_partidos.py",
+ "fontes": {
+  "A": "https://www.scielo.br/j/dados/a/zzyM3gzHD4P45WWdytXjZWg/?lang=pt",
+  "B": "https://www.scielo.br/j/op/a/hv8GBg9hfCCZLwcWktfYhtC/?lang=pt"
+ },
+ "escala": "0 (esquerda) a 10 (direita), media das respostas de especialistas",
+ "cortes": [
+  {
+   "ate": 1.5,
+   "categoria": "extrema esquerda"
+  },
+  {
+   "ate": 3.0,
+   "categoria": "esquerda"
+  },
+  {
+   "ate": 4.49,
+   "categoria": "centro-esquerda"
+  },
+  {
+   "ate": 5.5,
+   "categoria": "centro"
+  },
+  {
+   "ate": 7.0,
+   "categoria": "centro-direita"
+  },
+  {
+   "ate": 8.5,
+   "categoria": "direita"
+  },
+  {
+   "ate": 10.0,
+   "categoria": "extrema direita"
+  }
+ ],
+ "onda_2018_fonte_A": {
+  "PSTU": {
+   "media": 0.51,
+   "mediana": 0.0,
+   "moda": 0.0,
+   "desvio_padrao": 1.13,
+   "n": 514,
+   "coef_variacao": 220.23,
+   "categoria_pelos_cortes": "extrema esquerda"
+  },
+  "PCO": {
+   "media": 0.61,
+   "mediana": 0.0,
+   "moda": 0.0,
+   "desvio_padrao": 1.19,
+   "n": 509,
+   "coef_variacao": 196.03,
+   "categoria_pelos_cortes": "extrema esquerda"
+  },
+  "PCB": {
+   "media": 0.91,
+   "mediana": 0.9,
+   "moda": 0.0,
+   "desvio_padrao": 1.27,
+   "n": 512,
+   "coef_variacao": 139.91,
+   "categoria_pelos_cortes": "extrema esquerda"
+  },
+  "PSOL": {
+   "media": 1.28,
+   "mediana": 1.0,
+   "moda": 1.0,
+   "desvio_padrao": 1.18,
+   "n": 513,
+   "coef_variacao": 92.45,
+   "categoria_pelos_cortes": "extrema esquerda"
+  },
+  "PCdoB": {
+   "media": 1.92,
+   "mediana": 2.0,
+   "moda": 2.0,
+   "desvio_padrao": 1.5,
+   "n": 512,
+   "coef_variacao": 78.26,
+   "categoria_pelos_cortes": "esquerda"
+  },
+  "PT": {
+   "media": 2.97,
+   "mediana": 3.0,
+   "moda": 3.0,
+   "desvio_padrao": 1.34,
+   "n": 504,
+   "coef_variacao": 44.99,
+   "categoria_pelos_cortes": "esquerda"
+  },
+  "PDT": {
+   "media": 3.92,
+   "mediana": 4.0,
+   "moda": 4.0,
+   "desvio_padrao": 1.48,
+   "n": 483,
+   "coef_variacao": 37.84,
+   "categoria_pelos_cortes": "centro-esquerda"
+  },
+  "PSB": {
+   "media": 4.05,
+   "mediana": 4.0,
+   "moda": 4.0,
+   "desvio_padrao": 1.59,
+   "n": 468,
+   "coef_variacao": 39.33,
+   "categoria_pelos_cortes": "centro-esquerda"
+  },
+  "Rede": {
+   "media": 4.77,
+   "mediana": 4.0,
+   "moda": 4.0,
+   "desvio_padrao": 1.72,
+   "n": 451,
+   "coef_variacao": 35.99,
+   "categoria_pelos_cortes": "centro"
+  },
+  "PPS": {
+   "media": 4.92,
+   "mediana": 5.0,
+   "moda": 4.0,
+   "desvio_padrao": 2.36,
+   "n": 472,
+   "coef_variacao": 47.83,
+   "categoria_pelos_cortes": "centro"
+  },
+  "PV": {
+   "media": 5.29,
+   "mediana": 5.0,
+   "moda": 6.0,
+   "desvio_padrao": 1.79,
+   "n": 435,
+   "coef_variacao": 33.83,
+   "categoria_pelos_cortes": "centro"
+  },
+  "PTB": {
+   "media": 6.1,
+   "mediana": 6.0,
+   "moda": 7.0,
+   "desvio_padrao": 2.18,
+   "n": 481,
+   "coef_variacao": 35.74,
+   "categoria_pelos_cortes": "centro-direita"
+  },
+  "Avante": {
+   "media": 6.32,
+   "mediana": 6.0,
+   "moda": 6.0,
+   "desvio_padrao": 2.27,
+   "n": 451,
+   "coef_variacao": 35.88,
+   "categoria_pelos_cortes": "centro-direita"
+  },
+  "SDD": {
+   "media": 6.5,
+   "mediana": 7.0,
+   "moda": 6.0,
+   "desvio_padrao": 1.98,
+   "n": 469,
+   "coef_variacao": 30.51,
+   "categoria_pelos_cortes": "centro-direita"
+  },
+  "PMN": {
+   "media": 6.88,
+   "mediana": 7.0,
+   "moda": 7.0,
+   "desvio_padrao": 2.1,
+   "n": 444,
+   "coef_variacao": 30.48,
+   "categoria_pelos_cortes": "centro-direita"
+  },
+  "PMB": {
+   "media": 6.9,
+   "mediana": 7.0,
+   "moda": 7.0,
+   "desvio_padrao": 2.03,
+   "n": 431,
+   "coef_variacao": 29.46,
+   "categoria_pelos_cortes": "centro-direita"
+  },
+  "PHS": {
+   "media": 6.96,
+   "mediana": 7.0,
+   "moda": 7.0,
+   "desvio_padrao": 1.94,
+   "n": 443,
+   "coef_variacao": 27.82,
+   "categoria_pelos_cortes": "centro-direita"
+  },
+  "MDB": {
+   "media": 7.01,
+   "mediana": 7.0,
+   "moda": 6.0,
+   "desvio_padrao": 1.66,
+   "n": 453,
+   "coef_variacao": 23.71,
+   "categoria_pelos_cortes": "direita"
+  },
+  "PSD": {
+   "media": 7.09,
+   "mediana": 7.0,
+   "moda": 6.0,
+   "desvio_padrao": 1.72,
+   "n": 479,
+   "coef_variacao": 24.22,
+   "categoria_pelos_cortes": "direita"
+  },
+  "PSDB": {
+   "media": 7.11,
+   "mediana": 7.0,
+   "moda": 6.0,
+   "desvio_padrao": 1.69,
+   "n": 496,
+   "coef_variacao": 23.81,
+   "categoria_pelos_cortes": "direita"
+  },
+  "Podemos": {
+   "media": 7.24,
+   "mediana": 7.0,
+   "moda": 8.0,
+   "desvio_padrao": 1.76,
+   "n": 469,
+   "coef_variacao": 24.27,
+   "categoria_pelos_cortes": "direita"
+  },
+  "PPL": {
+   "media": 7.27,
+   "mediana": 8.0,
+   "moda": 10.0,
+   "desvio_padrao": 2.68,
+   "n": 465,
+   "coef_variacao": 36.87,
+   "categoria_pelos_cortes": "direita"
+  },
+  "PRTB": {
+   "media": 7.45,
+   "mediana": 8.0,
+   "moda": 7.0,
+   "desvio_padrao": 1.98,
+   "n": 462,
+   "coef_variacao": 26.52,
+   "categoria_pelos_cortes": "direita"
+  },
+  "Pros": {
+   "media": 7.47,
+   "mediana": 7.0,
+   "moda": 8.0,
+   "desvio_padrao": 1.58,
+   "n": 472,
+   "coef_variacao": 24.47,
+   "categoria_pelos_cortes": "direita"
+  },
+  "PRP": {
+   "media": 7.59,
+   "mediana": 7.0,
+   "moda": 7.0,
+   "desvio_padrao": 1.57,
+   "n": 472,
+   "coef_variacao": 20.66,
+   "categoria_pelos_cortes": "direita"
+  },
+  "PRB": {
+   "media": 7.78,
+   "mediana": 8.0,
+   "moda": 8.0,
+   "desvio_padrao": 1.48,
+   "n": 495,
+   "coef_variacao": 19.97,
+   "categoria_pelos_cortes": "direita"
+  },
+  "PR": {
+   "media": 7.78,
+   "mediana": 8.0,
+   "moda": 8.0,
+   "desvio_padrao": 1.53,
+   "n": 488,
+   "coef_variacao": 19.61,
+   "categoria_pelos_cortes": "direita"
+  },
+  "PTC": {
+   "media": 7.86,
+   "mediana": 8.0,
+   "moda": 8.0,
+   "desvio_padrao": 1.65,
+   "n": 480,
+   "coef_variacao": 20.97,
+   "categoria_pelos_cortes": "direita"
+  },
+  "DC": {
+   "media": 8.11,
+   "mediana": 8.0,
+   "moda": 8.0,
+   "desvio_padrao": 1.55,
+   "n": 503,
+   "coef_variacao": 19.09,
+   "categoria_pelos_cortes": "direita"
+  },
+  "PSL": {
+   "media": 8.11,
+   "mediana": 8.0,
+   "moda": 10.0,
+   "desvio_padrao": 1.69,
+   "n": 489,
+   "coef_variacao": 20.79,
+   "categoria_pelos_cortes": "direita"
+  },
+  "Novo": {
+   "media": 8.13,
+   "mediana": 8.0,
+   "moda": 10.0,
+   "desvio_padrao": 1.72,
+   "n": 474,
+   "coef_variacao": 21.17,
+   "categoria_pelos_cortes": "direita"
+  },
+  "Progressistas": {
+   "media": 8.2,
+   "mediana": 8.0,
+   "moda": 8.0,
+   "desvio_padrao": 1.53,
+   "n": 496,
+   "coef_variacao": 18.69,
+   "categoria_pelos_cortes": "direita"
+  },
+  "PSC": {
+   "media": 8.33,
+   "mediana": 8.0,
+   "moda": 10.0,
+   "desvio_padrao": 1.52,
+   "n": 505,
+   "coef_variacao": 18.23,
+   "categoria_pelos_cortes": "direita"
+  },
+  "Patriota": {
+   "media": 8.55,
+   "mediana": 9.0,
+   "moda": 10.0,
+   "desvio_padrao": 1.58,
+   "n": 490,
+   "coef_variacao": 18.54,
+   "categoria_pelos_cortes": "extrema direita"
+  },
+  "DEM": {
+   "media": 8.57,
+   "mediana": 9.0,
+   "moda": 10.0,
+   "desvio_padrao": 1.4,
+   "n": 511,
+   "coef_variacao": 16.31,
+   "categoria_pelos_cortes": "extrema direita"
+  }
+ },
+ "ondas_2018_2022_fonte_B": {
+  "PSTU": {
+   "media_2018": 0.51,
+   "media_2022": 0.51,
+   "media_ponderada": 0.525,
+   "categoria_publicada": "extrema esquerda"
+  },
+  "PCO": {
+   "media_2018": 0.61,
+   "media_2022": 0.55,
+   "media_ponderada": 0.566,
+   "categoria_publicada": "extrema esquerda"
+  },
+  "PCB": {
+   "media_2018": 0.91,
+   "media_2022": 0.69,
+   "media_ponderada": 0.711,
+   "categoria_publicada": "extrema esquerda"
+  },
+  "PSOL": {
+   "media_2018": 1.28,
+   "media_2022": 1.41,
+   "media_ponderada": 1.453,
+   "categoria_publicada": "extrema esquerda"
+  },
+  "UP": {
+   "media_2018": null,
+   "media_2022": 1.63,
+   "media_ponderada": 1.679,
+   "categoria_publicada": "esquerda"
+  },
+  "PCdoB": {
+   "media_2018": 4.6,
+   "media_2022": 1.78,
+   "media_ponderada": 1.834,
+   "categoria_publicada": "esquerda"
+  },
+  "PT": {
+   "media_2018": 2.97,
+   "media_2022": 2.68,
+   "media_ponderada": 2.761,
+   "categoria_publicada": "esquerda"
+  },
+  "PSB": {
+   "media_2018": 4.05,
+   "media_2022": 3.59,
+   "media_ponderada": 3.699,
+   "categoria_publicada": "centro-esquerda"
+  },
+  "REDE": {
+   "media_2018": 4.77,
+   "media_2022": 3.69,
+   "media_ponderada": 3.802,
+   "categoria_publicada": "centro-esquerda"
+  },
+  "PDT": {
+   "media_2018": 3.93,
+   "media_2022": 3.86,
+   "media_ponderada": 3.977,
+   "categoria_publicada": "centro-esquerda"
+  },
+  "PV": {
+   "media_2018": 5.29,
+   "media_2022": 4.12,
+   "media_ponderada": 4.245,
+   "categoria_publicada": "centro-esquerda"
+  },
+  "SDD": {
+   "media_2018": 6.5,
+   "media_2022": 6.01,
+   "media_ponderada": 6.193,
+   "categoria_publicada": "centro-direita"
+  },
+  "CDD": {
+   "media_2018": 4.93,
+   "media_2022": 6.17,
+   "media_ponderada": 6.358,
+   "categoria_publicada": "centro-direita"
+  },
+  "AVANTE": {
+   "media_2018": 6.32,
+   "media_2022": 6.47,
+   "media_ponderada": 6.667,
+   "categoria_publicada": "centro-direita"
+  },
+  "MDB": {
+   "media_2018": 7.02,
+   "media_2022": 6.5,
+   "media_ponderada": 6.698,
+   "categoria_publicada": "centro-direita"
+  },
+  "PMN": {
+   "media_2018": 6.88,
+   "media_2022": 6.74,
+   "media_ponderada": 6.945,
+   "categoria_publicada": "centro-direita"
+  },
+  "PSDB": {
+   "media_2018": 7.11,
+   "media_2022": 6.76,
+   "media_ponderada": 6.966,
+   "categoria_publicada": "centro-direita"
+  },
+  "PSD": {
+   "media_2018": 7.09,
+   "media_2022": 6.94,
+   "media_ponderada": 7.151,
+   "categoria_publicada": "direita"
+  },
+  "PMB": {
+   "media_2018": 6.9,
+   "media_2022": 7.29,
+   "media_ponderada": 7.512,
+   "categoria_publicada": "direita"
+  },
+  "PODE": {
+   "media_2018": 7.1,
+   "media_2022": 7.44,
+   "media_ponderada": 7.666,
+   "categoria_publicada": "direita"
+  },
+  "PROS": {
+   "media_2018": 7.47,
+   "media_2022": 7.45,
+   "media_ponderada": 7.677,
+   "categoria_publicada": "direita"
+  },
+  "PRTB": {
+   "media_2018": 7.45,
+   "media_2022": 7.49,
+   "media_ponderada": 7.718,
+   "categoria_publicada": "direita"
+  },
+  "AGIR": {
+   "media_2018": 7.86,
+   "media_2022": 7.55,
+   "media_ponderada": 7.78,
+   "categoria_publicada": "direita"
+  },
+  "PTB": {
+   "media_2018": 6.1,
+   "media_2022": 7.72,
+   "media_ponderada": 7.955,
+   "categoria_publicada": "direita"
+  },
+  "PROGRE": {
+   "media_2018": 8.2,
+   "media_2022": 8.15,
+   "media_ponderada": 8.398,
+   "categoria_publicada": "direita"
+  },
+  "DC": {
+   "media_2018": 8.11,
+   "media_2022": 8.21,
+   "media_ponderada": 8.46,
+   "categoria_publicada": "direita"
+  },
+  "REP": {
+   "media_2018": 7.78,
+   "media_2022": 8.33,
+   "media_ponderada": 8.584,
+   "categoria_publicada": "extrema direita"
+  },
+  "PSC": {
+   "media_2018": 8.33,
+   "media_2022": 8.41,
+   "media_ponderada": 8.666,
+   "categoria_publicada": "extrema direita"
+  },
+  "UNIAO": {
+   "media_2018": 8.34,
+   "media_2022": 8.49,
+   "media_ponderada": 8.749,
+   "categoria_publicada": "extrema direita"
+  },
+  "PATRI": {
+   "media_2018": 8.08,
+   "media_2022": 8.6,
+   "media_ponderada": 8.862,
+   "categoria_publicada": "extrema direita"
+  },
+  "NOVO": {
+   "media_2018": 8.13,
+   "media_2022": 8.67,
+   "media_ponderada": 8.934,
+   "categoria_publicada": "extrema direita"
+  },
+  "PL": {
+   "media_2018": 7.78,
+   "media_2022": 8.8,
+   "media_ponderada": 9.068,
+   "categoria_publicada": "extrema direita"
+  }
+ },
+ "divergencias_entre_as_fontes": [
+  {
+   "partido": "PCdoB",
+   "fonte_A_2018": 1.92,
+   "fonte_B_2018": 4.6
+  },
+  {
+   "partido": "Podemos",
+   "fonte_A_2018": 7.24,
+   "fonte_B_2018": 7.1
+  },
+  {
+   "partido": "Patriota",
+   "fonte_A_2018": 8.55,
+   "fonte_B_2018": 8.08
+  }
+ ],
+ "regra": "para 2018 prevalece a fonte A, publicacao original daquela onda",
+ "limite": "sem posicao para partidos nao avaliados em 2018 ou 2022, inclusive todos os de 1945 a 1979"
+}

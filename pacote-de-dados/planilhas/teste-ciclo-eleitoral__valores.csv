@@ -1,0 +1,425 @@
+chave;valor
+gerado_em;2026-08-29
+pergunta;O periodo eleitoral se associa a alteracao do Codigo Penal brasileiro entre 1940 e 2025?
+fonte_das_normas;legin_normas_classificadas da BASE-CODIGO-PENAL.sqlite, ficha da Legislacao Informatizada da Camara dos Deputados, 135 normas com data de publicacao no DOU
+fonte_do_calendario;Cronologia das eleicoes do Tribunal Superior Eleitoral, Secao de Arquivo, lida de calendario-eleitoral-1940-2026.csv
+zero_estrutural_excluido;[1940, 1941, 1942, 1943, 1944]
+por_que_o_zero_estrutural_sai;de 1940 a 1944 nao houve pleito POSSIVEL. Conta-los como 'ano sem eleicao' infla o denominador do grupo de comparacao com anos em que eleicao era juridicamente impossivel, e empurra a razao para baixo.
+testes.serie inteira, sem o ano em curso.PRESIDENCIAL DIRETA.recorte;1940 a 2025
+testes.serie inteira, sem o ano em curso.PRESIDENCIAL DIRETA.anos_no_recorte;81
+testes.serie inteira, sem o ano em curso.PRESIDENCIAL DIRETA.anos_excluidos_por_zero_estrutural;[1940, 1941, 1942, 1943, 1944]
+testes.serie inteira, sem o ano em curso.PRESIDENCIAL DIRETA.anos_COM_pleito;13
+testes.serie inteira, sem o ano em curso.PRESIDENCIAL DIRETA.anos_SEM_pleito;68
+testes.serie inteira, sem o ano em curso.PRESIDENCIAL DIRETA.normas_no_recorte;104
+testes.serie inteira, sem o ano em curso.PRESIDENCIAL DIRETA.examinavel;True
+testes.serie inteira, sem o ano em curso.PRESIDENCIAL DIRETA.normas_no_grupo;17
+testes.serie inteira, sem o ano em curso.PRESIDENCIAL DIRETA.normas_fora;87
+testes.serie inteira, sem o ano em curso.PRESIDENCIAL DIRETA.media_no_grupo;1.3077
+testes.serie inteira, sem o ano em curso.PRESIDENCIAL DIRETA.media_fora;1.2794
+testes.serie inteira, sem o ano em curso.PRESIDENCIAL DIRETA.razao;1.0221
+testes.serie inteira, sem o ano em curso.PRESIDENCIAL DIRETA.diferenca_observada;0.0283
+testes.serie inteira, sem o ano em curso.PRESIDENCIAL DIRETA.bloco_de_permutacao_anos;10
+testes.serie inteira, sem o ano em curso.PRESIDENCIAL DIRETA.sorteios;200000
+testes.serie inteira, sem o ano em curso.PRESIDENCIAL DIRETA.p_valor_bilateral;1.0
+testes.serie inteira, sem o ano em curso.PRESIDENCIAL DIRETA.anos_do_grupo;[1945, 1950, 1955, 1960, 1989, 1994, 1998, 2002, 2006, 2010, 2014, 2018, 2022]
+testes.serie inteira, sem o ano em curso.presidencial INDIRETA.recorte;1940 a 2025
+testes.serie inteira, sem o ano em curso.presidencial INDIRETA.anos_no_recorte;81
+testes.serie inteira, sem o ano em curso.presidencial INDIRETA.anos_excluidos_por_zero_estrutural;[1940, 1941, 1942, 1943, 1944]
+testes.serie inteira, sem o ano em curso.presidencial INDIRETA.anos_COM_pleito;6
+testes.serie inteira, sem o ano em curso.presidencial INDIRETA.anos_SEM_pleito;75
+testes.serie inteira, sem o ano em curso.presidencial INDIRETA.normas_no_recorte;104
+testes.serie inteira, sem o ano em curso.presidencial INDIRETA.examinavel;True
+testes.serie inteira, sem o ano em curso.presidencial INDIRETA.normas_no_grupo;1
+testes.serie inteira, sem o ano em curso.presidencial INDIRETA.normas_fora;103
+testes.serie inteira, sem o ano em curso.presidencial INDIRETA.media_no_grupo;0.1667
+testes.serie inteira, sem o ano em curso.presidencial INDIRETA.media_fora;1.3733
+testes.serie inteira, sem o ano em curso.presidencial INDIRETA.razao;0.1214
+testes.serie inteira, sem o ano em curso.presidencial INDIRETA.diferenca_observada;-1.2067
+testes.serie inteira, sem o ano em curso.presidencial INDIRETA.bloco_de_permutacao_anos;10
+testes.serie inteira, sem o ano em curso.presidencial INDIRETA.sorteios;200000
+testes.serie inteira, sem o ano em curso.presidencial INDIRETA.p_valor_bilateral;0.22346
+testes.serie inteira, sem o ano em curso.presidencial INDIRETA.anos_do_grupo;[1964, 1966, 1969, 1974, 1978, 1985]
+testes.serie inteira, sem o ano em curso.LEGISLATIVA FEDERAL direta.recorte;1940 a 2025
+testes.serie inteira, sem o ano em curso.LEGISLATIVA FEDERAL direta.anos_no_recorte;81
+testes.serie inteira, sem o ano em curso.LEGISLATIVA FEDERAL direta.anos_excluidos_por_zero_estrutural;[1940, 1941, 1942, 1943, 1944]
+testes.serie inteira, sem o ano em curso.LEGISLATIVA FEDERAL direta.anos_COM_pleito;22
+testes.serie inteira, sem o ano em curso.LEGISLATIVA FEDERAL direta.anos_SEM_pleito;59
+testes.serie inteira, sem o ano em curso.LEGISLATIVA FEDERAL direta.normas_no_recorte;104
+testes.serie inteira, sem o ano em curso.LEGISLATIVA FEDERAL direta.examinavel;True
+testes.serie inteira, sem o ano em curso.LEGISLATIVA FEDERAL direta.normas_no_grupo;19
+testes.serie inteira, sem o ano em curso.LEGISLATIVA FEDERAL direta.normas_fora;85
+testes.serie inteira, sem o ano em curso.LEGISLATIVA FEDERAL direta.media_no_grupo;0.8636
+testes.serie inteira, sem o ano em curso.LEGISLATIVA FEDERAL direta.media_fora;1.4407
+testes.serie inteira, sem o ano em curso.LEGISLATIVA FEDERAL direta.razao;0.5995
+testes.serie inteira, sem o ano em curso.LEGISLATIVA FEDERAL direta.diferenca_observada;-0.577
+testes.serie inteira, sem o ano em curso.LEGISLATIVA FEDERAL direta.bloco_de_permutacao_anos;10
+testes.serie inteira, sem o ano em curso.LEGISLATIVA FEDERAL direta.sorteios;200000
+testes.serie inteira, sem o ano em curso.LEGISLATIVA FEDERAL direta.p_valor_bilateral;0.24934
+testes.serie inteira, sem o ano em curso.GOVERNADOR direto.recorte;1940 a 2025
+testes.serie inteira, sem o ano em curso.GOVERNADOR direto.anos_no_recorte;81
+testes.serie inteira, sem o ano em curso.GOVERNADOR direto.anos_excluidos_por_zero_estrutural;[1940, 1941, 1942, 1943, 1944]
+testes.serie inteira, sem o ano em curso.GOVERNADOR direto.anos_COM_pleito;20
+testes.serie inteira, sem o ano em curso.GOVERNADOR direto.anos_SEM_pleito;61
+testes.serie inteira, sem o ano em curso.GOVERNADOR direto.normas_no_recorte;104
+testes.serie inteira, sem o ano em curso.GOVERNADOR direto.examinavel;True
+testes.serie inteira, sem o ano em curso.GOVERNADOR direto.normas_no_grupo;21
+testes.serie inteira, sem o ano em curso.GOVERNADOR direto.normas_fora;83
+testes.serie inteira, sem o ano em curso.GOVERNADOR direto.media_no_grupo;1.05
+testes.serie inteira, sem o ano em curso.GOVERNADOR direto.media_fora;1.3607
+testes.serie inteira, sem o ano em curso.GOVERNADOR direto.razao;0.7717
+testes.serie inteira, sem o ano em curso.GOVERNADOR direto.diferenca_observada;-0.3107
+testes.serie inteira, sem o ano em curso.GOVERNADOR direto.bloco_de_permutacao_anos;10
+testes.serie inteira, sem o ano em curso.GOVERNADOR direto.sorteios;200000
+testes.serie inteira, sem o ano em curso.GOVERNADOR direto.p_valor_bilateral;0.56049
+testes.serie inteira, sem o ano em curso.governador INDIRETO.recorte;1940 a 2025
+testes.serie inteira, sem o ano em curso.governador INDIRETO.anos_no_recorte;81
+testes.serie inteira, sem o ano em curso.governador INDIRETO.anos_excluidos_por_zero_estrutural;[1940, 1941, 1942, 1943, 1944]
+testes.serie inteira, sem o ano em curso.governador INDIRETO.anos_COM_pleito;4
+testes.serie inteira, sem o ano em curso.governador INDIRETO.anos_SEM_pleito;77
+testes.serie inteira, sem o ano em curso.governador INDIRETO.normas_no_recorte;104
+testes.serie inteira, sem o ano em curso.governador INDIRETO.examinavel;True
+testes.serie inteira, sem o ano em curso.governador INDIRETO.normas_no_grupo;0
+testes.serie inteira, sem o ano em curso.governador INDIRETO.normas_fora;104
+testes.serie inteira, sem o ano em curso.governador INDIRETO.media_no_grupo;0.0
+testes.serie inteira, sem o ano em curso.governador INDIRETO.media_fora;1.3506
+testes.serie inteira, sem o ano em curso.governador INDIRETO.razao;0.0
+testes.serie inteira, sem o ano em curso.governador INDIRETO.diferenca_observada;-1.3506
+testes.serie inteira, sem o ano em curso.governador INDIRETO.bloco_de_permutacao_anos;10
+testes.serie inteira, sem o ano em curso.governador INDIRETO.sorteios;200000
+testes.serie inteira, sem o ano em curso.governador INDIRETO.p_valor_bilateral;0.10076
+testes.serie inteira, sem o ano em curso.governador INDIRETO.anos_do_grupo;[1966, 1970, 1974, 1978]
+testes.serie inteira, sem o ano em curso.MUNICIPAL, qualquer.recorte;1940 a 2025
+testes.serie inteira, sem o ano em curso.MUNICIPAL, qualquer.anos_no_recorte;81
+testes.serie inteira, sem o ano em curso.MUNICIPAL, qualquer.anos_excluidos_por_zero_estrutural;[1940, 1941, 1942, 1943, 1944]
+testes.serie inteira, sem o ano em curso.MUNICIPAL, qualquer.anos_COM_pleito;28
+testes.serie inteira, sem o ano em curso.MUNICIPAL, qualquer.anos_SEM_pleito;53
+testes.serie inteira, sem o ano em curso.MUNICIPAL, qualquer.normas_no_recorte;104
+testes.serie inteira, sem o ano em curso.MUNICIPAL, qualquer.examinavel;True
+testes.serie inteira, sem o ano em curso.MUNICIPAL, qualquer.normas_no_grupo;29
+testes.serie inteira, sem o ano em curso.MUNICIPAL, qualquer.normas_fora;75
+testes.serie inteira, sem o ano em curso.MUNICIPAL, qualquer.media_no_grupo;1.0357
+testes.serie inteira, sem o ano em curso.MUNICIPAL, qualquer.media_fora;1.4151
+testes.serie inteira, sem o ano em curso.MUNICIPAL, qualquer.razao;0.7319
+testes.serie inteira, sem o ano em curso.MUNICIPAL, qualquer.diferenca_observada;-0.3794
+testes.serie inteira, sem o ano em curso.MUNICIPAL, qualquer.bloco_de_permutacao_anos;10
+testes.serie inteira, sem o ano em curso.MUNICIPAL, qualquer.sorteios;200000
+testes.serie inteira, sem o ano em curso.MUNICIPAL, qualquer.p_valor_bilateral;0.51707
+testes.serie inteira, sem o ano em curso.MUNICIPAL ISOLADA, sem presidencial.recorte;1940 a 2025
+testes.serie inteira, sem o ano em curso.MUNICIPAL ISOLADA, sem presidencial.anos_no_recorte;81
+testes.serie inteira, sem o ano em curso.MUNICIPAL ISOLADA, sem presidencial.anos_excluidos_por_zero_estrutural;[1940, 1941, 1942, 1943, 1944]
+testes.serie inteira, sem o ano em curso.MUNICIPAL ISOLADA, sem presidencial.anos_COM_pleito;21
+testes.serie inteira, sem o ano em curso.MUNICIPAL ISOLADA, sem presidencial.anos_SEM_pleito;60
+testes.serie inteira, sem o ano em curso.MUNICIPAL ISOLADA, sem presidencial.normas_no_recorte;104
+testes.serie inteira, sem o ano em curso.MUNICIPAL ISOLADA, sem presidencial.examinavel;True
+testes.serie inteira, sem o ano em curso.MUNICIPAL ISOLADA, sem presidencial.normas_no_grupo;28
+testes.serie inteira, sem o ano em curso.MUNICIPAL ISOLADA, sem presidencial.normas_fora;76
+testes.serie inteira, sem o ano em curso.MUNICIPAL ISOLADA, sem presidencial.media_no_grupo;1.3333
+testes.serie inteira, sem o ano em curso.MUNICIPAL ISOLADA, sem presidencial.media_fora;1.2667
+testes.serie inteira, sem o ano em curso.MUNICIPAL ISOLADA, sem presidencial.razao;1.0526
+testes.serie inteira, sem o ano em curso.MUNICIPAL ISOLADA, sem presidencial.diferenca_observada;0.0667
+testes.serie inteira, sem o ano em curso.MUNICIPAL ISOLADA, sem presidencial.bloco_de_permutacao_anos;10
+testes.serie inteira, sem o ano em curso.MUNICIPAL ISOLADA, sem presidencial.sorteios;200000
+testes.serie inteira, sem o ano em curso.MUNICIPAL ISOLADA, sem presidencial.p_valor_bilateral;0.8466
+testes.Nova Republica, regime constante.PRESIDENCIAL DIRETA.recorte;1985 a 2025
+testes.Nova Republica, regime constante.PRESIDENCIAL DIRETA.anos_no_recorte;41
+testes.Nova Republica, regime constante.PRESIDENCIAL DIRETA.anos_COM_pleito;9
+testes.Nova Republica, regime constante.PRESIDENCIAL DIRETA.anos_SEM_pleito;32
+testes.Nova Republica, regime constante.PRESIDENCIAL DIRETA.normas_no_recorte;88
+testes.Nova Republica, regime constante.PRESIDENCIAL DIRETA.examinavel;True
+testes.Nova Republica, regime constante.PRESIDENCIAL DIRETA.normas_no_grupo;16
+testes.Nova Republica, regime constante.PRESIDENCIAL DIRETA.normas_fora;72
+testes.Nova Republica, regime constante.PRESIDENCIAL DIRETA.media_no_grupo;1.7778
+testes.Nova Republica, regime constante.PRESIDENCIAL DIRETA.media_fora;2.25
+testes.Nova Republica, regime constante.PRESIDENCIAL DIRETA.razao;0.7901
+testes.Nova Republica, regime constante.PRESIDENCIAL DIRETA.diferenca_observada;-0.4722
+testes.Nova Republica, regime constante.PRESIDENCIAL DIRETA.bloco_de_permutacao_anos;10
+testes.Nova Republica, regime constante.PRESIDENCIAL DIRETA.sorteios;200000
+testes.Nova Republica, regime constante.PRESIDENCIAL DIRETA.p_valor_bilateral;0.54657
+testes.Nova Republica, regime constante.PRESIDENCIAL DIRETA.anos_do_grupo;[1989, 1994, 1998, 2002, 2006, 2010, 2014, 2018, 2022]
+testes.Nova Republica, regime constante.presidencial INDIRETA.recorte;1985 a 2025
+testes.Nova Republica, regime constante.presidencial INDIRETA.anos_no_recorte;41
+testes.Nova Republica, regime constante.presidencial INDIRETA.anos_COM_pleito;1
+testes.Nova Republica, regime constante.presidencial INDIRETA.anos_SEM_pleito;40
+testes.Nova Republica, regime constante.presidencial INDIRETA.normas_no_recorte;88
+testes.Nova Republica, regime constante.presidencial INDIRETA.examinavel;False
+testes.Nova Republica, regime constante.presidencial INDIRETA.motivo;grupo com 1 anos contra 40 fora. Abaixo de 3 de cada lado o teste nao tem o que permutar, e o resultado nao seria medida.
+testes.Nova Republica, regime constante.LEGISLATIVA FEDERAL direta.recorte;1985 a 2025
+testes.Nova Republica, regime constante.LEGISLATIVA FEDERAL direta.anos_no_recorte;41
+testes.Nova Republica, regime constante.LEGISLATIVA FEDERAL direta.anos_COM_pleito;11
+testes.Nova Republica, regime constante.LEGISLATIVA FEDERAL direta.anos_SEM_pleito;30
+testes.Nova Republica, regime constante.LEGISLATIVA FEDERAL direta.normas_no_recorte;88
+testes.Nova Republica, regime constante.LEGISLATIVA FEDERAL direta.examinavel;True
+testes.Nova Republica, regime constante.LEGISLATIVA FEDERAL direta.normas_no_grupo;19
+testes.Nova Republica, regime constante.LEGISLATIVA FEDERAL direta.normas_fora;69
+testes.Nova Republica, regime constante.LEGISLATIVA FEDERAL direta.media_no_grupo;1.7273
+testes.Nova Republica, regime constante.LEGISLATIVA FEDERAL direta.media_fora;2.3
+testes.Nova Republica, regime constante.LEGISLATIVA FEDERAL direta.razao;0.751
+testes.Nova Republica, regime constante.LEGISLATIVA FEDERAL direta.diferenca_observada;-0.5727
+testes.Nova Republica, regime constante.LEGISLATIVA FEDERAL direta.bloco_de_permutacao_anos;10
+testes.Nova Republica, regime constante.LEGISLATIVA FEDERAL direta.sorteios;200000
+testes.Nova Republica, regime constante.LEGISLATIVA FEDERAL direta.p_valor_bilateral;0.58665
+testes.Nova Republica, regime constante.LEGISLATIVA FEDERAL direta.anos_do_grupo;[1986, 1988, 1990, 1994, 1998, 2002, 2006, 2010, 2014, 2018, 2022]
+testes.Nova Republica, regime constante.GOVERNADOR direto.recorte;1985 a 2025
+testes.Nova Republica, regime constante.GOVERNADOR direto.anos_no_recorte;41
+testes.Nova Republica, regime constante.GOVERNADOR direto.anos_COM_pleito;11
+testes.Nova Republica, regime constante.GOVERNADOR direto.anos_SEM_pleito;30
+testes.Nova Republica, regime constante.GOVERNADOR direto.normas_no_recorte;88
+testes.Nova Republica, regime constante.GOVERNADOR direto.examinavel;True
+testes.Nova Republica, regime constante.GOVERNADOR direto.normas_no_grupo;19
+testes.Nova Republica, regime constante.GOVERNADOR direto.normas_fora;69
+testes.Nova Republica, regime constante.GOVERNADOR direto.media_no_grupo;1.7273
+testes.Nova Republica, regime constante.GOVERNADOR direto.media_fora;2.3
+testes.Nova Republica, regime constante.GOVERNADOR direto.razao;0.751
+testes.Nova Republica, regime constante.GOVERNADOR direto.diferenca_observada;-0.5727
+testes.Nova Republica, regime constante.GOVERNADOR direto.bloco_de_permutacao_anos;10
+testes.Nova Republica, regime constante.GOVERNADOR direto.sorteios;200000
+testes.Nova Republica, regime constante.GOVERNADOR direto.p_valor_bilateral;0.58665
+testes.Nova Republica, regime constante.GOVERNADOR direto.anos_do_grupo;[1986, 1988, 1990, 1994, 1998, 2002, 2006, 2010, 2014, 2018, 2022]
+testes.Nova Republica, regime constante.governador INDIRETO.recorte;1985 a 2025
+testes.Nova Republica, regime constante.governador INDIRETO.anos_no_recorte;41
+testes.Nova Republica, regime constante.governador INDIRETO.anos_COM_pleito;0
+testes.Nova Republica, regime constante.governador INDIRETO.anos_SEM_pleito;41
+testes.Nova Republica, regime constante.governador INDIRETO.normas_no_recorte;88
+testes.Nova Republica, regime constante.governador INDIRETO.examinavel;False
+testes.Nova Republica, regime constante.governador INDIRETO.motivo;grupo com 0 anos contra 41 fora. Abaixo de 3 de cada lado o teste nao tem o que permutar, e o resultado nao seria medida.
+testes.Nova Republica, regime constante.MUNICIPAL, qualquer.recorte;1985 a 2025
+testes.Nova Republica, regime constante.MUNICIPAL, qualquer.anos_no_recorte;41
+testes.Nova Republica, regime constante.MUNICIPAL, qualquer.anos_COM_pleito;13
+testes.Nova Republica, regime constante.MUNICIPAL, qualquer.anos_SEM_pleito;28
+testes.Nova Republica, regime constante.MUNICIPAL, qualquer.normas_no_recorte;88
+testes.Nova Republica, regime constante.MUNICIPAL, qualquer.examinavel;True
+testes.Nova Republica, regime constante.MUNICIPAL, qualquer.normas_no_grupo;23
+testes.Nova Republica, regime constante.MUNICIPAL, qualquer.normas_fora;65
+testes.Nova Republica, regime constante.MUNICIPAL, qualquer.media_no_grupo;1.7692
+testes.Nova Republica, regime constante.MUNICIPAL, qualquer.media_fora;2.3214
+testes.Nova Republica, regime constante.MUNICIPAL, qualquer.razao;0.7621
+testes.Nova Republica, regime constante.MUNICIPAL, qualquer.diferenca_observada;-0.5522
+testes.Nova Republica, regime constante.MUNICIPAL, qualquer.bloco_de_permutacao_anos;10
+testes.Nova Republica, regime constante.MUNICIPAL, qualquer.sorteios;200000
+testes.Nova Republica, regime constante.MUNICIPAL, qualquer.p_valor_bilateral;0.57859
+testes.Nova Republica, regime constante.MUNICIPAL, qualquer.anos_do_grupo;[1985, 1986, 1988, 1989, 1992, 1996, 2000, 2004, 2008, 2012, 2016, 2020, 2024]
+testes.Nova Republica, regime constante.MUNICIPAL ISOLADA, sem presidencial.recorte;1985 a 2025
+testes.Nova Republica, regime constante.MUNICIPAL ISOLADA, sem presidencial.anos_no_recorte;41
+testes.Nova Republica, regime constante.MUNICIPAL ISOLADA, sem presidencial.anos_COM_pleito;11
+testes.Nova Republica, regime constante.MUNICIPAL ISOLADA, sem presidencial.anos_SEM_pleito;30
+testes.Nova Republica, regime constante.MUNICIPAL ISOLADA, sem presidencial.normas_no_recorte;88
+testes.Nova Republica, regime constante.MUNICIPAL ISOLADA, sem presidencial.examinavel;True
+testes.Nova Republica, regime constante.MUNICIPAL ISOLADA, sem presidencial.normas_no_grupo;23
+testes.Nova Republica, regime constante.MUNICIPAL ISOLADA, sem presidencial.normas_fora;65
+testes.Nova Republica, regime constante.MUNICIPAL ISOLADA, sem presidencial.media_no_grupo;2.0909
+testes.Nova Republica, regime constante.MUNICIPAL ISOLADA, sem presidencial.media_fora;2.1667
+testes.Nova Republica, regime constante.MUNICIPAL ISOLADA, sem presidencial.razao;0.965
+testes.Nova Republica, regime constante.MUNICIPAL ISOLADA, sem presidencial.diferenca_observada;-0.0758
+testes.Nova Republica, regime constante.MUNICIPAL ISOLADA, sem presidencial.bloco_de_permutacao_anos;10
+testes.Nova Republica, regime constante.MUNICIPAL ISOLADA, sem presidencial.sorteios;200000
+testes.Nova Republica, regime constante.MUNICIPAL ISOLADA, sem presidencial.p_valor_bilateral;0.92592
+testes.Nova Republica, regime constante.MUNICIPAL ISOLADA, sem presidencial.anos_do_grupo;[1986, 1988, 1992, 1996, 2000, 2004, 2008, 2012, 2016, 2020, 2024]
+testes.ditadura militar.PRESIDENCIAL DIRETA.recorte;1964 a 1985
+testes.ditadura militar.PRESIDENCIAL DIRETA.anos_no_recorte;22
+testes.ditadura militar.PRESIDENCIAL DIRETA.anos_COM_pleito;0
+testes.ditadura militar.PRESIDENCIAL DIRETA.anos_SEM_pleito;22
+testes.ditadura militar.PRESIDENCIAL DIRETA.normas_no_recorte;14
+testes.ditadura militar.PRESIDENCIAL DIRETA.examinavel;False
+testes.ditadura militar.PRESIDENCIAL DIRETA.motivo;grupo com 0 anos contra 22 fora. Abaixo de 3 de cada lado o teste nao tem o que permutar, e o resultado nao seria medida.
+testes.ditadura militar.presidencial INDIRETA.recorte;1964 a 1985
+testes.ditadura militar.presidencial INDIRETA.anos_no_recorte;22
+testes.ditadura militar.presidencial INDIRETA.anos_COM_pleito;6
+testes.ditadura militar.presidencial INDIRETA.anos_SEM_pleito;16
+testes.ditadura militar.presidencial INDIRETA.normas_no_recorte;14
+testes.ditadura militar.presidencial INDIRETA.examinavel;True
+testes.ditadura militar.presidencial INDIRETA.normas_no_grupo;1
+testes.ditadura militar.presidencial INDIRETA.normas_fora;13
+testes.ditadura militar.presidencial INDIRETA.media_no_grupo;0.1667
+testes.ditadura militar.presidencial INDIRETA.media_fora;0.8125
+testes.ditadura militar.presidencial INDIRETA.razao;0.2051
+testes.ditadura militar.presidencial INDIRETA.diferenca_observada;-0.6458
+testes.ditadura militar.presidencial INDIRETA.bloco_de_permutacao_anos;8
+testes.ditadura militar.presidencial INDIRETA.sorteios;200000
+testes.ditadura militar.presidencial INDIRETA.p_valor_bilateral;0.24449
+testes.ditadura militar.presidencial INDIRETA.anos_do_grupo;[1964, 1966, 1969, 1974, 1978, 1985]
+testes.ditadura militar.LEGISLATIVA FEDERAL direta.recorte;1964 a 1985
+testes.ditadura militar.LEGISLATIVA FEDERAL direta.anos_no_recorte;22
+testes.ditadura militar.LEGISLATIVA FEDERAL direta.anos_COM_pleito;5
+testes.ditadura militar.LEGISLATIVA FEDERAL direta.anos_SEM_pleito;17
+testes.ditadura militar.LEGISLATIVA FEDERAL direta.normas_no_recorte;14
+testes.ditadura militar.LEGISLATIVA FEDERAL direta.examinavel;True
+testes.ditadura militar.LEGISLATIVA FEDERAL direta.normas_no_grupo;0
+testes.ditadura militar.LEGISLATIVA FEDERAL direta.normas_fora;14
+testes.ditadura militar.LEGISLATIVA FEDERAL direta.media_no_grupo;0.0
+testes.ditadura militar.LEGISLATIVA FEDERAL direta.media_fora;0.8235
+testes.ditadura militar.LEGISLATIVA FEDERAL direta.razao;0.0
+testes.ditadura militar.LEGISLATIVA FEDERAL direta.diferenca_observada;-0.8235
+testes.ditadura militar.LEGISLATIVA FEDERAL direta.bloco_de_permutacao_anos;8
+testes.ditadura militar.LEGISLATIVA FEDERAL direta.sorteios;200000
+testes.ditadura militar.LEGISLATIVA FEDERAL direta.p_valor_bilateral;0.10254
+testes.ditadura militar.LEGISLATIVA FEDERAL direta.anos_do_grupo;[1966, 1970, 1974, 1978, 1982]
+testes.ditadura militar.GOVERNADOR direto.recorte;1964 a 1985
+testes.ditadura militar.GOVERNADOR direto.anos_no_recorte;22
+testes.ditadura militar.GOVERNADOR direto.anos_COM_pleito;2
+testes.ditadura militar.GOVERNADOR direto.anos_SEM_pleito;20
+testes.ditadura militar.GOVERNADOR direto.normas_no_recorte;14
+testes.ditadura militar.GOVERNADOR direto.examinavel;False
+testes.ditadura militar.GOVERNADOR direto.motivo;grupo com 2 anos contra 20 fora. Abaixo de 3 de cada lado o teste nao tem o que permutar, e o resultado nao seria medida.
+testes.ditadura militar.governador INDIRETO.recorte;1964 a 1985
+testes.ditadura militar.governador INDIRETO.anos_no_recorte;22
+testes.ditadura militar.governador INDIRETO.anos_COM_pleito;4
+testes.ditadura militar.governador INDIRETO.anos_SEM_pleito;18
+testes.ditadura militar.governador INDIRETO.normas_no_recorte;14
+testes.ditadura militar.governador INDIRETO.examinavel;True
+testes.ditadura militar.governador INDIRETO.normas_no_grupo;0
+testes.ditadura militar.governador INDIRETO.normas_fora;14
+testes.ditadura militar.governador INDIRETO.media_no_grupo;0.0
+testes.ditadura militar.governador INDIRETO.media_fora;0.7778
+testes.ditadura militar.governador INDIRETO.razao;0.0
+testes.ditadura militar.governador INDIRETO.diferenca_observada;-0.7778
+testes.ditadura militar.governador INDIRETO.bloco_de_permutacao_anos;8
+testes.ditadura militar.governador INDIRETO.sorteios;200000
+testes.ditadura militar.governador INDIRETO.p_valor_bilateral;0.11578
+testes.ditadura militar.governador INDIRETO.anos_do_grupo;[1966, 1970, 1974, 1978]
+testes.ditadura militar.MUNICIPAL, qualquer.recorte;1964 a 1985
+testes.ditadura militar.MUNICIPAL, qualquer.anos_no_recorte;22
+testes.ditadura militar.MUNICIPAL, qualquer.anos_COM_pleito;9
+testes.ditadura militar.MUNICIPAL, qualquer.anos_SEM_pleito;13
+testes.ditadura militar.MUNICIPAL, qualquer.normas_no_recorte;14
+testes.ditadura militar.MUNICIPAL, qualquer.examinavel;True
+testes.ditadura militar.MUNICIPAL, qualquer.normas_no_grupo;5
+testes.ditadura militar.MUNICIPAL, qualquer.normas_fora;9
+testes.ditadura militar.MUNICIPAL, qualquer.media_no_grupo;0.5556
+testes.ditadura militar.MUNICIPAL, qualquer.media_fora;0.6923
+testes.ditadura militar.MUNICIPAL, qualquer.razao;0.8025
+testes.ditadura militar.MUNICIPAL, qualquer.diferenca_observada;-0.1368
+testes.ditadura militar.MUNICIPAL, qualquer.bloco_de_permutacao_anos;8
+testes.ditadura militar.MUNICIPAL, qualquer.sorteios;200000
+testes.ditadura militar.MUNICIPAL, qualquer.p_valor_bilateral;0.86671
+testes.ditadura militar.MUNICIPAL, qualquer.anos_do_grupo;[1965, 1966, 1968, 1969, 1970, 1972, 1976, 1982, 1985]
+testes.ditadura militar.MUNICIPAL ISOLADA, sem presidencial.recorte;1964 a 1985
+testes.ditadura militar.MUNICIPAL ISOLADA, sem presidencial.anos_no_recorte;22
+testes.ditadura militar.MUNICIPAL ISOLADA, sem presidencial.anos_COM_pleito;6
+testes.ditadura militar.MUNICIPAL ISOLADA, sem presidencial.anos_SEM_pleito;16
+testes.ditadura militar.MUNICIPAL ISOLADA, sem presidencial.normas_no_recorte;14
+testes.ditadura militar.MUNICIPAL ISOLADA, sem presidencial.examinavel;True
+testes.ditadura militar.MUNICIPAL ISOLADA, sem presidencial.normas_no_grupo;5
+testes.ditadura militar.MUNICIPAL ISOLADA, sem presidencial.normas_fora;9
+testes.ditadura militar.MUNICIPAL ISOLADA, sem presidencial.media_no_grupo;0.8333
+testes.ditadura militar.MUNICIPAL ISOLADA, sem presidencial.media_fora;0.5625
+testes.ditadura militar.MUNICIPAL ISOLADA, sem presidencial.razao;1.4815
+testes.ditadura militar.MUNICIPAL ISOLADA, sem presidencial.diferenca_observada;0.2708
+testes.ditadura militar.MUNICIPAL ISOLADA, sem presidencial.bloco_de_permutacao_anos;8
+testes.ditadura militar.MUNICIPAL ISOLADA, sem presidencial.sorteios;200000
+testes.ditadura militar.MUNICIPAL ISOLADA, sem presidencial.p_valor_bilateral;0.67885
+testes.ditadura militar.MUNICIPAL ISOLADA, sem presidencial.anos_do_grupo;[1965, 1968, 1970, 1972, 1976, 1982]
+testes.Republica de 1946.PRESIDENCIAL DIRETA.recorte;1946 a 1964
+testes.Republica de 1946.PRESIDENCIAL DIRETA.anos_no_recorte;19
+testes.Republica de 1946.PRESIDENCIAL DIRETA.anos_COM_pleito;3
+testes.Republica de 1946.PRESIDENCIAL DIRETA.anos_SEM_pleito;16
+testes.Republica de 1946.PRESIDENCIAL DIRETA.normas_no_recorte;3
+testes.Republica de 1946.PRESIDENCIAL DIRETA.examinavel;True
+testes.Republica de 1946.PRESIDENCIAL DIRETA.normas_no_grupo;1
+testes.Republica de 1946.PRESIDENCIAL DIRETA.normas_fora;2
+testes.Republica de 1946.PRESIDENCIAL DIRETA.media_no_grupo;0.3333
+testes.Republica de 1946.PRESIDENCIAL DIRETA.media_fora;0.125
+testes.Republica de 1946.PRESIDENCIAL DIRETA.razao;2.6667
+testes.Republica de 1946.PRESIDENCIAL DIRETA.diferenca_observada;0.2083
+testes.Republica de 1946.PRESIDENCIAL DIRETA.bloco_de_permutacao_anos;8
+testes.Republica de 1946.PRESIDENCIAL DIRETA.sorteios;200000
+testes.Republica de 1946.PRESIDENCIAL DIRETA.p_valor_bilateral;0.34291
+testes.Republica de 1946.PRESIDENCIAL DIRETA.anos_do_grupo;[1950, 1955, 1960]
+testes.Republica de 1946.presidencial INDIRETA.recorte;1946 a 1964
+testes.Republica de 1946.presidencial INDIRETA.anos_no_recorte;19
+testes.Republica de 1946.presidencial INDIRETA.anos_COM_pleito;1
+testes.Republica de 1946.presidencial INDIRETA.anos_SEM_pleito;18
+testes.Republica de 1946.presidencial INDIRETA.normas_no_recorte;3
+testes.Republica de 1946.presidencial INDIRETA.examinavel;False
+testes.Republica de 1946.presidencial INDIRETA.motivo;grupo com 1 anos contra 18 fora. Abaixo de 3 de cada lado o teste nao tem o que permutar, e o resultado nao seria medida.
+testes.Republica de 1946.LEGISLATIVA FEDERAL direta.recorte;1946 a 1964
+testes.Republica de 1946.LEGISLATIVA FEDERAL direta.anos_no_recorte;19
+testes.Republica de 1946.LEGISLATIVA FEDERAL direta.anos_COM_pleito;5
+testes.Republica de 1946.LEGISLATIVA FEDERAL direta.anos_SEM_pleito;14
+testes.Republica de 1946.LEGISLATIVA FEDERAL direta.normas_no_recorte;3
+testes.Republica de 1946.LEGISLATIVA FEDERAL direta.examinavel;True
+testes.Republica de 1946.LEGISLATIVA FEDERAL direta.normas_no_grupo;0
+testes.Republica de 1946.LEGISLATIVA FEDERAL direta.normas_fora;3
+testes.Republica de 1946.LEGISLATIVA FEDERAL direta.media_no_grupo;0.0
+testes.Republica de 1946.LEGISLATIVA FEDERAL direta.media_fora;0.2143
+testes.Republica de 1946.LEGISLATIVA FEDERAL direta.razao;0.0
+testes.Republica de 1946.LEGISLATIVA FEDERAL direta.diferenca_observada;-0.2143
+testes.Republica de 1946.LEGISLATIVA FEDERAL direta.bloco_de_permutacao_anos;8
+testes.Republica de 1946.LEGISLATIVA FEDERAL direta.sorteios;200000
+testes.Republica de 1946.LEGISLATIVA FEDERAL direta.p_valor_bilateral;0.56338
+testes.Republica de 1946.LEGISLATIVA FEDERAL direta.anos_do_grupo;[1947, 1950, 1954, 1958, 1962]
+testes.Republica de 1946.GOVERNADOR direto.recorte;1946 a 1964
+testes.Republica de 1946.GOVERNADOR direto.anos_no_recorte;19
+testes.Republica de 1946.GOVERNADOR direto.anos_COM_pleito;7
+testes.Republica de 1946.GOVERNADOR direto.anos_SEM_pleito;12
+testes.Republica de 1946.GOVERNADOR direto.normas_no_recorte;3
+testes.Republica de 1946.GOVERNADOR direto.examinavel;True
+testes.Republica de 1946.GOVERNADOR direto.normas_no_grupo;1
+testes.Republica de 1946.GOVERNADOR direto.normas_fora;2
+testes.Republica de 1946.GOVERNADOR direto.media_no_grupo;0.1429
+testes.Republica de 1946.GOVERNADOR direto.media_fora;0.1667
+testes.Republica de 1946.GOVERNADOR direto.razao;0.8571
+testes.Republica de 1946.GOVERNADOR direto.diferenca_observada;-0.0238
+testes.Republica de 1946.GOVERNADOR direto.bloco_de_permutacao_anos;8
+testes.Republica de 1946.GOVERNADOR direto.sorteios;200000
+testes.Republica de 1946.GOVERNADOR direto.p_valor_bilateral;1.0
+testes.Republica de 1946.GOVERNADOR direto.anos_do_grupo;[1947, 1950, 1954, 1955, 1958, 1960, 1962]
+testes.Republica de 1946.governador INDIRETO.recorte;1946 a 1964
+testes.Republica de 1946.governador INDIRETO.anos_no_recorte;19
+testes.Republica de 1946.governador INDIRETO.anos_COM_pleito;0
+testes.Republica de 1946.governador INDIRETO.anos_SEM_pleito;19
+testes.Republica de 1946.governador INDIRETO.normas_no_recorte;3
+testes.Republica de 1946.governador INDIRETO.examinavel;False
+testes.Republica de 1946.governador INDIRETO.motivo;grupo com 0 anos contra 19 fora. Abaixo de 3 de cada lado o teste nao tem o que permutar, e o resultado nao seria medida.
+testes.Republica de 1946.MUNICIPAL, qualquer.recorte;1946 a 1964
+testes.Republica de 1946.MUNICIPAL, qualquer.anos_no_recorte;19
+testes.Republica de 1946.MUNICIPAL, qualquer.anos_COM_pleito;7
+testes.Republica de 1946.MUNICIPAL, qualquer.anos_SEM_pleito;12
+testes.Republica de 1946.MUNICIPAL, qualquer.normas_no_recorte;3
+testes.Republica de 1946.MUNICIPAL, qualquer.examinavel;True
+testes.Republica de 1946.MUNICIPAL, qualquer.normas_no_grupo;1
+testes.Republica de 1946.MUNICIPAL, qualquer.normas_fora;2
+testes.Republica de 1946.MUNICIPAL, qualquer.media_no_grupo;0.1429
+testes.Republica de 1946.MUNICIPAL, qualquer.media_fora;0.1667
+testes.Republica de 1946.MUNICIPAL, qualquer.razao;0.8571
+testes.Republica de 1946.MUNICIPAL, qualquer.diferenca_observada;-0.0238
+testes.Republica de 1946.MUNICIPAL, qualquer.bloco_de_permutacao_anos;8
+testes.Republica de 1946.MUNICIPAL, qualquer.sorteios;200000
+testes.Republica de 1946.MUNICIPAL, qualquer.p_valor_bilateral;1.0
+testes.Republica de 1946.MUNICIPAL, qualquer.anos_do_grupo;[1947, 1950, 1954, 1955, 1958, 1960, 1962]
+testes.Republica de 1946.MUNICIPAL ISOLADA, sem presidencial.recorte;1946 a 1964
+testes.Republica de 1946.MUNICIPAL ISOLADA, sem presidencial.anos_no_recorte;19
+testes.Republica de 1946.MUNICIPAL ISOLADA, sem presidencial.anos_COM_pleito;4
+testes.Republica de 1946.MUNICIPAL ISOLADA, sem presidencial.anos_SEM_pleito;15
+testes.Republica de 1946.MUNICIPAL ISOLADA, sem presidencial.normas_no_recorte;3
+testes.Republica de 1946.MUNICIPAL ISOLADA, sem presidencial.examinavel;True
+testes.Republica de 1946.MUNICIPAL ISOLADA, sem presidencial.normas_no_grupo;0
+testes.Republica de 1946.MUNICIPAL ISOLADA, sem presidencial.normas_fora;3
+testes.Republica de 1946.MUNICIPAL ISOLADA, sem presidencial.media_no_grupo;0.0
+testes.Republica de 1946.MUNICIPAL ISOLADA, sem presidencial.media_fora;0.2
+testes.Republica de 1946.MUNICIPAL ISOLADA, sem presidencial.razao;0.0
+testes.Republica de 1946.MUNICIPAL ISOLADA, sem presidencial.diferenca_observada;-0.2
+testes.Republica de 1946.MUNICIPAL ISOLADA, sem presidencial.bloco_de_permutacao_anos;8
+testes.Republica de 1946.MUNICIPAL ISOLADA, sem presidencial.sorteios;200000
+testes.Republica de 1946.MUNICIPAL ISOLADA, sem presidencial.p_valor_bilateral;0.57424
+testes.Republica de 1946.MUNICIPAL ISOLADA, sem presidencial.anos_do_grupo;[1947, 1954, 1958, 1962]
+poder_do_desenho.razao_1.0;0.036
+poder_do_desenho.razao_1.5;0.336
+poder_do_desenho.razao_2.0;0.796
+poder_do_desenho.razao_2.5;0.972
+poder_do_desenho.razao_3.0;1.0
+direcao.normas_que_alteram_o_texto;114
+direcao.EXPANDE_o_alcance_penal;53
+direcao.RETRAI_o_alcance_penal;15
+direcao.NAO_CLASSIFICADO;53
+direcao.percentual_nao_classificado;46.5
+direcao.dispositivos_por_tipo_de_anotacao.incluido;594
+direcao.dispositivos_por_tipo_de_anotacao.redacao dada;480
+direcao.dispositivos_por_tipo_de_anotacao.revogado;38
+direcao.dispositivos_por_tipo_de_anotacao.incluida;3
+direcao.dispositivos_por_tipo_de_anotacao.renumerado;1
+direcao.inclusoes;597
+direcao.revogacoes;38
+direcao.razao_inclusao_sobre_revogacao;15.71
+direcao.limite_declarado;"a direcao por norma vem do campo de efeitos do Legin, que nomeia o TIPO da alteracao e nao o SENTIDO da pena; norma cujo efeito e' so' 'Alteracao' nao permite dizer se agrava ou abranda sem ler o dispositivo. A razao inclusao sobre revogacao mede EXPANSAO DO TEXTO penal, nunca gravidade de pena, e herda o defeito do texto compilado, que so' exibe a anotacao sobrevivente."
+como_ler_o_poder;poder abaixo de 0,80 significa que efeito daquele tamanho passaria despercebido com frequencia. Ausencia de achado NAO e' prova de ausencia de efeito abaixo do tamanho que o desenho alcanca. Escreve-se 'nao ha evidencia de efeito grande', nunca 'nao ha efeito'.
+o_que_este_teste_NAO_responde;"[""nao estabelece CAUSA: associacao entre calendario e producao legislativa nao demonstra que a eleicao produziu a lei"", ""nao mede INTENSIDADE: uma norma que muda um artigo conta igual a uma que reescreve a Parte Geral inteira"", ""nao alcanca a TRAMITACAO: a data medida e' a da publicacao, e o projeto pode ter sido apresentado anos antes, inclusive em outra legislatura""]"

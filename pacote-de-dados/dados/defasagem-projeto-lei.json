@@ -1,0 +1,893 @@
+{
+  "defasagem": [
+    {
+      "anos": 0,
+      "apresentado": 1964,
+      "publicado": 1964,
+      "norma": "Lei Ordinária nº 4.357, de 16 de julho de 1964",
+      "projeto": "PL 1969/1964"
+    },
+    {
+      "anos": 0,
+      "apresentado": 1965,
+      "publicado": 1965,
+      "norma": "Lei Ordinária nº 4.729, de 14 de julho de 1965",
+      "projeto": "PL 2748/1965"
+    },
+    {
+      "anos": 0,
+      "apresentado": 1967,
+      "publicado": 1967,
+      "norma": "Lei Ordinária nº 5.346, de 3 de novembro de 1967",
+      "projeto": "PL 583/1967"
+    },
+    {
+      "anos": 0,
+      "apresentado": 1968,
+      "publicado": 1968,
+      "norma": "Lei Ordinária nº 5.474, de 18 de julho de 1968",
+      "projeto": "PL 1138/1968"
+    },
+    {
+      "anos": 0,
+      "apresentado": 1968,
+      "publicado": 1968,
+      "norma": "Lei Ordinária nº 5.478, de 25 de julho de 1968",
+      "projeto": "PL 1163/1968"
+    },
+    {
+      "anos": 0,
+      "apresentado": 1971,
+      "publicado": 1971,
+      "norma": "Lei Ordinária nº 5.726, de 29 de outubro de 1971",
+      "projeto": "PL 185/1971"
+    },
+    {
+      "anos": 0,
+      "apresentado": 1977,
+      "publicado": 1977,
+      "norma": "Lei Ordinária nº 6.416, de 24 de maio de 1977",
+      "projeto": "PLN 2/1977, apreciada pelo Congresso Nacional, com tramitação registrada pelo Senado Federal."
+    },
+    {
+      "anos": 0,
+      "apresentado": 1980,
+      "publicado": 1980,
+      "norma": "Lei Ordinária nº 6.895, de 17 de dezembro de 1980",
+      "projeto": "PL 3143/1980"
+    },
+    {
+      "anos": 0,
+      "apresentado": 1989,
+      "publicado": 1989,
+      "norma": "Lei Ordinária nº 7.960, de 21 de dezembro de 1989",
+      "projeto": "MPV 111/1989, (PLV 39/1989), apreciada pelo Congresso Nacional, com tramitação registrada pelo Senado Federal. Vide ADIs"
+    },
+    {
+      "anos": 0,
+      "apresentado": 1990,
+      "publicado": 1990,
+      "norma": "Lei Ordinária nº 8.069, de 13 de julho de 1990",
+      "projeto": "PL 5172/1990"
+    },
+    {
+      "anos": 0,
+      "apresentado": 1990,
+      "publicado": 1990,
+      "norma": "Lei Ordinária nº 8.072, de 25 de julho de 1990",
+      "projeto": "PL 5405/1990"
+    },
+    {
+      "anos": 0,
+      "apresentado": 1990,
+      "publicado": 1990,
+      "norma": "Lei Ordinária nº 8.137, de 27 de dezembro de 1990",
+      "projeto": "PL 4788/1990"
+    },
+    {
+      "anos": 0,
+      "apresentado": 1991,
+      "publicado": 1991,
+      "norma": "Lei Ordinária nº 8.176, de 8 de fevereiro de 1991",
+      "projeto": "PL 6134/1991"
+    },
+    {
+      "anos": 0,
+      "apresentado": 1998,
+      "publicado": 1998,
+      "norma": "Lei Ordinária nº 9.677, de 2 de julho de 1998",
+      "projeto": "PL 4207/1998"
+    },
+    {
+      "anos": 0,
+      "apresentado": 2011,
+      "publicado": 2011,
+      "norma": "Lei Ordinária nº 12.550, de 15 de dezembro de 2011",
+      "projeto": "PL 1749/2011"
+    },
+    {
+      "anos": 0,
+      "apresentado": 2012,
+      "publicado": 2012,
+      "norma": "Lei Ordinária nº 12.653, de 28 de maio de 2012",
+      "projeto": "PL 3331/2012"
+    },
+    {
+      "anos": 0,
+      "apresentado": 2014,
+      "publicado": 2014,
+      "norma": "Lei Ordinária nº 12.978, de 21 de maio de 2014",
+      "projeto": "PL 7220/2014"
+    },
+    {
+      "anos": 0,
+      "apresentado": 2015,
+      "publicado": 2015,
+      "norma": "Lei Ordinária nº 13.142, de 6 de julho de 2015",
+      "projeto": "PL 846/2015"
+    },
+    {
+      "anos": 0,
+      "apresentado": 2020,
+      "publicado": 2020,
+      "norma": "Lei Ordinária nº 14.110, de 18 de dezembro de 2020",
+      "projeto": "PL 2810/2020"
+    },
+    {
+      "anos": 0,
+      "apresentado": 2021,
+      "publicado": 2021,
+      "norma": "Lei Ordinária nº 14.188, de 28 de julho de 2021",
+      "projeto": "PL 741/2021"
+    },
+    {
+      "anos": 0,
+      "apresentado": 2025,
+      "publicado": 2025,
+      "norma": "Lei Ordinária nº 15.280, de 5 de dezembro de 2025",
+      "projeto": "PL 2810/2025"
+    },
+    {
+      "anos": 1,
+      "apresentado": 1980,
+      "publicado": 1981,
+      "norma": "Lei Ordinária nº 6.898, de 30 de março de 1981",
+      "projeto": "PL 3358/1980"
+    },
+    {
+      "anos": 1,
+      "apresentado": 1983,
+      "publicado": 1984,
+      "norma": "Lei Ordinária nº 7.209, de 11 de julho de 1984",
+      "projeto": "PL 1656/1983"
+    },
+    {
+      "anos": 1,
+      "apresentado": 1993,
+      "publicado": 1994,
+      "norma": "Lei Ordinária nº 8.930, de 6 de setembro de 1994",
+      "projeto": "PL 4146/1993"
+    },
+    {
+      "anos": 1,
+      "apresentado": 1995,
+      "publicado": 1996,
+      "norma": "Lei Ordinária nº 9.268, de 1º de abril de 1996",
+      "projeto": "PL 726/1995"
+    },
+    {
+      "anos": 1,
+      "apresentado": 1995,
+      "publicado": 1996,
+      "norma": "Lei Ordinária nº 9.426, de 24 de dezembro de 1996",
+      "projeto": "PL 725/1995"
+    },
+    {
+      "anos": 1,
+      "apresentado": 1999,
+      "publicado": 2000,
+      "norma": "Lei Ordinária nº 10.028, de 19 de outubro de 2000",
+      "projeto": "PL 621/1999"
+    },
+    {
+      "anos": 1,
+      "apresentado": 1999,
+      "publicado": 2000,
+      "norma": "Lei Ordinária nº 9.983, de 14 de julho de 2000",
+      "projeto": "PL 933/1999"
+    },
+    {
+      "anos": 1,
+      "apresentado": 2000,
+      "publicado": 2001,
+      "norma": "Lei Ordinária nº 10.268, de 28 de agosto de 2001",
+      "projeto": "PL 3532/2000"
+    },
+    {
+      "anos": 1,
+      "apresentado": 2001,
+      "publicado": 2002,
+      "norma": "Lei Ordinária nº 10.467, de 11 de junho de 2002",
+      "projeto": "PL 4143/2001"
+    },
+    {
+      "anos": 1,
+      "apresentado": 2002,
+      "publicado": 2003,
+      "norma": "Lei Ordinária nº 10.763, de 12 de novembro de 2003",
+      "projeto": "PL 7017/2002"
+    },
+    {
+      "anos": 1,
+      "apresentado": 2002,
+      "publicado": 2003,
+      "norma": "Lei Ordinária nº 10.803, de 11 de dezembro de 2003",
+      "projeto": "PL 7429/2002"
+    },
+    {
+      "anos": 1,
+      "apresentado": 2003,
+      "publicado": 2004,
+      "norma": "Lei Ordinária nº 10.886, de 17 de junho de 2004",
+      "projeto": "PL 3/2003"
+    },
+    {
+      "anos": 1,
+      "apresentado": 2006,
+      "publicado": 2007,
+      "norma": "Lei Ordinária nº 11.466, de 28 de março de 2007",
+      "projeto": "PL 7225/2006"
+    },
+    {
+      "anos": 1,
+      "apresentado": 2011,
+      "publicado": 2012,
+      "norma": "Lei Ordinária nº 12.737, de 30 de novembro de 2012",
+      "projeto": "PL 2793/2011"
+    },
+    {
+      "anos": 1,
+      "apresentado": 2012,
+      "publicado": 2013,
+      "norma": "Lei Ordinária nº 12.894, de 17 de dezembro de 2013",
+      "projeto": "PL 4784/2012"
+    },
+    {
+      "anos": 1,
+      "apresentado": 2014,
+      "publicado": 2015,
+      "norma": "Lei Ordinária nº 13.104, de 9 de março de 2015",
+      "projeto": "PL 8305/2014"
+    },
+    {
+      "anos": 1,
+      "apresentado": 2015,
+      "publicado": 2016,
+      "norma": "Lei Ordinária nº 13.254, de 13 de janeiro de 2016",
+      "projeto": "PL 2960/2015"
+    },
+    {
+      "anos": 1,
+      "apresentado": 2015,
+      "publicado": 2016,
+      "norma": "Lei Ordinária nº 13.260, de 16 de março de 2016",
+      "projeto": "PL 2016/2015"
+    },
+    {
+      "anos": 1,
+      "apresentado": 2017,
+      "publicado": 2018,
+      "norma": "Lei Ordinária nº 13.606, de 9 de janeiro de 2018",
+      "projeto": "PL 9206/2017"
+    },
+    {
+      "anos": 1,
+      "apresentado": 2017,
+      "publicado": 2018,
+      "norma": "Lei Ordinária nº 13.654, de 23 de abril de 2018",
+      "projeto": "PL 9160/2017"
+    },
+    {
+      "anos": 1,
+      "apresentado": 2017,
+      "publicado": 2018,
+      "norma": "Lei Ordinária nº 13.715, de 24 de setembro de 2018",
+      "projeto": "PL 7874/2017"
+    },
+    {
+      "anos": 1,
+      "apresentado": 2018,
+      "publicado": 2019,
+      "norma": "Lei Ordinária nº 13.964, de 24 de dezembro de 2019",
+      "projeto": "PL 10372/2018"
+    },
+    {
+      "anos": 1,
+      "apresentado": 2020,
+      "publicado": 2021,
+      "norma": "Lei Ordinária nº 14.155, de 27 de maio de 2021",
+      "projeto": "PL 4554/2020"
+    },
+    {
+      "anos": 1,
+      "apresentado": 2020,
+      "publicado": 2021,
+      "norma": "Lei Ordinária nº 14.245, de 22 de novembro de 2021",
+      "projeto": "PL 5096/2020"
+    },
+    {
+      "anos": 1,
+      "apresentado": 2021,
+      "publicado": 2022,
+      "norma": "Lei Ordinária nº 14.344, de 24 de maio de 2022",
+      "projeto": "PL 1360/2021"
+    },
+    {
+      "anos": 1,
+      "apresentado": 2021,
+      "publicado": 2022,
+      "norma": "Lei Ordinária nº 14.478, de 21 de dezembro de 2022",
+      "projeto": "PL 4401/2021 (Nº Anterior: PL 2303/2015)"
+    },
+    {
+      "anos": 1,
+      "apresentado": 2022,
+      "publicado": 2023,
+      "norma": "Lei Ordinária nº 14.717, de 31 de outubro de 2023",
+      "projeto": "PL 976/2022"
+    },
+    {
+      "anos": 1,
+      "apresentado": 2023,
+      "publicado": 2024,
+      "norma": "Lei Ordinária nº 14.994, de 9 de outubro de 2024",
+      "projeto": "PL 4266/2023"
+    },
+    {
+      "anos": 1,
+      "apresentado": 2023,
+      "publicado": 2024,
+      "norma": "Lei Ordinária nº 15.035, de 27 de novembro de 2024",
+      "projeto": "PL 6212/2023"
+    },
+    {
+      "anos": 1,
+      "apresentado": 2024,
+      "publicado": 2025,
+      "norma": "Lei Ordinária nº 15.123, de 24 de abril de 2025",
+      "projeto": "PL 370/2024"
+    },
+    {
+      "anos": 1,
+      "apresentado": 2024,
+      "publicado": 2025,
+      "norma": "Lei Ordinária nº 15.181, de 28 de julho de 2025",
+      "projeto": "PL 4872/2024 (Nº Anterior: PL 5845/2016)"
+    },
+    {
+      "anos": 1,
+      "apresentado": 2025,
+      "publicado": 2026,
+      "norma": "Lei Ordinária nº 15.358, de 24 de março de 2026",
+      "projeto": "PL 5582/2025"
+    },
+    {
+      "anos": 1,
+      "apresentado": 2025,
+      "publicado": 2026,
+      "norma": "Lei Ordinária nº 15.487, de 6 de agosto de 2026",
+      "projeto": "PL 3066/2025"
+    },
+    {
+      "anos": 2,
+      "apresentado": 1966,
+      "publicado": 1968,
+      "norma": "Lei Ordinária nº 5.467, de 5 de julho de 1968",
+      "projeto": "PL 4044/1966"
+    },
+    {
+      "anos": 2,
+      "apresentado": 1991,
+      "publicado": 1993,
+      "norma": "Lei Ordinária nº 8.635, de 16 de março de 1993",
+      "projeto": "PL 161/1991"
+    },
+    {
+      "anos": 2,
+      "apresentado": 1991,
+      "publicado": 1993,
+      "norma": "Lei Ordinária nº 8.683, de 15 de julho de 1993",
+      "projeto": "PL 2460/1991"
+    },
+    {
+      "anos": 2,
+      "apresentado": 1993,
+      "publicado": 1995,
+      "norma": "Lei Ordinária nº 9.127, de 16 de novembro de 1995",
+      "projeto": "PL 3787/1993 CPICN"
+    },
+    {
+      "anos": 2,
+      "apresentado": 1995,
+      "publicado": 1997,
+      "norma": "Lei Ordinária nº 9.459, de 13 de maio de 1997",
+      "projeto": "PL 1240/1995"
+    },
+    {
+      "anos": 2,
+      "apresentado": 1996,
+      "publicado": 1998,
+      "norma": "Lei Ordinária nº 9.714, de 25 de novembro de 1998",
+      "projeto": "PL 2684/1996"
+    },
+    {
+      "anos": 2,
+      "apresentado": 1999,
+      "publicado": 2001,
+      "norma": "Lei Ordinária nº 10.224, de 15 de maio de 2001",
+      "projeto": "PL 61/1999"
+    },
+    {
+      "anos": 2,
+      "apresentado": 2003,
+      "publicado": 2005,
+      "norma": "Lei Ordinária nº 11.106, de 28 de março de 2005",
+      "projeto": "PL 117/2003"
+    },
+    {
+      "anos": 2,
+      "apresentado": 2004,
+      "publicado": 2006,
+      "norma": "Lei Ordinária nº 11.340, de 7 de agosto de 2006",
+      "projeto": "PL 4559/2004"
+    },
+    {
+      "anos": 2,
+      "apresentado": 2005,
+      "publicado": 2007,
+      "norma": "Lei Ordinária nº 11.596, de 29 de novembro de 2007",
+      "projeto": "PL 5973/2005"
+    },
+    {
+      "anos": 2,
+      "apresentado": 2013,
+      "publicado": 2015,
+      "norma": "Lei Ordinária nº 13.188, de 11 de novembro de 2015",
+      "projeto": "PL 6446/2013"
+    },
+    {
+      "anos": 2,
+      "apresentado": 2014,
+      "publicado": 2016,
+      "norma": "Lei Ordinária nº 13.344, de 6 de outubro de 2016",
+      "projeto": "PL 7370/2014"
+    },
+    {
+      "anos": 2,
+      "apresentado": 2015,
+      "publicado": 2017,
+      "norma": "Lei Ordinária nº 13.445, de 24 de maio de 2017",
+      "projeto": "PL 2516/2015"
+    },
+    {
+      "anos": 2,
+      "apresentado": 2016,
+      "publicado": 2018,
+      "norma": "Lei Ordinária nº 13.718, de 24 de setembro de 2018",
+      "projeto": "PL 5452/2016"
+    },
+    {
+      "anos": 2,
+      "apresentado": 2017,
+      "publicado": 2019,
+      "norma": "Lei Ordinária nº 13.869, de 5 de setembro de 2019",
+      "projeto": "PL 7596/2017"
+    },
+    {
+      "anos": 2,
+      "apresentado": 2017,
+      "publicado": 2019,
+      "norma": "Lei Ordinária nº 13.968, de 26 de dezembro de 2019",
+      "projeto": "PL 8833/2017"
+    },
+    {
+      "anos": 2,
+      "apresentado": 2019,
+      "publicado": 2021,
+      "norma": "Lei Ordinária nº 14.132, de 31 de março de 2021",
+      "projeto": "PL 1369/2019"
+    },
+    {
+      "anos": 2,
+      "apresentado": 2021,
+      "publicado": 2023,
+      "norma": "Lei Ordinária nº 14.532, de 11 de janeiro de 2023",
+      "projeto": "PL 4566/2021 (Nº Anterior: PL 1749/2015)"
+    },
+    {
+      "anos": 2,
+      "apresentado": 2023,
+      "publicado": 2025,
+      "norma": "Lei Ordinária nº 15.134, de 6 de maio de 2025",
+      "projeto": "PL 4015/2023 (Nº Anterior: PL 996/2015)"
+    },
+    {
+      "anos": 2,
+      "apresentado": 2023,
+      "publicado": 2025,
+      "norma": "Lei Ordinária nº 15.159, de 3 de julho de 2025",
+      "projeto": "PL 3613/2023"
+    },
+    {
+      "anos": 2,
+      "apresentado": 2023,
+      "publicado": 2025,
+      "norma": "Lei Ordinária nº 15.160, de 3 de julho de 2025",
+      "projeto": "PL 419/2023"
+    },
+    {
+      "anos": 2,
+      "apresentado": 2023,
+      "publicado": 2025,
+      "norma": "Lei Ordinária nº 15.229, de 2 de outubro de 2025",
+      "projeto": "PL 3114/2023"
+    },
+    {
+      "anos": 2,
+      "apresentado": 2023,
+      "publicado": 2025,
+      "norma": "Lei Ordinária nº 15.245, de 29 de outubro de 2025",
+      "projeto": "PL 1307/2023"
+    },
+    {
+      "anos": 2,
+      "apresentado": 2024,
+      "publicado": 2026,
+      "norma": "Lei Ordinária nº 15.353, de 8 de março de 2026",
+      "projeto": "PL 2195/2024"
+    },
+    {
+      "anos": 2,
+      "apresentado": 2024,
+      "publicado": 2026,
+      "norma": "Lei Ordinária nº 15.384, de 9 de abril de 2026",
+      "projeto": "PL 3880/2024"
+    },
+    {
+      "anos": 2,
+      "apresentado": 2024,
+      "publicado": 2026,
+      "norma": "Lei Ordinária nº 15.409, de 20 de maio de 2026",
+      "projeto": "PL 1099/2024"
+    },
+    {
+      "anos": 3,
+      "apresentado": 1948,
+      "publicado": 1951,
+      "norma": "Lei Ordinária nº 1.431, de 12 de setembro de 1951",
+      "projeto": "PL 1254/1948"
+    },
+    {
+      "anos": 3,
+      "apresentado": 1995,
+      "publicado": 1998,
+      "norma": "Lei Ordinária nº 9.777, de 29 de dezembro de 1998",
+      "projeto": "PL 929/1995"
+    },
+    {
+      "anos": 3,
+      "apresentado": 2006,
+      "publicado": 2009,
+      "norma": "Lei Ordinária nº 12.012, de 6 de agosto de 2009",
+      "projeto": "PL 7024/2006"
+    },
+    {
+      "anos": 3,
+      "apresentado": 2009,
+      "publicado": 2012,
+      "norma": "Lei Ordinária nº 12.650, de 17 de maio de 2012",
+      "projeto": "PL 6719/2009"
+    },
+    {
+      "anos": 3,
+      "apresentado": 2011,
+      "publicado": 2014,
+      "norma": "Lei Ordinária nº 13.008, de 26 de junho de 2014",
+      "projeto": "PL 643/2011"
+    },
+    {
+      "anos": 3,
+      "apresentado": 2013,
+      "publicado": 2016,
+      "norma": "Lei Ordinária nº 13.330, de 2 de agosto de 2016",
+      "projeto": "PL 6999/2013"
+    },
+    {
+      "anos": 3,
+      "apresentado": 2015,
+      "publicado": 2018,
+      "norma": "Lei Ordinária nº 13.771, de 19 de dezembro de 2018",
+      "projeto": "PL 3030/2015"
+    },
+    {
+      "anos": 3,
+      "apresentado": 2021,
+      "publicado": 2024,
+      "norma": "Lei Ordinária nº 14.811, de 12 de janeiro de 2024",
+      "projeto": "PL 4224/2021"
+    },
+    {
+      "anos": 3,
+      "apresentado": 2023,
+      "publicado": 2026,
+      "norma": "Lei Ordinária nº 15.397, de 30 de abril de 2026",
+      "projeto": "PL 3780/2023"
+    },
+    {
+      "anos": 3,
+      "apresentado": 2023,
+      "publicado": 2026,
+      "norma": "Lei Ordinária nº 15.402, de 8 de maio de 2026",
+      "projeto": "PL 2162/2023"
+    },
+    {
+      "anos": 3,
+      "apresentado": 2023,
+      "publicado": 2026,
+      "norma": "Lei Ordinária nº 15.438, de 18 de junho de 2026",
+      "projeto": "PL 421/2023"
+    },
+    {
+      "anos": 3,
+      "apresentado": 2023,
+      "publicado": 2026,
+      "norma": "Lei Ordinária nº 15.455, de 1º de julho de 2026",
+      "projeto": "PL 5760/2023"
+    },
+    {
+      "anos": 4,
+      "apresentado": 1951,
+      "publicado": 1955,
+      "norma": "Lei Ordinária nº 2.505, de 11 de junho de 1955",
+      "projeto": "PL 1440/1951"
+    },
+    {
+      "anos": 4,
+      "apresentado": 1957,
+      "publicado": 1961,
+      "norma": "Lei Ordinária nº 3.924, de 26 de julho de 1961",
+      "projeto": "PL 3537/1957"
+    },
+    {
+      "anos": 4,
+      "apresentado": 1961,
+      "publicado": 1965,
+      "norma": "Lei Ordinária nº 4.611, de 2 de abril de 1965",
+      "projeto": "PL 3364/1961"
+    },
+    {
+      "anos": 4,
+      "apresentado": 1975,
+      "publicado": 1979,
+      "norma": "Lei Ordinária nº 6.710, de 5 de novembro de 1979",
+      "projeto": "PL 203/1975"
+    },
+    {
+      "anos": 4,
+      "apresentado": 1992,
+      "publicado": 1996,
+      "norma": "Lei Ordinária nº 9.269, de 2 de abril de 1996",
+      "projeto": "PL 3288/1992"
+    },
+    {
+      "anos": 4,
+      "apresentado": 2005,
+      "publicado": 2009,
+      "norma": "Lei Ordinária nº 12.015, de 7 de agosto de 2009",
+      "projeto": "PL 4850/2005"
+    },
+    {
+      "anos": 4,
+      "apresentado": 2009,
+      "publicado": 2013,
+      "norma": "Lei Ordinária nº 12.850, de 2 de agosto de 2013",
+      "projeto": "PL 6578/2009"
+    },
+    {
+      "anos": 4,
+      "apresentado": 2017,
+      "publicado": 2021,
+      "norma": "Lei Ordinária nº 14.133, de 1º de abril de 2021",
+      "projeto": "PL 6814/2017"
+    },
+    {
+      "anos": 4,
+      "apresentado": 2019,
+      "publicado": 2023,
+      "norma": "Lei Ordinária nº 14.562, de 26 de abril de 2023",
+      "projeto": "PL 5385/2019"
+    },
+    {
+      "anos": 4,
+      "apresentado": 2022,
+      "publicado": 2026,
+      "norma": "Lei Complementar nº 225, de 8 de janeiro de 2026",
+      "projeto": "PLP 125/2022"
+    },
+    {
+      "anos": 5,
+      "apresentado": 1951,
+      "publicado": 1956,
+      "norma": "Lei Ordinária nº 2.889, de 1º de outubro de 1956",
+      "projeto": "PL 249/1951"
+    },
+    {
+      "anos": 5,
+      "apresentado": 1959,
+      "publicado": 1964,
+      "norma": "Lei Ordinária nº 4.451, de 4 de novembro de 1964",
+      "projeto": "PL 698/1959"
+    },
+    {
+      "anos": 5,
+      "apresentado": 1975,
+      "publicado": 1980,
+      "norma": "Lei Ordinária nº 6.799, de 23 de junho de 1980",
+      "projeto": "PL 1066/1975"
+    },
+    {
+      "anos": 5,
+      "apresentado": 1979,
+      "publicado": 1984,
+      "norma": "Lei Ordinária nº 7.251, de 19 de novembro de 1984",
+      "projeto": "PL 285/1979"
+    },
+    {
+      "anos": 5,
+      "apresentado": 1989,
+      "publicado": 1994,
+      "norma": "Lei Ordinária nº 8.864, de 28 de março de 1994",
+      "projeto": "PL 3081/1989"
+    },
+    {
+      "anos": 5,
+      "apresentado": 1991,
+      "publicado": 1996,
+      "norma": "Lei Ordinária nº 9.263, de 12 de janeiro de 1996",
+      "projeto": "PL 209/1991"
+    },
+    {
+      "anos": 5,
+      "apresentado": 1991,
+      "publicado": 1996,
+      "norma": "Lei Ordinária nº 9.279, de 14 de maio de 1996",
+      "projeto": "PL 824/1991"
+    },
+    {
+      "anos": 5,
+      "apresentado": 1991,
+      "publicado": 1996,
+      "norma": "Lei Ordinária nº 9.281, de 4 de junho de 1996",
+      "projeto": "PL 1374/1991"
+    },
+    {
+      "anos": 5,
+      "apresentado": 1999,
+      "publicado": 2004,
+      "norma": "Lei Ordinária nº 11.035, de 22 de dezembro de 2004",
+      "projeto": "PL 1365/1999"
+    },
+    {
+      "anos": 5,
+      "apresentado": 2004,
+      "publicado": 2009,
+      "norma": "Lei Ordinária nº 11.923, de 17 de abril de 2009",
+      "projeto": "PL 4025/2004"
+    },
+    {
+      "anos": 5,
+      "apresentado": 2007,
+      "publicado": 2012,
+      "norma": "Lei Ordinária nº 12.694, de 24 de julho de 2012",
+      "projeto": "PL 2057/2007"
+    },
+    {
+      "anos": 5,
+      "apresentado": 2007,
+      "publicado": 2012,
+      "norma": "Lei Ordinária nº 12.720, de 27 de setembro de 2012",
+      "projeto": "PL 370/2007"
+    },
+    {
+      "anos": 5,
+      "apresentado": 2010,
+      "publicado": 2015,
+      "norma": "Lei Ordinária nº 13.228, de 28 de dezembro de 2015",
+      "projeto": "PL 6920/2010"
+    },
+    {
+      "anos": 5,
+      "apresentado": 2013,
+      "publicado": 2018,
+      "norma": "Lei Ordinária nº 13.772, de 19 de dezembro de 2018",
+      "projeto": "PL 5555/2013"
+    },
+    {
+      "anos": 5,
+      "apresentado": 2020,
+      "publicado": 2025,
+      "norma": "Lei Ordinária nº 15.163, de 3 de julho de 2025",
+      "projeto": "PL 4626/2020"
+    },
+    {
+      "anos": 6,
+      "apresentado": 1997,
+      "publicado": 2003,
+      "norma": "Lei Ordinária nº 10.741, de 1º de outubro de 2003",
+      "projeto": "PL 3561/1997"
+    },
+    {
+      "anos": 7,
+      "apresentado": 1989,
+      "publicado": 1996,
+      "norma": "Lei Ordinária nº 9.318, de 5 de dezembro de 1996",
+      "projeto": "PL 2797/1989"
+    },
+    {
+      "anos": 7,
+      "apresentado": 1996,
+      "publicado": 2003,
+      "norma": "Lei Ordinária nº 10.695, de 1º de julho de 2003",
+      "projeto": "PL 2681/1996"
+    },
+    {
+      "anos": 7,
+      "apresentado": 2003,
+      "publicado": 2010,
+      "norma": "Lei Ordinária nº 12.234, de 5 de maio de 2010",
+      "projeto": "PL 1383/2003"
+    },
+    {
+      "anos": 10,
+      "apresentado": 1999,
+      "publicado": 2009,
+      "norma": "Lei Ordinária nº 12.033, de 29 de setembro de 2009",
+      "projeto": "PL 36/1999"
+    },
+    {
+      "anos": 12,
+      "apresentado": 2012,
+      "publicado": 2024,
+      "norma": "Lei Ordinária nº 14.967, de 9 de setembro de 2024",
+      "projeto": "PL 4238/2012"
+    },
+    {
+      "anos": 12,
+      "apresentado": 2014,
+      "publicado": 2026,
+      "norma": "Lei Ordinária nº 15.425, de 3 de junho de 2026",
+      "projeto": "PL 7323/2014"
+    },
+    {
+      "anos": 13,
+      "apresentado": 1999,
+      "publicado": 2012,
+      "norma": "Lei Ordinária nº 12.735, de 30 de novembro de 2012",
+      "projeto": "PL 84/1999"
+    },
+    {
+      "anos": 13,
+      "apresentado": 2004,
+      "publicado": 2017,
+      "norma": "Lei Ordinária nº 13.531, de 7 de dezembro de 2017",
+      "projeto": "PL 3763/2004"
+    },
+    {
+      "anos": 30,
+      "apresentado": 1991,
+      "publicado": 2021,
+      "norma": "Lei Ordinária nº 14.197, de 1º de setembro de 2021",
+      "projeto": "PL 2462/1991"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+chave;valor
+gerado_por;apurar_rol_hediondos.py
+o_que_mede;o agravamento produzido FORA do texto do Codigo Penal, pela inclusao do artigo no rol de crimes hediondos
+fonte_do_rol;https://www.planalto.gov.br/ccivil_03/leis/l8072.htm
+fonte_do_texto;texto-integral-planalto.jsonl
+normas_fora_das_115;"[""Lei 8.930/1994"", ""Lei 9.695/1998""]"
+artigos_afetados_por_norma_fora_das_115;3
+limite_declarado;"o rol e decisao legislativa e nao escala de gravidade; isso ENFRAQUECE a separacao esperada no teste e o torna conservador"

@@ -1,0 +1,22 @@
+chave;valor
+gerado_em;2026-09-18
+corte;2026-09-18
+janela_observada;"[""1940-12-31"", ""2026-09-18""]"
+inicio_da_janela;publicacao do proprio Codigo Penal no DOU, lida no Normas.leg.br
+normas_no_universo;115
+normas_dentro_da_janela;115
+fonte_da_data.Legin, ficha, Publicação Original no DOU;114
+fonte_da_data.Normas.leg.br, datePublished;1
+soma_por_regime;115
+normas_que_tocam_o_cp.definicao;uniao das fichas do Legin que tocam o Codigo (alteram o texto ou incidem sem alterar) com as 115 normas alteradoras
+normas_que_tocam_o_cp.fichas_do_legin;135
+normas_que_tocam_o_cp.total_na_uniao;136
+normas_que_tocam_o_cp.dentro_da_janela;136
+normas_que_tocam_o_cp.por_regime.Estado Novo;2
+normas_que_tocam_o_cp.por_regime.República de 1946;4
+normas_que_tocam_o_cp.por_regime.Ditadura militar;20
+normas_que_tocam_o_cp.por_regime.Nova República;110
+marcos_e_fontes.1945-10-29;FGV CPDOC, https://cpdoc.fgv.br/pesquisa-conhecimento/getulio-vargas-1954
+marcos_e_fontes.1964-03-31;FGV CPDOC, https://cpdoc.fgv.br/artigos/golpe-1964
+marcos_e_fontes.1985-03-15;FGV, Atlas Historico do Brasil, https://atlas.fgv.br/verbete/4909
+ordem_dos_regimes;"[""Estado Novo"", ""República de 1946"", ""Ditadura militar"", ""Nova República""]"

@@ -1,0 +1,537 @@
+{
+ "gerado_por": "apurar_autoria_e_bancada.py",
+ "o_que_mede": "origem da iniciativa, partido do autor, direcao de severidade e coesao no voto",
+ "o_que_nao_mede": "posicao ideologica de partido, que exigiria escala externa publicada, ausente deste acervo",
+ "cobertura": {
+  "assinaturas_de_autoria": 217,
+  "assinaturas_sem_chave_extraivel": 0,
+  "normas_com_autoria": 125,
+  "normas_com_evento_datado_de_severidade": 49,
+  "normas_com_AMBOS": 49,
+  "normas_com_evento_e_SEM_autoria": 0,
+  "eventos_datados": 130,
+  "eventos_sem_chave_extraivel": 0
+ },
+ "eventos_por_origem_da_iniciativa": {
+  "Legislativo, comissao ou CPI": 23,
+  "Legislativo, Camara dos Deputados": 40,
+  "Legislativo, Senado Federal": 20,
+  "Executivo": 47
+ },
+ "normas_por_origem_da_iniciativa": {
+  "Legislativo, comissao ou CPI": 5,
+  "Legislativo, Camara dos Deputados": 20,
+  "Legislativo, Senado Federal": 9,
+  "Executivo": 15
+ },
+ "direcao_por_origem": {
+  "Legislativo, comissao ou CPI": {
+   "cria pena": 15,
+   "agrava": 7,
+   "abranda": 1
+  },
+  "Legislativo, Camara dos Deputados": {
+   "cria pena": 19,
+   "agrava": 13,
+   "abranda": 6,
+   "mantem": 2
+  },
+  "Legislativo, Senado Federal": {
+   "agrava": 13,
+   "cria pena": 4,
+   "mantem": 2,
+   "abranda": 1
+  },
+  "Executivo": {
+   "mantem": 3,
+   "abranda": 8,
+   "agrava": 17,
+   "cria pena": 19
+  }
+ },
+ "direcao_por_partido_do_autor": {
+  "ARENA": {
+   "mantem": 1,
+   "agrava": 1
+  },
+  "AVANTE": {
+   "cria pena": 1
+  },
+  "DEM": {
+   "mantem": 1,
+   "cria pena": 2
+  },
+  "MDB": {
+   "cria pena": 1
+  },
+  "MISSÃO": {
+   "abranda": 4,
+   "cria pena": 1,
+   "agrava": 1
+  },
+  "PCdoB": {
+   "cria pena": 1
+  },
+  "PDT": {
+   "cria pena": 1
+  },
+  "PL": {
+   "abranda": 4,
+   "cria pena": 2,
+   "agrava": 3
+  },
+  "PMDB": {
+   "cria pena": 2
+  },
+  "PP": {
+   "agrava": 6,
+   "cria pena": 1
+  },
+  "PROS": {
+   "cria pena": 1
+  },
+  "PSB": {
+   "cria pena": 1,
+   "agrava": 1
+  },
+  "PSD": {
+   "abranda": 1
+  },
+  "PSDB": {
+   "agrava": 2
+  },
+  "PSOL": {
+   "cria pena": 1
+  },
+  "PT": {
+   "cria pena": 12,
+   "agrava": 2,
+   "abranda": 1
+  },
+  "REPUBLICANOS": {
+   "agrava": 3
+  },
+  "SOLIDARIEDADE": {
+   "cria pena": 1
+  },
+  "UNIÃO": {
+   "abranda": 4,
+   "cria pena": 2,
+   "agrava": 1
+  }
+ },
+ "normas_autoradas_por_partido": {
+  "PT": 16,
+  "PP": 8,
+  "PL": 7,
+  "PSDB": 7,
+  "UNIÃO": 7,
+  "PSD": 6,
+  "REPUBLICANOS": 6,
+  "DEM": 5,
+  "ARENA": 4,
+  "MDB": 4,
+  "PSB": 4,
+  "PCdoB": 3,
+  "PMDB": 3,
+  "AVANTE": 2,
+  "PDT": 2,
+  "PR": 2,
+  "PSOL": 2,
+  "PTB": 2,
+  "SOLIDARIEDADE": 2,
+  "MISSÃO": 1,
+  "NOVO": 1,
+  "PDS": 1,
+  "PODE": 1,
+  "PRB": 1,
+  "PROS": 1,
+  "PSL": 1,
+  "REDE": 1,
+  "SD": 1
+ },
+ "coesao_no_voto_nominal": {
+  "PT": {
+   "sim": 1992,
+   "nao": 1596,
+   "outros": 134,
+   "total": 3722,
+   "normas": 27,
+   "pct_sim_entre_validos": 55.5
+  },
+  "PL": {
+   "sim": 1915,
+   "nao": 1326,
+   "outros": 128,
+   "total": 3369,
+   "normas": 17,
+   "pct_sim_entre_validos": 59.1
+  },
+  "PP": {
+   "sim": 1309,
+   "nao": 1041,
+   "outros": 19,
+   "total": 2369,
+   "normas": 26,
+   "pct_sim_entre_validos": 55.7
+  },
+  "PSD": {
+   "sim": 1149,
+   "nao": 919,
+   "outros": 10,
+   "total": 2078,
+   "normas": 23,
+   "pct_sim_entre_validos": 55.6
+  },
+  "UNIÃO": {
+   "sim": 855,
+   "nao": 865,
+   "outros": 5,
+   "total": 1725,
+   "normas": 8,
+   "pct_sim_entre_validos": 49.7
+  },
+  "REPUBLICANOS": {
+   "sim": 914,
+   "nao": 720,
+   "outros": 24,
+   "total": 1658,
+   "normas": 15,
+   "pct_sim_entre_validos": 55.9
+  },
+  "MDB": {
+   "sim": 837,
+   "nao": 689,
+   "outros": 7,
+   "total": 1533,
+   "normas": 16,
+   "pct_sim_entre_validos": 54.8
+  },
+  "PSDB": {
+   "sim": 832,
+   "nao": 560,
+   "outros": 79,
+   "total": 1471,
+   "normas": 26,
+   "pct_sim_entre_validos": 59.8
+  },
+  "PSB": {
+   "sim": 733,
+   "nao": 494,
+   "outros": 53,
+   "total": 1280,
+   "normas": 27,
+   "pct_sim_entre_validos": 59.7
+  },
+  "PDT": {
+   "sim": 667,
+   "nao": 438,
+   "outros": 24,
+   "total": 1129,
+   "normas": 26,
+   "pct_sim_entre_validos": 60.4
+  },
+  "PMDB": {
+   "sim": 568,
+   "nao": 225,
+   "outros": 16,
+   "total": 809,
+   "normas": 11,
+   "pct_sim_entre_validos": 71.6
+  },
+  "PSL": {
+   "sim": 434,
+   "nao": 324,
+   "outros": 6,
+   "total": 764,
+   "normas": 16,
+   "pct_sim_entre_validos": 57.3
+  },
+  "PODE": {
+   "sim": 313,
+   "nao": 310,
+   "outros": 7,
+   "total": 630,
+   "normas": 17,
+   "pct_sim_entre_validos": 50.2
+  },
+  "DEM": {
+   "sim": 332,
+   "nao": 220,
+   "outros": 49,
+   "total": 601,
+   "normas": 18,
+   "pct_sim_entre_validos": 60.1
+  },
+  "PSOL": {
+   "sim": 256,
+   "nao": 295,
+   "outros": 32,
+   "total": 583,
+   "normas": 26,
+   "pct_sim_entre_validos": 46.5
+  },
+  "PCdoB": {
+   "sim": 323,
+   "nao": 224,
+   "outros": 5,
+   "total": 552,
+   "normas": 27,
+   "pct_sim_entre_validos": 59.0
+  },
+  "PTB": {
+   "sim": 267,
+   "nao": 118,
+   "outros": 1,
+   "total": 386,
+   "normas": 19,
+   "pct_sim_entre_validos": 69.4
+  },
+  "PR": {
+   "sim": 247,
+   "nao": 101,
+   "outros": 7,
+   "total": 355,
+   "normas": 9,
+   "pct_sim_entre_validos": 71.0
+  },
+  "AVANTE": {
+   "sim": 188,
+   "nao": 127,
+   "outros": 5,
+   "total": 320,
+   "normas": 17,
+   "pct_sim_entre_validos": 59.7
+  },
+  "SOLIDARIEDADE": {
+   "sim": 189,
+   "nao": 114,
+   "outros": 0,
+   "total": 303,
+   "normas": 16,
+   "pct_sim_entre_validos": 62.4
+  },
+  "NOVO": {
+   "sim": 153,
+   "nao": 134,
+   "outros": 6,
+   "total": 293,
+   "normas": 16,
+   "pct_sim_entre_validos": 53.3
+  },
+  "PV": {
+   "sim": 162,
+   "nao": 108,
+   "outros": 5,
+   "total": 275,
+   "normas": 26,
+   "pct_sim_entre_validos": 60.0
+  },
+  "PSC": {
+   "sim": 155,
+   "nao": 98,
+   "outros": 2,
+   "total": 255,
+   "normas": 20,
+   "pct_sim_entre_validos": 61.3
+  },
+  "PRB": {
+   "sim": 186,
+   "nao": 67,
+   "outros": 2,
+   "total": 255,
+   "normas": 10,
+   "pct_sim_entre_validos": 73.5
+  },
+  "PROS": {
+   "sim": 140,
+   "nao": 91,
+   "outros": 0,
+   "total": 231,
+   "normas": 14,
+   "pct_sim_entre_validos": 60.6
+  },
+  "CIDADANIA": {
+   "sim": 100,
+   "nao": 105,
+   "outros": 0,
+   "total": 205,
+   "normas": 16,
+   "pct_sim_entre_validos": 48.8
+  },
+  "PPS": {
+   "sim": 91,
+   "nao": 34,
+   "outros": 15,
+   "total": 140,
+   "normas": 11,
+   "pct_sim_entre_validos": 72.8
+  },
+  "REDE": {
+   "sim": 65,
+   "nao": 54,
+   "outros": 18,
+   "total": 137,
+   "normas": 19,
+   "pct_sim_entre_validos": 54.6
+  },
+  "SD": {
+   "sim": 70,
+   "nao": 32,
+   "outros": 9,
+   "total": 111,
+   "normas": 5,
+   "pct_sim_entre_validos": 68.6
+  },
+  "PRD": {
+   "sim": 53,
+   "nao": 52,
+   "outros": 0,
+   "total": 105,
+   "normas": 7,
+   "pct_sim_entre_validos": 50.5
+  },
+  "PFL": {
+   "sim": 94,
+   "nao": 0,
+   "outros": 0,
+   "total": 94,
+   "normas": 2,
+   "pct_sim_entre_validos": 100.0
+  },
+  "PATRIOTA": {
+   "sim": 52,
+   "nao": 42,
+   "outros": 0,
+   "total": 94,
+   "normas": 11,
+   "pct_sim_entre_validos": 55.3
+  },
+  "PHS": {
+   "sim": 35,
+   "nao": 17,
+   "outros": 0,
+   "total": 52,
+   "normas": 10,
+   "pct_sim_entre_validos": 67.3
+  },
+  "PTN": {
+   "sim": 23,
+   "nao": 13,
+   "outros": 1,
+   "total": 37,
+   "normas": 3,
+   "pct_sim_entre_validos": 63.9
+  },
+  "PMN": {
+   "sim": 23,
+   "nao": 11,
+   "outros": 0,
+   "total": 34,
+   "normas": 10,
+   "pct_sim_entre_validos": 67.6
+  },
+  "PRP": {
+   "sim": 14,
+   "nao": 11,
+   "outros": 0,
+   "total": 25,
+   "normas": 7,
+   "pct_sim_entre_validos": 56.0
+  },
+  "PTdoB": {
+   "sim": 21,
+   "nao": 3,
+   "outros": 0,
+   "total": 24,
+   "normas": 8,
+   "pct_sim_entre_validos": 87.5
+  },
+  "PEN": {
+   "sim": 12,
+   "nao": 6,
+   "outros": 1,
+   "total": 19,
+   "normas": 6,
+   "pct_sim_entre_validos": 66.7
+  },
+  "PTC": {
+   "sim": 9,
+   "nao": 5,
+   "outros": 0,
+   "total": 14,
+   "normas": 4,
+   "pct_sim_entre_validos": 64.3
+  },
+  "PSDC": {
+   "sim": 10,
+   "nao": 4,
+   "outros": 0,
+   "total": 14,
+   "normas": 2,
+   "pct_sim_entre_validos": 71.4
+  },
+  "S.PART.": {
+   "sim": 8,
+   "nao": 5,
+   "outros": 0,
+   "total": 13,
+   "normas": 5,
+   "pct_sim_entre_validos": 61.5
+  },
+  "PAN": {
+   "sim": 5,
+   "nao": 0,
+   "outros": 0,
+   "total": 5,
+   "normas": 1,
+   "pct_sim_entre_validos": 100.0
+  },
+  "MISSÃO": {
+   "sim": 3,
+   "nao": 2,
+   "outros": 0,
+   "total": 5,
+   "normas": 2,
+   "pct_sim_entre_validos": 60.0
+  },
+  "PRTB": {
+   "sim": 2,
+   "nao": 1,
+   "outros": 0,
+   "total": 3,
+   "normas": 3,
+   "pct_sim_entre_validos": 66.7
+  },
+  "PRONA": {
+   "sim": 2,
+   "nao": 0,
+   "outros": 0,
+   "total": 2,
+   "normas": 1,
+   "pct_sim_entre_validos": 100.0
+  },
+  "PMR": {
+   "sim": 2,
+   "nao": 0,
+   "outros": 0,
+   "total": 2,
+   "normas": 1,
+   "pct_sim_entre_validos": 100.0
+  },
+  "PMB": {
+   "sim": 2,
+   "nao": 0,
+   "outros": 0,
+   "total": 2,
+   "normas": 2,
+   "pct_sim_entre_validos": 100.0
+  }
+ },
+ "voto_nominal_total": {
+  "votos": 28083,
+  "sim": 15812,
+  "nao": 11601,
+  "pct_sim_entre_validos": 57.7
+ }
+}

@@ -1,0 +1,42 @@
+chave;valor
+gerado_em;2026-08-29
+entrada;C:\Users\edvan\_projeto-extensao-codigo-penal-24-08-2026\analise-cientifica\periodicos-juridicos-cp.jsonl
+saida;C:\Users\edvan\_projeto-extensao-codigo-penal-24-08-2026\analise-cientifica\periodicos-juridicos-cp-classificado.jsonl
+registros_lidos;30140
+nenhum_registro_foi_apagado;True
+criterio.1 frase no titulo;a frase buscada, sem acento, aparece no titulo
+criterio.2 frase no resumo;a frase aparece no resumo, e nao no titulo
+criterio.3 todas as palavras em titulo ou resumo;todas as palavras uteis do termo aparecem, em qualquer ordem
+criterio.4 apenas algumas palavras;casamento parcial, nao serve para citar
+criterio.5 nenhuma palavra do termo;ruido puro da busca por relevancia
+total_por_nivel.1 frase no titulo;146
+total_por_nivel.2 frase no resumo;378
+total_por_nivel.3 todas as palavras em titulo ou resumo;769
+total_por_nivel.4 apenas algumas palavras;13638
+total_por_nivel.5 nenhuma palavra do termo;15209
+por_fonte.OpenAlex.1 frase no titulo;135
+por_fonte.OpenAlex.2 frase no resumo;377
+por_fonte.OpenAlex.3 todas as palavras em titulo ou resumo;766
+por_fonte.OpenAlex.4 apenas algumas palavras;6063
+por_fonte.OpenAlex.5 nenhuma palavra do termo;10843
+por_fonte.Crossref.1 frase no titulo;11
+por_fonte.Crossref.2 frase no resumo;1
+por_fonte.Crossref.3 todas as palavras em titulo ou resumo;3
+por_fonte.Crossref.4 apenas algumas palavras;7575
+por_fonte.Crossref.5 nenhuma palavra do termo;4366
+por_termo.codigo penal brasileiro.1 frase no titulo;25
+por_termo.codigo penal brasileiro.2 frase no resumo;260
+por_termo.codigo penal brasileiro.3 todas as palavras em titulo ou resumo;422
+por_termo.codigo penal brasileiro.4 apenas algumas palavras;2192
+por_termo.codigo penal brasileiro.5 nenhuma palavra do termo;3882
+por_termo.direito penal eleitoral.1 frase no titulo;1
+por_termo.direito penal eleitoral.2 frase no resumo;4
+por_termo.direito penal eleitoral.3 todas as palavras em titulo ou resumo;94
+por_termo.direito penal eleitoral.4 apenas algumas palavras;7084
+por_termo.direito penal eleitoral.5 nenhuma palavra do termo;6752
+por_termo.populismo penal.1 frase no titulo;120
+por_termo.populismo penal.2 frase no resumo;114
+por_termo.populismo penal.3 todas as palavras em titulo ou resumo;253
+por_termo.populismo penal.4 apenas algumas palavras;4362
+por_termo.populismo penal.5 nenhuma palavra do termo;4575
+o_que_este_relatorio_NAO_diz;nivel 1 nao significa artigo pertinente ao tema, significa que a frase esta' no titulo. Pertinencia se estabelece lendo, e nao casando cadeia de caracteres.

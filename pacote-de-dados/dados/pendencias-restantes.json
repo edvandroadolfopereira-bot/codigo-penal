@@ -1,0 +1,727 @@
+{
+ "gerado_por": "apurar_pendencias_restantes.py",
+ "A_poder_do_teste_da_agenda": {
+  "desenho": "uma observacao por norma, permutacao em blocos de dez anos, efeito plantado trocando a materia de uma fracao das normas de ano eleitoral",
+  "normas": 49,
+  "normas_em_ano_eleitoral": 26,
+  "sorteios_por_tamanho": 2000,
+  "resultados": [
+   {
+    "fracao_trocada": 0.0,
+    "detectou": 92,
+    "sorteios": 2000,
+    "poder": 0.046
+   },
+   {
+    "fracao_trocada": 0.2,
+    "detectou": 261,
+    "sorteios": 2000,
+    "poder": 0.1305
+   },
+   {
+    "fracao_trocada": 0.4,
+    "detectou": 784,
+    "sorteios": 2000,
+    "poder": 0.392
+   },
+   {
+    "fracao_trocada": 0.6,
+    "detectou": 1529,
+    "sorteios": 2000,
+    "poder": 0.7645
+   },
+   {
+    "fracao_trocada": 0.8,
+    "detectou": 1952,
+    "sorteios": 2000,
+    "poder": 0.976
+   }
+  ]
+ },
+ "B_sensibilidade_da_regua": {
+  "cortes": {
+   "menor_potencial_ofensivo_meses": 24,
+   "suspensao_condicional_do_processo_meses": 12,
+   "fonte_dos_cortes": "Lei n. 9.099/1995, arts. 61 e 89, e Lei n. 8.072/1990"
+  },
+  "faixas": {
+   "1. menor potencial ofensivo, teto ate' 2 anos": {
+    "n": 72,
+    "mediana_do_teto_meses": 12.0,
+    "menor": 1.0,
+    "maior": 24.0
+   },
+   "2. admite suspensao condicional do processo, piso ate' 1 ano": {
+    "n": 77,
+    "mediana_do_teto_meses": 48.0,
+    "menor": 36.0,
+    "maior": 180.0
+   },
+   "3. comum, fora dos dois beneficios": {
+    "n": 32,
+    "mediana_do_teto_meses": 72.0,
+    "menor": 48.0,
+    "maior": 168.0
+   },
+   "4. no rol de crimes hediondos": {
+    "n": 11,
+    "mediana_do_teto_meses": 240.0,
+    "menor": 72.0,
+    "maior": 480.0
+   }
+  },
+  "mediana_cresce_da_faixa_1_a_4": true,
+  "diferenca_entre_as_duas_faixas_vizinhas_meses": 24.0
+ },
+ "C_teto_efetivo": {
+  "o_que_e": "limite superior do teto, com a maior causa de aumento do artigo aplicada",
+  "artigos_com_causa_hoje": 46,
+  "artigos_com_causa_em_1940": 33,
+  "dispositivos_recalculados": 91,
+  "artigos_distintos_recalculados": 43,
+  "soma_dos_tetos_medidos_meses": 16616.0,
+  "soma_dos_tetos_efetivos_meses": 22899.92,
+  "subestimacao_percentual": 37.82,
+  "detalhe": [
+   {
+    "artigo": "157",
+    "teto_medido_meses": 480.0,
+    "fator": 3.0,
+    "teto_efetivo_meses": 1440.0
+   },
+   {
+    "artigo": "129",
+    "teto_medido_meses": 480.0,
+    "fator": 1.6667,
+    "teto_efetivo_meses": 800.02
+   },
+   {
+    "artigo": "121",
+    "teto_medido_meses": 480.0,
+    "fator": 1.3333,
+    "teto_efetivo_meses": 639.98
+   },
+   {
+    "artigo": "121",
+    "teto_medido_meses": 480.0,
+    "fator": 1.3333,
+    "teto_efetivo_meses": 639.98
+   },
+   {
+    "artigo": "121",
+    "teto_medido_meses": 480.0,
+    "fator": 1.3333,
+    "teto_efetivo_meses": 639.98
+   },
+   {
+    "artigo": "159",
+    "teto_medido_meses": 360.0,
+    "fator": 1.6667,
+    "teto_efetivo_meses": 600.01
+   },
+   {
+    "artigo": "158",
+    "teto_medido_meses": 144.0,
+    "fator": 3.0,
+    "teto_efetivo_meses": 432.0
+   },
+   {
+    "artigo": "267",
+    "teto_medido_meses": 180.0,
+    "fator": 2.0,
+    "teto_efetivo_meses": 360.0
+   },
+   {
+    "artigo": "359",
+    "teto_medido_meses": 180.0,
+    "fator": 2.0,
+    "teto_efetivo_meses": 360.0
+   },
+   {
+    "artigo": "359",
+    "teto_medido_meses": 144.0,
+    "fator": 2.0,
+    "teto_efetivo_meses": 288.0
+   },
+   {
+    "artigo": "359",
+    "teto_medido_meses": 144.0,
+    "fator": 2.0,
+    "teto_efetivo_meses": 288.0
+   },
+   {
+    "artigo": "218",
+    "teto_medido_meses": 192.0,
+    "fator": 1.3333,
+    "teto_efetivo_meses": 255.99
+   },
+   {
+    "artigo": "133",
+    "teto_medido_meses": 168.0,
+    "fator": 1.3333,
+    "teto_efetivo_meses": 223.99
+   },
+   {
+    "artigo": "136",
+    "teto_medido_meses": 168.0,
+    "fator": 1.3333,
+    "teto_efetivo_meses": 223.99
+   },
+   {
+    "artigo": "218",
+    "teto_medido_meses": 168.0,
+    "fator": 1.3333,
+    "teto_efetivo_meses": 223.99
+   },
+   {
+    "artigo": "171",
+    "teto_medido_meses": 96.0,
+    "fator": 2.0,
+    "teto_efetivo_meses": 192.0
+   },
+   {
+    "artigo": "180",
+    "teto_medido_meses": 96.0,
+    "fator": 2.0,
+    "teto_efetivo_meses": 192.0
+   },
+   {
+    "artigo": "180",
+    "teto_medido_meses": 96.0,
+    "fator": 2.0,
+    "teto_efetivo_meses": 192.0
+   },
+   {
+    "artigo": "218",
+    "teto_medido_meses": 144.0,
+    "fator": 1.3333,
+    "teto_efetivo_meses": 192.0
+   },
+   {
+    "artigo": "317",
+    "teto_medido_meses": 144.0,
+    "fator": 1.3333,
+    "teto_efetivo_meses": 192.0
+   },
+   {
+    "artigo": "333",
+    "teto_medido_meses": 144.0,
+    "fator": 1.3333,
+    "teto_efetivo_meses": 192.0
+   },
+   {
+    "artigo": "337",
+    "teto_medido_meses": 96.0,
+    "fator": 2.0,
+    "teto_efetivo_meses": 192.0
+   },
+   {
+    "artigo": "337",
+    "teto_medido_meses": 96.0,
+    "fator": 2.0,
+    "teto_efetivo_meses": 192.0
+   },
+   {
+    "artigo": "337",
+    "teto_medido_meses": 96.0,
+    "fator": 2.0,
+    "teto_efetivo_meses": 192.0
+   },
+   {
+    "artigo": "337",
+    "teto_medido_meses": 96.0,
+    "fator": 2.0,
+    "teto_efetivo_meses": 192.0
+   },
+   {
+    "artigo": "337",
+    "teto_medido_meses": 96.0,
+    "fator": 2.0,
+    "teto_efetivo_meses": 192.0
+   },
+   {
+    "artigo": "359",
+    "teto_medido_meses": 96.0,
+    "fator": 2.0,
+    "teto_efetivo_meses": 192.0
+   },
+   {
+    "artigo": "359",
+    "teto_medido_meses": 96.0,
+    "fator": 2.0,
+    "teto_efetivo_meses": 192.0
+   },
+   {
+    "artigo": "155",
+    "teto_medido_meses": 120.0,
+    "fator": 1.5,
+    "teto_efetivo_meses": 180.0
+   },
+   {
+    "artigo": "218",
+    "teto_medido_meses": 120.0,
+    "fator": 1.3333,
+    "teto_efetivo_meses": 160.0
+   },
+   {
+    "artigo": "122",
+    "teto_medido_meses": 72.0,
+    "fator": 2.0,
+    "teto_efetivo_meses": 144.0
+   },
+   {
+    "artigo": "149",
+    "teto_medido_meses": 96.0,
+    "fator": 1.5,
+    "teto_efetivo_meses": 144.0
+   },
+   {
+    "artigo": "149",
+    "teto_medido_meses": 96.0,
+    "fator": 1.5,
+    "teto_efetivo_meses": 144.0
+   },
+   {
+    "artigo": "337",
+    "teto_medido_meses": 72.0,
+    "fator": 2.0,
+    "teto_efetivo_meses": 144.0
+   },
+   {
+    "artigo": "359",
+    "teto_medido_meses": 72.0,
+    "fator": 2.0,
+    "teto_efetivo_meses": 144.0
+   },
+   {
+    "artigo": "359",
+    "teto_medido_meses": 72.0,
+    "fator": 2.0,
+    "teto_efetivo_meses": 144.0
+   },
+   {
+    "artigo": "359",
+    "teto_medido_meses": 72.0,
+    "fator": 2.0,
+    "teto_efetivo_meses": 144.0
+   },
+   {
+    "artigo": "311",
+    "teto_medido_meses": 96.0,
+    "fator": 1.3333,
+    "teto_efetivo_meses": 128.0
+   },
+   {
+    "artigo": "171",
+    "teto_medido_meses": 60.0,
+    "fator": 2.0,
+    "teto_efetivo_meses": 120.0
+   },
+   {
+    "artigo": "334",
+    "teto_medido_meses": 60.0,
+    "fator": 2.0,
+    "teto_efetivo_meses": 120.0
+   },
+   {
+    "artigo": "337",
+    "teto_medido_meses": 60.0,
+    "fator": 2.0,
+    "teto_efetivo_meses": 120.0
+   },
+   {
+    "artigo": "337",
+    "teto_medido_meses": 60.0,
+    "fator": 2.0,
+    "teto_efetivo_meses": 120.0
+   },
+   {
+    "artigo": "337",
+    "teto_medido_meses": 60.0,
+    "fator": 2.0,
+    "teto_efetivo_meses": 120.0
+   },
+   {
+    "artigo": "337",
+    "teto_medido_meses": 60.0,
+    "fator": 2.0,
+    "teto_efetivo_meses": 120.0
+   },
+   {
+    "artigo": "154",
+    "teto_medido_meses": 60.0,
+    "fator": 1.6667,
+    "teto_efetivo_meses": 100.0
+   },
+   {
+    "artigo": "146",
+    "teto_medido_meses": 48.0,
+    "fator": 2.0,
+    "teto_efetivo_meses": 96.0
+   },
+   {
+    "artigo": "250",
+    "teto_medido_meses": 72.0,
+    "fator": 1.3333,
+    "teto_efetivo_meses": 96.0
+   },
+   {
+    "artigo": "251",
+    "teto_medido_meses": 72.0,
+    "fator": 1.3333,
+    "teto_efetivo_meses": 96.0
+   },
+   {
+    "artigo": "266",
+    "teto_medido_meses": 48.0,
+    "fator": 2.0,
+    "teto_efetivo_meses": 96.0
+   },
+   {
+    "artigo": "311",
+    "teto_medido_meses": 72.0,
+    "fator": 1.3333,
+    "teto_efetivo_meses": 96.0
+   },
+   {
+    "artigo": "334",
+    "teto_medido_meses": 48.0,
+    "fator": 2.0,
+    "teto_efetivo_meses": 96.0
+   },
+   {
+    "artigo": "359",
+    "teto_medido_meses": 48.0,
+    "fator": 2.0,
+    "teto_efetivo_meses": 96.0
+   },
+   {
+    "artigo": "359",
+    "teto_medido_meses": 48.0,
+    "fator": 2.0,
+    "teto_efetivo_meses": 96.0
+   },
+   {
+    "artigo": "359",
+    "teto_medido_meses": 48.0,
+    "fator": 2.0,
+    "teto_efetivo_meses": 96.0
+   },
+   {
+    "artigo": "359",
+    "teto_medido_meses": 48.0,
+    "fator": 2.0,
+    "teto_efetivo_meses": 96.0
+   },
+   {
+    "artigo": "168",
+    "teto_medido_meses": 60.0,
+    "fator": 1.3333,
+    "teto_efetivo_meses": 80.0
+   },
+   {
+    "artigo": "357",
+    "teto_medido_meses": 60.0,
+    "fator": 1.3333,
+    "teto_efetivo_meses": 80.0
+   },
+   {
+    "artigo": "147",
+    "teto_medido_meses": 36.0,
+    "fator": 2.0,
+    "teto_efetivo_meses": 72.0
+   },
+   {
+    "artigo": "337",
+    "teto_medido_meses": 36.0,
+    "fator": 2.0,
+    "teto_efetivo_meses": 72.0
+   },
+   {
+    "artigo": "337",
+    "teto_medido_meses": 36.0,
+    "fator": 2.0,
+    "teto_efetivo_meses": 72.0
+   },
+   {
+    "artigo": "337",
+    "teto_medido_meses": 36.0,
+    "fator": 2.0,
+    "teto_efetivo_meses": 72.0
+   },
+   {
+    "artigo": "337",
+    "teto_medido_meses": 36.0,
+    "fator": 2.0,
+    "teto_efetivo_meses": 72.0
+   },
+   {
+    "artigo": "232",
+    "teto_medido_meses": 60.0,
+    "fator": 1.1667,
+    "teto_efetivo_meses": 70.0
+   },
+   {
+    "artigo": "168",
+    "teto_medido_meses": 48.0,
+    "fator": 1.3333,
+    "teto_efetivo_meses": 64.0
+   },
+   {
+    "artigo": "342",
+    "teto_medido_meses": 48.0,
+    "fator": 1.3333,
+    "teto_efetivo_meses": 64.0
+   },
+   {
+    "artigo": "343",
+    "teto_medido_meses": 48.0,
+    "fator": 1.3333,
+    "teto_efetivo_meses": 64.0
+   },
+   {
+    "artigo": "344",
+    "teto_medido_meses": 48.0,
+    "fator": 1.3333,
+    "teto_efetivo_meses": 64.0
+   },
+   {
+    "artigo": "151",
+    "teto_medido_meses": 36.0,
+    "fator": 1.5,
+    "teto_efetivo_meses": 54.0
+   },
+   {
+    "artigo": "147",
+    "teto_medido_meses": 24.0,
+    "fator": 2.0,
+    "teto_efetivo_meses": 48.0
+   },
+   {
+    "artigo": "147",
+    "teto_medido_meses": 24.0,
+    "fator": 2.0,
+    "teto_efetivo_meses": 48.0
+   },
+   {
+    "artigo": "207",
+    "teto_medido_meses": 36.0,
+    "fator": 1.3333,
+    "teto_efetivo_meses": 48.0
+   },
+   {
+    "artigo": "337",
+    "teto_medido_meses": 24.0,
+    "fator": 2.0,
+    "teto_efetivo_meses": 48.0
+   },
+   {
+    "artigo": "347",
+    "teto_medido_meses": 24.0,
+    "fator": 2.0,
+    "teto_efetivo_meses": 48.0
+   },
+   {
+    "artigo": "359",
+    "teto_medido_meses": 24.0,
+    "fator": 2.0,
+    "teto_efetivo_meses": 48.0
+   },
+   {
+    "artigo": "359",
+    "teto_medido_meses": 24.0,
+    "fator": 2.0,
+    "teto_efetivo_meses": 48.0
+   },
+   {
+    "artigo": "359",
+    "teto_medido_meses": 24.0,
+    "fator": 2.0,
+    "teto_efetivo_meses": 48.0
+   },
+   {
+    "artigo": "359",
+    "teto_medido_meses": 24.0,
+    "fator": 2.0,
+    "teto_efetivo_meses": 48.0
+   },
+   {
+    "artigo": "203",
+    "teto_medido_meses": 24.0,
+    "fator": 1.3333,
+    "teto_efetivo_meses": 32.0
+   },
+   {
+    "artigo": "216",
+    "teto_medido_meses": 24.0,
+    "fator": 1.3333,
+    "teto_efetivo_meses": 32.0
+   },
+   {
+    "artigo": "264",
+    "teto_medido_meses": 24.0,
+    "fator": 1.3333,
+    "teto_efetivo_meses": 32.0
+   },
+   {
+    "artigo": "135",
+    "teto_medido_meses": 12.0,
+    "fator": 2.0,
+    "teto_efetivo_meses": 24.0
+   },
+   {
+    "artigo": "146",
+    "teto_medido_meses": 12.0,
+    "fator": 2.0,
+    "teto_efetivo_meses": 24.0
+   },
+   {
+    "artigo": "359",
+    "teto_medido_meses": 12.0,
+    "fator": 2.0,
+    "teto_efetivo_meses": 24.0
+   },
+   {
+    "artigo": "154",
+    "teto_medido_meses": 12.0,
+    "fator": 1.6667,
+    "teto_efetivo_meses": 20.0
+   },
+   {
+    "artigo": "132",
+    "teto_medido_meses": 12.0,
+    "fator": 1.3333,
+    "teto_efetivo_meses": 16.0
+   },
+   {
+    "artigo": "208",
+    "teto_medido_meses": 12.0,
+    "fator": 1.3333,
+    "teto_efetivo_meses": 16.0
+   },
+   {
+    "artigo": "209",
+    "teto_medido_meses": 12.0,
+    "fator": 1.3333,
+    "teto_efetivo_meses": 16.0
+   },
+   {
+    "artigo": "216",
+    "teto_medido_meses": 12.0,
+    "fator": 1.3333,
+    "teto_efetivo_meses": 16.0
+   },
+   {
+    "artigo": "268",
+    "teto_medido_meses": 12.0,
+    "fator": 1.3333,
+    "teto_efetivo_meses": 16.0
+   },
+   {
+    "artigo": "135",
+    "teto_medido_meses": 6.0,
+    "fator": 2.0,
+    "teto_efetivo_meses": 12.0
+   },
+   {
+    "artigo": "147",
+    "teto_medido_meses": 6.0,
+    "fator": 2.0,
+    "teto_efetivo_meses": 12.0
+   }
+  ]
+ },
+ "D_objeto_das_votacoes": {
+  "criterio": "palavra do objeto, lida da descricao que a Camara grava em cada votacao; o que ela nao declara e' lido no detalhe da propria Camara, campo da ultima proposicao apresentada, e so' conta quando e' requerimento",
+  "classificadas_por_passagem": {
+   "pela descricao": 540,
+   "detalhe sem requerimento": 1,
+   "pelo detalhe da Camara": 113
+  },
+  "limite_da_fonte": "o campo da Camara mistura OBJETO e RESULTADO: parte das descricoes diz apenas 'Aprovado', sem dizer o que foi aprovado. Essas saem como resultado sem objeto declarado, e nao forcadas para uma classe",
+  "votacoes_classificadas": 654,
+  "sem_objeto_declarado": 1,
+  "por_objeto": [
+   {
+    "objeto": "requerimento",
+    "votacoes": 297,
+    "votos": 12698,
+    "sim": 6240,
+    "nao": 6136,
+    "pct_sim_entre_validos": 50.4
+   },
+   {
+    "objeto": "destaque",
+    "votacoes": 53,
+    "votos": 6495,
+    "sim": 4133,
+    "nao": 2143,
+    "pct_sim_entre_validos": 65.9
+   },
+   {
+    "objeto": "emenda",
+    "votacoes": 59,
+    "votos": 4425,
+    "sim": 1856,
+    "nao": 2544,
+    "pct_sim_entre_validos": 42.2
+   },
+   {
+    "objeto": "texto principal",
+    "votacoes": 72,
+    "votos": 3717,
+    "sim": 2937,
+    "nao": 747,
+    "pct_sim_entre_validos": 79.7
+   },
+   {
+    "objeto": "autorizacao de tramitacao",
+    "votacoes": 1,
+    "votos": 406,
+    "sim": 398,
+    "nao": 2,
+    "pct_sim_entre_validos": 99.5
+   },
+   {
+    "objeto": "redacao final",
+    "votacoes": 89,
+    "votos": 325,
+    "sim": 235,
+    "nao": 25,
+    "pct_sim_entre_validos": 90.4
+   },
+   {
+    "objeto": "parecer",
+    "votacoes": 64,
+    "votos": 17,
+    "sim": 13,
+    "nao": 4,
+    "pct_sim_entre_validos": 76.5
+   },
+   {
+    "objeto": "substitutivo",
+    "votacoes": 16,
+    "votos": 0,
+    "sim": 0,
+    "nao": 0,
+    "pct_sim_entre_validos": null
+   },
+   {
+    "objeto": "veto",
+    "votacoes": 2,
+    "votos": 0,
+    "sim": 0,
+    "nao": 0,
+    "pct_sim_entre_validos": null
+   },
+   {
+    "objeto": "resultado sem objeto declarado",
+    "votacoes": 1,
+    "votos": 0,
+    "sim": 0,
+    "nao": 0,
+    "pct_sim_entre_validos": null
+   }
+  ]
+ }
+}

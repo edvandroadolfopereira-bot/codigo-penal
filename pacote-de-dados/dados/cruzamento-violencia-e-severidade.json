@@ -1,0 +1,68 @@
+{
+ "gerado_em": "30/08/2026",
+ "serie_de_violencia": {
+  "indicador": "Mortes Violentas Intencionais, numeros absolutos, Brasil",
+  "fonte": "Forum Brasileiro de Seguranca Publica, 20o Anuario, edicao de 2026, tabela da serie historica",
+  "o_que_a_categoria_soma": "homicidio doloso, latrocinio, lesao corporal seguida de morte e morte decorrente de intervencao policial",
+  "por_ano": {
+   "2012": 54694,
+   "2013": 55844,
+   "2014": 59739,
+   "2015": 58437,
+   "2016": 61600,
+   "2017": 64079,
+   "2018": 57592,
+   "2019": 47765,
+   "2020": 50448,
+   "2021": 48286,
+   "2022": 47963,
+   "2023": 46441,
+   "2024": 44220,
+   "2025": 40775
+  }
+ },
+ "serie_de_agravamento": {
+  "indicador": "eventos que aumentam o teto da pena ou criam pena nova",
+  "fonte": "cp-eventos-de-severidade.csv",
+  "por_ano": {
+   "2012": 3,
+   "2013": 0,
+   "2014": 1,
+   "2015": 0,
+   "2016": 1,
+   "2017": 0,
+   "2018": 3,
+   "2019": 0,
+   "2020": 0,
+   "2021": 22,
+   "2022": 1,
+   "2023": 1,
+   "2024": 3,
+   "2025": 8
+  }
+ },
+ "janela": {
+  "de": 2012,
+  "ate": 2025,
+  "n": 14
+ },
+ "variacao": {
+  "violencia_no_periodo": -25.4,
+  "agravamentos_somados": 43
+ },
+ "associacao": {
+  "pearson_mesmo_ano": -0.3563616604867988,
+  "spearman_mesmo_ano": -0.40212948860238107,
+  "pearson_com_defasagem_de_um_ano": -0.294471562899893,
+  "spearman_com_defasagem_de_um_ano": -0.35041849664811187,
+  "n_do_mesmo_ano": 14,
+  "n_da_defasagem": 13
+ },
+ "o_que_isto_NAO_diz": [
+  "nao diz que a lei causou a queda da violencia, nem o contrario",
+  "com n de catorze e sem desenho de identificacao, causa nao se afirma",
+  "nao mede dissuasao, mede se as duas series andam juntas",
+  "a serie do Forum comeca em 2012, e a de agravamento e' densa desde 1990: a janela comum e' a mais curta das duas"
+ ],
+ "defeito_de_catalogacao_da_fonte": "o arquivo de resumo criptografico e40c53ff esta' catalogado em tres itens do acervo do Forum, e um deles o atribui ao 10o Anuario de 2016 quando ele e' o 16o Anuario de 2022"
+}

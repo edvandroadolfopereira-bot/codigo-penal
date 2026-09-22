@@ -1,0 +1,9 @@
+chave;valor
+coletado_em;30/08/2026
+fonte;https://www.planalto.gov.br/ccivil_03/leis/l8072.htm
+norma;Lei n. 8.072, de 25 de julho de 1990, texto compilado
+como_foi_lido;"inciso a inciso, tomando a ULTIMA redacao de cada um; o texto compilado empilha redacao vigente e superada sem separa-las, e por isso a extracao automatica devolveu 30 artigos, dos quais 14 errados"
+conferencia;cada artigo e cada norma de ultima redacao foi conferido contra o texto colhido, e o script recusa se algum faltar
+artigos_do_cp;"[""121"", ""121-A"", ""121-B"", ""122"", ""129"", ""148"", ""149-A"", ""155"", ""157"", ""158"", ""159"", ""213"", ""217-A"", ""218-B"", ""267"", ""273""]"
+quantos;16
+limite_declarado;"o rol e decisao legislativa e nao escala de gravidade; isso ENFRAQUECE a separacao esperada no teste e o torna conservador"

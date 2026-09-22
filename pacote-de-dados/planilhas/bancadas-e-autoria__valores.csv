@@ -1,0 +1,552 @@
+chave;valor
+fonte;"Câmara dos Deputados, API de dados abertos, /deputados?idLegislatura=N; autoria em agentes-politicos.json"
+limites;"[""1946-1951: a base da Câmara traz só 83 deputados, e a bancada dessa legislatura vem dos 286 deputados federais eleitos em 1945, pelos dados abertos do TSE; ali se contam os eleitos, e não quem exerceu o mandato"", ""até 1999 a fonte grava um só partido por deputado"", ""quem trocou de partido conta em cada um; a soma das bancadas passa do total de deputados"", ""siglas renomeadas ficam separadas como a fonte grava"", ""taxa só para partido com pelo menos 100 deputados-legislatura"", ""partido do autor: o da data de apresentação do projeto; até 2014 a Câmara só registra o partido no início de cada legislatura, e troca no meio dela não aparece""]"
+autorias_fora_da_taxa;"[""ADHEMAR GHISI, PL 285/1979: a Câmara registra PDS para a legislatura 1979-1983, partido criado depois da apresentação pela Lei 6.767/1979; o partido na data não consta da fonte""]"
+partido_do_autor.PL 1254/1948|DAMASO ROCHA.partido;PSD (1946-1965)
+partido_do_autor.PL 1254/1948|DAMASO ROCHA.ficha;PSD
+partido_do_autor.PL 1254/1948|DAMASO ROCHA.apresentacao;1948-11-24
+partido_do_autor.PL 1254/1948|DAMASO ROCHA.criterio;partido no início da legislatura (a fonte não registra troca datada antes de 2015)
+partido_do_autor.PL 1440/1951|MARREY JUNIOR.partido;PTB (1946-1965)
+partido_do_autor.PL 1440/1951|MARREY JUNIOR.ficha;PTB
+partido_do_autor.PL 1440/1951|MARREY JUNIOR.apresentacao;1951-11-27
+partido_do_autor.PL 1440/1951|MARREY JUNIOR.criterio;partido no início da legislatura (a fonte não registra troca datada antes de 2015)
+partido_do_autor.PL 698/1959|COUTINHO CAVALCANTI.partido;PTB (1946-1965)
+partido_do_autor.PL 698/1959|COUTINHO CAVALCANTI.ficha;PTB
+partido_do_autor.PL 698/1959|COUTINHO CAVALCANTI.apresentacao;1959-07-31
+partido_do_autor.PL 698/1959|COUTINHO CAVALCANTI.criterio;partido no início da legislatura (a fonte não registra troca datada antes de 2015)
+partido_do_autor.PL 1066/1975|NORTON MACEDO.partido;ARENA (1966-1979)
+partido_do_autor.PL 1066/1975|NORTON MACEDO.ficha;ARENA
+partido_do_autor.PL 1066/1975|NORTON MACEDO.apresentacao;1975-09-11
+partido_do_autor.PL 1066/1975|NORTON MACEDO.criterio;partido no início da legislatura (a fonte não registra troca datada antes de 2015)
+partido_do_autor.PL 2460/1991|DIOGO NOMURA.partido;PL
+partido_do_autor.PL 2460/1991|DIOGO NOMURA.ficha;ARENA
+partido_do_autor.PL 2460/1991|DIOGO NOMURA.apresentacao;1991-03-05
+partido_do_autor.PL 2460/1991|DIOGO NOMURA.criterio;partido no início da legislatura (a fonte não registra troca datada antes de 2015)
+partido_do_autor.PL 1374/1991|ROSE DE FREITAS.partido;PSDB
+partido_do_autor.PL 1374/1991|ROSE DE FREITAS.ficha;PSDB
+partido_do_autor.PL 1374/1991|ROSE DE FREITAS.apresentacao;1991-06-25
+partido_do_autor.PL 1374/1991|ROSE DE FREITAS.criterio;partido no início da legislatura (a fonte não registra troca datada antes de 2015)
+partido_do_autor.PL 2797/1989|GEOVANI BORGES.partido;PFL
+partido_do_autor.PL 2797/1989|GEOVANI BORGES.ficha;PDS
+partido_do_autor.PL 2797/1989|GEOVANI BORGES.apresentacao;1989-06-26
+partido_do_autor.PL 2797/1989|GEOVANI BORGES.criterio;partido no início da legislatura (a fonte não registra troca datada antes de 2015)
+partido_do_autor.PL 1240/1995|PAULO PAIM.partido;PT
+partido_do_autor.PL 1240/1995|PAULO PAIM.ficha;PT
+partido_do_autor.PL 1240/1995|PAULO PAIM.apresentacao;1995-11-21
+partido_do_autor.PL 1240/1995|PAULO PAIM.criterio;partido no início da legislatura (a fonte não registra troca datada antes de 2015)
+partido_do_autor.PL 4207/1998|BENEDITO DOMINGOS.partido;PPB
+partido_do_autor.PL 4207/1998|BENEDITO DOMINGOS.ficha;PP
+partido_do_autor.PL 4207/1998|BENEDITO DOMINGOS.apresentacao;1998-03-04
+partido_do_autor.PL 4207/1998|BENEDITO DOMINGOS.criterio;partido no início da legislatura (a fonte não registra troca datada antes de 2015)
+partido_do_autor.PL 929/1995|PAULO ROCHA.partido;PT
+partido_do_autor.PL 929/1995|PAULO ROCHA.ficha;PT
+partido_do_autor.PL 929/1995|PAULO ROCHA.apresentacao;1995-09-06
+partido_do_autor.PL 929/1995|PAULO ROCHA.criterio;partido no início da legislatura (a fonte não registra troca datada antes de 2015)
+partido_do_autor.PL 61/1999|Iara Bernardi.partido;PT
+partido_do_autor.PL 61/1999|Iara Bernardi.ficha;PT
+partido_do_autor.PL 61/1999|Iara Bernardi.apresentacao;1999-02-24
+partido_do_autor.PL 61/1999|Iara Bernardi.criterio;partido no início da legislatura (a fonte não registra troca datada antes de 2015)
+partido_do_autor.PL 3561/1997|Paulo Paim.partido;PT
+partido_do_autor.PL 3561/1997|Paulo Paim.ficha;PT
+partido_do_autor.PL 3561/1997|Paulo Paim.apresentacao;1997-08-28
+partido_do_autor.PL 3561/1997|Paulo Paim.criterio;partido no início da legislatura (a fonte não registra troca datada antes de 2015)
+partido_do_autor.PL 3/2003|Iara Bernardi.partido;PT
+partido_do_autor.PL 3/2003|Iara Bernardi.ficha;PT
+partido_do_autor.PL 3/2003|Iara Bernardi.apresentacao;2003-02-18
+partido_do_autor.PL 3/2003|Iara Bernardi.criterio;histórico datado da Câmara
+partido_do_autor.PL 117/2003|Iara Bernardi.partido;PT
+partido_do_autor.PL 117/2003|Iara Bernardi.ficha;PT
+partido_do_autor.PL 117/2003|Iara Bernardi.apresentacao;2003-02-19
+partido_do_autor.PL 117/2003|Iara Bernardi.criterio;histórico datado da Câmara
+partido_do_autor.PL 7024/2006|Alberto Fraga.partido;PFL
+partido_do_autor.PL 7024/2006|Alberto Fraga.ficha;DEM
+partido_do_autor.PL 7024/2006|Alberto Fraga.apresentacao;2006-05-15
+partido_do_autor.PL 7024/2006|Alberto Fraga.criterio;histórico datado da Câmara
+partido_do_autor.PL 36/1999|Paulo Rocha.partido;PT
+partido_do_autor.PL 36/1999|Paulo Rocha.ficha;PT
+partido_do_autor.PL 36/1999|Paulo Rocha.apresentacao;1999-02-03
+partido_do_autor.PL 36/1999|Paulo Rocha.criterio;partido no início da legislatura (a fonte não registra troca datada antes de 2015)
+partido_do_autor.PL 1383/2003|Antonio Carlos Biscaia.partido;PT
+partido_do_autor.PL 1383/2003|Antonio Carlos Biscaia.ficha;PT
+partido_do_autor.PL 1383/2003|Antonio Carlos Biscaia.apresentacao;2003-07-02
+partido_do_autor.PL 1383/2003|Antonio Carlos Biscaia.criterio;histórico datado da Câmara
+partido_do_autor.PL 370/2007|Luiz Couto.partido;PT
+partido_do_autor.PL 370/2007|Luiz Couto.ficha;PT
+partido_do_autor.PL 370/2007|Luiz Couto.apresentacao;2007-03-08
+partido_do_autor.PL 370/2007|Luiz Couto.criterio;histórico datado da Câmara
+partido_do_autor.PL 84/1999|Luiz Piauhylino.partido;PSDB
+partido_do_autor.PL 84/1999|Luiz Piauhylino.ficha;PDT
+partido_do_autor.PL 84/1999|Luiz Piauhylino.apresentacao;1999-02-24
+partido_do_autor.PL 84/1999|Luiz Piauhylino.criterio;partido no início da legislatura (a fonte não registra troca datada antes de 2015)
+partido_do_autor.PL 2793/2011|Paulo Teixeira.partido;PT
+partido_do_autor.PL 2793/2011|Paulo Teixeira.ficha;PT
+partido_do_autor.PL 2793/2011|Paulo Teixeira.apresentacao;2011-11-29
+partido_do_autor.PL 2793/2011|Paulo Teixeira.criterio;histórico datado da Câmara
+partido_do_autor.PL 2793/2011|Luiza Erundina.partido;PSB
+partido_do_autor.PL 2793/2011|Luiza Erundina.ficha;PSB
+partido_do_autor.PL 2793/2011|Luiza Erundina.apresentacao;2011-11-29
+partido_do_autor.PL 2793/2011|Luiza Erundina.criterio;histórico datado da Câmara
+partido_do_autor.PL 2793/2011|Manuela D'ávila.partido;PCdoB
+partido_do_autor.PL 2793/2011|Manuela D'ávila.ficha;PCdoB
+partido_do_autor.PL 2793/2011|Manuela D'ávila.apresentacao;2011-11-29
+partido_do_autor.PL 2793/2011|Manuela D'ávila.criterio;histórico datado da Câmara
+partido_do_autor.PL 2793/2011|João Arruda.partido;PMDB
+partido_do_autor.PL 2793/2011|João Arruda.ficha;PMDB
+partido_do_autor.PL 2793/2011|João Arruda.apresentacao;2011-11-29
+partido_do_autor.PL 2793/2011|João Arruda.criterio;histórico datado da Câmara
+partido_do_autor.PL 2793/2011|Brizola Neto.partido;PDT
+partido_do_autor.PL 2793/2011|Brizola Neto.ficha;PDT
+partido_do_autor.PL 2793/2011|Brizola Neto.apresentacao;2011-11-29
+partido_do_autor.PL 2793/2011|Brizola Neto.criterio;histórico datado da Câmara
+partido_do_autor.PL 2793/2011|Emiliano José.partido;PT
+partido_do_autor.PL 2793/2011|Emiliano José.ficha;PT
+partido_do_autor.PL 2793/2011|Emiliano José.apresentacao;2011-11-29
+partido_do_autor.PL 2793/2011|Emiliano José.criterio;histórico datado da Câmara
+partido_do_autor.PL 643/2011|Efraim Filho.partido;DEM
+partido_do_autor.PL 643/2011|Efraim Filho.ficha;DEM
+partido_do_autor.PL 643/2011|Efraim Filho.apresentacao;2011-03-02
+partido_do_autor.PL 643/2011|Efraim Filho.criterio;histórico datado da Câmara
+partido_do_autor.PL 846/2015|Leonardo Picciani.partido;PMDB
+partido_do_autor.PL 846/2015|Leonardo Picciani.ficha;PMDB
+partido_do_autor.PL 846/2015|Leonardo Picciani.apresentacao;2015-03-19
+partido_do_autor.PL 846/2015|Leonardo Picciani.criterio;histórico datado da Câmara
+partido_do_autor.PL 6920/2010|Márcio Marinho.partido;PRB
+partido_do_autor.PL 6920/2010|Márcio Marinho.ficha;PRB
+partido_do_autor.PL 6920/2010|Márcio Marinho.apresentacao;2010-03-09
+partido_do_autor.PL 6920/2010|Márcio Marinho.criterio;histórico datado da Câmara
+partido_do_autor.PL 6999/2013|Afonso Hamm.partido;PP
+partido_do_autor.PL 6999/2013|Afonso Hamm.ficha;PP
+partido_do_autor.PL 6999/2013|Afonso Hamm.apresentacao;2013-12-18
+partido_do_autor.PL 6999/2013|Afonso Hamm.criterio;histórico datado da Câmara
+partido_do_autor.PL 3763/2004|Coronel Alves.partido;PL
+partido_do_autor.PL 3763/2004|Coronel Alves.ficha;PR
+partido_do_autor.PL 3763/2004|Coronel Alves.apresentacao;2004-06-09
+partido_do_autor.PL 3763/2004|Coronel Alves.criterio;histórico datado da Câmara
+partido_do_autor.PL 9206/2017|Zé Silva.partido;SD
+partido_do_autor.PL 9206/2017|Zé Silva.ficha;SD
+partido_do_autor.PL 9206/2017|Zé Silva.apresentacao;2017-11-28
+partido_do_autor.PL 9206/2017|Zé Silva.criterio;histórico datado da Câmara
+partido_do_autor.PL 9206/2017|Nilson Leitão.partido;PSDB
+partido_do_autor.PL 9206/2017|Nilson Leitão.ficha;PSDB
+partido_do_autor.PL 9206/2017|Nilson Leitão.apresentacao;2017-11-28
+partido_do_autor.PL 9206/2017|Nilson Leitão.criterio;histórico datado da Câmara
+partido_do_autor.PL 7874/2017|Laura Carneiro.partido;PMDB
+partido_do_autor.PL 7874/2017|Laura Carneiro.ficha;DEM
+partido_do_autor.PL 7874/2017|Laura Carneiro.apresentacao;2017-06-13
+partido_do_autor.PL 7874/2017|Laura Carneiro.criterio;histórico datado da Câmara
+partido_do_autor.PL 3030/2015|Lincoln Portela.partido;PR
+partido_do_autor.PL 3030/2015|Lincoln Portela.ficha;PR
+partido_do_autor.PL 3030/2015|Lincoln Portela.apresentacao;2015-09-17
+partido_do_autor.PL 3030/2015|Lincoln Portela.criterio;histórico datado da Câmara
+partido_do_autor.PL 5555/2013|João Arruda.partido;PMDB
+partido_do_autor.PL 5555/2013|João Arruda.ficha;MDB
+partido_do_autor.PL 5555/2013|João Arruda.apresentacao;2013-05-09
+partido_do_autor.PL 5555/2013|João Arruda.criterio;histórico datado da Câmara
+partido_do_autor.PL 10372/2018|José Rocha.partido;PR
+partido_do_autor.PL 10372/2018|José Rocha.ficha;PL
+partido_do_autor.PL 10372/2018|José Rocha.apresentacao;2018-06-06
+partido_do_autor.PL 10372/2018|José Rocha.criterio;histórico datado da Câmara
+partido_do_autor.PL 10372/2018|Marcelo Aro.partido;PHS
+partido_do_autor.PL 10372/2018|Marcelo Aro.ficha;PP
+partido_do_autor.PL 10372/2018|Marcelo Aro.apresentacao;2018-06-06
+partido_do_autor.PL 10372/2018|Marcelo Aro.criterio;histórico datado da Câmara
+partido_do_autor.PL 10372/2018|Wladimir Costa.partido;SD
+partido_do_autor.PL 10372/2018|Wladimir Costa.ficha;SOLIDARIEDADE
+partido_do_autor.PL 10372/2018|Wladimir Costa.apresentacao;2018-06-06
+partido_do_autor.PL 10372/2018|Wladimir Costa.criterio;histórico datado da Câmara
+partido_do_autor.PL 10372/2018|Nilson Leitão.partido;PSDB
+partido_do_autor.PL 10372/2018|Nilson Leitão.ficha;PSDB
+partido_do_autor.PL 10372/2018|Nilson Leitão.apresentacao;2018-06-06
+partido_do_autor.PL 10372/2018|Nilson Leitão.criterio;histórico datado da Câmara
+partido_do_autor.PL 10372/2018|Baleia Rossi.partido;MDB
+partido_do_autor.PL 10372/2018|Baleia Rossi.ficha;MDB
+partido_do_autor.PL 10372/2018|Baleia Rossi.apresentacao;2018-06-06
+partido_do_autor.PL 10372/2018|Baleia Rossi.criterio;histórico datado da Câmara
+partido_do_autor.PL 10372/2018|Luis Tibé.partido;AVANTE
+partido_do_autor.PL 10372/2018|Luis Tibé.ficha;AVANTE
+partido_do_autor.PL 10372/2018|Luis Tibé.apresentacao;2018-06-06
+partido_do_autor.PL 10372/2018|Luis Tibé.criterio;histórico datado da Câmara
+partido_do_autor.PL 10372/2018|Ricardo Teobaldo.partido;PODE
+partido_do_autor.PL 10372/2018|Ricardo Teobaldo.ficha;PODE
+partido_do_autor.PL 10372/2018|Ricardo Teobaldo.apresentacao;2018-06-06
+partido_do_autor.PL 10372/2018|Ricardo Teobaldo.criterio;histórico datado da Câmara
+partido_do_autor.PL 10372/2018|Celso Russomanno.partido;PRB
+partido_do_autor.PL 10372/2018|Celso Russomanno.ficha;REPUBLICANOS
+partido_do_autor.PL 10372/2018|Celso Russomanno.apresentacao;2018-06-06
+partido_do_autor.PL 10372/2018|Celso Russomanno.criterio;histórico datado da Câmara
+partido_do_autor.PL 10372/2018|Domingos Neto.partido;PSD
+partido_do_autor.PL 10372/2018|Domingos Neto.ficha;PSD
+partido_do_autor.PL 10372/2018|Domingos Neto.apresentacao;2018-06-06
+partido_do_autor.PL 10372/2018|Domingos Neto.criterio;histórico datado da Câmara
+partido_do_autor.PL 10372/2018|Aureo.partido;SD
+partido_do_autor.PL 10372/2018|Aureo.ficha;SOLIDARIEDADE
+partido_do_autor.PL 10372/2018|Aureo.apresentacao;2018-06-06
+partido_do_autor.PL 10372/2018|Aureo.criterio;histórico datado da Câmara
+partido_do_autor.PL 10372/2018|Rodrigo Garcia.partido;DEM
+partido_do_autor.PL 10372/2018|Rodrigo Garcia.ficha;DEM
+partido_do_autor.PL 10372/2018|Rodrigo Garcia.apresentacao;2018-06-06
+partido_do_autor.PL 10372/2018|Rodrigo Garcia.criterio;histórico datado da Câmara
+partido_do_autor.PL 2810/2020|Arthur Lira.partido;PP
+partido_do_autor.PL 2810/2020|Arthur Lira.ficha;PP
+partido_do_autor.PL 2810/2020|Arthur Lira.apresentacao;2020-05-21
+partido_do_autor.PL 2810/2020|Arthur Lira.criterio;histórico datado da Câmara
+partido_do_autor.PL 741/2021|Margarete Coelho.partido;PP
+partido_do_autor.PL 741/2021|Margarete Coelho.ficha;PP
+partido_do_autor.PL 741/2021|Margarete Coelho.apresentacao;2021-03-04
+partido_do_autor.PL 741/2021|Margarete Coelho.criterio;histórico datado da Câmara
+partido_do_autor.PL 741/2021|Soraya Santos.partido;PL
+partido_do_autor.PL 741/2021|Soraya Santos.ficha;PL
+partido_do_autor.PL 741/2021|Soraya Santos.apresentacao;2021-03-04
+partido_do_autor.PL 741/2021|Soraya Santos.criterio;histórico datado da Câmara
+partido_do_autor.PL 741/2021|Greyce Elias.partido;AVANTE
+partido_do_autor.PL 741/2021|Greyce Elias.ficha;AVANTE
+partido_do_autor.PL 741/2021|Greyce Elias.apresentacao;2021-03-04
+partido_do_autor.PL 741/2021|Greyce Elias.criterio;histórico datado da Câmara
+partido_do_autor.PL 741/2021|Carla Dickson.partido;PROS
+partido_do_autor.PL 741/2021|Carla Dickson.ficha;PROS
+partido_do_autor.PL 741/2021|Carla Dickson.apresentacao;2021-03-04
+partido_do_autor.PL 741/2021|Carla Dickson.criterio;histórico datado da Câmara
+partido_do_autor.PL 2462/1991|HELIO BICUDO.partido;PT
+partido_do_autor.PL 2462/1991|HELIO BICUDO.ficha;PT
+partido_do_autor.PL 2462/1991|HELIO BICUDO.apresentacao;1991-03-05
+partido_do_autor.PL 2462/1991|HELIO BICUDO.criterio;partido no início da legislatura (a fonte não registra troca datada antes de 2015)
+partido_do_autor.PL 5096/2020|Lídice da Mata.partido;PSB
+partido_do_autor.PL 5096/2020|Lídice da Mata.ficha;PSB
+partido_do_autor.PL 5096/2020|Lídice da Mata.apresentacao;2020-11-05
+partido_do_autor.PL 5096/2020|Lídice da Mata.criterio;histórico datado da Câmara
+partido_do_autor.PL 5096/2020|Marcelo Nilo.partido;PSB
+partido_do_autor.PL 5096/2020|Marcelo Nilo.ficha;PSB
+partido_do_autor.PL 5096/2020|Marcelo Nilo.apresentacao;2020-11-05
+partido_do_autor.PL 5096/2020|Marcelo Nilo.criterio;histórico datado da Câmara
+partido_do_autor.PL 5096/2020|Vilson da Fetaemg.partido;PSB
+partido_do_autor.PL 5096/2020|Vilson da Fetaemg.ficha;PSB
+partido_do_autor.PL 5096/2020|Vilson da Fetaemg.apresentacao;2020-11-05
+partido_do_autor.PL 5096/2020|Vilson da Fetaemg.criterio;histórico datado da Câmara
+partido_do_autor.PL 5096/2020|João H. Campos.partido;PSB
+partido_do_autor.PL 5096/2020|João H. Campos.ficha;PSB
+partido_do_autor.PL 5096/2020|João H. Campos.apresentacao;2020-11-05
+partido_do_autor.PL 5096/2020|João H. Campos.criterio;histórico datado da Câmara
+partido_do_autor.PL 5096/2020|Tereza Nelma.partido;PSDB
+partido_do_autor.PL 5096/2020|Tereza Nelma.ficha;PSDB
+partido_do_autor.PL 5096/2020|Tereza Nelma.apresentacao;2020-11-05
+partido_do_autor.PL 5096/2020|Tereza Nelma.criterio;histórico datado da Câmara
+partido_do_autor.PL 5096/2020|Jandira Feghali.partido;PCdoB
+partido_do_autor.PL 5096/2020|Jandira Feghali.ficha;PCdoB
+partido_do_autor.PL 5096/2020|Jandira Feghali.apresentacao;2020-11-05
+partido_do_autor.PL 5096/2020|Jandira Feghali.criterio;histórico datado da Câmara
+partido_do_autor.PL 5096/2020|Dulce Miranda.partido;MDB
+partido_do_autor.PL 5096/2020|Dulce Miranda.ficha;MDB
+partido_do_autor.PL 5096/2020|Dulce Miranda.apresentacao;2020-11-05
+partido_do_autor.PL 5096/2020|Dulce Miranda.criterio;histórico datado da Câmara
+partido_do_autor.PL 5096/2020|Rodrigo Agostinho.partido;PSB
+partido_do_autor.PL 5096/2020|Rodrigo Agostinho.ficha;PSB
+partido_do_autor.PL 5096/2020|Rodrigo Agostinho.apresentacao;2020-11-05
+partido_do_autor.PL 5096/2020|Rodrigo Agostinho.criterio;histórico datado da Câmara
+partido_do_autor.PL 5096/2020|Rose Modesto.partido;PSDB
+partido_do_autor.PL 5096/2020|Rose Modesto.ficha;PSDB
+partido_do_autor.PL 5096/2020|Rose Modesto.apresentacao;2020-11-05
+partido_do_autor.PL 5096/2020|Rose Modesto.criterio;histórico datado da Câmara
+partido_do_autor.PL 5096/2020|Mara Rocha.partido;PSDB
+partido_do_autor.PL 5096/2020|Mara Rocha.ficha;PSDB
+partido_do_autor.PL 5096/2020|Mara Rocha.apresentacao;2020-11-05
+partido_do_autor.PL 5096/2020|Mara Rocha.criterio;histórico datado da Câmara
+partido_do_autor.PL 5096/2020|Iracema Portella.partido;PP
+partido_do_autor.PL 5096/2020|Iracema Portella.ficha;PP
+partido_do_autor.PL 5096/2020|Iracema Portella.apresentacao;2020-11-05
+partido_do_autor.PL 5096/2020|Iracema Portella.criterio;histórico datado da Câmara
+partido_do_autor.PL 5096/2020|Joice Hasselmann.partido;PSL
+partido_do_autor.PL 5096/2020|Joice Hasselmann.ficha;PSL
+partido_do_autor.PL 5096/2020|Joice Hasselmann.apresentacao;2020-11-05
+partido_do_autor.PL 5096/2020|Joice Hasselmann.criterio;histórico datado da Câmara
+partido_do_autor.PL 5096/2020|Angela Amin.partido;PP
+partido_do_autor.PL 5096/2020|Angela Amin.ficha;PP
+partido_do_autor.PL 5096/2020|Angela Amin.apresentacao;2020-11-05
+partido_do_autor.PL 5096/2020|Angela Amin.criterio;histórico datado da Câmara
+partido_do_autor.PL 5096/2020|Talíria Petrone.partido;PSOL
+partido_do_autor.PL 5096/2020|Talíria Petrone.ficha;PSOL
+partido_do_autor.PL 5096/2020|Talíria Petrone.apresentacao;2020-11-05
+partido_do_autor.PL 5096/2020|Talíria Petrone.criterio;histórico datado da Câmara
+partido_do_autor.PL 5096/2020|Joenia Wapichana.partido;REDE
+partido_do_autor.PL 5096/2020|Joenia Wapichana.ficha;REDE
+partido_do_autor.PL 5096/2020|Joenia Wapichana.apresentacao;2020-11-05
+partido_do_autor.PL 5096/2020|Joenia Wapichana.criterio;histórico datado da Câmara
+partido_do_autor.PL 5096/2020|Tabata Amaral.partido;PDT
+partido_do_autor.PL 5096/2020|Tabata Amaral.ficha;PSB
+partido_do_autor.PL 5096/2020|Tabata Amaral.apresentacao;2020-11-05
+partido_do_autor.PL 5096/2020|Tabata Amaral.criterio;histórico datado da Câmara
+partido_do_autor.PL 5096/2020|Áurea Carolina.partido;PSOL
+partido_do_autor.PL 5096/2020|Áurea Carolina.ficha;PSOL
+partido_do_autor.PL 5096/2020|Áurea Carolina.apresentacao;2020-11-05
+partido_do_autor.PL 5096/2020|Áurea Carolina.criterio;histórico datado da Câmara
+partido_do_autor.PL 5096/2020|Sâmia Bomfim.partido;PSOL
+partido_do_autor.PL 5096/2020|Sâmia Bomfim.ficha;PSOL
+partido_do_autor.PL 5096/2020|Sâmia Bomfim.apresentacao;2020-11-05
+partido_do_autor.PL 5096/2020|Sâmia Bomfim.criterio;histórico datado da Câmara
+partido_do_autor.PL 5096/2020|Erika Kokay.partido;PT
+partido_do_autor.PL 5096/2020|Erika Kokay.ficha;PT
+partido_do_autor.PL 5096/2020|Erika Kokay.apresentacao;2020-11-05
+partido_do_autor.PL 5096/2020|Erika Kokay.criterio;histórico datado da Câmara
+partido_do_autor.PL 5096/2020|Luiza Erundina.partido;PSOL
+partido_do_autor.PL 5096/2020|Luiza Erundina.ficha;PSOL
+partido_do_autor.PL 5096/2020|Luiza Erundina.apresentacao;2020-11-05
+partido_do_autor.PL 5096/2020|Luiza Erundina.criterio;histórico datado da Câmara
+partido_do_autor.PL 5096/2020|Marília Arraes.partido;PT
+partido_do_autor.PL 5096/2020|Marília Arraes.ficha;PT
+partido_do_autor.PL 5096/2020|Marília Arraes.apresentacao;2020-11-05
+partido_do_autor.PL 5096/2020|Marília Arraes.criterio;histórico datado da Câmara
+partido_do_autor.PL 5096/2020|Norma Ayub.partido;DEM
+partido_do_autor.PL 5096/2020|Norma Ayub.ficha;DEM
+partido_do_autor.PL 5096/2020|Norma Ayub.apresentacao;2020-11-05
+partido_do_autor.PL 5096/2020|Norma Ayub.criterio;histórico datado da Câmara
+partido_do_autor.PL 5096/2020|Maria do Rosário.partido;PT
+partido_do_autor.PL 5096/2020|Maria do Rosário.ficha;PT
+partido_do_autor.PL 5096/2020|Maria do Rosário.apresentacao;2020-11-05
+partido_do_autor.PL 5096/2020|Maria do Rosário.criterio;histórico datado da Câmara
+partido_do_autor.PL 5096/2020|Aline Gurgel.partido;REPUBLICANOS
+partido_do_autor.PL 5096/2020|Aline Gurgel.ficha;REPUBLICANOS
+partido_do_autor.PL 5096/2020|Aline Gurgel.apresentacao;2020-11-05
+partido_do_autor.PL 5096/2020|Aline Gurgel.criterio;histórico datado da Câmara
+partido_do_autor.PL 5096/2020|Daniela do Waguinho.partido;MDB
+partido_do_autor.PL 5096/2020|Daniela do Waguinho.ficha;MDB
+partido_do_autor.PL 5096/2020|Daniela do Waguinho.apresentacao;2020-11-05
+partido_do_autor.PL 5096/2020|Daniela do Waguinho.criterio;histórico datado da Câmara
+partido_do_autor.PL 5096/2020|Fernanda Melchionna.partido;PSOL
+partido_do_autor.PL 5096/2020|Fernanda Melchionna.ficha;PSOL
+partido_do_autor.PL 5096/2020|Fernanda Melchionna.apresentacao;2020-11-05
+partido_do_autor.PL 5096/2020|Fernanda Melchionna.criterio;histórico datado da Câmara
+partido_do_autor.PL 1360/2021|Alê Silva.partido;PSL
+partido_do_autor.PL 1360/2021|Alê Silva.ficha;REPUBLICANOS
+partido_do_autor.PL 1360/2021|Alê Silva.apresentacao;2021-04-13
+partido_do_autor.PL 1360/2021|Alê Silva.criterio;histórico datado da Câmara
+partido_do_autor.PL 1360/2021|Carla Zambelli.partido;PSL
+partido_do_autor.PL 1360/2021|Carla Zambelli.ficha;PL
+partido_do_autor.PL 1360/2021|Carla Zambelli.apresentacao;2021-04-13
+partido_do_autor.PL 1360/2021|Carla Zambelli.criterio;histórico datado da Câmara
+partido_do_autor.PL 1360/2021|Jaqueline Cassol.partido;PP
+partido_do_autor.PL 1360/2021|Jaqueline Cassol.ficha;PP
+partido_do_autor.PL 1360/2021|Jaqueline Cassol.apresentacao;2021-04-13
+partido_do_autor.PL 1360/2021|Jaqueline Cassol.criterio;histórico datado da Câmara
+partido_do_autor.PL 4401/2021|Aureo.partido;SD
+partido_do_autor.PL 4401/2021|Aureo.ficha;SOLIDARIEDADE
+partido_do_autor.PL 4401/2021|Aureo.apresentacao;2015-07-08
+partido_do_autor.PL 4401/2021|Aureo.criterio;histórico datado da Câmara
+partido_do_autor.PL 4566/2021|Tia Eron.partido;PRB
+partido_do_autor.PL 4566/2021|Tia Eron.ficha;REPUBLICANOS
+partido_do_autor.PL 4566/2021|Tia Eron.apresentacao;2015-05-28
+partido_do_autor.PL 4566/2021|Tia Eron.criterio;histórico datado da Câmara
+partido_do_autor.PL 4566/2021|Bebeto.partido;PSB
+partido_do_autor.PL 4566/2021|Bebeto.ficha;PSB
+partido_do_autor.PL 4566/2021|Bebeto.apresentacao;2015-05-28
+partido_do_autor.PL 4566/2021|Bebeto.criterio;histórico datado da Câmara
+partido_do_autor.PL 5385/2019|Paulo Ganime.partido;NOVO
+partido_do_autor.PL 5385/2019|Paulo Ganime.ficha;NOVO
+partido_do_autor.PL 5385/2019|Paulo Ganime.apresentacao;2019-10-03
+partido_do_autor.PL 5385/2019|Paulo Ganime.criterio;histórico datado da Câmara
+partido_do_autor.PL 4224/2021|Osmar Terra.partido;MDB
+partido_do_autor.PL 4224/2021|Osmar Terra.ficha;PMDB
+partido_do_autor.PL 4224/2021|Osmar Terra.apresentacao;2021-12-01
+partido_do_autor.PL 4224/2021|Osmar Terra.criterio;histórico datado da Câmara
+partido_do_autor.PL 370/2024|Jandira Feghali.partido;PCdoB
+partido_do_autor.PL 370/2024|Jandira Feghali.ficha;PCdoB
+partido_do_autor.PL 370/2024|Jandira Feghali.apresentacao;2024-02-21
+partido_do_autor.PL 370/2024|Jandira Feghali.criterio;histórico datado da Câmara
+partido_do_autor.PL 4015/2023|Evandro Rogerio Roman.partido;PSD
+partido_do_autor.PL 4015/2023|Evandro Rogerio Roman.ficha;PSD
+partido_do_autor.PL 4015/2023|Evandro Rogerio Roman.apresentacao;2015-03-31
+partido_do_autor.PL 4015/2023|Evandro Rogerio Roman.criterio;histórico datado da Câmara
+partido_do_autor.PL 419/2023|Laura Carneiro.partido;PSD
+partido_do_autor.PL 419/2023|Laura Carneiro.ficha;UNIÃO
+partido_do_autor.PL 419/2023|Laura Carneiro.apresentacao;2023-02-09
+partido_do_autor.PL 419/2023|Laura Carneiro.criterio;histórico datado da Câmara
+partido_do_autor.PL 4626/2020|Helio Lopes.partido;PSL
+partido_do_autor.PL 4626/2020|Helio Lopes.ficha;PL
+partido_do_autor.PL 4626/2020|Helio Lopes.apresentacao;2020-09-17
+partido_do_autor.PL 4626/2020|Helio Lopes.criterio;histórico datado da Câmara
+partido_do_autor.PL 4626/2020|Carla Zambelli.partido;PSL
+partido_do_autor.PL 4626/2020|Carla Zambelli.ficha;PL
+partido_do_autor.PL 4626/2020|Carla Zambelli.apresentacao;2020-09-17
+partido_do_autor.PL 4626/2020|Carla Zambelli.criterio;histórico datado da Câmara
+partido_do_autor.PL 4626/2020|Daniel Freitas.partido;PSL
+partido_do_autor.PL 4626/2020|Daniel Freitas.ficha;PL
+partido_do_autor.PL 4626/2020|Daniel Freitas.apresentacao;2020-09-17
+partido_do_autor.PL 4626/2020|Daniel Freitas.criterio;histórico datado da Câmara
+partido_do_autor.PL 4626/2020|Alex Santana.partido;PDT
+partido_do_autor.PL 4626/2020|Alex Santana.ficha;REPUBLICANOS
+partido_do_autor.PL 4626/2020|Alex Santana.apresentacao;2020-09-17
+partido_do_autor.PL 4626/2020|Alex Santana.criterio;histórico datado da Câmara
+partido_do_autor.PL 4626/2020|Lucas Redecker.partido;PSDB
+partido_do_autor.PL 4626/2020|Lucas Redecker.ficha;PSDB
+partido_do_autor.PL 4626/2020|Lucas Redecker.apresentacao;2020-09-17
+partido_do_autor.PL 4626/2020|Lucas Redecker.criterio;histórico datado da Câmara
+partido_do_autor.PL 4872/2024|Sandro Alex.partido;PSD
+partido_do_autor.PL 4872/2024|Sandro Alex.ficha;PSD
+partido_do_autor.PL 4872/2024|Sandro Alex.apresentacao;2016-07-14
+partido_do_autor.PL 4872/2024|Sandro Alex.criterio;histórico datado da Câmara
+partido_do_autor.PL 2195/2024|Laura Carneiro.partido;PSD
+partido_do_autor.PL 2195/2024|Laura Carneiro.ficha;UNIÃO
+partido_do_autor.PL 2195/2024|Laura Carneiro.apresentacao;2024-06-05
+partido_do_autor.PL 2195/2024|Laura Carneiro.criterio;histórico datado da Câmara
+partido_do_autor.PL 3880/2024|Laura Carneiro.partido;PSD
+partido_do_autor.PL 3880/2024|Laura Carneiro.ficha;UNIÃO
+partido_do_autor.PL 3880/2024|Laura Carneiro.apresentacao;2024-10-10
+partido_do_autor.PL 3880/2024|Laura Carneiro.criterio;histórico datado da Câmara
+partido_do_autor.PL 3880/2024|Maria do Rosário.partido;PT
+partido_do_autor.PL 3880/2024|Maria do Rosário.ficha;PT
+partido_do_autor.PL 3880/2024|Maria do Rosário.apresentacao;2024-10-10
+partido_do_autor.PL 3880/2024|Maria do Rosário.criterio;histórico datado da Câmara
+partido_do_autor.PL 3880/2024|Fernanda Melchionna.partido;PSOL
+partido_do_autor.PL 3880/2024|Fernanda Melchionna.ficha;PSOL
+partido_do_autor.PL 3880/2024|Fernanda Melchionna.apresentacao;2024-10-10
+partido_do_autor.PL 3880/2024|Fernanda Melchionna.criterio;histórico datado da Câmara
+partido_do_autor.PL 3780/2023|Kim Kataguiri.partido;UNIÃO
+partido_do_autor.PL 3780/2023|Kim Kataguiri.ficha;MISSÃO
+partido_do_autor.PL 3780/2023|Kim Kataguiri.apresentacao;2023-08-08
+partido_do_autor.PL 3780/2023|Kim Kataguiri.criterio;histórico datado da Câmara
+partido_do_autor.PL 3780/2023|Marcos Pollon.partido;PL
+partido_do_autor.PL 3780/2023|Marcos Pollon.ficha;PL
+partido_do_autor.PL 3780/2023|Marcos Pollon.apresentacao;2023-08-08
+partido_do_autor.PL 3780/2023|Marcos Pollon.criterio;histórico datado da Câmara
+partido_do_autor.PL 3780/2023|Delegado da Cunha.partido;PP
+partido_do_autor.PL 3780/2023|Delegado da Cunha.ficha;UNIÃO
+partido_do_autor.PL 3780/2023|Delegado da Cunha.apresentacao;2023-08-08
+partido_do_autor.PL 3780/2023|Delegado da Cunha.criterio;histórico datado da Câmara
+partido_do_autor.PL 2162/2023|Marcelo Crivella.partido;REPUBLICANOS
+partido_do_autor.PL 2162/2023|Marcelo Crivella.ficha;REPUBLICANOS
+partido_do_autor.PL 2162/2023|Marcelo Crivella.apresentacao;2023-04-26
+partido_do_autor.PL 2162/2023|Marcelo Crivella.criterio;histórico datado da Câmara
+partido_do_autor.PL 2162/2023|Jorge Braz.partido;REPUBLICANOS
+partido_do_autor.PL 2162/2023|Jorge Braz.ficha;REPUBLICANOS
+partido_do_autor.PL 2162/2023|Jorge Braz.apresentacao;2023-04-26
+partido_do_autor.PL 2162/2023|Jorge Braz.criterio;histórico datado da Câmara
+partido_do_autor.PL 2162/2023|Franciane Bayer.partido;REPUBLICANOS
+partido_do_autor.PL 2162/2023|Franciane Bayer.ficha;REPUBLICANOS
+partido_do_autor.PL 2162/2023|Franciane Bayer.apresentacao;2023-04-26
+partido_do_autor.PL 2162/2023|Franciane Bayer.criterio;histórico datado da Câmara
+partido_do_autor.PL 2162/2023|Murilo Galdino.partido;REPUBLICANOS
+partido_do_autor.PL 2162/2023|Murilo Galdino.ficha;REPUBLICANOS
+partido_do_autor.PL 2162/2023|Murilo Galdino.apresentacao;2023-04-26
+partido_do_autor.PL 2162/2023|Murilo Galdino.criterio;histórico datado da Câmara
+partido_do_autor.PL 2162/2023|Milton Vieira.partido;REPUBLICANOS
+partido_do_autor.PL 2162/2023|Milton Vieira.ficha;REPUBLICANOS
+partido_do_autor.PL 2162/2023|Milton Vieira.apresentacao;2023-04-26
+partido_do_autor.PL 2162/2023|Milton Vieira.criterio;histórico datado da Câmara
+partido_do_autor.PL 2162/2023|Márcio Marinho.partido;REPUBLICANOS
+partido_do_autor.PL 2162/2023|Márcio Marinho.ficha;REPUBLICANOS
+partido_do_autor.PL 2162/2023|Márcio Marinho.apresentacao;2023-04-26
+partido_do_autor.PL 2162/2023|Márcio Marinho.criterio;histórico datado da Câmara
+partido_do_autor.PL 2162/2023|Rogéria Santos.partido;REPUBLICANOS
+partido_do_autor.PL 2162/2023|Rogéria Santos.ficha;REPUBLICANOS
+partido_do_autor.PL 2162/2023|Rogéria Santos.apresentacao;2023-04-26
+partido_do_autor.PL 2162/2023|Rogéria Santos.criterio;histórico datado da Câmara
+partido_do_autor.PL 2162/2023|Carlos Gomes.partido;REPUBLICANOS
+partido_do_autor.PL 2162/2023|Carlos Gomes.ficha;REPUBLICANOS
+partido_do_autor.PL 2162/2023|Carlos Gomes.apresentacao;2023-04-26
+partido_do_autor.PL 2162/2023|Carlos Gomes.criterio;histórico datado da Câmara
+partido_do_autor.PL 2162/2023|Alexandre Guimarães.partido;REPUBLICANOS
+partido_do_autor.PL 2162/2023|Alexandre Guimarães.ficha;MDB
+partido_do_autor.PL 2162/2023|Alexandre Guimarães.apresentacao;2023-04-26
+partido_do_autor.PL 2162/2023|Alexandre Guimarães.criterio;histórico datado da Câmara
+partido_do_autor.PL 2162/2023|Amaro Neto.partido;REPUBLICANOS
+partido_do_autor.PL 2162/2023|Amaro Neto.ficha;PP
+partido_do_autor.PL 2162/2023|Amaro Neto.apresentacao;2023-04-26
+partido_do_autor.PL 2162/2023|Amaro Neto.criterio;histórico datado da Câmara
+partido_do_autor.PL 2162/2023|Tenente Coronel Zucco.partido;REPUBLICANOS
+partido_do_autor.PL 2162/2023|Tenente Coronel Zucco.ficha;PL
+partido_do_autor.PL 2162/2023|Tenente Coronel Zucco.apresentacao;2023-04-26
+partido_do_autor.PL 2162/2023|Tenente Coronel Zucco.criterio;histórico datado da Câmara
+partido_do_autor.PL 2162/2023|Roberto Duarte.partido;REPUBLICANOS
+partido_do_autor.PL 2162/2023|Roberto Duarte.ficha;REPUBLICANOS
+partido_do_autor.PL 2162/2023|Roberto Duarte.apresentacao;2023-04-26
+partido_do_autor.PL 2162/2023|Roberto Duarte.criterio;histórico datado da Câmara
+partido_do_autor.PL 2162/2023|Defensor Stélio Dener.partido;REPUBLICANOS
+partido_do_autor.PL 2162/2023|Defensor Stélio Dener.ficha;UNIÃO
+partido_do_autor.PL 2162/2023|Defensor Stélio Dener.apresentacao;2023-04-26
+partido_do_autor.PL 2162/2023|Defensor Stélio Dener.criterio;histórico datado da Câmara
+partido_do_autor.PL 2162/2023|Aluisio Mendes.partido;REPUBLICANOS
+partido_do_autor.PL 2162/2023|Aluisio Mendes.ficha;REPUBLICANOS
+partido_do_autor.PL 2162/2023|Aluisio Mendes.apresentacao;2023-04-26
+partido_do_autor.PL 2162/2023|Aluisio Mendes.criterio;histórico datado da Câmara
+partido_do_autor.PL 2162/2023|Lafayette de Andrada.partido;REPUBLICANOS
+partido_do_autor.PL 2162/2023|Lafayette de Andrada.ficha;PL
+partido_do_autor.PL 2162/2023|Lafayette de Andrada.apresentacao;2023-04-26
+partido_do_autor.PL 2162/2023|Lafayette de Andrada.criterio;histórico datado da Câmara
+partido_do_autor.PL 2162/2023|Wilson Santiago.partido;REPUBLICANOS
+partido_do_autor.PL 2162/2023|Wilson Santiago.ficha;REPUBLICANOS
+partido_do_autor.PL 2162/2023|Wilson Santiago.apresentacao;2023-04-26
+partido_do_autor.PL 2162/2023|Wilson Santiago.criterio;histórico datado da Câmara
+partido_do_autor.PL 2162/2023|Luis Carlos Gomes.partido;REPUBLICANOS
+partido_do_autor.PL 2162/2023|Luis Carlos Gomes.ficha;REPUBLICANOS
+partido_do_autor.PL 2162/2023|Luis Carlos Gomes.apresentacao;2023-04-26
+partido_do_autor.PL 2162/2023|Luis Carlos Gomes.criterio;histórico datado da Câmara
+partido_do_autor.PL 2162/2023|Gustinho Ribeiro.partido;REPUBLICANOS
+partido_do_autor.PL 2162/2023|Gustinho Ribeiro.ficha;PP
+partido_do_autor.PL 2162/2023|Gustinho Ribeiro.apresentacao;2023-04-26
+partido_do_autor.PL 2162/2023|Gustinho Ribeiro.criterio;histórico datado da Câmara
+partido_do_autor.PL 2162/2023|Messias Donato.partido;REPUBLICANOS
+partido_do_autor.PL 2162/2023|Messias Donato.ficha;UNIÃO
+partido_do_autor.PL 2162/2023|Messias Donato.apresentacao;2023-04-26
+partido_do_autor.PL 2162/2023|Messias Donato.criterio;histórico datado da Câmara
+partido_do_autor.PL 2162/2023|Alex Santana.partido;REPUBLICANOS
+partido_do_autor.PL 2162/2023|Alex Santana.ficha;REPUBLICANOS
+partido_do_autor.PL 2162/2023|Alex Santana.apresentacao;2023-04-26
+partido_do_autor.PL 2162/2023|Alex Santana.criterio;histórico datado da Câmara
+partido_do_autor.PL 2162/2023|Vinicius Carvalho.partido;REPUBLICANOS
+partido_do_autor.PL 2162/2023|Vinicius Carvalho.ficha;PL
+partido_do_autor.PL 2162/2023|Vinicius Carvalho.apresentacao;2023-04-26
+partido_do_autor.PL 2162/2023|Vinicius Carvalho.criterio;histórico datado da Câmara
+partido_do_autor.PL 2162/2023|Diego Garcia.partido;REPUBLICANOS
+partido_do_autor.PL 2162/2023|Diego Garcia.ficha;UNIÃO
+partido_do_autor.PL 2162/2023|Diego Garcia.apresentacao;2023-04-26
+partido_do_autor.PL 2162/2023|Diego Garcia.criterio;histórico datado da Câmara
+partido_do_autor.PL 2162/2023|Gilberto Abramo.partido;REPUBLICANOS
+partido_do_autor.PL 2162/2023|Gilberto Abramo.ficha;REPUBLICANOS
+partido_do_autor.PL 2162/2023|Gilberto Abramo.apresentacao;2023-04-26
+partido_do_autor.PL 2162/2023|Gilberto Abramo.criterio;histórico datado da Câmara
+partido_do_autor.PL 2162/2023|Antonio Andrade.partido;REPUBLICANOS
+partido_do_autor.PL 2162/2023|Antonio Andrade.ficha;PSDB
+partido_do_autor.PL 2162/2023|Antonio Andrade.apresentacao;2023-04-26
+partido_do_autor.PL 2162/2023|Antonio Andrade.criterio;histórico datado da Câmara
+partido_do_autor.PL 2162/2023|Maria Rosas.partido;REPUBLICANOS
+partido_do_autor.PL 2162/2023|Maria Rosas.ficha;REPUBLICANOS
+partido_do_autor.PL 2162/2023|Maria Rosas.apresentacao;2023-04-26
+partido_do_autor.PL 2162/2023|Maria Rosas.criterio;histórico datado da Câmara
+partido_do_autor.PL 2162/2023|Sóstenes Cavalcante.partido;PL
+partido_do_autor.PL 2162/2023|Sóstenes Cavalcante.ficha;PL
+partido_do_autor.PL 2162/2023|Sóstenes Cavalcante.apresentacao;2023-04-26
+partido_do_autor.PL 2162/2023|Sóstenes Cavalcante.criterio;histórico datado da Câmara
+partido_do_autor.PL 2162/2023|Domingos Sávio.partido;PL
+partido_do_autor.PL 2162/2023|Domingos Sávio.ficha;PSDB
+partido_do_autor.PL 2162/2023|Domingos Sávio.apresentacao;2023-04-26
+partido_do_autor.PL 2162/2023|Domingos Sávio.criterio;histórico datado da Câmara
+partido_do_autor.PL 2162/2023|Fred Linhares.partido;REPUBLICANOS
+partido_do_autor.PL 2162/2023|Fred Linhares.ficha;REPUBLICANOS
+partido_do_autor.PL 2162/2023|Fred Linhares.apresentacao;2023-04-26
+partido_do_autor.PL 2162/2023|Fred Linhares.criterio;histórico datado da Câmara
+partido_do_autor.PL 2162/2023|Coronel Meira.partido;PL
+partido_do_autor.PL 2162/2023|Coronel Meira.ficha;PL
+partido_do_autor.PL 2162/2023|Coronel Meira.apresentacao;2023-04-26
+partido_do_autor.PL 2162/2023|Coronel Meira.criterio;histórico datado da Câmara
+partido_do_autor.PL 2162/2023|Gabriel Mota.partido;REPUBLICANOS
+partido_do_autor.PL 2162/2023|Gabriel Mota.ficha;UNIÃO
+partido_do_autor.PL 2162/2023|Gabriel Mota.apresentacao;2023-04-26
+partido_do_autor.PL 2162/2023|Gabriel Mota.criterio;histórico datado da Câmara
+partido_do_autor.PL 2162/2023|Adilson Barroso.partido;PL
+partido_do_autor.PL 2162/2023|Adilson Barroso.ficha;PL
+partido_do_autor.PL 2162/2023|Adilson Barroso.apresentacao;2023-04-26
+partido_do_autor.PL 2162/2023|Adilson Barroso.criterio;histórico datado da Câmara
+partido_do_autor.PL 7323/2014|Guilherme Campos.partido;PSD
+partido_do_autor.PL 7323/2014|Guilherme Campos.ficha;PSD
+partido_do_autor.PL 7323/2014|Guilherme Campos.apresentacao;2014-03-27
+partido_do_autor.PL 7323/2014|Guilherme Campos.criterio;histórico datado da Câmara
+partido_do_autor.PL 421/2023|Laura Carneiro.partido;PSD
+partido_do_autor.PL 421/2023|Laura Carneiro.ficha;UNIÃO
+partido_do_autor.PL 421/2023|Laura Carneiro.apresentacao;2023-02-09
+partido_do_autor.PL 421/2023|Laura Carneiro.criterio;histórico datado da Câmara
+partido_do_autor.PL 5760/2023|Reimont.partido;PT
+partido_do_autor.PL 5760/2023|Reimont.ficha;PT
+partido_do_autor.PL 5760/2023|Reimont.apresentacao;2023-11-28
+partido_do_autor.PL 5760/2023|Reimont.criterio;histórico datado da Câmara
+partido_do_autor.PL 3066/2025|Osmar Terra.partido;MDB
+partido_do_autor.PL 3066/2025|Osmar Terra.ficha;PL
+partido_do_autor.PL 3066/2025|Osmar Terra.apresentacao;2025-06-25
+partido_do_autor.PL 3066/2025|Osmar Terra.criterio;histórico datado da Câmara

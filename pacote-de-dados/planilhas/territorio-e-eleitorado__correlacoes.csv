@@ -1,0 +1,13 @@
+tipo;eleitores;habitantes;eleitores_por_100_hab
+Homicídio doloso;"{""pearson"": -0.177, ""spearman"": -0.09}";"{""pearson"": -0.193, ""spearman"": -0.103}";"{""pearson"": 0.16, ""spearman"": 0.225}"
+Feminicídio;"{""pearson"": -0.593, ""spearman"": -0.62}";"{""pearson"": -0.607, ""spearman"": -0.632}";"{""pearson"": -0.074, ""spearman"": -0.118}"
+Tentativa de feminicídio;"{""pearson"": -0.708, ""spearman"": -0.733}";"{""pearson"": -0.697, ""spearman"": -0.698}";"{""pearson"": -0.46, ""spearman"": -0.526}"
+Roubo seguido de morte (latrocínio);"{""pearson"": -0.215, ""spearman"": -0.162}";"{""pearson"": -0.215, ""spearman"": -0.191}";"{""pearson"": -0.087, ""spearman"": -0.051}"
+Lesão corporal seguida de morte;"{""pearson"": -0.274, ""spearman"": 0.219}";"{""pearson"": -0.239, ""spearman"": 0.222}";"{""pearson"": -0.561, ""spearman"": -0.125}"
+Tentativa de homicídio;"{""pearson"": -0.751, ""spearman"": -0.681}";"{""pearson"": -0.751, ""spearman"": -0.68}";"{""pearson"": -0.327, ""spearman"": -0.259}"
+Estupro;"{""pearson"": -0.399, ""spearman"": -0.584}";"{""pearson"": -0.382, ""spearman"": -0.552}";"{""pearson"": -0.415, ""spearman"": -0.682}"
+Estupro de vulnerável;"{""pearson"": -0.658, ""spearman"": -0.563}";"{""pearson"": -0.635, ""spearman"": -0.545}";"{""pearson"": -0.602, ""spearman"": -0.58}"
+Morte por intervenção de Agente do Estado;"{""pearson"": -0.117, ""spearman"": 0.062}";"{""pearson"": -0.127, ""spearman"": 0.08}";"{""pearson"": 0.072, ""spearman"": -0.076}"
+Roubo de veículo;"{""pearson"": 0.298, ""spearman"": 0.26}";"{""pearson"": 0.278, ""spearman"": 0.212}";"{""pearson"": 0.424, ""spearman"": 0.61}"
+Furto de veículo;"{""pearson"": 0.323, ""spearman"": 0.171}";"{""pearson"": 0.334, ""spearman"": 0.15}";"{""pearson"": -0.004, ""spearman"": 0.039}"
+Tráfico de drogas;"{""pearson"": 0.141, ""spearman"": 0.104}";"{""pearson"": 0.144, ""spearman"": 0.122}";"{""pearson"": -0.006, ""spearman"": -0.184}"

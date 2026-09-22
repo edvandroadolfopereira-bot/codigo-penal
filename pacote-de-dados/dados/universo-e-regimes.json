@@ -1,0 +1,87 @@
+{
+ "gerado_em": "2026-09-18",
+ "corte": "2026-09-18",
+ "janela_observada": [
+  "1940-12-31",
+  "2026-09-18"
+ ],
+ "inicio_da_janela": "publicacao do proprio Codigo Penal no DOU, lida no Normas.leg.br",
+ "anos_da_segunda_fonte_NAO_lidos": [],
+ "normas_sem_conferencia_pela_segunda_fonte": [],
+ "normas_no_universo": 115,
+ "normas_dentro_da_janela": 115,
+ "fonte_da_data": {
+  "Legin, ficha, Publicação Original no DOU": 114,
+  "Normas.leg.br, datePublished": 1
+ },
+ "divergencias_entre_as_duas_fontes": [],
+ "por_regime": [
+  {
+   "regime": "Estado Novo",
+   "inicio_contado": "1940-12-31",
+   "fim_contado": "1945-10-29",
+   "dias": 1764,
+   "anos_de_exposicao": 4.83,
+   "normas": 0,
+   "normas_por_ano": 0.0,
+   "normas_que_tocam_o_cp": 2
+  },
+  {
+   "regime": "República de 1946",
+   "inicio_contado": "1945-10-30",
+   "fim_contado": "1964-03-31",
+   "dias": 6728,
+   "anos_de_exposicao": 18.421,
+   "normas": 2,
+   "normas_por_ano": 0.109,
+   "normas_que_tocam_o_cp": 4
+  },
+  {
+   "regime": "Ditadura militar",
+   "inicio_contado": "1964-04-01",
+   "fim_contado": "1985-03-14",
+   "dias": 7653,
+   "anos_de_exposicao": 20.953,
+   "normas": 15,
+   "normas_por_ano": 0.716,
+   "normas_que_tocam_o_cp": 20
+  },
+  {
+   "regime": "Nova República",
+   "inicio_contado": "1985-03-15",
+   "fim_contado": "2026-09-18",
+   "dias": 15163,
+   "anos_de_exposicao": 41.515,
+   "normas": 98,
+   "normas_por_ano": 2.361,
+   "normas_que_tocam_o_cp": 110
+  }
+ ],
+ "soma_por_regime": 115,
+ "normas_que_tocam_o_cp": {
+  "definicao": "uniao das fichas do Legin que tocam o Codigo (alteram o texto ou incidem sem alterar) com as 115 normas alteradoras",
+  "fichas_do_legin": 135,
+  "total_na_uniao": 136,
+  "dentro_da_janela": 136,
+  "sem_data_em_nenhuma_fonte": [],
+  "por_regime": {
+   "Estado Novo": 2,
+   "República de 1946": 4,
+   "Ditadura militar": 20,
+   "Nova República": 110
+  }
+ },
+ "normas_que_tocam_o_cp_publicadas_depois_da_janela": [],
+ "marcos_e_fontes": {
+  "1945-10-29": "FGV CPDOC, https://cpdoc.fgv.br/pesquisa-conhecimento/getulio-vargas-1954",
+  "1964-03-31": "FGV CPDOC, https://cpdoc.fgv.br/artigos/golpe-1964",
+  "1985-03-15": "FGV, Atlas Historico do Brasil, https://atlas.fgv.br/verbete/4909"
+ },
+ "normas_a_ate_30_dias_de_um_marco": [],
+ "ordem_dos_regimes": [
+  "Estado Novo",
+  "República de 1946",
+  "Ditadura militar",
+  "Nova República"
+ ]
+}

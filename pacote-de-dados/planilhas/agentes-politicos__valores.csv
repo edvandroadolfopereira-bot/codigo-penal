@@ -1,0 +1,98 @@
+chave;valor
+gerado_por;apurar_agentes_politicos.py
+cobertura.normas;115
+cobertura.com_presidente_lido;115
+cobertura.sem_texto;0
+cobertura.com_autoria;115
+cobertura.com_voto_nominal_camara;25
+cobertura.votacoes_nominais_camara;65
+cobertura.com_voto_nominal_senado;8
+cobertura.votacoes_nominais_senado;8
+cobertura.linhas_sem_norma_do_universo.autoria;20
+cobertura.linhas_sem_norma_do_universo.autoria senado;13
+cobertura.linhas_sem_norma_do_universo.votacao camara;41
+por_presidente.GETÚLIO VARGAS.normas;1
+por_presidente.GETÚLIO VARGAS.endurece;0
+por_presidente.GETÚLIO VARGAS.abranda;0
+por_presidente.GETÚLIO VARGAS.de;1951-09-14
+por_presidente.GETÚLIO VARGAS.ate;1951-09-14
+por_presidente.JOÃO CAFÉ FILHO.normas;1
+por_presidente.JOÃO CAFÉ FILHO.endurece;0
+por_presidente.JOÃO CAFÉ FILHO.abranda;0
+por_presidente.JOÃO CAFÉ FILHO.de;1955-06-16
+por_presidente.JOÃO CAFÉ FILHO.ate;1955-06-16
+por_presidente.H. CASTELLO BRANCO.normas;2
+por_presidente.H. CASTELLO BRANCO.endurece;0
+por_presidente.H. CASTELLO BRANCO.abranda;0
+por_presidente.H. CASTELLO BRANCO.de;1964-11-06
+por_presidente.H. CASTELLO BRANCO.ate;1965-07-19
+por_presidente.A. COSTA E SILVA.normas;5
+por_presidente.A. COSTA E SILVA.endurece;2
+por_presidente.A. COSTA E SILVA.abranda;0
+por_presidente.A. COSTA E SILVA.de;1967-11-07
+por_presidente.A. COSTA E SILVA.ate;1968-12-27
+por_presidente.EMÍLIO G. MÉDICI.normas;1
+por_presidente.EMÍLIO G. MÉDICI.endurece;0
+por_presidente.EMÍLIO G. MÉDICI.abranda;0
+por_presidente.EMÍLIO G. MÉDICI.de;1971-11-01
+por_presidente.EMÍLIO G. MÉDICI.ate;1971-11-01
+por_presidente.ERNESTO GEISEL.normas;2
+por_presidente.ERNESTO GEISEL.endurece;0
+por_presidente.ERNESTO GEISEL.abranda;0
+por_presidente.ERNESTO GEISEL.de;1976-10-22
+por_presidente.ERNESTO GEISEL.ate;1977-05-25
+por_presidente.JOÃO FIGUEIREDO.normas;5
+por_presidente.JOÃO FIGUEIREDO.endurece;1
+por_presidente.JOÃO FIGUEIREDO.abranda;0
+por_presidente.JOÃO FIGUEIREDO.de;1980-06-24
+por_presidente.JOÃO FIGUEIREDO.ate;1984-11-21
+por_presidente.FERNANDO COLLOR.normas;4
+por_presidente.FERNANDO COLLOR.endurece;4
+por_presidente.FERNANDO COLLOR.abranda;2
+por_presidente.FERNANDO COLLOR.de;1990-07-16
+por_presidente.FERNANDO COLLOR.ate;1991-02-13
+por_presidente.ITAMAR FRANCO.normas;2
+por_presidente.ITAMAR FRANCO.endurece;0
+por_presidente.ITAMAR FRANCO.abranda;0
+por_presidente.ITAMAR FRANCO.de;1993-03-17
+por_presidente.ITAMAR FRANCO.ate;1993-07-16
+por_presidente.FERNANDO HENRIQUE CARDOSO.normas;16
+por_presidente.FERNANDO HENRIQUE CARDOSO.endurece;34
+por_presidente.FERNANDO HENRIQUE CARDOSO.abranda;6
+por_presidente.FERNANDO HENRIQUE CARDOSO.de;1995-11-17
+por_presidente.FERNANDO HENRIQUE CARDOSO.ate;2002-06-12
+por_presidente.LUIZ INÁCIO LULA DA SILVA.normas;35
+por_presidente.LUIZ INÁCIO LULA DA SILVA.endurece;32
+por_presidente.LUIZ INÁCIO LULA DA SILVA.abranda;7
+por_presidente.LUIZ INÁCIO LULA DA SILVA.de;2003-07-02
+por_presidente.LUIZ INÁCIO LULA DA SILVA.ate;2026-08-07
+por_presidente.DILMA ROUSSEFF.normas;14
+por_presidente.DILMA ROUSSEFF.endurece;5
+por_presidente.DILMA ROUSSEFF.abranda;1
+por_presidente.DILMA ROUSSEFF.de;2011-12-16
+por_presidente.DILMA ROUSSEFF.ate;2015-12-29
+por_presidente.MICHEL TEMER.normas;8
+por_presidente.MICHEL TEMER.endurece;4
+por_presidente.MICHEL TEMER.abranda;0
+por_presidente.MICHEL TEMER.de;2016-08-03
+por_presidente.MICHEL TEMER.ate;2018-12-20
+por_presidente.JOSÉ ANTONIO DIAS TOFFOLI.normas;2
+por_presidente.JOSÉ ANTONIO DIAS TOFFOLI.endurece;0
+por_presidente.JOSÉ ANTONIO DIAS TOFFOLI.abranda;0
+por_presidente.JOSÉ ANTONIO DIAS TOFFOLI.de;2018-09-25
+por_presidente.JOSÉ ANTONIO DIAS TOFFOLI.ate;2018-09-25
+por_presidente.JAIR MESSIAS BOLSONARO.normas;12
+por_presidente.JAIR MESSIAS BOLSONARO.endurece;23
+por_presidente.JAIR MESSIAS BOLSONARO.abranda;0
+por_presidente.JAIR MESSIAS BOLSONARO.de;2019-09-05
+por_presidente.JAIR MESSIAS BOLSONARO.ate;2022-12-22
+por_presidente.GERALDO JOSÉ RODRIGUES ALCKMIN FILHO.normas;4
+por_presidente.GERALDO JOSÉ RODRIGUES ALCKMIN FILHO.endurece;2
+por_presidente.GERALDO JOSÉ RODRIGUES ALCKMIN FILHO.abranda;0
+por_presidente.GERALDO JOSÉ RODRIGUES ALCKMIN FILHO.de;2023-04-27
+por_presidente.GERALDO JOSÉ RODRIGUES ALCKMIN FILHO.ate;2025-07-04
+por_presidente.DAVI ALCOLUMBRE.normas;1
+por_presidente.DAVI ALCOLUMBRE.endurece;0
+por_presidente.DAVI ALCOLUMBRE.abranda;0
+por_presidente.DAVI ALCOLUMBRE.de;2026-05-08
+por_presidente.DAVI ALCOLUMBRE.ate;2026-05-08

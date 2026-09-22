@@ -1,0 +1,57 @@
+catalogo/catalogo-1983.jsonl: 201 registros percorridos, 1 casaram
+catalogo/catalogo-2021.jsonl: 260 registros percorridos, 1 casaram
+
+=== catalogo/catalogo-2021.jsonl  (registro 132) ===
+{
+ "urn": "urn:lex:br:federal:lei:2021-09-01;14197",
+ "nome": "Lei nº 14.197 de 01/09/2021",
+ "tipo": "lei",
+ "numero": 14197,
+ "assinatura": "2021-09-01",
+ "apelido": "LEI-14197-2021-09-01",
+ "urnRevogacao": null,
+ "ementa": "Acrescenta o Título XII na Parte Especial do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), relativo aos crimes contra o Estado Democrático de Direito; e revoga a Lei nº 7.170, de 14 de dezembro de 1983 (Lei de Segurança Nacional), e dispositivo do Decreto-Lei nº 3.688, de 3 de outubro de 1941 (Lei das Contravenções Penais).",
+ "nomeUrn": "lei 14197 2021 9 1",
+ "nomeProcesso": "[ Projeto de Lei nº 2462/1991 > Projeto de Lei nº 2108/2021 > Veto nº 46/2021 : Lei nº 14.197 de 01/09/2021 ]",
+ "apelidoProcesso": "[ PL 2462/1991 > PL 2108/2021 > VET 46/2021 : LEI-14197-2021-09-01 ]",
+ "status": [],
+ "_urnEvento": "urn:lex:br:federal:lei:2021-09-01;14197"
+}
+
+=== catalogo/catalogo-1983.jsonl  (registro 46) ===
+{
+ "urn": "urn:lex:br:federal:lei:1983-12-14;7170",
+ "nome": "Lei nº 7.170 de 14/12/1983",
+ "tipo": "lei",
+ "numero": 7170,
+ "assinatura": "1983-12-14",
+ "apelido": "LEI-7170-1983-12-14 , Lei de Segurança Nacional (1983) (LSN)",
+ "urnRevogacao": "urn:lex:br:federal:lei:2021-09-01;14197",
+ "ementa": "Define os crimes contra a segurança nacional, a ordem política e social, estabelece seu processo e julgamento e dá outras providências.",
+ "nomeUrn": "lei 7170 1983 12 14",
+ "nomeProcesso": "[ Mensagem nº 135/1983 : Lei nº 7.170 de 14/12/1983 ]",
+ "apelidoProcesso": "[ MSG 135/1983 : LEI-7170-1983-12-14 ]",
+ "status": [
+  {
+   "nomeSituacao": "Revogada",
+   "urnEvento": "urn:lex:br:federal:lei:2021-09-01;14197",
+   "tipoDeclaracao": "DeclaracaoDeRevogacaoPermanenteDaNormaNoTodo",
+   "documento": 549046,
+   "documentoPosterior": 34803754,
+   "nomePreferidoPosterior": "Lei nº 14.197 de 01/09/2021",
+   "ementaPosterior": "Acrescenta o Título XII na Parte Especial do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), relativo aos crimes contra o Estado Democrático de Direito; e revoga a Lei nº 7.170, de 14 de dezembro de 1983 (Lei de Segurança Nacional), e dispositivo do Decreto-Lei nº 3.688, de 3 de outubro de 1941 (Lei das Contravenções Penais).",
+   "posteriores": [
+    {
+     "nomeSituacao": "Revogada",
+     "urnEvento": "urn:lex:br:federal:lei:2021-09-01;14197",
+     "tipoDeclaracao": "DeclaracaoDeRevogacaoPermanenteDaNormaNoTodo",
+     "documento": 549046,
+     "documentoPosterior": 34803754,
+     "nomePreferidoPosterior": "Lei nº 14.197 de 01/09/2021",
+     "ementaPosterior": "Acrescenta o Título XII na Parte Especial do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), relativo aos crimes contra o Estado Democrático de Direito; e revoga a Lei nº 7.170, de 14 de dezembro de 1983 (Lei de Segurança Nacional), e dispositivo do Decreto-Lei nº 3.688, de 3 de outubro de 1941 (Lei das Contravenções Penais)."
+    }
+   ]
+  }
+ ],
+ "_urnEvento": "urn:lex:br:federal:lei:1983-12-14;7170"
+}

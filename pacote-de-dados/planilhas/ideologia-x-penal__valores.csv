@@ -1,0 +1,93 @@
+chave;valor
+gerado_por;apurar_ideologia_x_penal.py
+semente;20260922
+sorteios;200000
+escala;0 (esquerda) a 10 (direita), media das respostas de especialistas
+regras;"[""so' partido registrado a partir de 1980 recebe posicao"", ""sucessao so' pela tabela oficial do TSE de fusoes, incorporacoes e mudancas de nome"", ""escala medida em 2018 e 2022 aplicada a atos anteriores: supoe estabilidade relativa, nao testada""]"
+A_voto_nominal.votos_lidos;28083
+A_voto_nominal.votos_sem_norma_do_universo;3029
+A_voto_nominal.votos_validos_sem_posicao.PAN;5
+A_voto_nominal.votos_validos_sem_posicao.S.PART.;7
+A_voto_nominal.votos_validos_sem_posicao.PRD;105
+A_voto_nominal.votos_validos_sem_posicao.MISSÃO;5
+A_voto_nominal.testes_partido_como_unidade_minimo_30_votos.todas|posicao_2018.partidos;29
+A_voto_nominal.testes_partido_como_unidade_minimo_30_votos.todas|posicao_2018.votos;22429
+A_voto_nominal.testes_partido_como_unidade_minimo_30_votos.todas|posicao_2018.spearman;0.274
+A_voto_nominal.testes_partido_como_unidade_minimo_30_votos.todas|posicao_2018.p;0.1505
+A_voto_nominal.testes_partido_como_unidade_minimo_30_votos.todas|posicao_2022.partidos;30
+A_voto_nominal.testes_partido_como_unidade_minimo_30_votos.todas|posicao_2022.votos;24149
+A_voto_nominal.testes_partido_como_unidade_minimo_30_votos.todas|posicao_2022.spearman;0.211
+A_voto_nominal.testes_partido_como_unidade_minimo_30_votos.todas|posicao_2022.p;0.2624
+A_voto_nominal.testes_partido_como_unidade_minimo_30_votos.agrava|posicao_2018.partidos;28
+A_voto_nominal.testes_partido_como_unidade_minimo_30_votos.agrava|posicao_2018.votos;11157
+A_voto_nominal.testes_partido_como_unidade_minimo_30_votos.agrava|posicao_2018.spearman;0.22
+A_voto_nominal.testes_partido_como_unidade_minimo_30_votos.agrava|posicao_2018.p;0.2599
+A_voto_nominal.testes_partido_como_unidade_minimo_30_votos.agrava|posicao_2022.partidos;29
+A_voto_nominal.testes_partido_como_unidade_minimo_30_votos.agrava|posicao_2022.votos;11912
+A_voto_nominal.testes_partido_como_unidade_minimo_30_votos.agrava|posicao_2022.spearman;0.228
+A_voto_nominal.testes_partido_como_unidade_minimo_30_votos.agrava|posicao_2022.p;0.2329
+A_voto_nominal.testes_partido_como_unidade_minimo_30_votos.abranda|posicao_2018.partidos;0
+A_voto_nominal.testes_partido_como_unidade_minimo_30_votos.abranda|posicao_2018.teste;nao feito, menos de 5 partidos
+A_voto_nominal.testes_partido_como_unidade_minimo_30_votos.abranda|posicao_2022.partidos;0
+A_voto_nominal.testes_partido_como_unidade_minimo_30_votos.abranda|posicao_2022.teste;nao feito, menos de 5 partidos
+A_voto_nominal.testes_partido_como_unidade_minimo_30_votos.texto_base_agrava|posicao_2018.partidos;12
+A_voto_nominal.testes_partido_como_unidade_minimo_30_votos.texto_base_agrava|posicao_2018.votos;903
+A_voto_nominal.testes_partido_como_unidade_minimo_30_votos.texto_base_agrava|posicao_2018.spearman;0.062
+A_voto_nominal.testes_partido_como_unidade_minimo_30_votos.texto_base_agrava|posicao_2018.p;0.8481
+A_voto_nominal.testes_partido_como_unidade_minimo_30_votos.texto_base_agrava|posicao_2022.partidos;13
+A_voto_nominal.testes_partido_como_unidade_minimo_30_votos.texto_base_agrava|posicao_2022.votos;958
+A_voto_nominal.testes_partido_como_unidade_minimo_30_votos.texto_base_agrava|posicao_2022.spearman;0.271
+A_voto_nominal.testes_partido_como_unidade_minimo_30_votos.texto_base_agrava|posicao_2022.p;0.364
+B_autoria.agravam;15
+B_autoria.abrandam;2
+B_autoria.media_agravam;5.645
+B_autoria.media_abrandam;5.03
+B_autoria.p_diferenca;0.742
+C_governadores.fora.partido sem posicao ou Brasil incompleto;54
+C_governadores.fora.mandato atravessa a troca da CID-9 para a CID-10;27
+C_governadores.esquerda_e_centro_esquerda.mandatos;65
+C_governadores.esquerda_e_centro_esquerda.media_diferenca;11.2
+C_governadores.direita_e_centro_direita.mandatos;138
+C_governadores.direita_e_centro_direita.media_diferenca;11.5
+C_governadores.p_diferenca_de_medias;0.9605
+C_governadores.spearman_posicao_x_diferenca;0.009
+C_governadores.p_spearman;0.8932
+D_marco_1988.antes.eventos.agrava;3
+D_marco_1988.antes.eventos.mantem;1
+D_marco_1988.antes.anos;47.83
+D_marco_1988.antes.agravam_ou_criam_por_ano;0.063
+D_marco_1988.antes.abrandam_por_ano;0.0
+D_marco_1988.depois.eventos.agrava;47
+D_marco_1988.depois.eventos.abranda;16
+D_marco_1988.depois.eventos.mantem;6
+D_marco_1988.depois.eventos.cria pena;57
+D_marco_1988.depois.anos;37.95
+D_marco_1988.depois.agravam_ou_criam_por_ano;2.74
+D_marco_1988.depois.abrandam_por_ano;0.422
+D_por_presidente.Costa e Silva (1967-03-15 a 1969-08-31).agrava;2
+D_por_presidente.Dilma Rousseff (2011-01-01 a 2016-05-12).cria pena;5
+D_por_presidente.Dilma Rousseff (2011-01-01 a 2016-05-12).mantem;2
+D_por_presidente.Dilma Rousseff (2011-01-01 a 2016-05-12).abranda;1
+D_por_presidente.Fernando Collor (1990-03-15 a 1992-10-02).agrava;4
+D_por_presidente.Fernando Collor (1990-03-15 a 1992-10-02).abranda;2
+D_por_presidente.Fernando Henrique Cardoso (1995-01-01 a 1999-01-01).agrava;14
+D_por_presidente.Fernando Henrique Cardoso (1995-01-01 a 1999-01-01).abranda;6
+D_por_presidente.Fernando Henrique Cardoso (1995-01-01 a 1999-01-01).mantem;1
+D_por_presidente.Fernando Henrique Cardoso (1995-01-01 a 1999-01-01).cria pena;2
+D_por_presidente.Fernando Henrique Cardoso (1999-01-01 a 2003-01-01).agrava;3
+D_por_presidente.Fernando Henrique Cardoso (1999-01-01 a 2003-01-01).cria pena;15
+D_por_presidente.Itamar Franco (1992-10-02 a 1995-01-01).mantem;1
+D_por_presidente.Jair Messias Bolsonaro (2019-01-01 a 2023-01-01).cria pena;21
+D_por_presidente.Jair Messias Bolsonaro (2019-01-01 a 2023-01-01).agrava;2
+D_por_presidente.João Baptista Figueiredo (1979-03-15 a 1985-03-15).mantem;1
+D_por_presidente.João Baptista Figueiredo (1979-03-15 a 1985-03-15).agrava;1
+D_por_presidente.Luiz Inácio Lula da Silva (2003-01-01 a 2011-01-01).mantem;1
+D_por_presidente.Luiz Inácio Lula da Silva (2003-01-01 a 2011-01-01).agrava;9
+D_por_presidente.Luiz Inácio Lula da Silva (2003-01-01 a 2011-01-01).abranda;2
+D_por_presidente.Luiz Inácio Lula da Silva (2003-01-01 a 2011-01-01).cria pena;5
+D_por_presidente.Luiz Inácio Lula da Silva (2023-01-01 a em curso).agrava;13
+D_por_presidente.Luiz Inácio Lula da Silva (2023-01-01 a em curso).cria pena;7
+D_por_presidente.Luiz Inácio Lula da Silva (2023-01-01 a em curso).abranda;5
+D_por_presidente.Luiz Inácio Lula da Silva (2023-01-01 a em curso).mantem;1
+D_por_presidente.Michel Temer (2016-05-12 a 2019-01-01).cria pena;2
+D_por_presidente.Michel Temer (2016-05-12 a 2019-01-01).agrava;2

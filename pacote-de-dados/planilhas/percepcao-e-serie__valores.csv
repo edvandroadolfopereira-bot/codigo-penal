@@ -1,0 +1,41 @@
+chave;valor
+gerado_por;apurar_percepcao_e_serie.py
+acervo;Forum Brasileiro de Seguranca Publica, copia local
+A_serie_de_mortes_violentas_intencionais.alcance.de;2011
+A_serie_de_mortes_violentas_intencionais.alcance.a;2025
+A_serie_de_mortes_violentas_intencionais.alcance.anos;15
+A_serie_de_mortes_violentas_intencionais.edicoes_lidas;"[""2018_anuario_brasileiro_seguranca_publica_planilha.xlsx"", ""2019_anuario_brasileiro_seguranca_publica_planilha.xlsx"", ""2020_anuario_brasileiro_seguranca_publica_planilha.xlsx"", ""2021_anuario_brasileiro_seguranca_publica_planilha.xlsx"", ""2022_anuario_brasileiro_seguranca_publica_planilha.xlsx"", ""2023_anuario_brasileiro_seguranca_publica_planilha.xlsx"", ""Anuario-16_vfinal_retificado_02-08 (1).xlsx"", ""Anuario-16_vfinal_retificado_02-08 (2).xlsx"", ""anuario-2023-planilha.xlsx"", ""anuario-2024-planilha.xlsx"", ""anuario-2025-planilha.xlsx"", ""anuario-2026-planilha.xlsx""]"
+A_serie_de_mortes_violentas_intencionais.por_ano.2011.valores_publicados;[47215]
+A_serie_de_mortes_violentas_intencionais.por_ano.2011.edicoes_que_publicam;9
+A_serie_de_mortes_violentas_intencionais.por_ano.2012.valores_publicados;[54694]
+A_serie_de_mortes_violentas_intencionais.por_ano.2012.edicoes_que_publicam;11
+A_serie_de_mortes_violentas_intencionais.por_ano.2013.valores_publicados;[55844, 55847]
+A_serie_de_mortes_violentas_intencionais.por_ano.2013.edicoes_que_publicam;11
+A_serie_de_mortes_violentas_intencionais.por_ano.2014.valores_publicados;[59730, 59739]
+A_serie_de_mortes_violentas_intencionais.por_ano.2014.edicoes_que_publicam;11
+A_serie_de_mortes_violentas_intencionais.por_ano.2015.valores_publicados;[58437, 58459]
+A_serie_de_mortes_violentas_intencionais.por_ano.2015.edicoes_que_publicam;11
+A_serie_de_mortes_violentas_intencionais.por_ano.2016.valores_publicados;[61597, 61600]
+A_serie_de_mortes_violentas_intencionais.por_ano.2016.edicoes_que_publicam;11
+A_serie_de_mortes_violentas_intencionais.por_ano.2017.valores_publicados;[64078, 64079]
+A_serie_de_mortes_violentas_intencionais.por_ano.2017.edicoes_que_publicam;11
+A_serie_de_mortes_violentas_intencionais.por_ano.2018.valores_publicados;[57358, 57592]
+A_serie_de_mortes_violentas_intencionais.por_ano.2018.edicoes_que_publicam;11
+A_serie_de_mortes_violentas_intencionais.por_ano.2019.valores_publicados;[47742, 47765, 47796]
+A_serie_de_mortes_violentas_intencionais.por_ano.2019.edicoes_que_publicam;10
+A_serie_de_mortes_violentas_intencionais.por_ano.2020.valores_publicados;[50033, 50448]
+A_serie_de_mortes_violentas_intencionais.por_ano.2020.edicoes_que_publicam;9
+A_serie_de_mortes_violentas_intencionais.por_ano.2021.valores_publicados;[47503, 48286, 48288]
+A_serie_de_mortes_violentas_intencionais.por_ano.2021.edicoes_que_publicam;8
+A_serie_de_mortes_violentas_intencionais.por_ano.2022.valores_publicados;[47452, 47963]
+A_serie_de_mortes_violentas_intencionais.por_ano.2022.edicoes_que_publicam;5
+A_serie_de_mortes_violentas_intencionais.por_ano.2023.valores_publicados;[46328, 46441]
+A_serie_de_mortes_violentas_intencionais.por_ano.2023.edicoes_que_publicam;3
+A_serie_de_mortes_violentas_intencionais.por_ano.2024.valores_publicados;[44127, 44220]
+A_serie_de_mortes_violentas_intencionais.por_ano.2024.edicoes_que_publicam;2
+A_serie_de_mortes_violentas_intencionais.por_ano.2025.valores_publicados;[40775]
+A_serie_de_mortes_violentas_intencionais.por_ano.2025.edicoes_que_publicam;1
+A_serie_de_mortes_violentas_intencionais.anos_com_valor_retificado_entre_edicoes;[2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024]
+B_percepcao_de_inseguranca.a_fonte_afirma_que_a_queda_da_violencia_nao_foi_percebida;True
+B_percepcao_de_inseguranca.trecho_da_afirmacao;queda nas mortes violentas intencionais (2017 foi o ano em que o registro dessas violências teve seu ápice nos últimos, pelo menos, dez anos), ela não foi percebida pelos entrevistados
+B_percepcao_de_inseguranca.o_que_isto_NAO_e;serie anual de percepcao. Sao dois pontos, 2017 e 2022, e dois pontos comparam, mas nao formam serie

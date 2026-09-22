@@ -1,0 +1,511 @@
+chave;valor
+gerado_em;2026-09-22
+universo;115 normas, analise-cientifica/universo-e-regimes.csv
+unidade;ano de publicacao no DOU
+corte;2026-09-18
+dados_ate;2026-09-18
+normas_por_ano_2026;10
+metodo;o de analise_ciclo_eleitoral_cp.py: permutacao por blocos, 200000 sorteios, semente 20260829
+testes.PRINCIPAL: anos completos, 1945 a 2025.PRESIDENCIAL DIRETA.recorte;1945 a 2025
+testes.PRINCIPAL: anos completos, 1945 a 2025.PRESIDENCIAL DIRETA.anos_no_recorte;81
+testes.PRINCIPAL: anos completos, 1945 a 2025.PRESIDENCIAL DIRETA.anos_COM_pleito;13
+testes.PRINCIPAL: anos completos, 1945 a 2025.PRESIDENCIAL DIRETA.anos_SEM_pleito;68
+testes.PRINCIPAL: anos completos, 1945 a 2025.PRESIDENCIAL DIRETA.normas_no_recorte;105
+testes.PRINCIPAL: anos completos, 1945 a 2025.PRESIDENCIAL DIRETA.examinavel;True
+testes.PRINCIPAL: anos completos, 1945 a 2025.PRESIDENCIAL DIRETA.normas_no_grupo;17
+testes.PRINCIPAL: anos completos, 1945 a 2025.PRESIDENCIAL DIRETA.normas_fora;88
+testes.PRINCIPAL: anos completos, 1945 a 2025.PRESIDENCIAL DIRETA.media_no_grupo;1.3077
+testes.PRINCIPAL: anos completos, 1945 a 2025.PRESIDENCIAL DIRETA.media_fora;1.2941
+testes.PRINCIPAL: anos completos, 1945 a 2025.PRESIDENCIAL DIRETA.razao;1.0105
+testes.PRINCIPAL: anos completos, 1945 a 2025.PRESIDENCIAL DIRETA.diferenca_observada;0.0136
+testes.PRINCIPAL: anos completos, 1945 a 2025.PRESIDENCIAL DIRETA.bloco_de_permutacao_anos;10
+testes.PRINCIPAL: anos completos, 1945 a 2025.PRESIDENCIAL DIRETA.sorteios;200000
+testes.PRINCIPAL: anos completos, 1945 a 2025.PRESIDENCIAL DIRETA.p_valor_bilateral;1.0
+testes.PRINCIPAL: anos completos, 1945 a 2025.PRESIDENCIAL DIRETA.anos_do_grupo;[1945, 1950, 1955, 1960, 1989, 1994, 1998, 2002, 2006, 2010, 2014, 2018, 2022]
+testes.PRINCIPAL: anos completos, 1945 a 2025.presidencial INDIRETA.recorte;1945 a 2025
+testes.PRINCIPAL: anos completos, 1945 a 2025.presidencial INDIRETA.anos_no_recorte;81
+testes.PRINCIPAL: anos completos, 1945 a 2025.presidencial INDIRETA.anos_COM_pleito;6
+testes.PRINCIPAL: anos completos, 1945 a 2025.presidencial INDIRETA.anos_SEM_pleito;75
+testes.PRINCIPAL: anos completos, 1945 a 2025.presidencial INDIRETA.normas_no_recorte;105
+testes.PRINCIPAL: anos completos, 1945 a 2025.presidencial INDIRETA.examinavel;True
+testes.PRINCIPAL: anos completos, 1945 a 2025.presidencial INDIRETA.normas_no_grupo;1
+testes.PRINCIPAL: anos completos, 1945 a 2025.presidencial INDIRETA.normas_fora;104
+testes.PRINCIPAL: anos completos, 1945 a 2025.presidencial INDIRETA.media_no_grupo;0.1667
+testes.PRINCIPAL: anos completos, 1945 a 2025.presidencial INDIRETA.media_fora;1.3867
+testes.PRINCIPAL: anos completos, 1945 a 2025.presidencial INDIRETA.razao;0.1202
+testes.PRINCIPAL: anos completos, 1945 a 2025.presidencial INDIRETA.diferenca_observada;-1.22
+testes.PRINCIPAL: anos completos, 1945 a 2025.presidencial INDIRETA.bloco_de_permutacao_anos;10
+testes.PRINCIPAL: anos completos, 1945 a 2025.presidencial INDIRETA.sorteios;200000
+testes.PRINCIPAL: anos completos, 1945 a 2025.presidencial INDIRETA.p_valor_bilateral;0.19831
+testes.PRINCIPAL: anos completos, 1945 a 2025.presidencial INDIRETA.anos_do_grupo;[1964, 1966, 1969, 1974, 1978, 1985]
+testes.PRINCIPAL: anos completos, 1945 a 2025.LEGISLATIVA FEDERAL direta.recorte;1945 a 2025
+testes.PRINCIPAL: anos completos, 1945 a 2025.LEGISLATIVA FEDERAL direta.anos_no_recorte;81
+testes.PRINCIPAL: anos completos, 1945 a 2025.LEGISLATIVA FEDERAL direta.anos_COM_pleito;22
+testes.PRINCIPAL: anos completos, 1945 a 2025.LEGISLATIVA FEDERAL direta.anos_SEM_pleito;59
+testes.PRINCIPAL: anos completos, 1945 a 2025.LEGISLATIVA FEDERAL direta.normas_no_recorte;105
+testes.PRINCIPAL: anos completos, 1945 a 2025.LEGISLATIVA FEDERAL direta.examinavel;True
+testes.PRINCIPAL: anos completos, 1945 a 2025.LEGISLATIVA FEDERAL direta.normas_no_grupo;19
+testes.PRINCIPAL: anos completos, 1945 a 2025.LEGISLATIVA FEDERAL direta.normas_fora;86
+testes.PRINCIPAL: anos completos, 1945 a 2025.LEGISLATIVA FEDERAL direta.media_no_grupo;0.8636
+testes.PRINCIPAL: anos completos, 1945 a 2025.LEGISLATIVA FEDERAL direta.media_fora;1.4576
+testes.PRINCIPAL: anos completos, 1945 a 2025.LEGISLATIVA FEDERAL direta.razao;0.5925
+testes.PRINCIPAL: anos completos, 1945 a 2025.LEGISLATIVA FEDERAL direta.diferenca_observada;-0.594
+testes.PRINCIPAL: anos completos, 1945 a 2025.LEGISLATIVA FEDERAL direta.bloco_de_permutacao_anos;10
+testes.PRINCIPAL: anos completos, 1945 a 2025.LEGISLATIVA FEDERAL direta.sorteios;200000
+testes.PRINCIPAL: anos completos, 1945 a 2025.LEGISLATIVA FEDERAL direta.p_valor_bilateral;0.23503
+testes.PRINCIPAL: anos completos, 1945 a 2025.GOVERNADOR direto.recorte;1945 a 2025
+testes.PRINCIPAL: anos completos, 1945 a 2025.GOVERNADOR direto.anos_no_recorte;81
+testes.PRINCIPAL: anos completos, 1945 a 2025.GOVERNADOR direto.anos_COM_pleito;20
+testes.PRINCIPAL: anos completos, 1945 a 2025.GOVERNADOR direto.anos_SEM_pleito;61
+testes.PRINCIPAL: anos completos, 1945 a 2025.GOVERNADOR direto.normas_no_recorte;105
+testes.PRINCIPAL: anos completos, 1945 a 2025.GOVERNADOR direto.examinavel;True
+testes.PRINCIPAL: anos completos, 1945 a 2025.GOVERNADOR direto.normas_no_grupo;21
+testes.PRINCIPAL: anos completos, 1945 a 2025.GOVERNADOR direto.normas_fora;84
+testes.PRINCIPAL: anos completos, 1945 a 2025.GOVERNADOR direto.media_no_grupo;1.05
+testes.PRINCIPAL: anos completos, 1945 a 2025.GOVERNADOR direto.media_fora;1.377
+testes.PRINCIPAL: anos completos, 1945 a 2025.GOVERNADOR direto.razao;0.7625
+testes.PRINCIPAL: anos completos, 1945 a 2025.GOVERNADOR direto.diferenca_observada;-0.327
+testes.PRINCIPAL: anos completos, 1945 a 2025.GOVERNADOR direto.bloco_de_permutacao_anos;10
+testes.PRINCIPAL: anos completos, 1945 a 2025.GOVERNADOR direto.sorteios;200000
+testes.PRINCIPAL: anos completos, 1945 a 2025.GOVERNADOR direto.p_valor_bilateral;0.55317
+testes.PRINCIPAL: anos completos, 1945 a 2025.governador INDIRETO.recorte;1945 a 2025
+testes.PRINCIPAL: anos completos, 1945 a 2025.governador INDIRETO.anos_no_recorte;81
+testes.PRINCIPAL: anos completos, 1945 a 2025.governador INDIRETO.anos_COM_pleito;4
+testes.PRINCIPAL: anos completos, 1945 a 2025.governador INDIRETO.anos_SEM_pleito;77
+testes.PRINCIPAL: anos completos, 1945 a 2025.governador INDIRETO.normas_no_recorte;105
+testes.PRINCIPAL: anos completos, 1945 a 2025.governador INDIRETO.examinavel;True
+testes.PRINCIPAL: anos completos, 1945 a 2025.governador INDIRETO.normas_no_grupo;0
+testes.PRINCIPAL: anos completos, 1945 a 2025.governador INDIRETO.normas_fora;105
+testes.PRINCIPAL: anos completos, 1945 a 2025.governador INDIRETO.media_no_grupo;0.0
+testes.PRINCIPAL: anos completos, 1945 a 2025.governador INDIRETO.media_fora;1.3636
+testes.PRINCIPAL: anos completos, 1945 a 2025.governador INDIRETO.razao;0.0
+testes.PRINCIPAL: anos completos, 1945 a 2025.governador INDIRETO.diferenca_observada;-1.3636
+testes.PRINCIPAL: anos completos, 1945 a 2025.governador INDIRETO.bloco_de_permutacao_anos;10
+testes.PRINCIPAL: anos completos, 1945 a 2025.governador INDIRETO.sorteios;200000
+testes.PRINCIPAL: anos completos, 1945 a 2025.governador INDIRETO.p_valor_bilateral;0.0832
+testes.PRINCIPAL: anos completos, 1945 a 2025.governador INDIRETO.anos_do_grupo;[1966, 1970, 1974, 1978]
+testes.PRINCIPAL: anos completos, 1945 a 2025.MUNICIPAL, qualquer.recorte;1945 a 2025
+testes.PRINCIPAL: anos completos, 1945 a 2025.MUNICIPAL, qualquer.anos_no_recorte;81
+testes.PRINCIPAL: anos completos, 1945 a 2025.MUNICIPAL, qualquer.anos_COM_pleito;28
+testes.PRINCIPAL: anos completos, 1945 a 2025.MUNICIPAL, qualquer.anos_SEM_pleito;53
+testes.PRINCIPAL: anos completos, 1945 a 2025.MUNICIPAL, qualquer.normas_no_recorte;105
+testes.PRINCIPAL: anos completos, 1945 a 2025.MUNICIPAL, qualquer.examinavel;True
+testes.PRINCIPAL: anos completos, 1945 a 2025.MUNICIPAL, qualquer.normas_no_grupo;30
+testes.PRINCIPAL: anos completos, 1945 a 2025.MUNICIPAL, qualquer.normas_fora;75
+testes.PRINCIPAL: anos completos, 1945 a 2025.MUNICIPAL, qualquer.media_no_grupo;1.0714
+testes.PRINCIPAL: anos completos, 1945 a 2025.MUNICIPAL, qualquer.media_fora;1.4151
+testes.PRINCIPAL: anos completos, 1945 a 2025.MUNICIPAL, qualquer.razao;0.7571
+testes.PRINCIPAL: anos completos, 1945 a 2025.MUNICIPAL, qualquer.diferenca_observada;-0.3437
+testes.PRINCIPAL: anos completos, 1945 a 2025.MUNICIPAL, qualquer.bloco_de_permutacao_anos;10
+testes.PRINCIPAL: anos completos, 1945 a 2025.MUNICIPAL, qualquer.sorteios;200000
+testes.PRINCIPAL: anos completos, 1945 a 2025.MUNICIPAL, qualquer.p_valor_bilateral;0.57773
+testes.PRINCIPAL: anos completos, 1945 a 2025.MUNICIPAL ISOLADA, sem presidencial.recorte;1945 a 2025
+testes.PRINCIPAL: anos completos, 1945 a 2025.MUNICIPAL ISOLADA, sem presidencial.anos_no_recorte;81
+testes.PRINCIPAL: anos completos, 1945 a 2025.MUNICIPAL ISOLADA, sem presidencial.anos_COM_pleito;21
+testes.PRINCIPAL: anos completos, 1945 a 2025.MUNICIPAL ISOLADA, sem presidencial.anos_SEM_pleito;60
+testes.PRINCIPAL: anos completos, 1945 a 2025.MUNICIPAL ISOLADA, sem presidencial.normas_no_recorte;105
+testes.PRINCIPAL: anos completos, 1945 a 2025.MUNICIPAL ISOLADA, sem presidencial.examinavel;True
+testes.PRINCIPAL: anos completos, 1945 a 2025.MUNICIPAL ISOLADA, sem presidencial.normas_no_grupo;29
+testes.PRINCIPAL: anos completos, 1945 a 2025.MUNICIPAL ISOLADA, sem presidencial.normas_fora;76
+testes.PRINCIPAL: anos completos, 1945 a 2025.MUNICIPAL ISOLADA, sem presidencial.media_no_grupo;1.381
+testes.PRINCIPAL: anos completos, 1945 a 2025.MUNICIPAL ISOLADA, sem presidencial.media_fora;1.2667
+testes.PRINCIPAL: anos completos, 1945 a 2025.MUNICIPAL ISOLADA, sem presidencial.razao;1.0902
+testes.PRINCIPAL: anos completos, 1945 a 2025.MUNICIPAL ISOLADA, sem presidencial.diferenca_observada;0.1143
+testes.PRINCIPAL: anos completos, 1945 a 2025.MUNICIPAL ISOLADA, sem presidencial.bloco_de_permutacao_anos;10
+testes.PRINCIPAL: anos completos, 1945 a 2025.MUNICIPAL ISOLADA, sem presidencial.sorteios;200000
+testes.PRINCIPAL: anos completos, 1945 a 2025.MUNICIPAL ISOLADA, sem presidencial.p_valor_bilateral;0.77319
+testes.SENSIBILIDADE: com 2026 incompleto, contagem crua.PRESIDENCIAL DIRETA.recorte;1945 a 2026
+testes.SENSIBILIDADE: com 2026 incompleto, contagem crua.PRESIDENCIAL DIRETA.anos_no_recorte;82
+testes.SENSIBILIDADE: com 2026 incompleto, contagem crua.PRESIDENCIAL DIRETA.anos_COM_pleito;14
+testes.SENSIBILIDADE: com 2026 incompleto, contagem crua.PRESIDENCIAL DIRETA.anos_SEM_pleito;68
+testes.SENSIBILIDADE: com 2026 incompleto, contagem crua.PRESIDENCIAL DIRETA.normas_no_recorte;115
+testes.SENSIBILIDADE: com 2026 incompleto, contagem crua.PRESIDENCIAL DIRETA.examinavel;True
+testes.SENSIBILIDADE: com 2026 incompleto, contagem crua.PRESIDENCIAL DIRETA.normas_no_grupo;27
+testes.SENSIBILIDADE: com 2026 incompleto, contagem crua.PRESIDENCIAL DIRETA.normas_fora;88
+testes.SENSIBILIDADE: com 2026 incompleto, contagem crua.PRESIDENCIAL DIRETA.media_no_grupo;1.9286
+testes.SENSIBILIDADE: com 2026 incompleto, contagem crua.PRESIDENCIAL DIRETA.media_fora;1.2941
+testes.SENSIBILIDADE: com 2026 incompleto, contagem crua.PRESIDENCIAL DIRETA.razao;1.4903
+testes.SENSIBILIDADE: com 2026 incompleto, contagem crua.PRESIDENCIAL DIRETA.diferenca_observada;0.6345
+testes.SENSIBILIDADE: com 2026 incompleto, contagem crua.PRESIDENCIAL DIRETA.bloco_de_permutacao_anos;10
+testes.SENSIBILIDADE: com 2026 incompleto, contagem crua.PRESIDENCIAL DIRETA.sorteios;200000
+testes.SENSIBILIDADE: com 2026 incompleto, contagem crua.PRESIDENCIAL DIRETA.p_valor_bilateral;0.6001
+testes.SENSIBILIDADE: com 2026 incompleto, contagem crua.PRESIDENCIAL DIRETA.anos_do_grupo;[1945, 1950, 1955, 1960, 1989, 1994, 1998, 2002, 2006, 2010, 2014, 2018, 2022, 2026]
+testes.SENSIBILIDADE: com 2026 incompleto, contagem crua.presidencial INDIRETA.recorte;1945 a 2026
+testes.SENSIBILIDADE: com 2026 incompleto, contagem crua.presidencial INDIRETA.anos_no_recorte;82
+testes.SENSIBILIDADE: com 2026 incompleto, contagem crua.presidencial INDIRETA.anos_COM_pleito;6
+testes.SENSIBILIDADE: com 2026 incompleto, contagem crua.presidencial INDIRETA.anos_SEM_pleito;76
+testes.SENSIBILIDADE: com 2026 incompleto, contagem crua.presidencial INDIRETA.normas_no_recorte;115
+testes.SENSIBILIDADE: com 2026 incompleto, contagem crua.presidencial INDIRETA.examinavel;True
+testes.SENSIBILIDADE: com 2026 incompleto, contagem crua.presidencial INDIRETA.normas_no_grupo;1
+testes.SENSIBILIDADE: com 2026 incompleto, contagem crua.presidencial INDIRETA.normas_fora;114
+testes.SENSIBILIDADE: com 2026 incompleto, contagem crua.presidencial INDIRETA.media_no_grupo;0.1667
+testes.SENSIBILIDADE: com 2026 incompleto, contagem crua.presidencial INDIRETA.media_fora;1.5
+testes.SENSIBILIDADE: com 2026 incompleto, contagem crua.presidencial INDIRETA.razao;0.1111
+testes.SENSIBILIDADE: com 2026 incompleto, contagem crua.presidencial INDIRETA.diferenca_observada;-1.3333
+testes.SENSIBILIDADE: com 2026 incompleto, contagem crua.presidencial INDIRETA.bloco_de_permutacao_anos;10
+testes.SENSIBILIDADE: com 2026 incompleto, contagem crua.presidencial INDIRETA.sorteios;200000
+testes.SENSIBILIDADE: com 2026 incompleto, contagem crua.presidencial INDIRETA.p_valor_bilateral;0.19765
+testes.SENSIBILIDADE: com 2026 incompleto, contagem crua.presidencial INDIRETA.anos_do_grupo;[1964, 1966, 1969, 1974, 1978, 1985]
+testes.SENSIBILIDADE: com 2026 incompleto, contagem crua.LEGISLATIVA FEDERAL direta.recorte;1945 a 2026
+testes.SENSIBILIDADE: com 2026 incompleto, contagem crua.LEGISLATIVA FEDERAL direta.anos_no_recorte;82
+testes.SENSIBILIDADE: com 2026 incompleto, contagem crua.LEGISLATIVA FEDERAL direta.anos_COM_pleito;23
+testes.SENSIBILIDADE: com 2026 incompleto, contagem crua.LEGISLATIVA FEDERAL direta.anos_SEM_pleito;59
+testes.SENSIBILIDADE: com 2026 incompleto, contagem crua.LEGISLATIVA FEDERAL direta.normas_no_recorte;115
+testes.SENSIBILIDADE: com 2026 incompleto, contagem crua.LEGISLATIVA FEDERAL direta.examinavel;True
+testes.SENSIBILIDADE: com 2026 incompleto, contagem crua.LEGISLATIVA FEDERAL direta.normas_no_grupo;29
+testes.SENSIBILIDADE: com 2026 incompleto, contagem crua.LEGISLATIVA FEDERAL direta.normas_fora;86
+testes.SENSIBILIDADE: com 2026 incompleto, contagem crua.LEGISLATIVA FEDERAL direta.media_no_grupo;1.2609
+testes.SENSIBILIDADE: com 2026 incompleto, contagem crua.LEGISLATIVA FEDERAL direta.media_fora;1.4576
+testes.SENSIBILIDADE: com 2026 incompleto, contagem crua.LEGISLATIVA FEDERAL direta.razao;0.865
+testes.SENSIBILIDADE: com 2026 incompleto, contagem crua.LEGISLATIVA FEDERAL direta.diferenca_observada;-0.1968
+testes.SENSIBILIDADE: com 2026 incompleto, contagem crua.LEGISLATIVA FEDERAL direta.bloco_de_permutacao_anos;10
+testes.SENSIBILIDADE: com 2026 incompleto, contagem crua.LEGISLATIVA FEDERAL direta.sorteios;200000
+testes.SENSIBILIDADE: com 2026 incompleto, contagem crua.LEGISLATIVA FEDERAL direta.p_valor_bilateral;0.5505
+testes.SENSIBILIDADE: com 2026 incompleto, contagem crua.GOVERNADOR direto.recorte;1945 a 2026
+testes.SENSIBILIDADE: com 2026 incompleto, contagem crua.GOVERNADOR direto.anos_no_recorte;82
+testes.SENSIBILIDADE: com 2026 incompleto, contagem crua.GOVERNADOR direto.anos_COM_pleito;21
+testes.SENSIBILIDADE: com 2026 incompleto, contagem crua.GOVERNADOR direto.anos_SEM_pleito;61
+testes.SENSIBILIDADE: com 2026 incompleto, contagem crua.GOVERNADOR direto.normas_no_recorte;115
+testes.SENSIBILIDADE: com 2026 incompleto, contagem crua.GOVERNADOR direto.examinavel;True
+testes.SENSIBILIDADE: com 2026 incompleto, contagem crua.GOVERNADOR direto.normas_no_grupo;31
+testes.SENSIBILIDADE: com 2026 incompleto, contagem crua.GOVERNADOR direto.normas_fora;84
+testes.SENSIBILIDADE: com 2026 incompleto, contagem crua.GOVERNADOR direto.media_no_grupo;1.4762
+testes.SENSIBILIDADE: com 2026 incompleto, contagem crua.GOVERNADOR direto.media_fora;1.377
+testes.SENSIBILIDADE: com 2026 incompleto, contagem crua.GOVERNADOR direto.razao;1.072
+testes.SENSIBILIDADE: com 2026 incompleto, contagem crua.GOVERNADOR direto.diferenca_observada;0.0991
+testes.SENSIBILIDADE: com 2026 incompleto, contagem crua.GOVERNADOR direto.bloco_de_permutacao_anos;10
+testes.SENSIBILIDADE: com 2026 incompleto, contagem crua.GOVERNADOR direto.sorteios;200000
+testes.SENSIBILIDADE: com 2026 incompleto, contagem crua.GOVERNADOR direto.p_valor_bilateral;0.76226
+testes.SENSIBILIDADE: com 2026 incompleto, contagem crua.governador INDIRETO.recorte;1945 a 2026
+testes.SENSIBILIDADE: com 2026 incompleto, contagem crua.governador INDIRETO.anos_no_recorte;82
+testes.SENSIBILIDADE: com 2026 incompleto, contagem crua.governador INDIRETO.anos_COM_pleito;4
+testes.SENSIBILIDADE: com 2026 incompleto, contagem crua.governador INDIRETO.anos_SEM_pleito;78
+testes.SENSIBILIDADE: com 2026 incompleto, contagem crua.governador INDIRETO.normas_no_recorte;115
+testes.SENSIBILIDADE: com 2026 incompleto, contagem crua.governador INDIRETO.examinavel;True
+testes.SENSIBILIDADE: com 2026 incompleto, contagem crua.governador INDIRETO.normas_no_grupo;0
+testes.SENSIBILIDADE: com 2026 incompleto, contagem crua.governador INDIRETO.normas_fora;115
+testes.SENSIBILIDADE: com 2026 incompleto, contagem crua.governador INDIRETO.media_no_grupo;0.0
+testes.SENSIBILIDADE: com 2026 incompleto, contagem crua.governador INDIRETO.media_fora;1.4744
+testes.SENSIBILIDADE: com 2026 incompleto, contagem crua.governador INDIRETO.razao;0.0
+testes.SENSIBILIDADE: com 2026 incompleto, contagem crua.governador INDIRETO.diferenca_observada;-1.4744
+testes.SENSIBILIDADE: com 2026 incompleto, contagem crua.governador INDIRETO.bloco_de_permutacao_anos;10
+testes.SENSIBILIDADE: com 2026 incompleto, contagem crua.governador INDIRETO.sorteios;200000
+testes.SENSIBILIDADE: com 2026 incompleto, contagem crua.governador INDIRETO.p_valor_bilateral;0.08281
+testes.SENSIBILIDADE: com 2026 incompleto, contagem crua.governador INDIRETO.anos_do_grupo;[1966, 1970, 1974, 1978]
+testes.SENSIBILIDADE: com 2026 incompleto, contagem crua.MUNICIPAL, qualquer.recorte;1945 a 2026
+testes.SENSIBILIDADE: com 2026 incompleto, contagem crua.MUNICIPAL, qualquer.anos_no_recorte;82
+testes.SENSIBILIDADE: com 2026 incompleto, contagem crua.MUNICIPAL, qualquer.anos_COM_pleito;28
+testes.SENSIBILIDADE: com 2026 incompleto, contagem crua.MUNICIPAL, qualquer.anos_SEM_pleito;54
+testes.SENSIBILIDADE: com 2026 incompleto, contagem crua.MUNICIPAL, qualquer.normas_no_recorte;115
+testes.SENSIBILIDADE: com 2026 incompleto, contagem crua.MUNICIPAL, qualquer.examinavel;True
+testes.SENSIBILIDADE: com 2026 incompleto, contagem crua.MUNICIPAL, qualquer.normas_no_grupo;30
+testes.SENSIBILIDADE: com 2026 incompleto, contagem crua.MUNICIPAL, qualquer.normas_fora;85
+testes.SENSIBILIDADE: com 2026 incompleto, contagem crua.MUNICIPAL, qualquer.media_no_grupo;1.0714
+testes.SENSIBILIDADE: com 2026 incompleto, contagem crua.MUNICIPAL, qualquer.media_fora;1.5741
+testes.SENSIBILIDADE: com 2026 incompleto, contagem crua.MUNICIPAL, qualquer.razao;0.6807
+testes.SENSIBILIDADE: com 2026 incompleto, contagem crua.MUNICIPAL, qualquer.diferenca_observada;-0.5026
+testes.SENSIBILIDADE: com 2026 incompleto, contagem crua.MUNICIPAL, qualquer.bloco_de_permutacao_anos;10
+testes.SENSIBILIDADE: com 2026 incompleto, contagem crua.MUNICIPAL, qualquer.sorteios;200000
+testes.SENSIBILIDADE: com 2026 incompleto, contagem crua.MUNICIPAL, qualquer.p_valor_bilateral;0.56975
+testes.SENSIBILIDADE: com 2026 incompleto, contagem crua.MUNICIPAL ISOLADA, sem presidencial.recorte;1945 a 2026
+testes.SENSIBILIDADE: com 2026 incompleto, contagem crua.MUNICIPAL ISOLADA, sem presidencial.anos_no_recorte;82
+testes.SENSIBILIDADE: com 2026 incompleto, contagem crua.MUNICIPAL ISOLADA, sem presidencial.anos_COM_pleito;21
+testes.SENSIBILIDADE: com 2026 incompleto, contagem crua.MUNICIPAL ISOLADA, sem presidencial.anos_SEM_pleito;61
+testes.SENSIBILIDADE: com 2026 incompleto, contagem crua.MUNICIPAL ISOLADA, sem presidencial.normas_no_recorte;115
+testes.SENSIBILIDADE: com 2026 incompleto, contagem crua.MUNICIPAL ISOLADA, sem presidencial.examinavel;True
+testes.SENSIBILIDADE: com 2026 incompleto, contagem crua.MUNICIPAL ISOLADA, sem presidencial.normas_no_grupo;29
+testes.SENSIBILIDADE: com 2026 incompleto, contagem crua.MUNICIPAL ISOLADA, sem presidencial.normas_fora;86
+testes.SENSIBILIDADE: com 2026 incompleto, contagem crua.MUNICIPAL ISOLADA, sem presidencial.media_no_grupo;1.381
+testes.SENSIBILIDADE: com 2026 incompleto, contagem crua.MUNICIPAL ISOLADA, sem presidencial.media_fora;1.4098
+testes.SENSIBILIDADE: com 2026 incompleto, contagem crua.MUNICIPAL ISOLADA, sem presidencial.razao;0.9795
+testes.SENSIBILIDADE: com 2026 incompleto, contagem crua.MUNICIPAL ISOLADA, sem presidencial.diferenca_observada;-0.0289
+testes.SENSIBILIDADE: com 2026 incompleto, contagem crua.MUNICIPAL ISOLADA, sem presidencial.bloco_de_permutacao_anos;10
+testes.SENSIBILIDADE: com 2026 incompleto, contagem crua.MUNICIPAL ISOLADA, sem presidencial.sorteios;200000
+testes.SENSIBILIDADE: com 2026 incompleto, contagem crua.MUNICIPAL ISOLADA, sem presidencial.p_valor_bilateral;1.0
+testes.Republica de 1946 (1946 a 1963).PRESIDENCIAL DIRETA.recorte;1946 a 1963
+testes.Republica de 1946 (1946 a 1963).PRESIDENCIAL DIRETA.anos_no_recorte;18
+testes.Republica de 1946 (1946 a 1963).PRESIDENCIAL DIRETA.anos_COM_pleito;3
+testes.Republica de 1946 (1946 a 1963).PRESIDENCIAL DIRETA.anos_SEM_pleito;15
+testes.Republica de 1946 (1946 a 1963).PRESIDENCIAL DIRETA.normas_no_recorte;2
+testes.Republica de 1946 (1946 a 1963).PRESIDENCIAL DIRETA.examinavel;True
+testes.Republica de 1946 (1946 a 1963).PRESIDENCIAL DIRETA.normas_no_grupo;1
+testes.Republica de 1946 (1946 a 1963).PRESIDENCIAL DIRETA.normas_fora;1
+testes.Republica de 1946 (1946 a 1963).PRESIDENCIAL DIRETA.media_no_grupo;0.3333
+testes.Republica de 1946 (1946 a 1963).PRESIDENCIAL DIRETA.media_fora;0.0667
+testes.Republica de 1946 (1946 a 1963).PRESIDENCIAL DIRETA.razao;5.0
+testes.Republica de 1946 (1946 a 1963).PRESIDENCIAL DIRETA.diferenca_observada;0.2667
+testes.Republica de 1946 (1946 a 1963).PRESIDENCIAL DIRETA.bloco_de_permutacao_anos;8
+testes.Republica de 1946 (1946 a 1963).PRESIDENCIAL DIRETA.sorteios;200000
+testes.Republica de 1946 (1946 a 1963).PRESIDENCIAL DIRETA.p_valor_bilateral;0.34301
+testes.Republica de 1946 (1946 a 1963).PRESIDENCIAL DIRETA.anos_do_grupo;[1950, 1955, 1960]
+testes.Republica de 1946 (1946 a 1963).presidencial INDIRETA.recorte;1946 a 1963
+testes.Republica de 1946 (1946 a 1963).presidencial INDIRETA.anos_no_recorte;18
+testes.Republica de 1946 (1946 a 1963).presidencial INDIRETA.anos_COM_pleito;0
+testes.Republica de 1946 (1946 a 1963).presidencial INDIRETA.anos_SEM_pleito;18
+testes.Republica de 1946 (1946 a 1963).presidencial INDIRETA.normas_no_recorte;2
+testes.Republica de 1946 (1946 a 1963).presidencial INDIRETA.examinavel;False
+testes.Republica de 1946 (1946 a 1963).presidencial INDIRETA.motivo;grupo com 0 anos contra 18 fora. Abaixo de 3 de cada lado o teste nao tem o que permutar, e o resultado nao seria medida.
+testes.Republica de 1946 (1946 a 1963).LEGISLATIVA FEDERAL direta.recorte;1946 a 1963
+testes.Republica de 1946 (1946 a 1963).LEGISLATIVA FEDERAL direta.anos_no_recorte;18
+testes.Republica de 1946 (1946 a 1963).LEGISLATIVA FEDERAL direta.anos_COM_pleito;5
+testes.Republica de 1946 (1946 a 1963).LEGISLATIVA FEDERAL direta.anos_SEM_pleito;13
+testes.Republica de 1946 (1946 a 1963).LEGISLATIVA FEDERAL direta.normas_no_recorte;2
+testes.Republica de 1946 (1946 a 1963).LEGISLATIVA FEDERAL direta.examinavel;True
+testes.Republica de 1946 (1946 a 1963).LEGISLATIVA FEDERAL direta.normas_no_grupo;0
+testes.Republica de 1946 (1946 a 1963).LEGISLATIVA FEDERAL direta.normas_fora;2
+testes.Republica de 1946 (1946 a 1963).LEGISLATIVA FEDERAL direta.media_no_grupo;0.0
+testes.Republica de 1946 (1946 a 1963).LEGISLATIVA FEDERAL direta.media_fora;0.1538
+testes.Republica de 1946 (1946 a 1963).LEGISLATIVA FEDERAL direta.razao;0.0
+testes.Republica de 1946 (1946 a 1963).LEGISLATIVA FEDERAL direta.diferenca_observada;-0.1538
+testes.Republica de 1946 (1946 a 1963).LEGISLATIVA FEDERAL direta.bloco_de_permutacao_anos;8
+testes.Republica de 1946 (1946 a 1963).LEGISLATIVA FEDERAL direta.sorteios;200000
+testes.Republica de 1946 (1946 a 1963).LEGISLATIVA FEDERAL direta.p_valor_bilateral;0.62579
+testes.Republica de 1946 (1946 a 1963).LEGISLATIVA FEDERAL direta.anos_do_grupo;[1947, 1950, 1954, 1958, 1962]
+testes.Republica de 1946 (1946 a 1963).GOVERNADOR direto.recorte;1946 a 1963
+testes.Republica de 1946 (1946 a 1963).GOVERNADOR direto.anos_no_recorte;18
+testes.Republica de 1946 (1946 a 1963).GOVERNADOR direto.anos_COM_pleito;7
+testes.Republica de 1946 (1946 a 1963).GOVERNADOR direto.anos_SEM_pleito;11
+testes.Republica de 1946 (1946 a 1963).GOVERNADOR direto.normas_no_recorte;2
+testes.Republica de 1946 (1946 a 1963).GOVERNADOR direto.examinavel;True
+testes.Republica de 1946 (1946 a 1963).GOVERNADOR direto.normas_no_grupo;1
+testes.Republica de 1946 (1946 a 1963).GOVERNADOR direto.normas_fora;1
+testes.Republica de 1946 (1946 a 1963).GOVERNADOR direto.media_no_grupo;0.1429
+testes.Republica de 1946 (1946 a 1963).GOVERNADOR direto.media_fora;0.0909
+testes.Republica de 1946 (1946 a 1963).GOVERNADOR direto.razao;1.5714
+testes.Republica de 1946 (1946 a 1963).GOVERNADOR direto.diferenca_observada;0.0519
+testes.Republica de 1946 (1946 a 1963).GOVERNADOR direto.bloco_de_permutacao_anos;8
+testes.Republica de 1946 (1946 a 1963).GOVERNADOR direto.sorteios;200000
+testes.Republica de 1946 (1946 a 1963).GOVERNADOR direto.p_valor_bilateral;1.0
+testes.Republica de 1946 (1946 a 1963).GOVERNADOR direto.anos_do_grupo;[1947, 1950, 1954, 1955, 1958, 1960, 1962]
+testes.Republica de 1946 (1946 a 1963).governador INDIRETO.recorte;1946 a 1963
+testes.Republica de 1946 (1946 a 1963).governador INDIRETO.anos_no_recorte;18
+testes.Republica de 1946 (1946 a 1963).governador INDIRETO.anos_COM_pleito;0
+testes.Republica de 1946 (1946 a 1963).governador INDIRETO.anos_SEM_pleito;18
+testes.Republica de 1946 (1946 a 1963).governador INDIRETO.normas_no_recorte;2
+testes.Republica de 1946 (1946 a 1963).governador INDIRETO.examinavel;False
+testes.Republica de 1946 (1946 a 1963).governador INDIRETO.motivo;grupo com 0 anos contra 18 fora. Abaixo de 3 de cada lado o teste nao tem o que permutar, e o resultado nao seria medida.
+testes.Republica de 1946 (1946 a 1963).MUNICIPAL, qualquer.recorte;1946 a 1963
+testes.Republica de 1946 (1946 a 1963).MUNICIPAL, qualquer.anos_no_recorte;18
+testes.Republica de 1946 (1946 a 1963).MUNICIPAL, qualquer.anos_COM_pleito;7
+testes.Republica de 1946 (1946 a 1963).MUNICIPAL, qualquer.anos_SEM_pleito;11
+testes.Republica de 1946 (1946 a 1963).MUNICIPAL, qualquer.normas_no_recorte;2
+testes.Republica de 1946 (1946 a 1963).MUNICIPAL, qualquer.examinavel;True
+testes.Republica de 1946 (1946 a 1963).MUNICIPAL, qualquer.normas_no_grupo;1
+testes.Republica de 1946 (1946 a 1963).MUNICIPAL, qualquer.normas_fora;1
+testes.Republica de 1946 (1946 a 1963).MUNICIPAL, qualquer.media_no_grupo;0.1429
+testes.Republica de 1946 (1946 a 1963).MUNICIPAL, qualquer.media_fora;0.0909
+testes.Republica de 1946 (1946 a 1963).MUNICIPAL, qualquer.razao;1.5714
+testes.Republica de 1946 (1946 a 1963).MUNICIPAL, qualquer.diferenca_observada;0.0519
+testes.Republica de 1946 (1946 a 1963).MUNICIPAL, qualquer.bloco_de_permutacao_anos;8
+testes.Republica de 1946 (1946 a 1963).MUNICIPAL, qualquer.sorteios;200000
+testes.Republica de 1946 (1946 a 1963).MUNICIPAL, qualquer.p_valor_bilateral;1.0
+testes.Republica de 1946 (1946 a 1963).MUNICIPAL, qualquer.anos_do_grupo;[1947, 1950, 1954, 1955, 1958, 1960, 1962]
+testes.Republica de 1946 (1946 a 1963).MUNICIPAL ISOLADA, sem presidencial.recorte;1946 a 1963
+testes.Republica de 1946 (1946 a 1963).MUNICIPAL ISOLADA, sem presidencial.anos_no_recorte;18
+testes.Republica de 1946 (1946 a 1963).MUNICIPAL ISOLADA, sem presidencial.anos_COM_pleito;4
+testes.Republica de 1946 (1946 a 1963).MUNICIPAL ISOLADA, sem presidencial.anos_SEM_pleito;14
+testes.Republica de 1946 (1946 a 1963).MUNICIPAL ISOLADA, sem presidencial.normas_no_recorte;2
+testes.Republica de 1946 (1946 a 1963).MUNICIPAL ISOLADA, sem presidencial.examinavel;True
+testes.Republica de 1946 (1946 a 1963).MUNICIPAL ISOLADA, sem presidencial.normas_no_grupo;0
+testes.Republica de 1946 (1946 a 1963).MUNICIPAL ISOLADA, sem presidencial.normas_fora;2
+testes.Republica de 1946 (1946 a 1963).MUNICIPAL ISOLADA, sem presidencial.media_no_grupo;0.0
+testes.Republica de 1946 (1946 a 1963).MUNICIPAL ISOLADA, sem presidencial.media_fora;0.1429
+testes.Republica de 1946 (1946 a 1963).MUNICIPAL ISOLADA, sem presidencial.razao;0.0
+testes.Republica de 1946 (1946 a 1963).MUNICIPAL ISOLADA, sem presidencial.diferenca_observada;-0.1429
+testes.Republica de 1946 (1946 a 1963).MUNICIPAL ISOLADA, sem presidencial.bloco_de_permutacao_anos;8
+testes.Republica de 1946 (1946 a 1963).MUNICIPAL ISOLADA, sem presidencial.sorteios;200000
+testes.Republica de 1946 (1946 a 1963).MUNICIPAL ISOLADA, sem presidencial.p_valor_bilateral;1.0
+testes.Republica de 1946 (1946 a 1963).MUNICIPAL ISOLADA, sem presidencial.anos_do_grupo;[1947, 1954, 1958, 1962]
+testes.Ditadura militar (1964 a 1984).PRESIDENCIAL DIRETA.recorte;1964 a 1984
+testes.Ditadura militar (1964 a 1984).PRESIDENCIAL DIRETA.anos_no_recorte;21
+testes.Ditadura militar (1964 a 1984).PRESIDENCIAL DIRETA.anos_COM_pleito;0
+testes.Ditadura militar (1964 a 1984).PRESIDENCIAL DIRETA.anos_SEM_pleito;21
+testes.Ditadura militar (1964 a 1984).PRESIDENCIAL DIRETA.normas_no_recorte;15
+testes.Ditadura militar (1964 a 1984).PRESIDENCIAL DIRETA.examinavel;False
+testes.Ditadura militar (1964 a 1984).PRESIDENCIAL DIRETA.motivo;grupo com 0 anos contra 21 fora. Abaixo de 3 de cada lado o teste nao tem o que permutar, e o resultado nao seria medida.
+testes.Ditadura militar (1964 a 1984).presidencial INDIRETA.recorte;1964 a 1984
+testes.Ditadura militar (1964 a 1984).presidencial INDIRETA.anos_no_recorte;21
+testes.Ditadura militar (1964 a 1984).presidencial INDIRETA.anos_COM_pleito;5
+testes.Ditadura militar (1964 a 1984).presidencial INDIRETA.anos_SEM_pleito;16
+testes.Ditadura militar (1964 a 1984).presidencial INDIRETA.normas_no_recorte;15
+testes.Ditadura militar (1964 a 1984).presidencial INDIRETA.examinavel;True
+testes.Ditadura militar (1964 a 1984).presidencial INDIRETA.normas_no_grupo;1
+testes.Ditadura militar (1964 a 1984).presidencial INDIRETA.normas_fora;14
+testes.Ditadura militar (1964 a 1984).presidencial INDIRETA.media_no_grupo;0.2
+testes.Ditadura militar (1964 a 1984).presidencial INDIRETA.media_fora;0.875
+testes.Ditadura militar (1964 a 1984).presidencial INDIRETA.razao;0.2286
+testes.Ditadura militar (1964 a 1984).presidencial INDIRETA.diferenca_observada;-0.675
+testes.Ditadura militar (1964 a 1984).presidencial INDIRETA.bloco_de_permutacao_anos;8
+testes.Ditadura militar (1964 a 1984).presidencial INDIRETA.sorteios;200000
+testes.Ditadura militar (1964 a 1984).presidencial INDIRETA.p_valor_bilateral;0.18951
+testes.Ditadura militar (1964 a 1984).presidencial INDIRETA.anos_do_grupo;[1964, 1966, 1969, 1974, 1978]
+testes.Ditadura militar (1964 a 1984).LEGISLATIVA FEDERAL direta.recorte;1964 a 1984
+testes.Ditadura militar (1964 a 1984).LEGISLATIVA FEDERAL direta.anos_no_recorte;21
+testes.Ditadura militar (1964 a 1984).LEGISLATIVA FEDERAL direta.anos_COM_pleito;5
+testes.Ditadura militar (1964 a 1984).LEGISLATIVA FEDERAL direta.anos_SEM_pleito;16
+testes.Ditadura militar (1964 a 1984).LEGISLATIVA FEDERAL direta.normas_no_recorte;15
+testes.Ditadura militar (1964 a 1984).LEGISLATIVA FEDERAL direta.examinavel;True
+testes.Ditadura militar (1964 a 1984).LEGISLATIVA FEDERAL direta.normas_no_grupo;0
+testes.Ditadura militar (1964 a 1984).LEGISLATIVA FEDERAL direta.normas_fora;15
+testes.Ditadura militar (1964 a 1984).LEGISLATIVA FEDERAL direta.media_no_grupo;0.0
+testes.Ditadura militar (1964 a 1984).LEGISLATIVA FEDERAL direta.media_fora;0.9375
+testes.Ditadura militar (1964 a 1984).LEGISLATIVA FEDERAL direta.razao;0.0
+testes.Ditadura militar (1964 a 1984).LEGISLATIVA FEDERAL direta.diferenca_observada;-0.9375
+testes.Ditadura militar (1964 a 1984).LEGISLATIVA FEDERAL direta.bloco_de_permutacao_anos;8
+testes.Ditadura militar (1964 a 1984).LEGISLATIVA FEDERAL direta.sorteios;200000
+testes.Ditadura militar (1964 a 1984).LEGISLATIVA FEDERAL direta.p_valor_bilateral;0.0523
+testes.Ditadura militar (1964 a 1984).LEGISLATIVA FEDERAL direta.anos_do_grupo;[1966, 1970, 1974, 1978, 1982]
+testes.Ditadura militar (1964 a 1984).GOVERNADOR direto.recorte;1964 a 1984
+testes.Ditadura militar (1964 a 1984).GOVERNADOR direto.anos_no_recorte;21
+testes.Ditadura militar (1964 a 1984).GOVERNADOR direto.anos_COM_pleito;2
+testes.Ditadura militar (1964 a 1984).GOVERNADOR direto.anos_SEM_pleito;19
+testes.Ditadura militar (1964 a 1984).GOVERNADOR direto.normas_no_recorte;15
+testes.Ditadura militar (1964 a 1984).GOVERNADOR direto.examinavel;False
+testes.Ditadura militar (1964 a 1984).GOVERNADOR direto.motivo;grupo com 2 anos contra 19 fora. Abaixo de 3 de cada lado o teste nao tem o que permutar, e o resultado nao seria medida.
+testes.Ditadura militar (1964 a 1984).governador INDIRETO.recorte;1964 a 1984
+testes.Ditadura militar (1964 a 1984).governador INDIRETO.anos_no_recorte;21
+testes.Ditadura militar (1964 a 1984).governador INDIRETO.anos_COM_pleito;4
+testes.Ditadura militar (1964 a 1984).governador INDIRETO.anos_SEM_pleito;17
+testes.Ditadura militar (1964 a 1984).governador INDIRETO.normas_no_recorte;15
+testes.Ditadura militar (1964 a 1984).governador INDIRETO.examinavel;True
+testes.Ditadura militar (1964 a 1984).governador INDIRETO.normas_no_grupo;0
+testes.Ditadura militar (1964 a 1984).governador INDIRETO.normas_fora;15
+testes.Ditadura militar (1964 a 1984).governador INDIRETO.media_no_grupo;0.0
+testes.Ditadura militar (1964 a 1984).governador INDIRETO.media_fora;0.8824
+testes.Ditadura militar (1964 a 1984).governador INDIRETO.razao;0.0
+testes.Ditadura militar (1964 a 1984).governador INDIRETO.diferenca_observada;-0.8824
+testes.Ditadura militar (1964 a 1984).governador INDIRETO.bloco_de_permutacao_anos;8
+testes.Ditadura militar (1964 a 1984).governador INDIRETO.sorteios;200000
+testes.Ditadura militar (1964 a 1984).governador INDIRETO.p_valor_bilateral;0.12829
+testes.Ditadura militar (1964 a 1984).governador INDIRETO.anos_do_grupo;[1966, 1970, 1974, 1978]
+testes.Ditadura militar (1964 a 1984).MUNICIPAL, qualquer.recorte;1964 a 1984
+testes.Ditadura militar (1964 a 1984).MUNICIPAL, qualquer.anos_no_recorte;21
+testes.Ditadura militar (1964 a 1984).MUNICIPAL, qualquer.anos_COM_pleito;8
+testes.Ditadura militar (1964 a 1984).MUNICIPAL, qualquer.anos_SEM_pleito;13
+testes.Ditadura militar (1964 a 1984).MUNICIPAL, qualquer.normas_no_recorte;15
+testes.Ditadura militar (1964 a 1984).MUNICIPAL, qualquer.examinavel;True
+testes.Ditadura militar (1964 a 1984).MUNICIPAL, qualquer.normas_no_grupo;6
+testes.Ditadura militar (1964 a 1984).MUNICIPAL, qualquer.normas_fora;9
+testes.Ditadura militar (1964 a 1984).MUNICIPAL, qualquer.media_no_grupo;0.75
+testes.Ditadura militar (1964 a 1984).MUNICIPAL, qualquer.media_fora;0.6923
+testes.Ditadura militar (1964 a 1984).MUNICIPAL, qualquer.razao;1.0833
+testes.Ditadura militar (1964 a 1984).MUNICIPAL, qualquer.diferenca_observada;0.0577
+testes.Ditadura militar (1964 a 1984).MUNICIPAL, qualquer.bloco_de_permutacao_anos;8
+testes.Ditadura militar (1964 a 1984).MUNICIPAL, qualquer.sorteios;200000
+testes.Ditadura militar (1964 a 1984).MUNICIPAL, qualquer.p_valor_bilateral;1.0
+testes.Ditadura militar (1964 a 1984).MUNICIPAL, qualquer.anos_do_grupo;[1965, 1966, 1968, 1969, 1970, 1972, 1976, 1982]
+testes.Ditadura militar (1964 a 1984).MUNICIPAL ISOLADA, sem presidencial.recorte;1964 a 1984
+testes.Ditadura militar (1964 a 1984).MUNICIPAL ISOLADA, sem presidencial.anos_no_recorte;21
+testes.Ditadura militar (1964 a 1984).MUNICIPAL ISOLADA, sem presidencial.anos_COM_pleito;6
+testes.Ditadura militar (1964 a 1984).MUNICIPAL ISOLADA, sem presidencial.anos_SEM_pleito;15
+testes.Ditadura militar (1964 a 1984).MUNICIPAL ISOLADA, sem presidencial.normas_no_recorte;15
+testes.Ditadura militar (1964 a 1984).MUNICIPAL ISOLADA, sem presidencial.examinavel;True
+testes.Ditadura militar (1964 a 1984).MUNICIPAL ISOLADA, sem presidencial.normas_no_grupo;6
+testes.Ditadura militar (1964 a 1984).MUNICIPAL ISOLADA, sem presidencial.normas_fora;9
+testes.Ditadura militar (1964 a 1984).MUNICIPAL ISOLADA, sem presidencial.media_no_grupo;1.0
+testes.Ditadura militar (1964 a 1984).MUNICIPAL ISOLADA, sem presidencial.media_fora;0.6
+testes.Ditadura militar (1964 a 1984).MUNICIPAL ISOLADA, sem presidencial.razao;1.6667
+testes.Ditadura militar (1964 a 1984).MUNICIPAL ISOLADA, sem presidencial.diferenca_observada;0.4
+testes.Ditadura militar (1964 a 1984).MUNICIPAL ISOLADA, sem presidencial.bloco_de_permutacao_anos;8
+testes.Ditadura militar (1964 a 1984).MUNICIPAL ISOLADA, sem presidencial.sorteios;200000
+testes.Ditadura militar (1964 a 1984).MUNICIPAL ISOLADA, sem presidencial.p_valor_bilateral;0.50914
+testes.Ditadura militar (1964 a 1984).MUNICIPAL ISOLADA, sem presidencial.anos_do_grupo;[1965, 1968, 1970, 1972, 1976, 1982]
+testes.Nova Republica, anos completos (1985 a 2025).PRESIDENCIAL DIRETA.recorte;1985 a 2025
+testes.Nova Republica, anos completos (1985 a 2025).PRESIDENCIAL DIRETA.anos_no_recorte;41
+testes.Nova Republica, anos completos (1985 a 2025).PRESIDENCIAL DIRETA.anos_COM_pleito;9
+testes.Nova Republica, anos completos (1985 a 2025).PRESIDENCIAL DIRETA.anos_SEM_pleito;32
+testes.Nova Republica, anos completos (1985 a 2025).PRESIDENCIAL DIRETA.normas_no_recorte;88
+testes.Nova Republica, anos completos (1985 a 2025).PRESIDENCIAL DIRETA.examinavel;True
+testes.Nova Republica, anos completos (1985 a 2025).PRESIDENCIAL DIRETA.normas_no_grupo;16
+testes.Nova Republica, anos completos (1985 a 2025).PRESIDENCIAL DIRETA.normas_fora;72
+testes.Nova Republica, anos completos (1985 a 2025).PRESIDENCIAL DIRETA.media_no_grupo;1.7778
+testes.Nova Republica, anos completos (1985 a 2025).PRESIDENCIAL DIRETA.media_fora;2.25
+testes.Nova Republica, anos completos (1985 a 2025).PRESIDENCIAL DIRETA.razao;0.7901
+testes.Nova Republica, anos completos (1985 a 2025).PRESIDENCIAL DIRETA.diferenca_observada;-0.4722
+testes.Nova Republica, anos completos (1985 a 2025).PRESIDENCIAL DIRETA.bloco_de_permutacao_anos;10
+testes.Nova Republica, anos completos (1985 a 2025).PRESIDENCIAL DIRETA.sorteios;200000
+testes.Nova Republica, anos completos (1985 a 2025).PRESIDENCIAL DIRETA.p_valor_bilateral;0.54657
+testes.Nova Republica, anos completos (1985 a 2025).PRESIDENCIAL DIRETA.anos_do_grupo;[1989, 1994, 1998, 2002, 2006, 2010, 2014, 2018, 2022]
+testes.Nova Republica, anos completos (1985 a 2025).presidencial INDIRETA.recorte;1985 a 2025
+testes.Nova Republica, anos completos (1985 a 2025).presidencial INDIRETA.anos_no_recorte;41
+testes.Nova Republica, anos completos (1985 a 2025).presidencial INDIRETA.anos_COM_pleito;1
+testes.Nova Republica, anos completos (1985 a 2025).presidencial INDIRETA.anos_SEM_pleito;40
+testes.Nova Republica, anos completos (1985 a 2025).presidencial INDIRETA.normas_no_recorte;88
+testes.Nova Republica, anos completos (1985 a 2025).presidencial INDIRETA.examinavel;False
+testes.Nova Republica, anos completos (1985 a 2025).presidencial INDIRETA.motivo;grupo com 1 anos contra 40 fora. Abaixo de 3 de cada lado o teste nao tem o que permutar, e o resultado nao seria medida.
+testes.Nova Republica, anos completos (1985 a 2025).LEGISLATIVA FEDERAL direta.recorte;1985 a 2025
+testes.Nova Republica, anos completos (1985 a 2025).LEGISLATIVA FEDERAL direta.anos_no_recorte;41
+testes.Nova Republica, anos completos (1985 a 2025).LEGISLATIVA FEDERAL direta.anos_COM_pleito;11
+testes.Nova Republica, anos completos (1985 a 2025).LEGISLATIVA FEDERAL direta.anos_SEM_pleito;30
+testes.Nova Republica, anos completos (1985 a 2025).LEGISLATIVA FEDERAL direta.normas_no_recorte;88
+testes.Nova Republica, anos completos (1985 a 2025).LEGISLATIVA FEDERAL direta.examinavel;True
+testes.Nova Republica, anos completos (1985 a 2025).LEGISLATIVA FEDERAL direta.normas_no_grupo;19
+testes.Nova Republica, anos completos (1985 a 2025).LEGISLATIVA FEDERAL direta.normas_fora;69
+testes.Nova Republica, anos completos (1985 a 2025).LEGISLATIVA FEDERAL direta.media_no_grupo;1.7273
+testes.Nova Republica, anos completos (1985 a 2025).LEGISLATIVA FEDERAL direta.media_fora;2.3
+testes.Nova Republica, anos completos (1985 a 2025).LEGISLATIVA FEDERAL direta.razao;0.751
+testes.Nova Republica, anos completos (1985 a 2025).LEGISLATIVA FEDERAL direta.diferenca_observada;-0.5727
+testes.Nova Republica, anos completos (1985 a 2025).LEGISLATIVA FEDERAL direta.bloco_de_permutacao_anos;10
+testes.Nova Republica, anos completos (1985 a 2025).LEGISLATIVA FEDERAL direta.sorteios;200000
+testes.Nova Republica, anos completos (1985 a 2025).LEGISLATIVA FEDERAL direta.p_valor_bilateral;0.58665
+testes.Nova Republica, anos completos (1985 a 2025).LEGISLATIVA FEDERAL direta.anos_do_grupo;[1986, 1988, 1990, 1994, 1998, 2002, 2006, 2010, 2014, 2018, 2022]
+testes.Nova Republica, anos completos (1985 a 2025).GOVERNADOR direto.recorte;1985 a 2025
+testes.Nova Republica, anos completos (1985 a 2025).GOVERNADOR direto.anos_no_recorte;41
+testes.Nova Republica, anos completos (1985 a 2025).GOVERNADOR direto.anos_COM_pleito;11
+testes.Nova Republica, anos completos (1985 a 2025).GOVERNADOR direto.anos_SEM_pleito;30
+testes.Nova Republica, anos completos (1985 a 2025).GOVERNADOR direto.normas_no_recorte;88
+testes.Nova Republica, anos completos (1985 a 2025).GOVERNADOR direto.examinavel;True
+testes.Nova Republica, anos completos (1985 a 2025).GOVERNADOR direto.normas_no_grupo;19
+testes.Nova Republica, anos completos (1985 a 2025).GOVERNADOR direto.normas_fora;69
+testes.Nova Republica, anos completos (1985 a 2025).GOVERNADOR direto.media_no_grupo;1.7273
+testes.Nova Republica, anos completos (1985 a 2025).GOVERNADOR direto.media_fora;2.3
+testes.Nova Republica, anos completos (1985 a 2025).GOVERNADOR direto.razao;0.751
+testes.Nova Republica, anos completos (1985 a 2025).GOVERNADOR direto.diferenca_observada;-0.5727
+testes.Nova Republica, anos completos (1985 a 2025).GOVERNADOR direto.bloco_de_permutacao_anos;10
+testes.Nova Republica, anos completos (1985 a 2025).GOVERNADOR direto.sorteios;200000
+testes.Nova Republica, anos completos (1985 a 2025).GOVERNADOR direto.p_valor_bilateral;0.58665
+testes.Nova Republica, anos completos (1985 a 2025).GOVERNADOR direto.anos_do_grupo;[1986, 1988, 1990, 1994, 1998, 2002, 2006, 2010, 2014, 2018, 2022]
+testes.Nova Republica, anos completos (1985 a 2025).governador INDIRETO.recorte;1985 a 2025
+testes.Nova Republica, anos completos (1985 a 2025).governador INDIRETO.anos_no_recorte;41
+testes.Nova Republica, anos completos (1985 a 2025).governador INDIRETO.anos_COM_pleito;0
+testes.Nova Republica, anos completos (1985 a 2025).governador INDIRETO.anos_SEM_pleito;41
+testes.Nova Republica, anos completos (1985 a 2025).governador INDIRETO.normas_no_recorte;88
+testes.Nova Republica, anos completos (1985 a 2025).governador INDIRETO.examinavel;False
+testes.Nova Republica, anos completos (1985 a 2025).governador INDIRETO.motivo;grupo com 0 anos contra 41 fora. Abaixo de 3 de cada lado o teste nao tem o que permutar, e o resultado nao seria medida.
+testes.Nova Republica, anos completos (1985 a 2025).MUNICIPAL, qualquer.recorte;1985 a 2025
+testes.Nova Republica, anos completos (1985 a 2025).MUNICIPAL, qualquer.anos_no_recorte;41
+testes.Nova Republica, anos completos (1985 a 2025).MUNICIPAL, qualquer.anos_COM_pleito;13
+testes.Nova Republica, anos completos (1985 a 2025).MUNICIPAL, qualquer.anos_SEM_pleito;28
+testes.Nova Republica, anos completos (1985 a 2025).MUNICIPAL, qualquer.normas_no_recorte;88
+testes.Nova Republica, anos completos (1985 a 2025).MUNICIPAL, qualquer.examinavel;True
+testes.Nova Republica, anos completos (1985 a 2025).MUNICIPAL, qualquer.normas_no_grupo;23
+testes.Nova Republica, anos completos (1985 a 2025).MUNICIPAL, qualquer.normas_fora;65
+testes.Nova Republica, anos completos (1985 a 2025).MUNICIPAL, qualquer.media_no_grupo;1.7692
+testes.Nova Republica, anos completos (1985 a 2025).MUNICIPAL, qualquer.media_fora;2.3214
+testes.Nova Republica, anos completos (1985 a 2025).MUNICIPAL, qualquer.razao;0.7621
+testes.Nova Republica, anos completos (1985 a 2025).MUNICIPAL, qualquer.diferenca_observada;-0.5522
+testes.Nova Republica, anos completos (1985 a 2025).MUNICIPAL, qualquer.bloco_de_permutacao_anos;10
+testes.Nova Republica, anos completos (1985 a 2025).MUNICIPAL, qualquer.sorteios;200000
+testes.Nova Republica, anos completos (1985 a 2025).MUNICIPAL, qualquer.p_valor_bilateral;0.57859
+testes.Nova Republica, anos completos (1985 a 2025).MUNICIPAL, qualquer.anos_do_grupo;[1985, 1986, 1988, 1989, 1992, 1996, 2000, 2004, 2008, 2012, 2016, 2020, 2024]
+testes.Nova Republica, anos completos (1985 a 2025).MUNICIPAL ISOLADA, sem presidencial.recorte;1985 a 2025
+testes.Nova Republica, anos completos (1985 a 2025).MUNICIPAL ISOLADA, sem presidencial.anos_no_recorte;41
+testes.Nova Republica, anos completos (1985 a 2025).MUNICIPAL ISOLADA, sem presidencial.anos_COM_pleito;11
+testes.Nova Republica, anos completos (1985 a 2025).MUNICIPAL ISOLADA, sem presidencial.anos_SEM_pleito;30
+testes.Nova Republica, anos completos (1985 a 2025).MUNICIPAL ISOLADA, sem presidencial.normas_no_recorte;88
+testes.Nova Republica, anos completos (1985 a 2025).MUNICIPAL ISOLADA, sem presidencial.examinavel;True
+testes.Nova Republica, anos completos (1985 a 2025).MUNICIPAL ISOLADA, sem presidencial.normas_no_grupo;23
+testes.Nova Republica, anos completos (1985 a 2025).MUNICIPAL ISOLADA, sem presidencial.normas_fora;65
+testes.Nova Republica, anos completos (1985 a 2025).MUNICIPAL ISOLADA, sem presidencial.media_no_grupo;2.0909
+testes.Nova Republica, anos completos (1985 a 2025).MUNICIPAL ISOLADA, sem presidencial.media_fora;2.1667
+testes.Nova Republica, anos completos (1985 a 2025).MUNICIPAL ISOLADA, sem presidencial.razao;0.965
+testes.Nova Republica, anos completos (1985 a 2025).MUNICIPAL ISOLADA, sem presidencial.diferenca_observada;-0.0758
+testes.Nova Republica, anos completos (1985 a 2025).MUNICIPAL ISOLADA, sem presidencial.bloco_de_permutacao_anos;10
+testes.Nova Republica, anos completos (1985 a 2025).MUNICIPAL ISOLADA, sem presidencial.sorteios;200000
+testes.Nova Republica, anos completos (1985 a 2025).MUNICIPAL ISOLADA, sem presidencial.p_valor_bilateral;0.92592
+testes.Nova Republica, anos completos (1985 a 2025).MUNICIPAL ISOLADA, sem presidencial.anos_do_grupo;[1986, 1988, 1992, 1996, 2000, 2004, 2008, 2012, 2016, 2020, 2024]
+poder_do_desenho_principal.razao_1.0;0.032
+poder_do_desenho_principal.razao_1.5;0.328
+poder_do_desenho_principal.razao_2.0;0.792
+poder_do_desenho_principal.razao_2.5;0.972
+poder_do_desenho_principal.razao_3.0;1.0

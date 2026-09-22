@@ -1,0 +1,26 @@
+{
+ "eventos": 130,
+ "qui_quadrado_observado": 4.111456012593874,
+ "permutacoes": 200000,
+ "tao_ou_mais_extremas": 49645,
+ "p": 0.2482287588562057,
+ "proporcao_que_endurece": {
+  "Executivo": {
+   "endurece": 36,
+   "total": 47
+  },
+  "Legislativo, Camara dos Deputados": {
+   "endurece": 32,
+   "total": 40
+  },
+  "Legislativo, Senado Federal": {
+   "endurece": 17,
+   "total": 20
+  },
+  "Legislativo, comissao ou CPI": {
+   "endurece": 22,
+   "total": 23
+  }
+ },
+ "definicao_de_endurecer": "agrava ou cria pena"
+}

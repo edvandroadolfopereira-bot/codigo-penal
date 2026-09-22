@@ -1,0 +1,5092 @@
+{
+ "gerado_por": "apurar_ranking_e_mapa_por_uf.py",
+ "data": "2026-09-22",
+ "fonte": "BRASIL. Ministério da Saúde. DATASUS. Sistema de Informações sobre Mortalidade. Óbitos por agressão (CID-10 X85 a Y09) e por intervenção legal (Y35 a Y36), por Unidade da Federação. Coletado em 21/09/2026.",
+ "identidade_provada_antes_de_usar": {
+  "o_que_se_provou": "a soma das agressões com as intervenções legais, no total nacional, reproduz a série 328 do Atlas da Violência",
+  "anos_conferidos": 29,
+  "de": 1996,
+  "ate": 2024,
+  "divergencias": 0
+ },
+ "janela": {
+  "de": "1996",
+  "ate": "2024",
+  "por_que_para_aqui": "2025 e 2026 ainda recebem registro no SIM: 2026 traz 11.022 óbitos contra 42.590 de 2024"
+ },
+ "ano_sem_taxa": {
+  "ano": "2023",
+  "motivo": "o DATASUS repete a população de 2022 nas 27 Unidades da Federação, e repetição não é estimativa"
+ },
+ "fonte_da_populacao_por_ano": {
+  "1980": "DATASUS, popuf",
+  "1981": "DATASUS, popuf",
+  "1982": "DATASUS, popuf",
+  "1983": "DATASUS, popuf",
+  "1984": "DATASUS, popuf",
+  "1985": "DATASUS, popuf",
+  "1986": "DATASUS, popuf",
+  "1987": "DATASUS, popuf",
+  "1988": "DATASUS, popuf",
+  "1989": "DATASUS, popuf",
+  "1990": "DATASUS, popuf",
+  "1991": "DATASUS, popuf",
+  "1992": "DATASUS, popuf",
+  "1993": "DATASUS, popuf",
+  "1994": "DATASUS, popuf",
+  "1995": "DATASUS, popuf",
+  "1996": "DATASUS, popuf",
+  "1997": "DATASUS, popuf",
+  "1998": "DATASUS, popuf",
+  "1999": "DATASUS, popuf",
+  "2000": "DATASUS, popuf",
+  "2001": "DATASUS, popuf",
+  "2002": "DATASUS, popuf",
+  "2003": "DATASUS, popuf",
+  "2004": "DATASUS, popuf",
+  "2005": "DATASUS, popuf",
+  "2006": "DATASUS, popuf",
+  "2007": "DATASUS, popuf",
+  "2008": "DATASUS, popuf",
+  "2009": "DATASUS, popuf",
+  "2010": "DATASUS, popuf",
+  "2011": "DATASUS, popuf",
+  "2012": "DATASUS, popuf",
+  "2013": "IBGE, SIDRA 6579",
+  "2014": "IBGE, SIDRA 6579",
+  "2015": "IBGE, SIDRA 6579",
+  "2016": "IBGE, SIDRA 6579",
+  "2017": "IBGE, SIDRA 6579",
+  "2018": "IBGE, SIDRA 6579",
+  "2019": "IBGE, SIDRA 6579",
+  "2020": "IBGE, SIDRA 6579",
+  "2021": "IBGE, SIDRA 6579",
+  "2022": "Censo 2022, pelo DATASUS poptbr",
+  "2024": "IBGE, SIDRA 6579",
+  "2025": "IBGE, SIDRA 6579",
+  "2026": "IBGE, SIDRA 6579"
+ },
+ "brasil": {
+  "1996": {
+   "mortes": 38929,
+   "populacao": 157070163,
+   "taxa_por_cem_mil": 24.78
+  },
+  "1997": {
+   "mortes": 40531,
+   "populacao": 159636297,
+   "taxa_por_cem_mil": 25.39
+  },
+  "1998": {
+   "mortes": 41974,
+   "populacao": 161790182,
+   "taxa_por_cem_mil": 25.94
+  },
+  "1999": {
+   "mortes": 42947,
+   "populacao": 163947436,
+   "taxa_por_cem_mil": 26.2
+  },
+  "2000": {
+   "mortes": 45433,
+   "populacao": 169799170,
+   "taxa_por_cem_mil": 26.76
+  },
+  "2001": {
+   "mortes": 48032,
+   "populacao": 172385776,
+   "taxa_por_cem_mil": 27.86
+  },
+  "2002": {
+   "mortes": 49816,
+   "populacao": 174632932,
+   "taxa_por_cem_mil": 28.53
+  },
+  "2003": {
+   "mortes": 51534,
+   "populacao": 176876251,
+   "taxa_por_cem_mil": 29.14
+  },
+  "2004": {
+   "mortes": 48909,
+   "populacao": 179108134,
+   "taxa_por_cem_mil": 27.31
+  },
+  "2005": {
+   "mortes": 48136,
+   "populacao": 184184074,
+   "taxa_por_cem_mil": 26.13
+  },
+  "2006": {
+   "mortes": 49704,
+   "populacao": 186770613,
+   "taxa_por_cem_mil": 26.61
+  },
+  "2007": {
+   "mortes": 48219,
+   "populacao": 189335191,
+   "taxa_por_cem_mil": 25.47
+  },
+  "2008": {
+   "mortes": 50659,
+   "populacao": 189612814,
+   "taxa_por_cem_mil": 26.72
+  },
+  "2009": {
+   "mortes": 52043,
+   "populacao": 191481045,
+   "taxa_por_cem_mil": 27.18
+  },
+  "2010": {
+   "mortes": 53016,
+   "populacao": 190755799,
+   "taxa_por_cem_mil": 27.79
+  },
+  "2011": {
+   "mortes": 52807,
+   "populacao": 192379287,
+   "taxa_por_cem_mil": 27.45
+  },
+  "2012": {
+   "mortes": 57045,
+   "populacao": 193976530,
+   "taxa_por_cem_mil": 29.41
+  },
+  "2013": {
+   "mortes": 57396,
+   "populacao": 201032714,
+   "taxa_por_cem_mil": 28.55
+  },
+  "2014": {
+   "mortes": 60474,
+   "populacao": 202768562,
+   "taxa_por_cem_mil": 29.82
+  },
+  "2015": {
+   "mortes": 59080,
+   "populacao": 204450049,
+   "taxa_por_cem_mil": 28.9
+  },
+  "2016": {
+   "mortes": 62517,
+   "populacao": 206081432,
+   "taxa_por_cem_mil": 30.34
+  },
+  "2017": {
+   "mortes": 65602,
+   "populacao": 207660929,
+   "taxa_por_cem_mil": 31.59
+  },
+  "2018": {
+   "mortes": 57956,
+   "populacao": 208494900,
+   "taxa_por_cem_mil": 27.8
+  },
+  "2019": {
+   "mortes": 45503,
+   "populacao": 210147125,
+   "taxa_por_cem_mil": 21.65
+  },
+  "2020": {
+   "mortes": 49868,
+   "populacao": 211755692,
+   "taxa_por_cem_mil": 23.55
+  },
+  "2021": {
+   "mortes": 47847,
+   "populacao": 213317639,
+   "taxa_por_cem_mil": 22.43
+  },
+  "2022": {
+   "mortes": 46409,
+   "populacao": 203080756,
+   "taxa_por_cem_mil": 22.85
+  },
+  "2024": {
+   "mortes": 42590,
+   "populacao": 212583750,
+   "taxa_por_cem_mil": 20.03
+  }
+ },
+ "ranking_pela_taxa_no_ultimo_ano": [
+  {
+   "uf": "AP",
+   "taxa_no_ultimo_ano": 45.21,
+   "mortes_no_ultimo_ano": 363,
+   "taxa_no_primeiro_ano": 41.37,
+   "variacao_em_pontos": 3.84,
+   "posicao": 1
+  },
+  {
+   "uf": "BA",
+   "taxa_no_ultimo_ano": 40.81,
+   "mortes_no_ultimo_ano": 6061,
+   "taxa_no_primeiro_ano": 15.01,
+   "variacao_em_pontos": 25.8,
+   "posicao": 2
+  },
+  {
+   "uf": "PE",
+   "taxa_no_ultimo_ano": 37.05,
+   "mortes_no_ultimo_ano": 3534,
+   "taxa_no_primeiro_ano": 40.84,
+   "variacao_em_pontos": -3.79,
+   "posicao": 3
+  },
+  {
+   "uf": "AL",
+   "taxa_no_ultimo_ano": 35.78,
+   "mortes_no_ultimo_ano": 1152,
+   "taxa_no_primeiro_ano": 28.14,
+   "variacao_em_pontos": 7.64,
+   "posicao": 4
+  },
+  {
+   "uf": "CE",
+   "taxa_no_ultimo_ano": 34.26,
+   "mortes_no_ultimo_ano": 3163,
+   "taxa_no_primeiro_ano": 13.0,
+   "variacao_em_pontos": 21.26,
+   "posicao": 5
+  },
+  {
+   "uf": "AM",
+   "taxa_no_ultimo_ano": 30.97,
+   "mortes_no_ultimo_ano": 1326,
+   "taxa_no_primeiro_ano": 18.83,
+   "variacao_em_pontos": 12.14,
+   "posicao": 6
+  },
+  {
+   "uf": "MA",
+   "taxa_no_ultimo_ano": 30.91,
+   "mortes_no_ultimo_ano": 2167,
+   "taxa_no_primeiro_ano": 6.95,
+   "variacao_em_pontos": 23.96,
+   "posicao": 7
+  },
+  {
+   "uf": "RO",
+   "taxa_no_ultimo_ano": 30.06,
+   "mortes_no_ultimo_ano": 525,
+   "taxa_no_primeiro_ano": 24.49,
+   "variacao_em_pontos": 5.57,
+   "posicao": 8
+  },
+  {
+   "uf": "MT",
+   "taxa_no_ultimo_ano": 28.72,
+   "mortes_no_ultimo_ano": 1102,
+   "taxa_no_primeiro_ano": 29.52,
+   "variacao_em_pontos": -0.8,
+   "posicao": 9
+  },
+  {
+   "uf": "PA",
+   "taxa_no_ultimo_ano": 27.28,
+   "mortes_no_ultimo_ano": 2364,
+   "taxa_no_primeiro_ano": 12.7,
+   "variacao_em_pontos": 14.58,
+   "posicao": 10
+  },
+  {
+   "uf": "ES",
+   "taxa_no_ultimo_ano": 25.94,
+   "mortes_no_ultimo_ano": 1064,
+   "taxa_no_primeiro_ano": 42.49,
+   "variacao_em_pontos": -16.55,
+   "posicao": 11
+  },
+  {
+   "uf": "PB",
+   "taxa_no_ultimo_ano": 25.52,
+   "mortes_no_ultimo_ano": 1058,
+   "taxa_no_primeiro_ano": 19.24,
+   "variacao_em_pontos": 6.28,
+   "posicao": 12
+  },
+  {
+   "uf": "RR",
+   "taxa_no_ultimo_ano": 24.27,
+   "mortes_no_ultimo_ano": 174,
+   "taxa_no_primeiro_ano": 43.3,
+   "variacao_em_pontos": -19.03,
+   "posicao": 13
+  },
+  {
+   "uf": "RN",
+   "taxa_no_ultimo_ano": 23.48,
+   "mortes_no_ultimo_ano": 809,
+   "taxa_no_primeiro_ano": 9.42,
+   "variacao_em_pontos": 14.06,
+   "posicao": 14
+  },
+  {
+   "uf": "SE",
+   "taxa_no_ultimo_ano": 22.96,
+   "mortes_no_ultimo_ano": 526,
+   "taxa_no_primeiro_ano": 14.65,
+   "variacao_em_pontos": 8.31,
+   "posicao": 15
+  },
+  {
+   "uf": "PI",
+   "taxa_no_ultimo_ano": 20.65,
+   "mortes_no_ultimo_ano": 697,
+   "taxa_no_primeiro_ano": 4.38,
+   "variacao_em_pontos": 16.27,
+   "posicao": 16
+  },
+  {
+   "uf": "RJ",
+   "taxa_no_ultimo_ano": 20.44,
+   "mortes_no_ultimo_ano": 3520,
+   "taxa_no_primeiro_ano": 59.93,
+   "variacao_em_pontos": -39.49,
+   "posicao": 17
+  },
+  {
+   "uf": "AC",
+   "taxa_no_ultimo_ano": 19.76,
+   "mortes_no_ultimo_ano": 174,
+   "taxa_no_primeiro_ano": 21.51,
+   "variacao_em_pontos": -1.75,
+   "posicao": 18
+  },
+  {
+   "uf": "TO",
+   "taxa_no_ultimo_ano": 19.59,
+   "mortes_no_ultimo_ano": 309,
+   "taxa_no_primeiro_ano": 12.02,
+   "variacao_em_pontos": 7.57,
+   "posicao": 19
+  },
+  {
+   "uf": "PR",
+   "taxa_no_ultimo_ano": 18.55,
+   "mortes_no_ultimo_ano": 2194,
+   "taxa_no_primeiro_ano": 15.32,
+   "variacao_em_pontos": 3.23,
+   "posicao": 20
+  },
+  {
+   "uf": "GO",
+   "taxa_no_ultimo_ano": 18.42,
+   "mortes_no_ultimo_ano": 1354,
+   "taxa_no_primeiro_ano": 17.32,
+   "variacao_em_pontos": 1.1,
+   "posicao": 21
+  },
+  {
+   "uf": "MS",
+   "taxa_no_ultimo_ano": 17.88,
+   "mortes_no_ultimo_ano": 519,
+   "taxa_no_primeiro_ano": 37.45,
+   "variacao_em_pontos": -19.57,
+   "posicao": 22
+  },
+  {
+   "uf": "RS",
+   "taxa_no_ultimo_ano": 15.15,
+   "mortes_no_ultimo_ano": 1701,
+   "taxa_no_primeiro_ano": 15.38,
+   "variacao_em_pontos": -0.23,
+   "posicao": 23
+  },
+  {
+   "uf": "MG",
+   "taxa_no_ultimo_ano": 12.81,
+   "mortes_no_ultimo_ano": 2731,
+   "taxa_no_primeiro_ano": 7.56,
+   "variacao_em_pontos": 5.25,
+   "posicao": 24
+  },
+  {
+   "uf": "DF",
+   "taxa_no_ultimo_ano": 10.33,
+   "mortes_no_ultimo_ano": 308,
+   "taxa_no_primeiro_ano": 33.76,
+   "variacao_em_pontos": -23.43,
+   "posicao": 25
+  },
+  {
+   "uf": "SC",
+   "taxa_no_ultimo_ano": 8.12,
+   "mortes_no_ultimo_ano": 654,
+   "taxa_no_primeiro_ano": 8.45,
+   "variacao_em_pontos": -0.33,
+   "posicao": 26
+  },
+  {
+   "uf": "SP",
+   "taxa_no_ultimo_ano": 6.61,
+   "mortes_no_ultimo_ano": 3041,
+   "taxa_no_primeiro_ano": 36.11,
+   "variacao_em_pontos": -29.5,
+   "posicao": 27
+  }
+ ],
+ "quantas_caem_e_quantas_sobem": {
+  "caem": 11,
+  "sobem": 16,
+  "de": "1996",
+  "ate": "2024"
+ },
+ "mediana_da_variacao_em_pontos": 3.84,
+ "mapa_por_uf": {
+  "AP": {
+   "posicao": 1,
+   "taxa_no_ultimo_ano": 45.21,
+   "variacao_em_pontos": 3.84,
+   "acima_do_brasil_no_ultimo_ano": true
+  },
+  "BA": {
+   "posicao": 2,
+   "taxa_no_ultimo_ano": 40.81,
+   "variacao_em_pontos": 25.8,
+   "acima_do_brasil_no_ultimo_ano": true
+  },
+  "PE": {
+   "posicao": 3,
+   "taxa_no_ultimo_ano": 37.05,
+   "variacao_em_pontos": -3.79,
+   "acima_do_brasil_no_ultimo_ano": true
+  },
+  "AL": {
+   "posicao": 4,
+   "taxa_no_ultimo_ano": 35.78,
+   "variacao_em_pontos": 7.64,
+   "acima_do_brasil_no_ultimo_ano": true
+  },
+  "CE": {
+   "posicao": 5,
+   "taxa_no_ultimo_ano": 34.26,
+   "variacao_em_pontos": 21.26,
+   "acima_do_brasil_no_ultimo_ano": true
+  },
+  "AM": {
+   "posicao": 6,
+   "taxa_no_ultimo_ano": 30.97,
+   "variacao_em_pontos": 12.14,
+   "acima_do_brasil_no_ultimo_ano": true
+  },
+  "MA": {
+   "posicao": 7,
+   "taxa_no_ultimo_ano": 30.91,
+   "variacao_em_pontos": 23.96,
+   "acima_do_brasil_no_ultimo_ano": true
+  },
+  "RO": {
+   "posicao": 8,
+   "taxa_no_ultimo_ano": 30.06,
+   "variacao_em_pontos": 5.57,
+   "acima_do_brasil_no_ultimo_ano": true
+  },
+  "MT": {
+   "posicao": 9,
+   "taxa_no_ultimo_ano": 28.72,
+   "variacao_em_pontos": -0.8,
+   "acima_do_brasil_no_ultimo_ano": true
+  },
+  "PA": {
+   "posicao": 10,
+   "taxa_no_ultimo_ano": 27.28,
+   "variacao_em_pontos": 14.58,
+   "acima_do_brasil_no_ultimo_ano": true
+  },
+  "ES": {
+   "posicao": 11,
+   "taxa_no_ultimo_ano": 25.94,
+   "variacao_em_pontos": -16.55,
+   "acima_do_brasil_no_ultimo_ano": true
+  },
+  "PB": {
+   "posicao": 12,
+   "taxa_no_ultimo_ano": 25.52,
+   "variacao_em_pontos": 6.28,
+   "acima_do_brasil_no_ultimo_ano": true
+  },
+  "RR": {
+   "posicao": 13,
+   "taxa_no_ultimo_ano": 24.27,
+   "variacao_em_pontos": -19.03,
+   "acima_do_brasil_no_ultimo_ano": true
+  },
+  "RN": {
+   "posicao": 14,
+   "taxa_no_ultimo_ano": 23.48,
+   "variacao_em_pontos": 14.06,
+   "acima_do_brasil_no_ultimo_ano": true
+  },
+  "SE": {
+   "posicao": 15,
+   "taxa_no_ultimo_ano": 22.96,
+   "variacao_em_pontos": 8.31,
+   "acima_do_brasil_no_ultimo_ano": true
+  },
+  "PI": {
+   "posicao": 16,
+   "taxa_no_ultimo_ano": 20.65,
+   "variacao_em_pontos": 16.27,
+   "acima_do_brasil_no_ultimo_ano": true
+  },
+  "RJ": {
+   "posicao": 17,
+   "taxa_no_ultimo_ano": 20.44,
+   "variacao_em_pontos": -39.49,
+   "acima_do_brasil_no_ultimo_ano": true
+  },
+  "AC": {
+   "posicao": 18,
+   "taxa_no_ultimo_ano": 19.76,
+   "variacao_em_pontos": -1.75,
+   "acima_do_brasil_no_ultimo_ano": false
+  },
+  "TO": {
+   "posicao": 19,
+   "taxa_no_ultimo_ano": 19.59,
+   "variacao_em_pontos": 7.57,
+   "acima_do_brasil_no_ultimo_ano": false
+  },
+  "PR": {
+   "posicao": 20,
+   "taxa_no_ultimo_ano": 18.55,
+   "variacao_em_pontos": 3.23,
+   "acima_do_brasil_no_ultimo_ano": false
+  },
+  "GO": {
+   "posicao": 21,
+   "taxa_no_ultimo_ano": 18.42,
+   "variacao_em_pontos": 1.1,
+   "acima_do_brasil_no_ultimo_ano": false
+  },
+  "MS": {
+   "posicao": 22,
+   "taxa_no_ultimo_ano": 17.88,
+   "variacao_em_pontos": -19.57,
+   "acima_do_brasil_no_ultimo_ano": false
+  },
+  "RS": {
+   "posicao": 23,
+   "taxa_no_ultimo_ano": 15.15,
+   "variacao_em_pontos": -0.23,
+   "acima_do_brasil_no_ultimo_ano": false
+  },
+  "MG": {
+   "posicao": 24,
+   "taxa_no_ultimo_ano": 12.81,
+   "variacao_em_pontos": 5.25,
+   "acima_do_brasil_no_ultimo_ano": false
+  },
+  "DF": {
+   "posicao": 25,
+   "taxa_no_ultimo_ano": 10.33,
+   "variacao_em_pontos": -23.43,
+   "acima_do_brasil_no_ultimo_ano": false
+  },
+  "SC": {
+   "posicao": 26,
+   "taxa_no_ultimo_ano": 8.12,
+   "variacao_em_pontos": -0.33,
+   "acima_do_brasil_no_ultimo_ano": false
+  },
+  "SP": {
+   "posicao": 27,
+   "taxa_no_ultimo_ano": 6.61,
+   "variacao_em_pontos": -29.5,
+   "acima_do_brasil_no_ultimo_ano": false
+  }
+ },
+ "serie_por_uf_cid10": {
+  "AC": {
+   "1996": {
+    "mortes": 104,
+    "populacao": 483593,
+    "taxa_por_cem_mil": 21.51
+   },
+   "1997": {
+    "mortes": 100,
+    "populacao": 500198,
+    "taxa_por_cem_mil": 19.99
+   },
+   "1998": {
+    "mortes": 110,
+    "populacao": 514059,
+    "taxa_por_cem_mil": 21.4
+   },
+   "1999": {
+    "mortes": 51,
+    "populacao": 527926,
+    "taxa_por_cem_mil": 9.66
+   },
+   "2000": {
+    "mortes": 106,
+    "populacao": 557526,
+    "taxa_por_cem_mil": 19.01
+   },
+   "2001": {
+    "mortes": 121,
+    "populacao": 574366,
+    "taxa_por_cem_mil": 21.07
+   },
+   "2002": {
+    "mortes": 151,
+    "populacao": 586945,
+    "taxa_por_cem_mil": 25.73
+   },
+   "2003": {
+    "mortes": 147,
+    "populacao": 600607,
+    "taxa_por_cem_mil": 24.48
+   },
+   "2004": {
+    "mortes": 114,
+    "populacao": 614205,
+    "taxa_por_cem_mil": 18.56
+   },
+   "2005": {
+    "mortes": 124,
+    "populacao": 669737,
+    "taxa_por_cem_mil": 18.51
+   },
+   "2006": {
+    "mortes": 158,
+    "populacao": 686650,
+    "taxa_por_cem_mil": 23.01
+   },
+   "2007": {
+    "mortes": 137,
+    "populacao": 703447,
+    "taxa_por_cem_mil": 19.48
+   },
+   "2008": {
+    "mortes": 133,
+    "populacao": 680073,
+    "taxa_por_cem_mil": 19.56
+   },
+   "2009": {
+    "mortes": 153,
+    "populacao": 691169,
+    "taxa_por_cem_mil": 22.14
+   },
+   "2010": {
+    "mortes": 165,
+    "populacao": 733559,
+    "taxa_por_cem_mil": 22.49
+   },
+   "2011": {
+    "mortes": 164,
+    "populacao": 746386,
+    "taxa_por_cem_mil": 21.97
+   },
+   "2012": {
+    "mortes": 208,
+    "populacao": 758786,
+    "taxa_por_cem_mil": 27.41
+   },
+   "2013": {
+    "mortes": 234,
+    "populacao": 776463,
+    "taxa_por_cem_mil": 30.14
+   },
+   "2014": {
+    "mortes": 232,
+    "populacao": 790101,
+    "taxa_por_cem_mil": 29.36
+   },
+   "2015": {
+    "mortes": 217,
+    "populacao": 803513,
+    "taxa_por_cem_mil": 27.01
+   },
+   "2016": {
+    "mortes": 363,
+    "populacao": 816687,
+    "taxa_por_cem_mil": 44.45
+   },
+   "2017": {
+    "mortes": 516,
+    "populacao": 829619,
+    "taxa_por_cem_mil": 62.2
+   },
+   "2018": {
+    "mortes": 409,
+    "populacao": 869265,
+    "taxa_por_cem_mil": 47.05
+   },
+   "2019": {
+    "mortes": 325,
+    "populacao": 881935,
+    "taxa_por_cem_mil": 36.85
+   },
+   "2020": {
+    "mortes": 304,
+    "populacao": 894470,
+    "taxa_por_cem_mil": 33.99
+   },
+   "2021": {
+    "mortes": 205,
+    "populacao": 906876,
+    "taxa_por_cem_mil": 22.61
+   },
+   "2022": {
+    "mortes": 238,
+    "populacao": 830018,
+    "taxa_por_cem_mil": 28.67
+   },
+   "2023": {
+    "mortes": 217,
+    "populacao": null,
+    "taxa_por_cem_mil": null
+   },
+   "2024": {
+    "mortes": 174,
+    "populacao": 880631,
+    "taxa_por_cem_mil": 19.76
+   }
+  },
+  "AL": {
+   "1996": {
+    "mortes": 741,
+    "populacao": 2633251,
+    "taxa_por_cem_mil": 28.14
+   },
+   "1997": {
+    "mortes": 642,
+    "populacao": 2663049,
+    "taxa_por_cem_mil": 24.11
+   },
+   "1998": {
+    "mortes": 582,
+    "populacao": 2688112,
+    "taxa_por_cem_mil": 21.65
+   },
+   "1999": {
+    "mortes": 554,
+    "populacao": 2713175,
+    "taxa_por_cem_mil": 20.42
+   },
+   "2000": {
+    "mortes": 727,
+    "populacao": 2822621,
+    "taxa_por_cem_mil": 25.76
+   },
+   "2001": {
+    "mortes": 830,
+    "populacao": 2856563,
+    "taxa_por_cem_mil": 29.06
+   },
+   "2002": {
+    "mortes": 991,
+    "populacao": 2887526,
+    "taxa_por_cem_mil": 34.32
+   },
+   "2003": {
+    "mortes": 1039,
+    "populacao": 2917678,
+    "taxa_por_cem_mil": 35.61
+   },
+   "2004": {
+    "mortes": 1035,
+    "populacao": 2947717,
+    "taxa_por_cem_mil": 35.11
+   },
+   "2005": {
+    "mortes": 1203,
+    "populacao": 3015901,
+    "taxa_por_cem_mil": 39.89
+   },
+   "2006": {
+    "mortes": 1620,
+    "populacao": 3050649,
+    "taxa_por_cem_mil": 53.1
+   },
+   "2007": {
+    "mortes": 1836,
+    "populacao": 3085053,
+    "taxa_por_cem_mil": 59.51
+   },
+   "2008": {
+    "mortes": 1887,
+    "populacao": 3127557,
+    "taxa_por_cem_mil": 60.33
+   },
+   "2009": {
+    "mortes": 1873,
+    "populacao": 3156101,
+    "taxa_por_cem_mil": 59.35
+   },
+   "2010": {
+    "mortes": 2087,
+    "populacao": 3120494,
+    "taxa_por_cem_mil": 66.88
+   },
+   "2011": {
+    "mortes": 2244,
+    "populacao": 3143384,
+    "taxa_por_cem_mil": 71.39
+   },
+   "2012": {
+    "mortes": 2046,
+    "populacao": 3165472,
+    "taxa_por_cem_mil": 64.63
+   },
+   "2013": {
+    "mortes": 2148,
+    "populacao": 3300935,
+    "taxa_por_cem_mil": 65.07
+   },
+   "2014": {
+    "mortes": 2085,
+    "populacao": 3321730,
+    "taxa_por_cem_mil": 62.77
+   },
+   "2015": {
+    "mortes": 1748,
+    "populacao": 3340932,
+    "taxa_por_cem_mil": 52.32
+   },
+   "2016": {
+    "mortes": 1820,
+    "populacao": 3358963,
+    "taxa_por_cem_mil": 54.18
+   },
+   "2017": {
+    "mortes": 1813,
+    "populacao": 3375823,
+    "taxa_por_cem_mil": 53.71
+   },
+   "2018": {
+    "mortes": 1441,
+    "populacao": 3322820,
+    "taxa_por_cem_mil": 43.37
+   },
+   "2019": {
+    "mortes": 1115,
+    "populacao": 3337357,
+    "taxa_por_cem_mil": 33.41
+   },
+   "2020": {
+    "mortes": 1292,
+    "populacao": 3351543,
+    "taxa_por_cem_mil": 38.55
+   },
+   "2021": {
+    "mortes": 1070,
+    "populacao": 3365351,
+    "taxa_por_cem_mil": 31.79
+   },
+   "2022": {
+    "mortes": 1136,
+    "populacao": 3127683,
+    "taxa_por_cem_mil": 36.32
+   },
+   "2023": {
+    "mortes": 1194,
+    "populacao": null,
+    "taxa_por_cem_mil": null
+   },
+   "2024": {
+    "mortes": 1152,
+    "populacao": 3220104,
+    "taxa_por_cem_mil": 35.78
+   }
+  },
+  "AM": {
+   "1996": {
+    "mortes": 450,
+    "populacao": 2389279,
+    "taxa_por_cem_mil": 18.83
+   },
+   "1997": {
+    "mortes": 468,
+    "populacao": 2460606,
+    "taxa_por_cem_mil": 19.02
+   },
+   "1998": {
+    "mortes": 534,
+    "populacao": 2520694,
+    "taxa_por_cem_mil": 21.18
+   },
+   "1999": {
+    "mortes": 527,
+    "populacao": 2580839,
+    "taxa_por_cem_mil": 20.42
+   },
+   "2000": {
+    "mortes": 552,
+    "populacao": 2812557,
+    "taxa_por_cem_mil": 19.63
+   },
+   "2001": {
+    "mortes": 485,
+    "populacao": 2900218,
+    "taxa_por_cem_mil": 16.72
+   },
+   "2002": {
+    "mortes": 513,
+    "populacao": 2961804,
+    "taxa_por_cem_mil": 17.32
+   },
+   "2003": {
+    "mortes": 558,
+    "populacao": 3031079,
+    "taxa_por_cem_mil": 18.41
+   },
+   "2004": {
+    "mortes": 526,
+    "populacao": 3100136,
+    "taxa_por_cem_mil": 16.97
+   },
+   "2005": {
+    "mortes": 599,
+    "populacao": 3232319,
+    "taxa_por_cem_mil": 18.53
+   },
+   "2006": {
+    "mortes": 699,
+    "populacao": 3311046,
+    "taxa_por_cem_mil": 21.11
+   },
+   "2007": {
+    "mortes": 715,
+    "populacao": 3389081,
+    "taxa_por_cem_mil": 21.1
+   },
+   "2008": {
+    "mortes": 830,
+    "populacao": 3341096,
+    "taxa_por_cem_mil": 24.84
+   },
+   "2009": {
+    "mortes": 916,
+    "populacao": 3393357,
+    "taxa_por_cem_mil": 26.99
+   },
+   "2010": {
+    "mortes": 1082,
+    "populacao": 3483985,
+    "taxa_por_cem_mil": 31.06
+   },
+   "2011": {
+    "mortes": 1292,
+    "populacao": 3538387,
+    "taxa_por_cem_mil": 36.51
+   },
+   "2012": {
+    "mortes": 1344,
+    "populacao": 3590985,
+    "taxa_por_cem_mil": 37.43
+   },
+   "2013": {
+    "mortes": 1191,
+    "populacao": 3807921,
+    "taxa_por_cem_mil": 31.28
+   },
+   "2014": {
+    "mortes": 1240,
+    "populacao": 3873743,
+    "taxa_por_cem_mil": 32.01
+   },
+   "2015": {
+    "mortes": 1472,
+    "populacao": 3938336,
+    "taxa_por_cem_mil": 37.38
+   },
+   "2016": {
+    "mortes": 1452,
+    "populacao": 4001667,
+    "taxa_por_cem_mil": 36.28
+   },
+   "2017": {
+    "mortes": 1674,
+    "populacao": 4063614,
+    "taxa_por_cem_mil": 41.19
+   },
+   "2018": {
+    "mortes": 1542,
+    "populacao": 4080611,
+    "taxa_por_cem_mil": 37.79
+   },
+   "2019": {
+    "mortes": 1592,
+    "populacao": 4144597,
+    "taxa_por_cem_mil": 38.41
+   },
+   "2020": {
+    "mortes": 1326,
+    "populacao": 4207714,
+    "taxa_por_cem_mil": 31.51
+   },
+   "2021": {
+    "mortes": 1816,
+    "populacao": 4269995,
+    "taxa_por_cem_mil": 42.53
+   },
+   "2022": {
+    "mortes": 1771,
+    "populacao": 3941613,
+    "taxa_por_cem_mil": 44.93
+   },
+   "2023": {
+    "mortes": 1555,
+    "populacao": null,
+    "taxa_por_cem_mil": null
+   },
+   "2024": {
+    "mortes": 1326,
+    "populacao": 4281209,
+    "taxa_por_cem_mil": 30.97
+   }
+  },
+  "AP": {
+   "1996": {
+    "mortes": 157,
+    "populacao": 379459,
+    "taxa_por_cem_mil": 41.37
+   },
+   "1997": {
+    "mortes": 140,
+    "populacao": 401906,
+    "taxa_por_cem_mil": 34.83
+   },
+   "1998": {
+    "mortes": 160,
+    "populacao": 420839,
+    "taxa_por_cem_mil": 38.02
+   },
+   "1999": {
+    "mortes": 192,
+    "populacao": 439783,
+    "taxa_por_cem_mil": 43.66
+   },
+   "2000": {
+    "mortes": 156,
+    "populacao": 477032,
+    "taxa_por_cem_mil": 32.7
+   },
+   "2001": {
+    "mortes": 182,
+    "populacao": 498735,
+    "taxa_por_cem_mil": 36.49
+   },
+   "2002": {
+    "mortes": 181,
+    "populacao": 516514,
+    "taxa_por_cem_mil": 35.04
+   },
+   "2003": {
+    "mortes": 185,
+    "populacao": 534821,
+    "taxa_por_cem_mil": 34.59
+   },
+   "2004": {
+    "mortes": 172,
+    "populacao": 553100,
+    "taxa_por_cem_mil": 31.1
+   },
+   "2005": {
+    "mortes": 196,
+    "populacao": 594577,
+    "taxa_por_cem_mil": 32.96
+   },
+   "2006": {
+    "mortes": 202,
+    "populacao": 615724,
+    "taxa_por_cem_mil": 32.81
+   },
+   "2007": {
+    "mortes": 172,
+    "populacao": 636652,
+    "taxa_por_cem_mil": 27.02
+   },
+   "2008": {
+    "mortes": 210,
+    "populacao": 613164,
+    "taxa_por_cem_mil": 34.25
+   },
+   "2009": {
+    "mortes": 190,
+    "populacao": 626607,
+    "taxa_por_cem_mil": 30.32
+   },
+   "2010": {
+    "mortes": 260,
+    "populacao": 669526,
+    "taxa_por_cem_mil": 38.83
+   },
+   "2011": {
+    "mortes": 209,
+    "populacao": 684309,
+    "taxa_por_cem_mil": 30.54
+   },
+   "2012": {
+    "mortes": 253,
+    "populacao": 698602,
+    "taxa_por_cem_mil": 36.22
+   },
+   "2013": {
+    "mortes": 225,
+    "populacao": 734996,
+    "taxa_por_cem_mil": 30.61
+   },
+   "2014": {
+    "mortes": 256,
+    "populacao": 750912,
+    "taxa_por_cem_mil": 34.09
+   },
+   "2015": {
+    "mortes": 293,
+    "populacao": 766679,
+    "taxa_por_cem_mil": 38.22
+   },
+   "2016": {
+    "mortes": 381,
+    "populacao": 782295,
+    "taxa_por_cem_mil": 48.7
+   },
+   "2017": {
+    "mortes": 383,
+    "populacao": 797722,
+    "taxa_por_cem_mil": 48.01
+   },
+   "2018": {
+    "mortes": 426,
+    "populacao": 829494,
+    "taxa_por_cem_mil": 51.36
+   },
+   "2019": {
+    "mortes": 361,
+    "populacao": 845731,
+    "taxa_por_cem_mil": 42.68
+   },
+   "2020": {
+    "mortes": 387,
+    "populacao": 861773,
+    "taxa_por_cem_mil": 44.91
+   },
+   "2021": {
+    "mortes": 462,
+    "populacao": 877613,
+    "taxa_por_cem_mil": 52.64
+   },
+   "2022": {
+    "mortes": 358,
+    "populacao": 733759,
+    "taxa_por_cem_mil": 48.79
+   },
+   "2023": {
+    "mortes": 516,
+    "populacao": null,
+    "taxa_por_cem_mil": null
+   },
+   "2024": {
+    "mortes": 363,
+    "populacao": 802837,
+    "taxa_por_cem_mil": 45.21
+   }
+  },
+  "BA": {
+   "1996": {
+    "mortes": 1883,
+    "populacao": 12541675,
+    "taxa_por_cem_mil": 15.01
+   },
+   "1997": {
+    "mortes": 1981,
+    "populacao": 12709713,
+    "taxa_por_cem_mil": 15.59
+   },
+   "1998": {
+    "mortes": 1271,
+    "populacao": 12851265,
+    "taxa_por_cem_mil": 9.89
+   },
+   "1999": {
+    "mortes": 913,
+    "populacao": 12993020,
+    "taxa_por_cem_mil": 7.03
+   },
+   "2000": {
+    "mortes": 1242,
+    "populacao": 13070250,
+    "taxa_por_cem_mil": 9.5
+   },
+   "2001": {
+    "mortes": 1622,
+    "populacao": 13214146,
+    "taxa_por_cem_mil": 12.27
+   },
+   "2002": {
+    "mortes": 1759,
+    "populacao": 13323150,
+    "taxa_por_cem_mil": 13.2
+   },
+   "2003": {
+    "mortes": 2166,
+    "populacao": 13440544,
+    "taxa_por_cem_mil": 16.12
+   },
+   "2004": {
+    "mortes": 2262,
+    "populacao": 13552649,
+    "taxa_por_cem_mil": 16.69
+   },
+   "2005": {
+    "mortes": 2881,
+    "populacao": 13815260,
+    "taxa_por_cem_mil": 20.85
+   },
+   "2006": {
+    "mortes": 3311,
+    "populacao": 13950125,
+    "taxa_por_cem_mil": 23.73
+   },
+   "2007": {
+    "mortes": 3659,
+    "populacao": 14083771,
+    "taxa_por_cem_mil": 25.98
+   },
+   "2008": {
+    "mortes": 4819,
+    "populacao": 14502575,
+    "taxa_por_cem_mil": 33.23
+   },
+   "2009": {
+    "mortes": 5432,
+    "populacao": 14637500,
+    "taxa_por_cem_mil": 37.11
+   },
+   "2010": {
+    "mortes": 5844,
+    "populacao": 14016906,
+    "taxa_por_cem_mil": 41.69
+   },
+   "2011": {
+    "mortes": 5549,
+    "populacao": 14097534,
+    "taxa_por_cem_mil": 39.36
+   },
+   "2012": {
+    "mortes": 6148,
+    "populacao": 14175341,
+    "taxa_por_cem_mil": 43.37
+   },
+   "2013": {
+    "mortes": 5694,
+    "populacao": 15044137,
+    "taxa_por_cem_mil": 37.85
+   },
+   "2014": {
+    "mortes": 6052,
+    "populacao": 15126371,
+    "taxa_por_cem_mil": 40.01
+   },
+   "2015": {
+    "mortes": 6012,
+    "populacao": 15203334,
+    "taxa_por_cem_mil": 39.54
+   },
+   "2016": {
+    "mortes": 7171,
+    "populacao": 15276566,
+    "taxa_por_cem_mil": 46.94
+   },
+   "2017": {
+    "mortes": 7487,
+    "populacao": 15344447,
+    "taxa_por_cem_mil": 48.79
+   },
+   "2018": {
+    "mortes": 6787,
+    "populacao": 14812617,
+    "taxa_por_cem_mil": 45.82
+   },
+   "2019": {
+    "mortes": 6118,
+    "populacao": 14873064,
+    "taxa_por_cem_mil": 41.13
+   },
+   "2020": {
+    "mortes": 7076,
+    "populacao": 14930634,
+    "taxa_por_cem_mil": 47.39
+   },
+   "2021": {
+    "mortes": 7206,
+    "populacao": 14985284,
+    "taxa_por_cem_mil": 48.09
+   },
+   "2022": {
+    "mortes": 6776,
+    "populacao": 14141626,
+    "taxa_por_cem_mil": 47.92
+   },
+   "2023": {
+    "mortes": 6616,
+    "populacao": null,
+    "taxa_por_cem_mil": null
+   },
+   "2024": {
+    "mortes": 6061,
+    "populacao": 14850513,
+    "taxa_por_cem_mil": 40.81
+   }
+  },
+  "CE": {
+   "1996": {
+    "mortes": 885,
+    "populacao": 6809290,
+    "taxa_por_cem_mil": 13.0
+   },
+   "1997": {
+    "mortes": 1026,
+    "populacao": 6920307,
+    "taxa_por_cem_mil": 14.83
+   },
+   "1998": {
+    "mortes": 946,
+    "populacao": 7013382,
+    "taxa_por_cem_mil": 13.49
+   },
+   "1999": {
+    "mortes": 1104,
+    "populacao": 7106612,
+    "taxa_por_cem_mil": 15.53
+   },
+   "2000": {
+    "mortes": 1238,
+    "populacao": 7430661,
+    "taxa_por_cem_mil": 16.66
+   },
+   "2001": {
+    "mortes": 1284,
+    "populacao": 7547684,
+    "taxa_por_cem_mil": 17.01
+   },
+   "2002": {
+    "mortes": 1445,
+    "populacao": 7654540,
+    "taxa_por_cem_mil": 18.88
+   },
+   "2003": {
+    "mortes": 1563,
+    "populacao": 7758437,
+    "taxa_por_cem_mil": 20.15
+   },
+   "2004": {
+    "mortes": 1582,
+    "populacao": 7862067,
+    "taxa_por_cem_mil": 20.12
+   },
+   "2005": {
+    "mortes": 1699,
+    "populacao": 8097290,
+    "taxa_por_cem_mil": 20.98
+   },
+   "2006": {
+    "mortes": 1792,
+    "populacao": 8217140,
+    "taxa_por_cem_mil": 21.81
+   },
+   "2007": {
+    "mortes": 1933,
+    "populacao": 8335849,
+    "taxa_por_cem_mil": 23.19
+   },
+   "2008": {
+    "mortes": 2019,
+    "populacao": 8450527,
+    "taxa_por_cem_mil": 23.89
+   },
+   "2009": {
+    "mortes": 2165,
+    "populacao": 8547750,
+    "taxa_por_cem_mil": 25.33
+   },
+   "2010": {
+    "mortes": 2688,
+    "populacao": 8452381,
+    "taxa_por_cem_mil": 31.8
+   },
+   "2011": {
+    "mortes": 2792,
+    "populacao": 8530155,
+    "taxa_por_cem_mil": 32.73
+   },
+   "2012": {
+    "mortes": 3841,
+    "populacao": 8606005,
+    "taxa_por_cem_mil": 44.63
+   },
+   "2013": {
+    "mortes": 4473,
+    "populacao": 8778576,
+    "taxa_por_cem_mil": 50.95
+   },
+   "2014": {
+    "mortes": 4626,
+    "populacao": 8842791,
+    "taxa_por_cem_mil": 52.31
+   },
+   "2015": {
+    "mortes": 4163,
+    "populacao": 8904459,
+    "taxa_por_cem_mil": 46.75
+   },
+   "2016": {
+    "mortes": 3642,
+    "populacao": 8963663,
+    "taxa_por_cem_mil": 40.63
+   },
+   "2017": {
+    "mortes": 5433,
+    "populacao": 9020460,
+    "taxa_por_cem_mil": 60.23
+   },
+   "2018": {
+    "mortes": 4900,
+    "populacao": 9075649,
+    "taxa_por_cem_mil": 53.99
+   },
+   "2019": {
+    "mortes": 2417,
+    "populacao": 9132078,
+    "taxa_por_cem_mil": 26.47
+   },
+   "2020": {
+    "mortes": 3992,
+    "populacao": 9187103,
+    "taxa_por_cem_mil": 43.45
+   },
+   "2021": {
+    "mortes": 3471,
+    "populacao": 9240580,
+    "taxa_por_cem_mil": 37.56
+   },
+   "2022": {
+    "mortes": 3030,
+    "populacao": 8794957,
+    "taxa_por_cem_mil": 34.45
+   },
+   "2023": {
+    "mortes": 2992,
+    "populacao": null,
+    "taxa_por_cem_mil": null
+   },
+   "2024": {
+    "mortes": 3163,
+    "populacao": 9233656,
+    "taxa_por_cem_mil": 34.26
+   }
+  },
+  "DF": {
+   "1996": {
+    "mortes": 615,
+    "populacao": 1821946,
+    "taxa_por_cem_mil": 33.76
+   },
+   "1997": {
+    "mortes": 613,
+    "populacao": 1877015,
+    "taxa_por_cem_mil": 32.66
+   },
+   "1998": {
+    "mortes": 633,
+    "populacao": 1923404,
+    "taxa_por_cem_mil": 32.91
+   },
+   "1999": {
+    "mortes": 659,
+    "populacao": 1969867,
+    "taxa_por_cem_mil": 33.45
+   },
+   "2000": {
+    "mortes": 687,
+    "populacao": 2051146,
+    "taxa_por_cem_mil": 33.49
+   },
+   "2001": {
+    "mortes": 693,
+    "populacao": 2097450,
+    "taxa_por_cem_mil": 33.04
+   },
+   "2002": {
+    "mortes": 641,
+    "populacao": 2145838,
+    "taxa_por_cem_mil": 29.87
+   },
+   "2003": {
+    "mortes": 742,
+    "populacao": 2189792,
+    "taxa_por_cem_mil": 33.88
+   },
+   "2004": {
+    "mortes": 696,
+    "populacao": 2233614,
+    "taxa_por_cem_mil": 31.16
+   },
+   "2005": {
+    "mortes": 657,
+    "populacao": 2333109,
+    "taxa_por_cem_mil": 28.16
+   },
+   "2006": {
+    "mortes": 660,
+    "populacao": 2383784,
+    "taxa_por_cem_mil": 27.69
+   },
+   "2007": {
+    "mortes": 711,
+    "populacao": 2434033,
+    "taxa_por_cem_mil": 29.21
+   },
+   "2008": {
+    "mortes": 812,
+    "populacao": 2557158,
+    "taxa_por_cem_mil": 31.75
+   },
+   "2009": {
+    "mortes": 882,
+    "populacao": 2606884,
+    "taxa_por_cem_mil": 33.83
+   },
+   "2010": {
+    "mortes": 786,
+    "populacao": 2570160,
+    "taxa_por_cem_mil": 30.58
+   },
+   "2011": {
+    "mortes": 902,
+    "populacao": 2609998,
+    "taxa_por_cem_mil": 34.56
+   },
+   "2012": {
+    "mortes": 954,
+    "populacao": 2648532,
+    "taxa_por_cem_mil": 36.02
+   },
+   "2013": {
+    "mortes": 837,
+    "populacao": 2789761,
+    "taxa_por_cem_mil": 30.0
+   },
+   "2014": {
+    "mortes": 843,
+    "populacao": 2852372,
+    "taxa_por_cem_mil": 29.55
+   },
+   "2015": {
+    "mortes": 742,
+    "populacao": 2914830,
+    "taxa_por_cem_mil": 25.46
+   },
+   "2016": {
+    "mortes": 760,
+    "populacao": 2977216,
+    "taxa_por_cem_mil": 25.53
+   },
+   "2017": {
+    "mortes": 610,
+    "populacao": 3039444,
+    "taxa_por_cem_mil": 20.07
+   },
+   "2018": {
+    "mortes": 530,
+    "populacao": 2974703,
+    "taxa_por_cem_mil": 17.82
+   },
+   "2019": {
+    "mortes": 480,
+    "populacao": 3015268,
+    "taxa_por_cem_mil": 15.92
+   },
+   "2020": {
+    "mortes": 453,
+    "populacao": 3055149,
+    "taxa_por_cem_mil": 14.83
+   },
+   "2021": {
+    "mortes": 401,
+    "populacao": 3094325,
+    "taxa_por_cem_mil": 12.96
+   },
+   "2022": {
+    "mortes": 357,
+    "populacao": 2817381,
+    "taxa_por_cem_mil": 12.67
+   },
+   "2023": {
+    "mortes": 347,
+    "populacao": null,
+    "taxa_por_cem_mil": null
+   },
+   "2024": {
+    "mortes": 308,
+    "populacao": 2982818,
+    "taxa_por_cem_mil": 10.33
+   }
+  },
+  "ES": {
+   "1996": {
+    "mortes": 1191,
+    "populacao": 2802707,
+    "taxa_por_cem_mil": 42.49
+   },
+   "1997": {
+    "mortes": 1416,
+    "populacao": 2853127,
+    "taxa_por_cem_mil": 49.63
+   },
+   "1998": {
+    "mortes": 1675,
+    "populacao": 2895540,
+    "taxa_por_cem_mil": 57.85
+   },
+   "1999": {
+    "mortes": 1524,
+    "populacao": 2938050,
+    "taxa_por_cem_mil": 51.87
+   },
+   "2000": {
+    "mortes": 1435,
+    "populacao": 3097232,
+    "taxa_por_cem_mil": 46.33
+   },
+   "2001": {
+    "mortes": 1452,
+    "populacao": 3155048,
+    "taxa_por_cem_mil": 46.02
+   },
+   "2002": {
+    "mortes": 1644,
+    "populacao": 3201712,
+    "taxa_por_cem_mil": 51.35
+   },
+   "2003": {
+    "mortes": 1629,
+    "populacao": 3250205,
+    "taxa_por_cem_mil": 50.12
+   },
+   "2004": {
+    "mortes": 1619,
+    "populacao": 3298541,
+    "taxa_por_cem_mil": 49.08
+   },
+   "2005": {
+    "mortes": 1602,
+    "populacao": 3408360,
+    "taxa_por_cem_mil": 47.0
+   },
+   "2006": {
+    "mortes": 1762,
+    "populacao": 3464280,
+    "taxa_por_cem_mil": 50.86
+   },
+   "2007": {
+    "mortes": 1877,
+    "populacao": 3519712,
+    "taxa_por_cem_mil": 53.33
+   },
+   "2008": {
+    "mortes": 1947,
+    "populacao": 3453648,
+    "taxa_por_cem_mil": 56.38
+   },
+   "2009": {
+    "mortes": 1985,
+    "populacao": 3487094,
+    "taxa_por_cem_mil": 56.92
+   },
+   "2010": {
+    "mortes": 1792,
+    "populacao": 3514952,
+    "taxa_por_cem_mil": 50.98
+   },
+   "2011": {
+    "mortes": 1672,
+    "populacao": 3547055,
+    "taxa_por_cem_mil": 47.14
+   },
+   "2012": {
+    "mortes": 1667,
+    "populacao": 3578067,
+    "taxa_por_cem_mil": 46.59
+   },
+   "2013": {
+    "mortes": 1622,
+    "populacao": 3839366,
+    "taxa_por_cem_mil": 42.25
+   },
+   "2014": {
+    "mortes": 1609,
+    "populacao": 3885049,
+    "taxa_por_cem_mil": 41.42
+   },
+   "2015": {
+    "mortes": 1450,
+    "populacao": 3929911,
+    "taxa_por_cem_mil": 36.9
+   },
+   "2016": {
+    "mortes": 1270,
+    "populacao": 3973697,
+    "taxa_por_cem_mil": 31.96
+   },
+   "2017": {
+    "mortes": 1521,
+    "populacao": 4016356,
+    "taxa_por_cem_mil": 37.87
+   },
+   "2018": {
+    "mortes": 1165,
+    "populacao": 3972388,
+    "taxa_por_cem_mil": 29.33
+   },
+   "2019": {
+    "mortes": 1043,
+    "populacao": 4018650,
+    "taxa_por_cem_mil": 25.95
+   },
+   "2020": {
+    "mortes": 1229,
+    "populacao": 4064052,
+    "taxa_por_cem_mil": 30.24
+   },
+   "2021": {
+    "mortes": 1253,
+    "populacao": 4108508,
+    "taxa_por_cem_mil": 30.5
+   },
+   "2022": {
+    "mortes": 1147,
+    "populacao": 3833712,
+    "taxa_por_cem_mil": 29.92
+   },
+   "2023": {
+    "mortes": 1161,
+    "populacao": null,
+    "taxa_por_cem_mil": null
+   },
+   "2024": {
+    "mortes": 1064,
+    "populacao": 4102129,
+    "taxa_por_cem_mil": 25.94
+   }
+  },
+  "GO": {
+   "1996": {
+    "mortes": 782,
+    "populacao": 4514967,
+    "taxa_por_cem_mil": 17.32
+   },
+   "1997": {
+    "mortes": 744,
+    "populacao": 4639734,
+    "taxa_por_cem_mil": 16.04
+   },
+   "1998": {
+    "mortes": 704,
+    "populacao": 4744193,
+    "taxa_por_cem_mil": 14.84
+   },
+   "1999": {
+    "mortes": 853,
+    "populacao": 4848759,
+    "taxa_por_cem_mil": 17.59
+   },
+   "2000": {
+    "mortes": 1085,
+    "populacao": 5003228,
+    "taxa_por_cem_mil": 21.69
+   },
+   "2001": {
+    "mortes": 1167,
+    "populacao": 5116395,
+    "taxa_por_cem_mil": 22.81
+   },
+   "2002": {
+    "mortes": 1370,
+    "populacao": 5210366,
+    "taxa_por_cem_mil": 26.29
+   },
+   "2003": {
+    "mortes": 1346,
+    "populacao": 5306424,
+    "taxa_por_cem_mil": 25.37
+   },
+   "2004": {
+    "mortes": 1524,
+    "populacao": 5402335,
+    "taxa_por_cem_mil": 28.21
+   },
+   "2005": {
+    "mortes": 1468,
+    "populacao": 5619919,
+    "taxa_por_cem_mil": 26.12
+   },
+   "2006": {
+    "mortes": 1509,
+    "populacao": 5730762,
+    "taxa_por_cem_mil": 26.33
+   },
+   "2007": {
+    "mortes": 1521,
+    "populacao": 5840650,
+    "taxa_por_cem_mil": 26.04
+   },
+   "2008": {
+    "mortes": 1792,
+    "populacao": 5844996,
+    "taxa_por_cem_mil": 30.66
+   },
+   "2009": {
+    "mortes": 1902,
+    "populacao": 5926308,
+    "taxa_por_cem_mil": 32.09
+   },
+   "2010": {
+    "mortes": 1979,
+    "populacao": 6003788,
+    "taxa_por_cem_mil": 32.96
+   },
+   "2011": {
+    "mortes": 2272,
+    "populacao": 6080716,
+    "taxa_por_cem_mil": 37.36
+   },
+   "2012": {
+    "mortes": 2793,
+    "populacao": 6154996,
+    "taxa_por_cem_mil": 45.38
+   },
+   "2013": {
+    "mortes": 2975,
+    "populacao": 6434048,
+    "taxa_por_cem_mil": 46.24
+   },
+   "2014": {
+    "mortes": 2887,
+    "populacao": 6523222,
+    "taxa_por_cem_mil": 44.26
+   },
+   "2015": {
+    "mortes": 2997,
+    "populacao": 6610681,
+    "taxa_por_cem_mil": 45.34
+   },
+   "2016": {
+    "mortes": 3036,
+    "populacao": 6695855,
+    "taxa_por_cem_mil": 45.34
+   },
+   "2017": {
+    "mortes": 2901,
+    "populacao": 6778772,
+    "taxa_por_cem_mil": 42.8
+   },
+   "2018": {
+    "mortes": 2675,
+    "populacao": 6921161,
+    "taxa_por_cem_mil": 38.65
+   },
+   "2019": {
+    "mortes": 2253,
+    "populacao": 7018354,
+    "taxa_por_cem_mil": 32.1
+   },
+   "2020": {
+    "mortes": 2177,
+    "populacao": 7113540,
+    "taxa_por_cem_mil": 30.6
+   },
+   "2021": {
+    "mortes": 1812,
+    "populacao": 7206589,
+    "taxa_por_cem_mil": 25.14
+   },
+   "2022": {
+    "mortes": 1687,
+    "populacao": 7056495,
+    "taxa_por_cem_mil": 23.91
+   },
+   "2023": {
+    "mortes": 1583,
+    "populacao": null,
+    "taxa_por_cem_mil": null
+   },
+   "2024": {
+    "mortes": 1354,
+    "populacao": 7350483,
+    "taxa_por_cem_mil": 18.42
+   }
+  },
+  "MA": {
+   "1996": {
+    "mortes": 363,
+    "populacao": 5222183,
+    "taxa_por_cem_mil": 6.95
+   },
+   "1997": {
+    "mortes": 333,
+    "populacao": 5295442,
+    "taxa_por_cem_mil": 6.29
+   },
+   "1998": {
+    "mortes": 278,
+    "populacao": 5356831,
+    "taxa_por_cem_mil": 5.19
+   },
+   "1999": {
+    "mortes": 262,
+    "populacao": 5418354,
+    "taxa_por_cem_mil": 4.84
+   },
+   "2000": {
+    "mortes": 352,
+    "populacao": 5651475,
+    "taxa_por_cem_mil": 6.23
+   },
+   "2001": {
+    "mortes": 563,
+    "populacao": 5730432,
+    "taxa_por_cem_mil": 9.82
+   },
+   "2002": {
+    "mortes": 606,
+    "populacao": 5803283,
+    "taxa_por_cem_mil": 10.44
+   },
+   "2003": {
+    "mortes": 795,
+    "populacao": 5873646,
+    "taxa_por_cem_mil": 13.54
+   },
+   "2004": {
+    "mortes": 732,
+    "populacao": 5943807,
+    "taxa_por_cem_mil": 12.32
+   },
+   "2005": {
+    "mortes": 935,
+    "populacao": 6103338,
+    "taxa_por_cem_mil": 15.32
+   },
+   "2006": {
+    "mortes": 969,
+    "populacao": 6184543,
+    "taxa_por_cem_mil": 15.67
+   },
+   "2007": {
+    "mortes": 1127,
+    "populacao": 6265102,
+    "taxa_por_cem_mil": 17.99
+   },
+   "2008": {
+    "mortes": 1277,
+    "populacao": 6305539,
+    "taxa_por_cem_mil": 20.25
+   },
+   "2009": {
+    "mortes": 1398,
+    "populacao": 6367111,
+    "taxa_por_cem_mil": 21.96
+   },
+   "2010": {
+    "mortes": 1519,
+    "populacao": 6574789,
+    "taxa_por_cem_mil": 23.1
+   },
+   "2011": {
+    "mortes": 1591,
+    "populacao": 6645761,
+    "taxa_por_cem_mil": 23.94
+   },
+   "2012": {
+    "mortes": 1777,
+    "populacao": 6714314,
+    "taxa_por_cem_mil": 26.47
+   },
+   "2013": {
+    "mortes": 2163,
+    "populacao": 6794301,
+    "taxa_por_cem_mil": 31.84
+   },
+   "2014": {
+    "mortes": 2462,
+    "populacao": 6850884,
+    "taxa_por_cem_mil": 35.94
+   },
+   "2015": {
+    "mortes": 2438,
+    "populacao": 6904241,
+    "taxa_por_cem_mil": 35.31
+   },
+   "2016": {
+    "mortes": 2408,
+    "populacao": 6954036,
+    "taxa_por_cem_mil": 34.63
+   },
+   "2017": {
+    "mortes": 2180,
+    "populacao": 7000229,
+    "taxa_por_cem_mil": 31.14
+   },
+   "2018": {
+    "mortes": 1982,
+    "populacao": 7035055,
+    "taxa_por_cem_mil": 28.17
+   },
+   "2019": {
+    "mortes": 1704,
+    "populacao": 7075181,
+    "taxa_por_cem_mil": 24.08
+   },
+   "2020": {
+    "mortes": 2103,
+    "populacao": 7114598,
+    "taxa_por_cem_mil": 29.56
+   },
+   "2021": {
+    "mortes": 1999,
+    "populacao": 7153262,
+    "taxa_por_cem_mil": 27.95
+   },
+   "2022": {
+    "mortes": 1942,
+    "populacao": 6775805,
+    "taxa_por_cem_mil": 28.66
+   },
+   "2023": {
+    "mortes": 2008,
+    "populacao": null,
+    "taxa_por_cem_mil": null
+   },
+   "2024": {
+    "mortes": 2167,
+    "populacao": 7010960,
+    "taxa_por_cem_mil": 30.91
+   }
+  },
+  "MG": {
+   "1996": {
+    "mortes": 1261,
+    "populacao": 16672613,
+    "taxa_por_cem_mil": 7.56
+   },
+   "1997": {
+    "mortes": 1347,
+    "populacao": 16904908,
+    "taxa_por_cem_mil": 7.97
+   },
+   "1998": {
+    "mortes": 1511,
+    "populacao": 17100267,
+    "taxa_por_cem_mil": 8.84
+   },
+   "1999": {
+    "mortes": 1596,
+    "populacao": 17296065,
+    "taxa_por_cem_mil": 9.23
+   },
+   "2000": {
+    "mortes": 2109,
+    "populacao": 17891494,
+    "taxa_por_cem_mil": 11.79
+   },
+   "2001": {
+    "mortes": 2366,
+    "populacao": 18127024,
+    "taxa_por_cem_mil": 13.05
+   },
+   "2002": {
+    "mortes": 2994,
+    "populacao": 18343518,
+    "taxa_por_cem_mil": 16.32
+   },
+   "2003": {
+    "mortes": 3869,
+    "populacao": 18553335,
+    "taxa_por_cem_mil": 20.85
+   },
+   "2004": {
+    "mortes": 4286,
+    "populacao": 18762405,
+    "taxa_por_cem_mil": 22.84
+   },
+   "2005": {
+    "mortes": 4223,
+    "populacao": 19237434,
+    "taxa_por_cem_mil": 21.95
+   },
+   "2006": {
+    "mortes": 4177,
+    "populacao": 19479262,
+    "taxa_por_cem_mil": 21.44
+   },
+   "2007": {
+    "mortes": 4125,
+    "populacao": 19719285,
+    "taxa_por_cem_mil": 20.92
+   },
+   "2008": {
+    "mortes": 3889,
+    "populacao": 19850072,
+    "taxa_por_cem_mil": 19.59
+   },
+   "2009": {
+    "mortes": 3742,
+    "populacao": 20034068,
+    "taxa_por_cem_mil": 18.68
+   },
+   "2010": {
+    "mortes": 3646,
+    "populacao": 19597330,
+    "taxa_por_cem_mil": 18.6
+   },
+   "2011": {
+    "mortes": 4262,
+    "populacao": 19728701,
+    "taxa_por_cem_mil": 21.6
+   },
+   "2012": {
+    "mortes": 4562,
+    "populacao": 19855332,
+    "taxa_por_cem_mil": 22.98
+   },
+   "2013": {
+    "mortes": 4717,
+    "populacao": 20593356,
+    "taxa_por_cem_mil": 22.91
+   },
+   "2014": {
+    "mortes": 4724,
+    "populacao": 20734097,
+    "taxa_por_cem_mil": 22.78
+   },
+   "2015": {
+    "mortes": 4532,
+    "populacao": 20869101,
+    "taxa_por_cem_mil": 21.72
+   },
+   "2016": {
+    "mortes": 4622,
+    "populacao": 20997560,
+    "taxa_por_cem_mil": 22.01
+   },
+   "2017": {
+    "mortes": 4299,
+    "populacao": 21119536,
+    "taxa_por_cem_mil": 20.36
+   },
+   "2018": {
+    "mortes": 3372,
+    "populacao": 21040662,
+    "taxa_por_cem_mil": 16.03
+   },
+   "2019": {
+    "mortes": 2893,
+    "populacao": 21168791,
+    "taxa_por_cem_mil": 13.67
+   },
+   "2020": {
+    "mortes": 2743,
+    "populacao": 21292666,
+    "taxa_por_cem_mil": 12.88
+   },
+   "2021": {
+    "mortes": 2577,
+    "populacao": 21411923,
+    "taxa_por_cem_mil": 12.04
+   },
+   "2022": {
+    "mortes": 2699,
+    "populacao": 20539989,
+    "taxa_por_cem_mil": 13.14
+   },
+   "2023": {
+    "mortes": 2795,
+    "populacao": null,
+    "taxa_por_cem_mil": null
+   },
+   "2024": {
+    "mortes": 2731,
+    "populacao": 21322691,
+    "taxa_por_cem_mil": 12.81
+   }
+  },
+  "MS": {
+   "1996": {
+    "mortes": 722,
+    "populacao": 1927834,
+    "taxa_por_cem_mil": 37.45
+   },
+   "1997": {
+    "mortes": 729,
+    "populacao": 1964578,
+    "taxa_por_cem_mil": 37.11
+   },
+   "1998": {
+    "mortes": 670,
+    "populacao": 1995578,
+    "taxa_por_cem_mil": 33.57
+   },
+   "1999": {
+    "mortes": 571,
+    "populacao": 2026628,
+    "taxa_por_cem_mil": 28.17
+   },
+   "2000": {
+    "mortes": 651,
+    "populacao": 2078001,
+    "taxa_por_cem_mil": 31.33
+   },
+   "2001": {
+    "mortes": 621,
+    "populacao": 2111030,
+    "taxa_por_cem_mil": 29.42
+   },
+   "2002": {
+    "mortes": 684,
+    "populacao": 2140620,
+    "taxa_por_cem_mil": 31.95
+   },
+   "2003": {
+    "mortes": 705,
+    "populacao": 2169704,
+    "taxa_por_cem_mil": 32.49
+   },
+   "2004": {
+    "mortes": 656,
+    "populacao": 2198640,
+    "taxa_por_cem_mil": 29.84
+   },
+   "2005": {
+    "mortes": 631,
+    "populacao": 2264489,
+    "taxa_por_cem_mil": 27.87
+   },
+   "2006": {
+    "mortes": 683,
+    "populacao": 2297994,
+    "taxa_por_cem_mil": 29.72
+   },
+   "2007": {
+    "mortes": 710,
+    "populacao": 2331243,
+    "taxa_por_cem_mil": 30.46
+   },
+   "2008": {
+    "mortes": 699,
+    "populacao": 2336058,
+    "taxa_por_cem_mil": 29.92
+   },
+   "2009": {
+    "mortes": 725,
+    "populacao": 2360550,
+    "taxa_por_cem_mil": 30.71
+   },
+   "2010": {
+    "mortes": 656,
+    "populacao": 2449024,
+    "taxa_por_cem_mil": 26.79
+   },
+   "2011": {
+    "mortes": 673,
+    "populacao": 2477542,
+    "taxa_por_cem_mil": 27.16
+   },
+   "2012": {
+    "mortes": 683,
+    "populacao": 2505088,
+    "taxa_por_cem_mil": 27.26
+   },
+   "2013": {
+    "mortes": 630,
+    "populacao": 2587269,
+    "taxa_por_cem_mil": 24.35
+   },
+   "2014": {
+    "mortes": 700,
+    "populacao": 2619657,
+    "taxa_por_cem_mil": 26.72
+   },
+   "2015": {
+    "mortes": 634,
+    "populacao": 2651235,
+    "taxa_por_cem_mil": 23.91
+   },
+   "2016": {
+    "mortes": 671,
+    "populacao": 2682386,
+    "taxa_por_cem_mil": 25.02
+   },
+   "2017": {
+    "mortes": 659,
+    "populacao": 2713147,
+    "taxa_por_cem_mil": 24.29
+   },
+   "2018": {
+    "mortes": 572,
+    "populacao": 2748023,
+    "taxa_por_cem_mil": 20.81
+   },
+   "2019": {
+    "mortes": 491,
+    "populacao": 2778986,
+    "taxa_por_cem_mil": 17.67
+   },
+   "2020": {
+    "mortes": 491,
+    "populacao": 2809394,
+    "taxa_por_cem_mil": 17.48
+   },
+   "2021": {
+    "mortes": 551,
+    "populacao": 2839188,
+    "taxa_por_cem_mil": 19.41
+   },
+   "2022": {
+    "mortes": 550,
+    "populacao": 2757013,
+    "taxa_por_cem_mil": 19.95
+   },
+   "2023": {
+    "mortes": 584,
+    "populacao": null,
+    "taxa_por_cem_mil": null
+   },
+   "2024": {
+    "mortes": 519,
+    "populacao": 2901895,
+    "taxa_por_cem_mil": 17.88
+   }
+  },
+  "MT": {
+   "1996": {
+    "mortes": 660,
+    "populacao": 2235832,
+    "taxa_por_cem_mil": 29.52
+   },
+   "1997": {
+    "mortes": 766,
+    "populacao": 2287857,
+    "taxa_por_cem_mil": 33.48
+   },
+   "1998": {
+    "mortes": 832,
+    "populacao": 2331642,
+    "taxa_por_cem_mil": 35.68
+   },
+   "1999": {
+    "mortes": 822,
+    "populacao": 2375581,
+    "taxa_por_cem_mil": 34.6
+   },
+   "2000": {
+    "mortes": 990,
+    "populacao": 2504353,
+    "taxa_por_cem_mil": 39.53
+   },
+   "2001": {
+    "mortes": 973,
+    "populacao": 2560537,
+    "taxa_por_cem_mil": 38.0
+   },
+   "2002": {
+    "mortes": 948,
+    "populacao": 2604723,
+    "taxa_por_cem_mil": 36.4
+   },
+   "2003": {
+    "mortes": 908,
+    "populacao": 2651313,
+    "taxa_por_cem_mil": 34.25
+   },
+   "2004": {
+    "mortes": 853,
+    "populacao": 2697717,
+    "taxa_por_cem_mil": 31.62
+   },
+   "2005": {
+    "mortes": 907,
+    "populacao": 2803272,
+    "taxa_por_cem_mil": 32.36
+   },
+   "2006": {
+    "mortes": 896,
+    "populacao": 2857024,
+    "taxa_por_cem_mil": 31.36
+   },
+   "2007": {
+    "mortes": 889,
+    "populacao": 2910255,
+    "taxa_por_cem_mil": 30.55
+   },
+   "2008": {
+    "mortes": 937,
+    "populacao": 2957732,
+    "taxa_por_cem_mil": 31.68
+   },
+   "2009": {
+    "mortes": 1000,
+    "populacao": 3001725,
+    "taxa_por_cem_mil": 33.31
+   },
+   "2010": {
+    "mortes": 972,
+    "populacao": 3035122,
+    "taxa_por_cem_mil": 32.03
+   },
+   "2011": {
+    "mortes": 1009,
+    "populacao": 3075936,
+    "taxa_por_cem_mil": 32.8
+   },
+   "2012": {
+    "mortes": 1074,
+    "populacao": 3115336,
+    "taxa_por_cem_mil": 34.47
+   },
+   "2013": {
+    "mortes": 1158,
+    "populacao": 3182113,
+    "taxa_por_cem_mil": 36.39
+   },
+   "2014": {
+    "mortes": 1358,
+    "populacao": 3224357,
+    "taxa_por_cem_mil": 42.12
+   },
+   "2015": {
+    "mortes": 1203,
+    "populacao": 3265486,
+    "taxa_por_cem_mil": 36.84
+   },
+   "2016": {
+    "mortes": 1180,
+    "populacao": 3305531,
+    "taxa_por_cem_mil": 35.7
+   },
+   "2017": {
+    "mortes": 1102,
+    "populacao": 3344544,
+    "taxa_por_cem_mil": 32.95
+   },
+   "2018": {
+    "mortes": 989,
+    "populacao": 3441998,
+    "taxa_por_cem_mil": 28.73
+   },
+   "2019": {
+    "mortes": 895,
+    "populacao": 3484466,
+    "taxa_por_cem_mil": 25.69
+   },
+   "2020": {
+    "mortes": 987,
+    "populacao": 3526220,
+    "taxa_por_cem_mil": 27.99
+   },
+   "2021": {
+    "mortes": 888,
+    "populacao": 3567234,
+    "taxa_por_cem_mil": 24.89
+   },
+   "2022": {
+    "mortes": 1077,
+    "populacao": 3658649,
+    "taxa_por_cem_mil": 29.44
+   },
+   "2023": {
+    "mortes": 1105,
+    "populacao": null,
+    "taxa_por_cem_mil": null
+   },
+   "2024": {
+    "mortes": 1102,
+    "populacao": 3836399,
+    "taxa_por_cem_mil": 28.72
+   }
+  },
+  "PA": {
+   "1996": {
+    "mortes": 700,
+    "populacao": 5510849,
+    "taxa_por_cem_mil": 12.7
+   },
+   "1997": {
+    "mortes": 754,
+    "populacao": 5650708,
+    "taxa_por_cem_mil": 13.34
+   },
+   "1998": {
+    "mortes": 774,
+    "populacao": 5768451,
+    "taxa_por_cem_mil": 13.42
+   },
+   "1999": {
+    "mortes": 642,
+    "populacao": 5886463,
+    "taxa_por_cem_mil": 10.91
+   },
+   "2000": {
+    "mortes": 806,
+    "populacao": 6192307,
+    "taxa_por_cem_mil": 13.02
+   },
+   "2001": {
+    "mortes": 966,
+    "populacao": 6341711,
+    "taxa_por_cem_mil": 15.23
+   },
+   "2002": {
+    "mortes": 1192,
+    "populacao": 6453699,
+    "taxa_por_cem_mil": 18.47
+   },
+   "2003": {
+    "mortes": 1405,
+    "populacao": 6574990,
+    "taxa_por_cem_mil": 21.37
+   },
+   "2004": {
+    "mortes": 1519,
+    "populacao": 6695940,
+    "taxa_por_cem_mil": 22.69
+   },
+   "2005": {
+    "mortes": 1926,
+    "populacao": 6970591,
+    "taxa_por_cem_mil": 27.63
+   },
+   "2006": {
+    "mortes": 2073,
+    "populacao": 7110462,
+    "taxa_por_cem_mil": 29.15
+   },
+   "2007": {
+    "mortes": 2194,
+    "populacao": 7249184,
+    "taxa_por_cem_mil": 30.27
+   },
+   "2008": {
+    "mortes": 2860,
+    "populacao": 7321493,
+    "taxa_por_cem_mil": 39.06
+   },
+   "2009": {
+    "mortes": 2989,
+    "populacao": 7431041,
+    "taxa_por_cem_mil": 40.22
+   },
+   "2010": {
+    "mortes": 3521,
+    "populacao": 7581051,
+    "taxa_por_cem_mil": 46.44
+   },
+   "2011": {
+    "mortes": 3073,
+    "populacao": 7688593,
+    "taxa_por_cem_mil": 39.97
+   },
+   "2012": {
+    "mortes": 3236,
+    "populacao": 7822205,
+    "taxa_por_cem_mil": 41.37
+   },
+   "2013": {
+    "mortes": 3405,
+    "populacao": 7969654,
+    "taxa_por_cem_mil": 42.72
+   },
+   "2014": {
+    "mortes": 3446,
+    "populacao": 8073924,
+    "taxa_por_cem_mil": 42.68
+   },
+   "2015": {
+    "mortes": 3675,
+    "populacao": 8175113,
+    "taxa_por_cem_mil": 44.95
+   },
+   "2016": {
+    "mortes": 4223,
+    "populacao": 8272724,
+    "taxa_por_cem_mil": 51.05
+   },
+   "2017": {
+    "mortes": 4575,
+    "populacao": 8366628,
+    "taxa_por_cem_mil": 54.68
+   },
+   "2018": {
+    "mortes": 4528,
+    "populacao": 8513497,
+    "taxa_por_cem_mil": 53.19
+   },
+   "2019": {
+    "mortes": 3405,
+    "populacao": 8602865,
+    "taxa_por_cem_mil": 39.58
+   },
+   "2020": {
+    "mortes": 2809,
+    "populacao": 8690745,
+    "taxa_por_cem_mil": 32.32
+   },
+   "2021": {
+    "mortes": 2847,
+    "populacao": 8777124,
+    "taxa_por_cem_mil": 32.44
+   },
+   "2022": {
+    "mortes": 2901,
+    "populacao": 8121025,
+    "taxa_por_cem_mil": 35.72
+   },
+   "2023": {
+    "mortes": 2542,
+    "populacao": null,
+    "taxa_por_cem_mil": null
+   },
+   "2024": {
+    "mortes": 2364,
+    "populacao": 8664306,
+    "taxa_por_cem_mil": 27.28
+   }
+  },
+  "PB": {
+   "1996": {
+    "mortes": 636,
+    "populacao": 3305616,
+    "taxa_por_cem_mil": 19.24
+   },
+   "1997": {
+    "mortes": 492,
+    "populacao": 3331734,
+    "taxa_por_cem_mil": 14.77
+   },
+   "1998": {
+    "mortes": 455,
+    "populacao": 3353609,
+    "taxa_por_cem_mil": 13.57
+   },
+   "1999": {
+    "mortes": 403,
+    "populacao": 3375600,
+    "taxa_por_cem_mil": 11.94
+   },
+   "2000": {
+    "mortes": 507,
+    "populacao": 3443825,
+    "taxa_por_cem_mil": 14.72
+   },
+   "2001": {
+    "mortes": 484,
+    "populacao": 3468534,
+    "taxa_por_cem_mil": 13.95
+   },
+   "2002": {
+    "mortes": 607,
+    "populacao": 3494965,
+    "taxa_por_cem_mil": 17.37
+   },
+   "2003": {
+    "mortes": 616,
+    "populacao": 3518607,
+    "taxa_por_cem_mil": 17.51
+   },
+   "2004": {
+    "mortes": 675,
+    "populacao": 3542167,
+    "taxa_por_cem_mil": 19.06
+   },
+   "2005": {
+    "mortes": 745,
+    "populacao": 3595849,
+    "taxa_por_cem_mil": 20.72
+   },
+   "2006": {
+    "mortes": 825,
+    "populacao": 3623198,
+    "taxa_por_cem_mil": 22.77
+   },
+   "2007": {
+    "mortes": 864,
+    "populacao": 3650180,
+    "taxa_por_cem_mil": 23.67
+   },
+   "2008": {
+    "mortes": 1029,
+    "populacao": 3742606,
+    "taxa_por_cem_mil": 27.49
+   },
+   "2009": {
+    "mortes": 1263,
+    "populacao": 3769954,
+    "taxa_por_cem_mil": 33.5
+   },
+   "2010": {
+    "mortes": 1455,
+    "populacao": 3766528,
+    "taxa_por_cem_mil": 38.63
+   },
+   "2011": {
+    "mortes": 1614,
+    "populacao": 3791315,
+    "taxa_por_cem_mil": 42.57
+   },
+   "2012": {
+    "mortes": 1525,
+    "populacao": 3815171,
+    "taxa_por_cem_mil": 39.97
+   },
+   "2013": {
+    "mortes": 1551,
+    "populacao": 3914421,
+    "taxa_por_cem_mil": 39.62
+   },
+   "2014": {
+    "mortes": 1551,
+    "populacao": 3943885,
+    "taxa_por_cem_mil": 39.33
+   },
+   "2015": {
+    "mortes": 1522,
+    "populacao": 3972202,
+    "taxa_por_cem_mil": 38.32
+   },
+   "2016": {
+    "mortes": 1355,
+    "populacao": 3999415,
+    "taxa_por_cem_mil": 33.88
+   },
+   "2017": {
+    "mortes": 1341,
+    "populacao": 4025558,
+    "taxa_por_cem_mil": 33.31
+   },
+   "2018": {
+    "mortes": 1244,
+    "populacao": 3996496,
+    "taxa_por_cem_mil": 31.13
+   },
+   "2019": {
+    "mortes": 953,
+    "populacao": 4018127,
+    "taxa_por_cem_mil": 23.72
+   },
+   "2020": {
+    "mortes": 1141,
+    "populacao": 4039277,
+    "taxa_por_cem_mil": 28.25
+   },
+   "2021": {
+    "mortes": 1144,
+    "populacao": 4059905,
+    "taxa_por_cem_mil": 28.18
+   },
+   "2022": {
+    "mortes": 1105,
+    "populacao": 3974687,
+    "taxa_por_cem_mil": 27.8
+   },
+   "2023": {
+    "mortes": 1079,
+    "populacao": null,
+    "taxa_por_cem_mil": null
+   },
+   "2024": {
+    "mortes": 1058,
+    "populacao": 4145040,
+    "taxa_por_cem_mil": 25.52
+   }
+  },
+  "PE": {
+   "1996": {
+    "mortes": 3022,
+    "populacao": 7399071,
+    "taxa_por_cem_mil": 40.84
+   },
+   "1997": {
+    "mortes": 3713,
+    "populacao": 7466811,
+    "taxa_por_cem_mil": 49.73
+   },
+   "1998": {
+    "mortes": 4423,
+    "populacao": 7523764,
+    "taxa_por_cem_mil": 58.79
+   },
+   "1999": {
+    "mortes": 4217,
+    "populacao": 7580807,
+    "taxa_por_cem_mil": 55.63
+   },
+   "2000": {
+    "mortes": 4290,
+    "populacao": 7918344,
+    "taxa_por_cem_mil": 54.18
+   },
+   "2001": {
+    "mortes": 4710,
+    "populacao": 8008255,
+    "taxa_por_cem_mil": 58.81
+   },
+   "2002": {
+    "mortes": 4396,
+    "populacao": 8084722,
+    "taxa_por_cem_mil": 54.37
+   },
+   "2003": {
+    "mortes": 4517,
+    "populacao": 8161828,
+    "taxa_por_cem_mil": 55.34
+   },
+   "2004": {
+    "mortes": 4174,
+    "populacao": 8238849,
+    "taxa_por_cem_mil": 50.66
+   },
+   "2005": {
+    "mortes": 4330,
+    "populacao": 8413601,
+    "taxa_por_cem_mil": 51.46
+   },
+   "2006": {
+    "mortes": 4472,
+    "populacao": 8502602,
+    "taxa_por_cem_mil": 52.6
+   },
+   "2007": {
+    "mortes": 4557,
+    "populacao": 8590868,
+    "taxa_por_cem_mil": 53.04
+   },
+   "2008": {
+    "mortes": 4446,
+    "populacao": 8734194,
+    "taxa_por_cem_mil": 50.9
+   },
+   "2009": {
+    "mortes": 3963,
+    "populacao": 8810318,
+    "taxa_por_cem_mil": 44.98
+   },
+   "2010": {
+    "mortes": 3473,
+    "populacao": 8796448,
+    "taxa_por_cem_mil": 39.48
+   },
+   "2011": {
+    "mortes": 3471,
+    "populacao": 8864906,
+    "taxa_por_cem_mil": 39.15
+   },
+   "2012": {
+    "mortes": 3327,
+    "populacao": 8931028,
+    "taxa_por_cem_mil": 37.25
+   },
+   "2013": {
+    "mortes": 3124,
+    "populacao": 9208550,
+    "taxa_por_cem_mil": 33.92
+   },
+   "2014": {
+    "mortes": 3358,
+    "populacao": 9277727,
+    "taxa_por_cem_mil": 36.19
+   },
+   "2015": {
+    "mortes": 3847,
+    "populacao": 9345173,
+    "taxa_por_cem_mil": 41.17
+   },
+   "2016": {
+    "mortes": 4447,
+    "populacao": 9410336,
+    "taxa_por_cem_mil": 47.26
+   },
+   "2017": {
+    "mortes": 5419,
+    "populacao": 9473266,
+    "taxa_por_cem_mil": 57.2
+   },
+   "2018": {
+    "mortes": 4190,
+    "populacao": 9496294,
+    "taxa_por_cem_mil": 44.12
+   },
+   "2019": {
+    "mortes": 3474,
+    "populacao": 9557071,
+    "taxa_por_cem_mil": 36.35
+   },
+   "2020": {
+    "mortes": 3786,
+    "populacao": 9616621,
+    "taxa_por_cem_mil": 39.37
+   },
+   "2021": {
+    "mortes": 3439,
+    "populacao": 9674793,
+    "taxa_por_cem_mil": 35.55
+   },
+   "2022": {
+    "mortes": 3409,
+    "populacao": 9058931,
+    "taxa_por_cem_mil": 37.63
+   },
+   "2023": {
+    "mortes": 3697,
+    "populacao": null,
+    "taxa_por_cem_mil": null
+   },
+   "2024": {
+    "mortes": 3534,
+    "populacao": 9539029,
+    "taxa_por_cem_mil": 37.05
+   }
+  },
+  "PI": {
+   "1996": {
+    "mortes": 117,
+    "populacao": 2673085,
+    "taxa_por_cem_mil": 4.38
+   },
+   "1997": {
+    "mortes": 142,
+    "populacao": 2695950,
+    "taxa_por_cem_mil": 5.27
+   },
+   "1998": {
+    "mortes": 140,
+    "populacao": 2714928,
+    "taxa_por_cem_mil": 5.16
+   },
+   "1999": {
+    "mortes": 133,
+    "populacao": 2734158,
+    "taxa_por_cem_mil": 4.86
+   },
+   "2000": {
+    "mortes": 230,
+    "populacao": 2843278,
+    "taxa_por_cem_mil": 8.09
+   },
+   "2001": {
+    "mortes": 262,
+    "populacao": 2872983,
+    "taxa_por_cem_mil": 9.12
+   },
+   "2002": {
+    "mortes": 308,
+    "populacao": 2898191,
+    "taxa_por_cem_mil": 10.63
+   },
+   "2003": {
+    "mortes": 298,
+    "populacao": 2923695,
+    "taxa_por_cem_mil": 10.19
+   },
+   "2004": {
+    "mortes": 327,
+    "populacao": 2949133,
+    "taxa_por_cem_mil": 11.09
+   },
+   "2005": {
+    "mortes": 368,
+    "populacao": 3006886,
+    "taxa_por_cem_mil": 12.24
+   },
+   "2006": {
+    "mortes": 418,
+    "populacao": 3036271,
+    "taxa_por_cem_mil": 13.77
+   },
+   "2007": {
+    "mortes": 383,
+    "populacao": 3065488,
+    "taxa_por_cem_mil": 12.49
+   },
+   "2008": {
+    "mortes": 361,
+    "populacao": 3119697,
+    "taxa_por_cem_mil": 11.57
+   },
+   "2009": {
+    "mortes": 385,
+    "populacao": 3145164,
+    "taxa_por_cem_mil": 12.24
+   },
+   "2010": {
+    "mortes": 411,
+    "populacao": 3118360,
+    "taxa_por_cem_mil": 13.18
+   },
+   "2011": {
+    "mortes": 440,
+    "populacao": 3140328,
+    "taxa_por_cem_mil": 14.01
+   },
+   "2012": {
+    "mortes": 525,
+    "populacao": 3160748,
+    "taxa_por_cem_mil": 16.61
+   },
+   "2013": {
+    "mortes": 598,
+    "populacao": 3184166,
+    "taxa_por_cem_mil": 18.78
+   },
+   "2014": {
+    "mortes": 717,
+    "populacao": 3194718,
+    "taxa_por_cem_mil": 22.44
+   },
+   "2015": {
+    "mortes": 650,
+    "populacao": 3204028,
+    "taxa_por_cem_mil": 20.29
+   },
+   "2016": {
+    "mortes": 701,
+    "populacao": 3212180,
+    "taxa_por_cem_mil": 21.82
+   },
+   "2017": {
+    "mortes": 626,
+    "populacao": 3219257,
+    "taxa_por_cem_mil": 19.45
+   },
+   "2018": {
+    "mortes": 619,
+    "populacao": 3264531,
+    "taxa_por_cem_mil": 18.96
+   },
+   "2019": {
+    "mortes": 569,
+    "populacao": 3273227,
+    "taxa_por_cem_mil": 17.38
+   },
+   "2020": {
+    "mortes": 674,
+    "populacao": 3281480,
+    "taxa_por_cem_mil": 20.54
+   },
+   "2021": {
+    "mortes": 766,
+    "populacao": 3289290,
+    "taxa_por_cem_mil": 23.29
+   },
+   "2022": {
+    "mortes": 794,
+    "populacao": 3271199,
+    "taxa_por_cem_mil": 24.27
+   },
+   "2023": {
+    "mortes": 725,
+    "populacao": null,
+    "taxa_por_cem_mil": null
+   },
+   "2024": {
+    "mortes": 697,
+    "populacao": 3375646,
+    "taxa_por_cem_mil": 20.65
+   }
+  },
+  "PR": {
+   "1996": {
+    "mortes": 1379,
+    "populacao": 9003804,
+    "taxa_por_cem_mil": 15.32
+   },
+   "1997": {
+    "mortes": 1581,
+    "populacao": 9142202,
+    "taxa_por_cem_mil": 17.29
+   },
+   "1998": {
+    "mortes": 1625,
+    "populacao": 9258789,
+    "taxa_por_cem_mil": 17.55
+   },
+   "1999": {
+    "mortes": 1706,
+    "populacao": 9375665,
+    "taxa_por_cem_mil": 18.2
+   },
+   "2000": {
+    "mortes": 1789,
+    "populacao": 9563458,
+    "taxa_por_cem_mil": 18.71
+   },
+   "2001": {
+    "mortes": 2052,
+    "populacao": 9694769,
+    "taxa_por_cem_mil": 21.17
+   },
+   "2002": {
+    "mortes": 2266,
+    "populacao": 9797965,
+    "taxa_por_cem_mil": 23.13
+   },
+   "2003": {
+    "mortes": 2555,
+    "populacao": 9906812,
+    "taxa_por_cem_mil": 25.79
+   },
+   "2004": {
+    "mortes": 2826,
+    "populacao": 10015425,
+    "taxa_por_cem_mil": 28.22
+   },
+   "2005": {
+    "mortes": 2977,
+    "populacao": 10261840,
+    "taxa_por_cem_mil": 29.01
+   },
+   "2006": {
+    "mortes": 3098,
+    "populacao": 10387408,
+    "taxa_por_cem_mil": 29.82
+   },
+   "2007": {
+    "mortes": 3105,
+    "populacao": 10511933,
+    "taxa_por_cem_mil": 29.54
+   },
+   "2008": {
+    "mortes": 3445,
+    "populacao": 10590169,
+    "taxa_por_cem_mil": 32.53
+   },
+   "2009": {
+    "mortes": 3698,
+    "populacao": 10686228,
+    "taxa_por_cem_mil": 34.61
+   },
+   "2010": {
+    "mortes": 3586,
+    "populacao": 10444526,
+    "taxa_por_cem_mil": 34.33
+   },
+   "2011": {
+    "mortes": 3376,
+    "populacao": 10512349,
+    "taxa_por_cem_mil": 32.11
+   },
+   "2012": {
+    "mortes": 3489,
+    "populacao": 10577755,
+    "taxa_por_cem_mil": 32.98
+   },
+   "2013": {
+    "mortes": 2936,
+    "populacao": 10997465,
+    "taxa_por_cem_mil": 26.7
+   },
+   "2014": {
+    "mortes": 2980,
+    "populacao": 11081692,
+    "taxa_por_cem_mil": 26.89
+   },
+   "2015": {
+    "mortes": 2936,
+    "populacao": 11163018,
+    "taxa_por_cem_mil": 26.3
+   },
+   "2016": {
+    "mortes": 3080,
+    "populacao": 11242720,
+    "taxa_por_cem_mil": 27.4
+   },
+   "2017": {
+    "mortes": 2759,
+    "populacao": 11320892,
+    "taxa_por_cem_mil": 24.37
+   },
+   "2018": {
+    "mortes": 2443,
+    "populacao": 11348937,
+    "taxa_por_cem_mil": 21.53
+   },
+   "2019": {
+    "mortes": 2095,
+    "populacao": 11433957,
+    "taxa_por_cem_mil": 18.32
+   },
+   "2020": {
+    "mortes": 2281,
+    "populacao": 11516840,
+    "taxa_por_cem_mil": 19.81
+   },
+   "2021": {
+    "mortes": 2348,
+    "populacao": 11597484,
+    "taxa_por_cem_mil": 20.25
+   },
+   "2022": {
+    "mortes": 2600,
+    "populacao": 11444380,
+    "taxa_por_cem_mil": 22.72
+   },
+   "2023": {
+    "mortes": 2214,
+    "populacao": null,
+    "taxa_por_cem_mil": null
+   },
+   "2024": {
+    "mortes": 2194,
+    "populacao": 11824665,
+    "taxa_por_cem_mil": 18.55
+   }
+  },
+  "RJ": {
+   "1996": {
+    "mortes": 8034,
+    "populacao": 13406308,
+    "taxa_por_cem_mil": 59.93
+   },
+   "1997": {
+    "mortes": 7954,
+    "populacao": 13555652,
+    "taxa_por_cem_mil": 58.68
+   },
+   "1998": {
+    "mortes": 7573,
+    "populacao": 13681431,
+    "taxa_por_cem_mil": 55.35
+   },
+   "1999": {
+    "mortes": 7261,
+    "populacao": 13807368,
+    "taxa_por_cem_mil": 52.59
+   },
+   "2000": {
+    "mortes": 7350,
+    "populacao": 14391282,
+    "taxa_por_cem_mil": 51.07
+   },
+   "2001": {
+    "mortes": 7362,
+    "populacao": 14558561,
+    "taxa_por_cem_mil": 50.57
+   },
+   "2002": {
+    "mortes": 8335,
+    "populacao": 14724479,
+    "taxa_por_cem_mil": 56.61
+   },
+   "2003": {
+    "mortes": 8115,
+    "populacao": 14879144,
+    "taxa_por_cem_mil": 54.54
+   },
+   "2004": {
+    "mortes": 7731,
+    "populacao": 15033317,
+    "taxa_por_cem_mil": 51.43
+   },
+   "2005": {
+    "mortes": 7408,
+    "populacao": 15383422,
+    "taxa_por_cem_mil": 48.16
+   },
+   "2006": {
+    "mortes": 7389,
+    "populacao": 15561720,
+    "taxa_por_cem_mil": 47.48
+   },
+   "2007": {
+    "mortes": 6551,
+    "populacao": 15738536,
+    "taxa_por_cem_mil": 41.62
+   },
+   "2008": {
+    "mortes": 5662,
+    "populacao": 15872362,
+    "taxa_por_cem_mil": 35.67
+   },
+   "2009": {
+    "mortes": 5365,
+    "populacao": 16010386,
+    "taxa_por_cem_mil": 33.51
+   },
+   "2010": {
+    "mortes": 5667,
+    "populacao": 15989929,
+    "taxa_por_cem_mil": 35.44
+   },
+   "2011": {
+    "mortes": 4781,
+    "populacao": 16112678,
+    "taxa_por_cem_mil": 29.67
+   },
+   "2012": {
+    "mortes": 4772,
+    "populacao": 16231365,
+    "taxa_por_cem_mil": 29.4
+   },
+   "2013": {
+    "mortes": 5111,
+    "populacao": 16369179,
+    "taxa_por_cem_mil": 31.22
+   },
+   "2014": {
+    "mortes": 5718,
+    "populacao": 16461173,
+    "taxa_por_cem_mil": 34.74
+   },
+   "2015": {
+    "mortes": 5067,
+    "populacao": 16550024,
+    "taxa_por_cem_mil": 30.62
+   },
+   "2016": {
+    "mortes": 6053,
+    "populacao": 16635996,
+    "taxa_por_cem_mil": 36.38
+   },
+   "2017": {
+    "mortes": 6416,
+    "populacao": 16718956,
+    "taxa_por_cem_mil": 38.38
+   },
+   "2018": {
+    "mortes": 6455,
+    "populacao": 17159960,
+    "taxa_por_cem_mil": 37.62
+   },
+   "2019": {
+    "mortes": 3552,
+    "populacao": 17264943,
+    "taxa_por_cem_mil": 20.57
+   },
+   "2020": {
+    "mortes": 4831,
+    "populacao": 17366189,
+    "taxa_por_cem_mil": 27.82
+   },
+   "2021": {
+    "mortes": 4693,
+    "populacao": 17463349,
+    "taxa_por_cem_mil": 26.87
+   },
+   "2022": {
+    "mortes": 3762,
+    "populacao": 16055174,
+    "taxa_por_cem_mil": 23.43
+   },
+   "2023": {
+    "mortes": 4292,
+    "populacao": null,
+    "taxa_por_cem_mil": null
+   },
+   "2024": {
+    "mortes": 3520,
+    "populacao": 17219679,
+    "taxa_por_cem_mil": 20.44
+   }
+  },
+  "RN": {
+   "1996": {
+    "mortes": 241,
+    "populacao": 2558660,
+    "taxa_por_cem_mil": 9.42
+   },
+   "1997": {
+    "mortes": 235,
+    "populacao": 2594306,
+    "taxa_por_cem_mil": 9.06
+   },
+   "1998": {
+    "mortes": 222,
+    "populacao": 2624456,
+    "taxa_por_cem_mil": 8.46
+   },
+   "1999": {
+    "mortes": 224,
+    "populacao": 2654464,
+    "taxa_por_cem_mil": 8.44
+   },
+   "2000": {
+    "mortes": 257,
+    "populacao": 2776782,
+    "taxa_por_cem_mil": 9.26
+   },
+   "2001": {
+    "mortes": 322,
+    "populacao": 2815203,
+    "taxa_por_cem_mil": 11.44
+   },
+   "2002": {
+    "mortes": 299,
+    "populacao": 2852800,
+    "taxa_por_cem_mil": 10.48
+   },
+   "2003": {
+    "mortes": 405,
+    "populacao": 2888087,
+    "taxa_por_cem_mil": 14.02
+   },
+   "2004": {
+    "mortes": 344,
+    "populacao": 2923287,
+    "taxa_por_cem_mil": 11.77
+   },
+   "2005": {
+    "mortes": 406,
+    "populacao": 3003040,
+    "taxa_por_cem_mil": 13.52
+   },
+   "2006": {
+    "mortes": 455,
+    "populacao": 3043740,
+    "taxa_por_cem_mil": 14.95
+   },
+   "2007": {
+    "mortes": 589,
+    "populacao": 3084106,
+    "taxa_por_cem_mil": 19.1
+   },
+   "2008": {
+    "mortes": 714,
+    "populacao": 3106430,
+    "taxa_por_cem_mil": 22.98
+   },
+   "2009": {
+    "mortes": 800,
+    "populacao": 3137646,
+    "taxa_por_cem_mil": 25.5
+   },
+   "2010": {
+    "mortes": 810,
+    "populacao": 3168027,
+    "taxa_por_cem_mil": 25.57
+   },
+   "2011": {
+    "mortes": 1054,
+    "populacao": 3198657,
+    "taxa_por_cem_mil": 32.95
+   },
+   "2012": {
+    "mortes": 1124,
+    "populacao": 3228198,
+    "taxa_por_cem_mil": 34.82
+   },
+   "2013": {
+    "mortes": 1447,
+    "populacao": 3373959,
+    "taxa_por_cem_mil": 42.89
+   },
+   "2014": {
+    "mortes": 1602,
+    "populacao": 3408510,
+    "taxa_por_cem_mil": 47.0
+   },
+   "2015": {
+    "mortes": 1545,
+    "populacao": 3442175,
+    "taxa_por_cem_mil": 44.88
+   },
+   "2016": {
+    "mortes": 1854,
+    "populacao": 3474998,
+    "taxa_por_cem_mil": 53.35
+   },
+   "2017": {
+    "mortes": 2203,
+    "populacao": 3507003,
+    "taxa_por_cem_mil": 62.82
+   },
+   "2018": {
+    "mortes": 1825,
+    "populacao": 3479010,
+    "taxa_por_cem_mil": 52.46
+   },
+   "2019": {
+    "mortes": 1346,
+    "populacao": 3506853,
+    "taxa_por_cem_mil": 38.38
+   },
+   "2020": {
+    "mortes": 1406,
+    "populacao": 3534165,
+    "taxa_por_cem_mil": 39.78
+   },
+   "2021": {
+    "mortes": 1179,
+    "populacao": 3560903,
+    "taxa_por_cem_mil": 33.11
+   },
+   "2022": {
+    "mortes": 1167,
+    "populacao": 3302729,
+    "taxa_por_cem_mil": 35.33
+   },
+   "2023": {
+    "mortes": 955,
+    "populacao": null,
+    "taxa_por_cem_mil": null
+   },
+   "2024": {
+    "mortes": 809,
+    "populacao": 3446071,
+    "taxa_por_cem_mil": 23.48
+   }
+  },
+  "RO": {
+   "1996": {
+    "mortes": 301,
+    "populacao": 1229306,
+    "taxa_por_cem_mil": 24.49
+   },
+   "1997": {
+    "mortes": 355,
+    "populacao": 1255538,
+    "taxa_por_cem_mil": 28.27
+   },
+   "1998": {
+    "mortes": 494,
+    "populacao": 1276181,
+    "taxa_por_cem_mil": 38.71
+   },
+   "1999": {
+    "mortes": 432,
+    "populacao": 1296832,
+    "taxa_por_cem_mil": 33.31
+   },
+   "2000": {
+    "mortes": 466,
+    "populacao": 1379787,
+    "taxa_por_cem_mil": 33.77
+   },
+   "2001": {
+    "mortes": 573,
+    "populacao": 1407878,
+    "taxa_por_cem_mil": 40.7
+   },
+   "2002": {
+    "mortes": 615,
+    "populacao": 1431776,
+    "taxa_por_cem_mil": 42.95
+   },
+   "2003": {
+    "mortes": 566,
+    "populacao": 1455914,
+    "taxa_por_cem_mil": 38.88
+   },
+   "2004": {
+    "mortes": 563,
+    "populacao": 1479940,
+    "taxa_por_cem_mil": 38.04
+   },
+   "2005": {
+    "mortes": 555,
+    "populacao": 1534584,
+    "taxa_por_cem_mil": 36.17
+   },
+   "2006": {
+    "mortes": 585,
+    "populacao": 1562406,
+    "taxa_por_cem_mil": 37.44
+   },
+   "2007": {
+    "mortes": 432,
+    "populacao": 1590027,
+    "taxa_por_cem_mil": 27.17
+   },
+   "2008": {
+    "mortes": 480,
+    "populacao": 1493566,
+    "taxa_por_cem_mil": 32.14
+   },
+   "2009": {
+    "mortes": 538,
+    "populacao": 1503911,
+    "taxa_por_cem_mil": 35.77
+   },
+   "2010": {
+    "mortes": 546,
+    "populacao": 1562409,
+    "taxa_por_cem_mil": 34.95
+   },
+   "2011": {
+    "mortes": 450,
+    "populacao": 1576455,
+    "taxa_por_cem_mil": 28.55
+   },
+   "2012": {
+    "mortes": 526,
+    "populacao": 1590011,
+    "taxa_por_cem_mil": 33.08
+   },
+   "2013": {
+    "mortes": 483,
+    "populacao": 1728214,
+    "taxa_por_cem_mil": 27.95
+   },
+   "2014": {
+    "mortes": 578,
+    "populacao": 1748531,
+    "taxa_por_cem_mil": 33.06
+   },
+   "2015": {
+    "mortes": 600,
+    "populacao": 1768204,
+    "taxa_por_cem_mil": 33.93
+   },
+   "2016": {
+    "mortes": 703,
+    "populacao": 1787279,
+    "taxa_por_cem_mil": 39.33
+   },
+   "2017": {
+    "mortes": 554,
+    "populacao": 1805788,
+    "taxa_por_cem_mil": 30.68
+   },
+   "2018": {
+    "mortes": 476,
+    "populacao": 1757589,
+    "taxa_por_cem_mil": 27.08
+   },
+   "2019": {
+    "mortes": 447,
+    "populacao": 1777225,
+    "taxa_por_cem_mil": 25.15
+   },
+   "2020": {
+    "mortes": 456,
+    "populacao": 1796460,
+    "taxa_por_cem_mil": 25.38
+   },
+   "2021": {
+    "mortes": 536,
+    "populacao": 1815278,
+    "taxa_por_cem_mil": 29.53
+   },
+   "2022": {
+    "mortes": 601,
+    "populacao": 1581196,
+    "taxa_por_cem_mil": 38.01
+   },
+   "2023": {
+    "mortes": 552,
+    "populacao": null,
+    "taxa_por_cem_mil": null
+   },
+   "2024": {
+    "mortes": 525,
+    "populacao": 1746227,
+    "taxa_por_cem_mil": 30.06
+   }
+  },
+  "RR": {
+   "1996": {
+    "mortes": 107,
+    "populacao": 247131,
+    "taxa_por_cem_mil": 43.3
+   },
+   "1997": {
+    "mortes": 90,
+    "populacao": 254498,
+    "taxa_por_cem_mil": 35.36
+   },
+   "1998": {
+    "mortes": 134,
+    "populacao": 260701,
+    "taxa_por_cem_mil": 51.4
+   },
+   "1999": {
+    "mortes": 154,
+    "populacao": 266914,
+    "taxa_por_cem_mil": 57.7
+   },
+   "2000": {
+    "mortes": 130,
+    "populacao": 324397,
+    "taxa_por_cem_mil": 40.07
+   },
+   "2001": {
+    "mortes": 108,
+    "populacao": 337253,
+    "taxa_por_cem_mil": 32.02
+   },
+   "2002": {
+    "mortes": 122,
+    "populacao": 346866,
+    "taxa_por_cem_mil": 35.17
+   },
+   "2003": {
+    "mortes": 106,
+    "populacao": 357296,
+    "taxa_por_cem_mil": 29.67
+   },
+   "2004": {
+    "mortes": 85,
+    "populacao": 367701,
+    "taxa_por_cem_mil": 23.12
+   },
+   "2005": {
+    "mortes": 95,
+    "populacao": 391318,
+    "taxa_por_cem_mil": 24.28
+   },
+   "2006": {
+    "mortes": 111,
+    "populacao": 403340,
+    "taxa_por_cem_mil": 27.52
+   },
+   "2007": {
+    "mortes": 116,
+    "populacao": 415281,
+    "taxa_por_cem_mil": 27.93
+   },
+   "2008": {
+    "mortes": 105,
+    "populacao": 412783,
+    "taxa_por_cem_mil": 25.44
+   },
+   "2009": {
+    "mortes": 118,
+    "populacao": 421497,
+    "taxa_por_cem_mil": 28.0
+   },
+   "2010": {
+    "mortes": 121,
+    "populacao": 450479,
+    "taxa_por_cem_mil": 26.86
+   },
+   "2011": {
+    "mortes": 95,
+    "populacao": 460165,
+    "taxa_por_cem_mil": 20.64
+   },
+   "2012": {
+    "mortes": 144,
+    "populacao": 469524,
+    "taxa_por_cem_mil": 30.67
+   },
+   "2013": {
+    "mortes": 214,
+    "populacao": 488072,
+    "taxa_por_cem_mil": 43.85
+   },
+   "2014": {
+    "mortes": 158,
+    "populacao": 496936,
+    "taxa_por_cem_mil": 31.79
+   },
+   "2015": {
+    "mortes": 203,
+    "populacao": 505665,
+    "taxa_por_cem_mil": 40.15
+   },
+   "2016": {
+    "mortes": 204,
+    "populacao": 514229,
+    "taxa_por_cem_mil": 39.67
+   },
+   "2017": {
+    "mortes": 248,
+    "populacao": 522636,
+    "taxa_por_cem_mil": 47.45
+   },
+   "2018": {
+    "mortes": 414,
+    "populacao": 576568,
+    "taxa_por_cem_mil": 71.8
+   },
+   "2019": {
+    "mortes": 234,
+    "populacao": 605761,
+    "taxa_por_cem_mil": 38.63
+   },
+   "2020": {
+    "mortes": 237,
+    "populacao": 631181,
+    "taxa_por_cem_mil": 37.55
+   },
+   "2021": {
+    "mortes": 258,
+    "populacao": 652713,
+    "taxa_por_cem_mil": 39.53
+   },
+   "2022": {
+    "mortes": 231,
+    "populacao": 636707,
+    "taxa_por_cem_mil": 36.28
+   },
+   "2023": {
+    "mortes": 219,
+    "populacao": null,
+    "taxa_por_cem_mil": null
+   },
+   "2024": {
+    "mortes": 174,
+    "populacao": 716793,
+    "taxa_por_cem_mil": 24.27
+   }
+  },
+  "RS": {
+   "1996": {
+    "mortes": 1482,
+    "populacao": 9634688,
+    "taxa_por_cem_mil": 15.38
+   },
+   "1997": {
+    "mortes": 1648,
+    "populacao": 9762115,
+    "taxa_por_cem_mil": 16.88
+   },
+   "1998": {
+    "mortes": 1524,
+    "populacao": 9867088,
+    "taxa_por_cem_mil": 15.45
+   },
+   "1999": {
+    "mortes": 1533,
+    "populacao": 9971738,
+    "taxa_por_cem_mil": 15.37
+   },
+   "2000": {
+    "mortes": 1668,
+    "populacao": 10187798,
+    "taxa_por_cem_mil": 16.37
+   },
+   "2001": {
+    "mortes": 1854,
+    "populacao": 10310021,
+    "taxa_por_cem_mil": 17.98
+   },
+   "2002": {
+    "mortes": 1912,
+    "populacao": 10408428,
+    "taxa_por_cem_mil": 18.37
+   },
+   "2003": {
+    "mortes": 1908,
+    "populacao": 10511009,
+    "taxa_por_cem_mil": 18.15
+   },
+   "2004": {
+    "mortes": 1982,
+    "populacao": 10613256,
+    "taxa_por_cem_mil": 18.67
+   },
+   "2005": {
+    "mortes": 2021,
+    "populacao": 10845002,
+    "taxa_por_cem_mil": 18.64
+   },
+   "2006": {
+    "mortes": 1983,
+    "populacao": 10963216,
+    "taxa_por_cem_mil": 18.09
+   },
+   "2007": {
+    "mortes": 2199,
+    "populacao": 11080317,
+    "taxa_por_cem_mil": 19.85
+   },
+   "2008": {
+    "mortes": 2380,
+    "populacao": 10855214,
+    "taxa_por_cem_mil": 21.92
+   },
+   "2009": {
+    "mortes": 2242,
+    "populacao": 10914042,
+    "taxa_por_cem_mil": 20.54
+   },
+   "2010": {
+    "mortes": 2085,
+    "populacao": 10693929,
+    "taxa_por_cem_mil": 19.5
+   },
+   "2011": {
+    "mortes": 2077,
+    "populacao": 10733030,
+    "taxa_por_cem_mil": 19.35
+   },
+   "2012": {
+    "mortes": 2382,
+    "populacao": 10770603,
+    "taxa_por_cem_mil": 22.12
+   },
+   "2013": {
+    "mortes": 2322,
+    "populacao": 11164043,
+    "taxa_por_cem_mil": 20.8
+   },
+   "2014": {
+    "mortes": 2724,
+    "populacao": 11207274,
+    "taxa_por_cem_mil": 24.31
+   },
+   "2015": {
+    "mortes": 2944,
+    "populacao": 11247972,
+    "taxa_por_cem_mil": 26.17
+   },
+   "2016": {
+    "mortes": 3225,
+    "populacao": 11286500,
+    "taxa_por_cem_mil": 28.57
+   },
+   "2017": {
+    "mortes": 3316,
+    "populacao": 11322895,
+    "taxa_por_cem_mil": 29.29
+   },
+   "2018": {
+    "mortes": 2699,
+    "populacao": 11329605,
+    "taxa_por_cem_mil": 23.82
+   },
+   "2019": {
+    "mortes": 2184,
+    "populacao": 11377239,
+    "taxa_por_cem_mil": 19.2
+   },
+   "2020": {
+    "mortes": 2094,
+    "populacao": 11422973,
+    "taxa_por_cem_mil": 18.33
+   },
+   "2021": {
+    "mortes": 1889,
+    "populacao": 11466630,
+    "taxa_por_cem_mil": 16.47
+   },
+   "2022": {
+    "mortes": 1964,
+    "populacao": 10882965,
+    "taxa_por_cem_mil": 18.05
+   },
+   "2023": {
+    "mortes": 1981,
+    "populacao": null,
+    "taxa_por_cem_mil": null
+   },
+   "2024": {
+    "mortes": 1701,
+    "populacao": 11229915,
+    "taxa_por_cem_mil": 15.15
+   }
+  },
+  "SC": {
+   "1996": {
+    "mortes": 412,
+    "populacao": 4875244,
+    "taxa_por_cem_mil": 8.45
+   },
+   "1997": {
+    "mortes": 423,
+    "populacao": 4958310,
+    "taxa_por_cem_mil": 8.53
+   },
+   "1998": {
+    "mortes": 414,
+    "populacao": 5028265,
+    "taxa_por_cem_mil": 8.23
+   },
+   "1999": {
+    "mortes": 385,
+    "populacao": 5098440,
+    "taxa_por_cem_mil": 7.55
+   },
+   "2000": {
+    "mortes": 433,
+    "populacao": 5356360,
+    "taxa_por_cem_mil": 8.08
+   },
+   "2001": {
+    "mortes": 477,
+    "populacao": 5448702,
+    "taxa_por_cem_mil": 8.75
+   },
+   "2002": {
+    "mortes": 585,
+    "populacao": 5527718,
+    "taxa_por_cem_mil": 10.58
+   },
+   "2003": {
+    "mortes": 670,
+    "populacao": 5607160,
+    "taxa_por_cem_mil": 11.95
+   },
+   "2004": {
+    "mortes": 638,
+    "populacao": 5686503,
+    "taxa_por_cem_mil": 11.22
+   },
+   "2005": {
+    "mortes": 633,
+    "populacao": 5866590,
+    "taxa_por_cem_mil": 10.79
+   },
+   "2006": {
+    "mortes": 666,
+    "populacao": 5958295,
+    "taxa_por_cem_mil": 11.18
+   },
+   "2007": {
+    "mortes": 632,
+    "populacao": 6049251,
+    "taxa_por_cem_mil": 10.45
+   },
+   "2008": {
+    "mortes": 802,
+    "populacao": 6052587,
+    "taxa_por_cem_mil": 13.25
+   },
+   "2009": {
+    "mortes": 820,
+    "populacao": 6118727,
+    "taxa_por_cem_mil": 13.4
+   },
+   "2010": {
+    "mortes": 823,
+    "populacao": 6248436,
+    "taxa_por_cem_mil": 13.17
+   },
+   "2011": {
+    "mortes": 811,
+    "populacao": 6317054,
+    "taxa_por_cem_mil": 12.84
+   },
+   "2012": {
+    "mortes": 821,
+    "populacao": 6383286,
+    "taxa_por_cem_mil": 12.86
+   },
+   "2013": {
+    "mortes": 789,
+    "populacao": 6634254,
+    "taxa_por_cem_mil": 11.89
+   },
+   "2014": {
+    "mortes": 905,
+    "populacao": 6727148,
+    "taxa_por_cem_mil": 13.45
+   },
+   "2015": {
+    "mortes": 957,
+    "populacao": 6819190,
+    "taxa_por_cem_mil": 14.03
+   },
+   "2016": {
+    "mortes": 984,
+    "populacao": 6910553,
+    "taxa_por_cem_mil": 14.24
+   },
+   "2017": {
+    "mortes": 1066,
+    "populacao": 7001161,
+    "taxa_por_cem_mil": 15.23
+   },
+   "2018": {
+    "mortes": 843,
+    "populacao": 7075494,
+    "taxa_por_cem_mil": 11.91
+   },
+   "2019": {
+    "mortes": 767,
+    "populacao": 7164788,
+    "taxa_por_cem_mil": 10.71
+   },
+   "2020": {
+    "mortes": 732,
+    "populacao": 7252502,
+    "taxa_por_cem_mil": 10.09
+   },
+   "2021": {
+    "mortes": 712,
+    "populacao": 7338473,
+    "taxa_por_cem_mil": 9.7
+   },
+   "2022": {
+    "mortes": 671,
+    "populacao": 7610361,
+    "taxa_por_cem_mil": 8.82
+   },
+   "2023": {
+    "mortes": 658,
+    "populacao": null,
+    "taxa_por_cem_mil": null
+   },
+   "2024": {
+    "mortes": 654,
+    "populacao": 8058441,
+    "taxa_por_cem_mil": 8.12
+   }
+  },
+  "SE": {
+   "1996": {
+    "mortes": 238,
+    "populacao": 1624020,
+    "taxa_por_cem_mil": 14.65
+   },
+   "1997": {
+    "mortes": 190,
+    "populacao": 1657162,
+    "taxa_por_cem_mil": 11.47
+   },
+   "1998": {
+    "mortes": 175,
+    "populacao": 1684915,
+    "taxa_por_cem_mil": 10.39
+   },
+   "1999": {
+    "mortes": 329,
+    "populacao": 1712745,
+    "taxa_por_cem_mil": 19.21
+   },
+   "2000": {
+    "mortes": 410,
+    "populacao": 1784475,
+    "taxa_por_cem_mil": 22.98
+   },
+   "2001": {
+    "mortes": 518,
+    "populacao": 1817318,
+    "taxa_por_cem_mil": 28.5
+   },
+   "2002": {
+    "mortes": 556,
+    "populacao": 1846042,
+    "taxa_por_cem_mil": 30.12
+   },
+   "2003": {
+    "mortes": 469,
+    "populacao": 1874597,
+    "taxa_por_cem_mil": 25.02
+   },
+   "2004": {
+    "mortes": 454,
+    "populacao": 1903065,
+    "taxa_por_cem_mil": 23.86
+   },
+   "2005": {
+    "mortes": 487,
+    "populacao": 1967818,
+    "taxa_por_cem_mil": 24.75
+   },
+   "2006": {
+    "mortes": 585,
+    "populacao": 2000768,
+    "taxa_por_cem_mil": 29.24
+   },
+   "2007": {
+    "mortes": 522,
+    "populacao": 2033430,
+    "taxa_por_cem_mil": 25.67
+   },
+   "2008": {
+    "mortes": 555,
+    "populacao": 1999374,
+    "taxa_por_cem_mil": 27.76
+   },
+   "2009": {
+    "mortes": 653,
+    "populacao": 2019755,
+    "taxa_por_cem_mil": 32.33
+   },
+   "2010": {
+    "mortes": 676,
+    "populacao": 2068017,
+    "taxa_por_cem_mil": 32.69
+   },
+   "2011": {
+    "mortes": 731,
+    "populacao": 2089819,
+    "taxa_por_cem_mil": 34.98
+   },
+   "2012": {
+    "mortes": 879,
+    "populacao": 2110867,
+    "taxa_por_cem_mil": 41.64
+   },
+   "2013": {
+    "mortes": 965,
+    "populacao": 2195662,
+    "taxa_por_cem_mil": 43.95
+   },
+   "2014": {
+    "mortes": 1097,
+    "populacao": 2219574,
+    "taxa_por_cem_mil": 49.42
+   },
+   "2015": {
+    "mortes": 1303,
+    "populacao": 2242937,
+    "taxa_por_cem_mil": 58.09
+   },
+   "2016": {
+    "mortes": 1465,
+    "populacao": 2265779,
+    "taxa_por_cem_mil": 64.66
+   },
+   "2017": {
+    "mortes": 1313,
+    "populacao": 2288116,
+    "taxa_por_cem_mil": 57.38
+   },
+   "2018": {
+    "mortes": 1133,
+    "populacao": 2278308,
+    "taxa_por_cem_mil": 49.73
+   },
+   "2019": {
+    "mortes": 973,
+    "populacao": 2298696,
+    "taxa_por_cem_mil": 42.33
+   },
+   "2020": {
+    "mortes": 981,
+    "populacao": 2318822,
+    "taxa_por_cem_mil": 42.31
+   },
+   "2021": {
+    "mortes": 790,
+    "populacao": 2338474,
+    "taxa_por_cem_mil": 33.78
+   },
+   "2022": {
+    "mortes": 770,
+    "populacao": 2210004,
+    "taxa_por_cem_mil": 34.84
+   },
+   "2023": {
+    "mortes": 698,
+    "populacao": null,
+    "taxa_por_cem_mil": null
+   },
+   "2024": {
+    "mortes": 526,
+    "populacao": 2291077,
+    "taxa_por_cem_mil": 22.96
+   }
+  },
+  "SP": {
+   "1996": {
+    "mortes": 12320,
+    "populacao": 34119110,
+    "taxa_por_cem_mil": 36.11
+   },
+   "1997": {
+    "mortes": 12537,
+    "populacao": 34752122,
+    "taxa_por_cem_mil": 36.08
+   },
+   "1998": {
+    "mortes": 13986,
+    "populacao": 35283992,
+    "taxa_por_cem_mil": 39.64
+   },
+   "1999": {
+    "mortes": 15763,
+    "populacao": 35816704,
+    "taxa_por_cem_mil": 44.01
+   },
+   "2000": {
+    "mortes": 15591,
+    "populacao": 37032403,
+    "taxa_por_cem_mil": 42.1
+   },
+   "2001": {
+    "mortes": 15773,
+    "populacao": 37630105,
+    "taxa_por_cem_mil": 41.92
+   },
+   "2002": {
+    "mortes": 14526,
+    "populacao": 38177734,
+    "taxa_por_cem_mil": 38.05
+   },
+   "2003": {
+    "mortes": 14048,
+    "populacao": 38709339,
+    "taxa_por_cem_mil": 36.29
+   },
+   "2004": {
+    "mortes": 11336,
+    "populacao": 39239362,
+    "taxa_por_cem_mil": 28.89
+   },
+   "2005": {
+    "mortes": 8870,
+    "populacao": 40442820,
+    "taxa_por_cem_mil": 21.93
+   },
+   "2006": {
+    "mortes": 8377,
+    "populacao": 41055761,
+    "taxa_por_cem_mil": 20.4
+   },
+   "2007": {
+    "mortes": 6437,
+    "populacao": 41663568,
+    "taxa_por_cem_mil": 15.45
+   },
+   "2008": {
+    "mortes": 6332,
+    "populacao": 41011635,
+    "taxa_por_cem_mil": 15.44
+   },
+   "2009": {
+    "mortes": 6557,
+    "populacao": 41384089,
+    "taxa_por_cem_mil": 15.84
+   },
+   "2010": {
+    "mortes": 6039,
+    "populacao": 41262199,
+    "taxa_por_cem_mil": 14.64
+   },
+   "2011": {
+    "mortes": 5842,
+    "populacao": 41587182,
+    "taxa_por_cem_mil": 14.05
+   },
+   "2012": {
+    "mortes": 6566,
+    "populacao": 41901219,
+    "taxa_por_cem_mil": 15.67
+   },
+   "2013": {
+    "mortes": 6035,
+    "populacao": 43663669,
+    "taxa_por_cem_mil": 13.82
+   },
+   "2014": {
+    "mortes": 6185,
+    "populacao": 44035304,
+    "taxa_por_cem_mil": 14.05
+   },
+   "2015": {
+    "mortes": 5427,
+    "populacao": 44396484,
+    "taxa_por_cem_mil": 12.22
+   },
+   "2016": {
+    "mortes": 4870,
+    "populacao": 44749699,
+    "taxa_por_cem_mil": 10.88
+   },
+   "2017": {
+    "mortes": 4631,
+    "populacao": 45094866,
+    "taxa_por_cem_mil": 10.27
+   },
+   "2018": {
+    "mortes": 3727,
+    "populacao": 45538936,
+    "taxa_por_cem_mil": 8.18
+   },
+   "2019": {
+    "mortes": 3361,
+    "populacao": 45919049,
+    "taxa_por_cem_mil": 7.32
+   },
+   "2020": {
+    "mortes": 3396,
+    "populacao": 46289333,
+    "taxa_por_cem_mil": 7.34
+   },
+   "2021": {
+    "mortes": 3094,
+    "populacao": 46649132,
+    "taxa_por_cem_mil": 6.63
+   },
+   "2022": {
+    "mortes": 3212,
+    "populacao": 44411238,
+    "taxa_por_cem_mil": 7.23
+   },
+   "2023": {
+    "mortes": 3043,
+    "populacao": null,
+    "taxa_por_cem_mil": null
+   },
+   "2024": {
+    "mortes": 3041,
+    "populacao": 45973194,
+    "taxa_por_cem_mil": 6.61
+   }
+  },
+  "TO": {
+   "1996": {
+    "mortes": 126,
+    "populacao": 1048642,
+    "taxa_por_cem_mil": 12.02
+   },
+   "1997": {
+    "mortes": 112,
+    "populacao": 1080749,
+    "taxa_por_cem_mil": 10.36
+   },
+   "1998": {
+    "mortes": 129,
+    "populacao": 1107806,
+    "taxa_por_cem_mil": 11.64
+   },
+   "1999": {
+    "mortes": 137,
+    "populacao": 1134879,
+    "taxa_por_cem_mil": 12.07
+   },
+   "2000": {
+    "mortes": 176,
+    "populacao": 1157098,
+    "taxa_por_cem_mil": 15.21
+   },
+   "2001": {
+    "mortes": 212,
+    "populacao": 1184855,
+    "taxa_por_cem_mil": 17.89
+   },
+   "2002": {
+    "mortes": 170,
+    "populacao": 1207008,
+    "taxa_por_cem_mil": 14.08
+   },
+   "2003": {
+    "mortes": 204,
+    "populacao": 1230188,
+    "taxa_por_cem_mil": 16.58
+   },
+   "2004": {
+    "mortes": 198,
+    "populacao": 1253256,
+    "taxa_por_cem_mil": 15.8
+   },
+   "2005": {
+    "mortes": 190,
+    "populacao": 1305708,
+    "taxa_por_cem_mil": 14.55
+   },
+   "2006": {
+    "mortes": 229,
+    "populacao": 1332443,
+    "taxa_por_cem_mil": 17.19
+   },
+   "2007": {
+    "mortes": 226,
+    "populacao": 1358889,
+    "taxa_por_cem_mil": 16.63
+   },
+   "2008": {
+    "mortes": 237,
+    "populacao": 1280509,
+    "taxa_por_cem_mil": 18.51
+   },
+   "2009": {
+    "mortes": 289,
+    "populacao": 1292063,
+    "taxa_por_cem_mil": 22.37
+   },
+   "2010": {
+    "mortes": 327,
+    "populacao": 1383445,
+    "taxa_por_cem_mil": 23.64
+   },
+   "2011": {
+    "mortes": 361,
+    "populacao": 1400892,
+    "taxa_por_cem_mil": 25.77
+   },
+   "2012": {
+    "mortes": 379,
+    "populacao": 1417694,
+    "taxa_por_cem_mil": 26.73
+   },
+   "2013": {
+    "mortes": 349,
+    "populacao": 1478164,
+    "taxa_por_cem_mil": 23.61
+   },
+   "2014": {
+    "mortes": 381,
+    "populacao": 1496880,
+    "taxa_por_cem_mil": 25.45
+   },
+   "2015": {
+    "mortes": 503,
+    "populacao": 1515126,
+    "taxa_por_cem_mil": 33.2
+   },
+   "2016": {
+    "mortes": 577,
+    "populacao": 1532902,
+    "taxa_por_cem_mil": 37.64
+   },
+   "2017": {
+    "mortes": 557,
+    "populacao": 1550194,
+    "taxa_por_cem_mil": 35.93
+   },
+   "2018": {
+    "mortes": 570,
+    "populacao": 1555229,
+    "taxa_por_cem_mil": 36.65
+   },
+   "2019": {
+    "mortes": 456,
+    "populacao": 1572866,
+    "taxa_por_cem_mil": 28.99
+   },
+   "2020": {
+    "mortes": 484,
+    "populacao": 1590248,
+    "taxa_por_cem_mil": 30.44
+   },
+   "2021": {
+    "mortes": 441,
+    "populacao": 1607363,
+    "taxa_por_cem_mil": 27.44
+   },
+   "2022": {
+    "mortes": 454,
+    "populacao": 1511460,
+    "taxa_por_cem_mil": 30.04
+   },
+   "2023": {
+    "mortes": 419,
+    "populacao": null,
+    "taxa_por_cem_mil": null
+   },
+   "2024": {
+    "mortes": 309,
+    "populacao": 1577342,
+    "taxa_por_cem_mil": 19.59
+   }
+  }
+ },
+ "serie_por_uf_cid9_1979_a_1995": {
+  "AC": {
+   "1979": 34,
+   "1980": 26,
+   "1981": 28,
+   "1982": 41,
+   "1983": 33,
+   "1984": 36,
+   "1985": 51,
+   "1986": 62,
+   "1987": 98,
+   "1988": 76,
+   "1989": 95,
+   "1990": 64,
+   "1991": 106,
+   "1992": 107,
+   "1993": 116,
+   "1994": 88,
+   "1995": 103
+  },
+  "AL": {
+   "1979": 268,
+   "1980": 280,
+   "1981": 392,
+   "1982": 430,
+   "1983": 558,
+   "1984": 543,
+   "1985": 512,
+   "1986": 564,
+   "1987": 536,
+   "1988": 720,
+   "1989": 804,
+   "1990": 719,
+   "1991": 665,
+   "1992": 591,
+   "1993": 619,
+   "1994": 613,
+   "1995": 737
+  },
+  "AM": {
+   "1979": 142,
+   "1980": 138,
+   "1981": 136,
+   "1982": 156,
+   "1983": 151,
+   "1984": 209,
+   "1985": 184,
+   "1986": 159,
+   "1987": 184,
+   "1988": 228,
+   "1989": 321,
+   "1990": 367,
+   "1991": 403,
+   "1992": 351,
+   "1993": 350,
+   "1994": 383,
+   "1995": 424
+  },
+  "AP": {
+   "1979": 15,
+   "1980": 7,
+   "1981": 15,
+   "1982": 23,
+   "1983": 28,
+   "1984": 25,
+   "1985": 34,
+   "1986": 30,
+   "1987": 25,
+   "1988": 20,
+   "1989": 39,
+   "1990": 45,
+   "1991": 53,
+   "1992": 73,
+   "1993": 66,
+   "1994": 124,
+   "1995": 124
+  },
+  "BA": {
+   "1979": 319,
+   "1980": 319,
+   "1981": 310,
+   "1982": 491,
+   "1983": 372,
+   "1984": 512,
+   "1985": 540,
+   "1986": 547,
+   "1987": 672,
+   "1988": 832,
+   "1989": 1086,
+   "1990": 867,
+   "1991": 596,
+   "1992": 840,
+   "1993": 1502,
+   "1994": 1739,
+   "1995": 1536
+  },
+  "CE": {
+   "1979": 317,
+   "1980": 445,
+   "1981": 496,
+   "1982": 495,
+   "1983": 614,
+   "1984": 593,
+   "1985": 549,
+   "1986": 521,
+   "1987": 435,
+   "1988": 507,
+   "1989": 607,
+   "1990": 555,
+   "1991": 607,
+   "1992": 537,
+   "1993": 702,
+   "1994": 636,
+   "1995": 845
+  },
+  "DF": {
+   "1979": 122,
+   "1980": 145,
+   "1981": 168,
+   "1982": 197,
+   "1983": 181,
+   "1984": 165,
+   "1985": 250,
+   "1986": 246,
+   "1987": 324,
+   "1988": 310,
+   "1989": 331,
+   "1990": 463,
+   "1991": 489,
+   "1992": 424,
+   "1993": 553,
+   "1994": 556,
+   "1995": 629
+  },
+  "ES": {
+   "1979": 260,
+   "1980": 305,
+   "1981": 355,
+   "1982": 354,
+   "1983": 365,
+   "1984": 402,
+   "1985": 455,
+   "1986": 483,
+   "1987": 537,
+   "1988": 677,
+   "1989": 844,
+   "1990": 881,
+   "1991": 968,
+   "1992": 839,
+   "1993": 1097,
+   "1994": 1165,
+   "1995": 1153
+  },
+  "GO": {
+   "1979": 360,
+   "1980": 469,
+   "1981": 599,
+   "1982": 602,
+   "1983": 603,
+   "1984": 561,
+   "1985": 523,
+   "1986": 561,
+   "1987": 643,
+   "1988": 790,
+   "1989": 810,
+   "1990": 681,
+   "1991": 852,
+   "1992": 828,
+   "1993": 734,
+   "1994": 773,
+   "1995": 784
+  },
+  "MA": {
+   "1979": 88,
+   "1980": 108,
+   "1981": 145,
+   "1982": 146,
+   "1983": 164,
+   "1984": 184,
+   "1985": 162,
+   "1986": 259,
+   "1987": 288,
+   "1988": 341,
+   "1989": 411,
+   "1990": 442,
+   "1991": 470,
+   "1992": 427,
+   "1993": 394,
+   "1994": 313,
+   "1995": 385
+  },
+  "MG": {
+   "1979": 1094,
+   "1980": 1164,
+   "1981": 1108,
+   "1982": 1104,
+   "1983": 1008,
+   "1984": 1128,
+   "1985": 1028,
+   "1986": 1046,
+   "1987": 1021,
+   "1988": 1028,
+   "1989": 1216,
+   "1990": 1177,
+   "1991": 1232,
+   "1992": 1131,
+   "1993": 1211,
+   "1994": 1117,
+   "1995": 1214
+  },
+  "MS": {
+   "1979": 135,
+   "1980": 223,
+   "1981": 251,
+   "1982": 271,
+   "1983": 303,
+   "1984": 340,
+   "1985": 253,
+   "1986": 288,
+   "1987": 313,
+   "1988": 319,
+   "1989": 371,
+   "1990": 348,
+   "1991": 388,
+   "1992": 422,
+   "1993": 457,
+   "1994": 522,
+   "1995": 635
+  },
+  "MT": {
+   "1979": 10,
+   "1980": 38,
+   "1981": 77,
+   "1982": 65,
+   "1983": 143,
+   "1984": 194,
+   "1985": 270,
+   "1986": 357,
+   "1987": 382,
+   "1988": 377,
+   "1989": 471,
+   "1990": 415,
+   "1991": 452,
+   "1992": 355,
+   "1993": 356,
+   "1994": 316,
+   "1995": 583
+  },
+  "PA": {
+   "1979": 262,
+   "1980": 304,
+   "1981": 337,
+   "1982": 362,
+   "1983": 459,
+   "1984": 522,
+   "1985": 507,
+   "1986": 582,
+   "1987": 544,
+   "1988": 589,
+   "1989": 666,
+   "1990": 748,
+   "1991": 810,
+   "1992": 759,
+   "1993": 623,
+   "1994": 714,
+   "1995": 700
+  },
+  "PB": {
+   "1979": 211,
+   "1980": 302,
+   "1981": 341,
+   "1982": 328,
+   "1983": 360,
+   "1984": 386,
+   "1985": 380,
+   "1986": 475,
+   "1987": 377,
+   "1988": 402,
+   "1989": 461,
+   "1990": 440,
+   "1991": 401,
+   "1992": 355,
+   "1993": 365,
+   "1994": 385,
+   "1995": 457
+  },
+  "PE": {
+   "1979": 945,
+   "1980": 1121,
+   "1981": 1407,
+   "1982": 1509,
+   "1983": 1646,
+   "1984": 1857,
+   "1985": 2011,
+   "1986": 2043,
+   "1987": 2187,
+   "1988": 2252,
+   "1989": 2553,
+   "1990": 2741,
+   "1991": 2944,
+   "1992": 2531,
+   "1993": 2763,
+   "1994": 2593,
+   "1995": 2706
+  },
+  "PI": {
+   "1979": 30,
+   "1980": 50,
+   "1981": 74,
+   "1982": 111,
+   "1983": 125,
+   "1984": 94,
+   "1985": 76,
+   "1986": 103,
+   "1987": 82,
+   "1988": 141,
+   "1989": 142,
+   "1990": 109,
+   "1991": 103,
+   "1992": 92,
+   "1993": 117,
+   "1994": 98,
+   "1995": 114
+  },
+  "PR": {
+   "1979": 804,
+   "1980": 831,
+   "1981": 928,
+   "1982": 1076,
+   "1983": 1153,
+   "1984": 1066,
+   "1985": 921,
+   "1986": 931,
+   "1987": 922,
+   "1988": 1004,
+   "1989": 1112,
+   "1990": 1167,
+   "1991": 1225,
+   "1992": 1090,
+   "1993": 1237,
+   "1994": 1257,
+   "1995": 1384
+  },
+  "RJ": {
+   "1979": 2426,
+   "1980": 2941,
+   "1981": 2501,
+   "1982": 2180,
+   "1983": 1863,
+   "1984": 2468,
+   "1985": 2541,
+   "1986": 2454,
+   "1987": 3792,
+   "1988": 3064,
+   "1989": 4290,
+   "1990": 7099,
+   "1991": 5055,
+   "1992": 4534,
+   "1993": 5367,
+   "1994": 6417,
+   "1995": 8216
+  },
+  "RN": {
+   "1979": 96,
+   "1980": 163,
+   "1981": 171,
+   "1982": 201,
+   "1983": 174,
+   "1984": 136,
+   "1985": 134,
+   "1986": 104,
+   "1987": 149,
+   "1988": 194,
+   "1989": 236,
+   "1990": 200,
+   "1991": 219,
+   "1992": 199,
+   "1993": 243,
+   "1994": 211,
+   "1995": 247
+  },
+  "RO": {
+   "1979": 90,
+   "1980": 118,
+   "1981": 128,
+   "1982": 121,
+   "1983": 142,
+   "1984": 207,
+   "1985": 319,
+   "1986": 371,
+   "1987": 428,
+   "1988": 432,
+   "1989": 490,
+   "1990": 555,
+   "1991": 491,
+   "1992": 395,
+   "1993": 498,
+   "1994": 398,
+   "1995": 330
+  },
+  "RR": {
+   "1979": 8,
+   "1980": 11,
+   "1981": 16,
+   "1982": 29,
+   "1983": 20,
+   "1984": 17,
+   "1985": 12,
+   "1986": 13,
+   "1987": 7,
+   "1988": 70,
+   "1989": 113,
+   "1990": 127,
+   "1991": 79,
+   "1992": 95,
+   "1993": 69,
+   "1994": 78,
+   "1995": 87
+  },
+  "RS": {
+   "1979": 539,
+   "1980": 633,
+   "1981": 664,
+   "1982": 689,
+   "1983": 663,
+   "1984": 686,
+   "1985": 681,
+   "1986": 770,
+   "1987": 822,
+   "1988": 1100,
+   "1989": 1556,
+   "1990": 1689,
+   "1991": 1694,
+   "1992": 1565,
+   "1993": 1177,
+   "1994": 1334,
+   "1995": 1437
+  },
+  "SC": {
+   "1979": 180,
+   "1980": 241,
+   "1981": 271,
+   "1982": 266,
+   "1983": 317,
+   "1984": 295,
+   "1985": 263,
+   "1986": 239,
+   "1987": 307,
+   "1988": 320,
+   "1989": 352,
+   "1990": 382,
+   "1991": 355,
+   "1992": 357,
+   "1993": 365,
+   "1994": 340,
+   "1995": 412
+  },
+  "SE": {
+   "1979": 55,
+   "1980": 82,
+   "1981": 100,
+   "1982": 120,
+   "1983": 106,
+   "1984": 61,
+   "1985": 64,
+   "1986": 77,
+   "1987": 68,
+   "1988": 68,
+   "1989": 139,
+   "1990": 151,
+   "1991": 317,
+   "1992": 461,
+   "1993": 312,
+   "1994": 343,
+   "1995": 255
+  },
+  "SP": {
+   "1979": 2384,
+   "1980": 3446,
+   "1981": 4195,
+   "1982": 4183,
+   "1983": 5857,
+   "1984": 7080,
+   "1985": 7027,
+   "1986": 7196,
+   "1987": 7944,
+   "1988": 7496,
+   "1989": 9178,
+   "1990": 9503,
+   "1991": 9685,
+   "1992": 9011,
+   "1993": 9224,
+   "1994": 9981,
+   "1995": 11555
+  },
+  "TO": {
+   "1979": null,
+   "1980": null,
+   "1981": null,
+   "1982": null,
+   "1983": null,
+   "1984": null,
+   "1985": null,
+   "1986": null,
+   "1987": null,
+   "1988": null,
+   "1989": 63,
+   "1990": 54,
+   "1991": 91,
+   "1992": 66,
+   "1993": 93,
+   "1994": 109,
+   "1995": 77
+  }
+ },
+ "o_que_isto_NAO_diz": [
+  "a CID-9, de 1979 a 1995, sai em série própria e NÃO foi emendada à CID-10: a classificação da causa de morte muda em 1996",
+  "o Tocantins só é separado de Goiás a partir de 1989, no próprio SIM",
+  "o mapa é descritivo: nenhuma Unidade da Federação é comparada a outra por teste",
+  "morte registrada no SIM é óbito por agressão, e não tipo penal: ela não distingue homicídio doloso de latrocínio nem de lesão seguida de morte"
+ ]
+}

@@ -1,0 +1,13 @@
+o_que_e;url;http;bytes;tipo_de_conteudo;situacao;motivo;ocorrencias_de_sinesp;ocorrencias_de_2004;ocorrencias_de_ocorrencia;ocorrencias_de_csv;ocorrencias_de_xlsx
+dados.gov.br, busca CKAN por sinesp;https://dados.gov.br/api/3/action/package_search?q=sinesp&rows=100;401;0;;RESPONDEU SEM CORPO UTIL;;;;;;
+dados.gov.br, busca CKAN por seguranca publica;https://dados.gov.br/api/3/action/package_search?q=estatisticas+seguranca+publica&rows=100;401;0;;RESPONDEU SEM CORPO UTIL;;;;;;
+dados.mj.gov.br, busca CKAN por sinesp;https://dados.mj.gov.br/api/3/action/package_search?q=sinesp&rows=100;;;;NAO RESPONDEU;DNSError: Failed to perform, curl: (6) Could not resolve host: dados.mj.gov.br. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.;;;;;
+dados.mj.gov.br, lista de conjuntos;https://dados.mj.gov.br/api/3/action/package_list;;;;NAO RESPONDEU;DNSError: Failed to perform, curl: (6) Could not resolve host: dados.mj.gov.br. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.;;;;;
+gov.br do MJ, pagina de estatistica da seguranca publica;https://www.gov.br/mj/pt-br/assuntos/sua-seguranca/seguranca-publica/estatistica;200;175634;"text/html;charset=utf-8";RESPONDEU;;25;1;0;0;6
+gov.br do MJ, dados nacionais de seguranca publica;https://www.gov.br/mj/pt-br/assuntos/sua-seguranca/seguranca-publica/estatistica/dados-nacionais-1;200;55291;"text/html;charset=utf-8";RESPONDEU;;0;0;0;0;0
+Sinesp, portal de dados abertos;https://dadosabertos.mj.gov.br/;;;;NAO RESPONDEU;DNSError: Failed to perform, curl: (6) Could not resolve host: dadosabertos.mj.gov.br. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.;;;;;
+gov.br do MJ, pagina do proprio Sinesp;https://www.gov.br/mj/pt-br/assuntos/sua-seguranca/seguranca-publica/sinesp-1;200;183293;"text/html;charset=utf-8";RESPONDEU;;50;0;0;0;6
+gov.br do MJ, base de dados do Sinesp VDE de 2022 e 2023;https://www.gov.br/mj/pt-br/assuntos/sua-seguranca/seguranca-publica/estatistica/dados-nacionais-1/base-de-dados-e-notas-metodologicas-dos-gestores-estaduais-sinesp-vde-2022-e-2023;200;243088;"text/html;charset=utf-8";RESPONDEU;;131;1;0;0;18
+portal nacional, API publica de conjuntos por nome;https://dados.gov.br/api/publico/conjuntos-dados?nomeConjuntoDados=sinesp;401;0;;RESPONDEU SEM CORPO UTIL;;;;;;
+portal nacional, API publica de conjuntos por tema seguranca;https://dados.gov.br/api/publico/conjuntos-dados?isPrivado=false&nomeConjuntoDados=seguranca%20publica;401;0;;RESPONDEU SEM CORPO UTIL;;;;;;
+dados abertos do MJ, pagina no gov.br;https://www.gov.br/mj/pt-br/acesso-a-informacao/dados-abertos;200;173901;"text/html;charset=utf-8";RESPONDEU;;6;0;1;0;6

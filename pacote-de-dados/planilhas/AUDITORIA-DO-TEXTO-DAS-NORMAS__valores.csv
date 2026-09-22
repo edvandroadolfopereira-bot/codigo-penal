@@ -1,0 +1,19 @@
+chave;valor
+gerado_em;2026-08-29
+alvo;115
+por_situacao.CURTA;14
+por_situacao.OK;101
+criterio_curta_caracteres;1500
+o_que_este_auditor_NAO_diz;que o texto esteja correto em cada palavra. Ele confere presenca de numero e de data e mede tamanho. Conferencia de teor exige leitura.
+leitura_humana_das_curtas.feita_em;29/08/2026 12:28:39
+leitura_humana_das_curtas.quantas;14
+leitura_humana_das_curtas.veredito;TODAS legitimamente curtas. Nenhuma e pagina truncada.
+leitura_humana_das_curtas.como_se_conferiu;lida a ementa de cada uma no proprio corpo colhido, e confrontada com o numero de dispositivos que o texto compilado do Planalto declara para aquela norma. As catorze alteram UM artigo ou paragrafo do Codigo Penal, e por isso sao curtas por natureza e nao por corte.
+leitura_humana_das_curtas.exemplos_do_que_se_leu;"[""LEI 9281/1996, 917 caracteres: Revoga os paragrafos unicos dos arts. 213 e 214"", ""LEI 15229/2025, 868 caracteres: preve que o estelionato contra pessoa com deficiencia procede-se mediante acao penal publica incondicionada"", ""LEI 6898/1981, 1269 caracteres: Altera o art. 242""]"
+leitura_humana_das_curtas.o_que_isto_NAO_diz;que o teor esteja correto em cada palavra. Diz que o tamanho pequeno tem causa conhecida e legitima.
+veredito_final.alvo;115
+veredito_final.com_texto;115
+veredito_final.faltam;0
+veredito_final.nao_conferem;0
+veredito_final.curtas_e_legitimas;14
+veredito_final.em_ordem_sem_ressalva;101

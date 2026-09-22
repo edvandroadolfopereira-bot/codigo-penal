@@ -1,0 +1,4 @@
+especificacao;n;pearson;ic95_pearson;p_pearson_permutacao;spearman;p_spearman_permutacao
+nivel, com tendencia;14;-0.356;[-0.746, 0.215];0.212;-0.402;0.154
+primeira diferenca, sem tendencia;13;-0.104;[-0.619, 0.475];0.737;-0.229;0.448
+primeira diferenca com defasagem de um ano;12;0.277;[-0.353, 0.734];0.348;0.13;0.687

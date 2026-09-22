@@ -1,0 +1,61 @@
+{
+  "gerado_em": "2026-08-29",
+  "entrada": "C:\\Users\\edvan\\_projeto-extensao-codigo-penal-24-08-2026\\analise-cientifica\\periodicos-juridicos-cp.jsonl",
+  "saida": "C:\\Users\\edvan\\_projeto-extensao-codigo-penal-24-08-2026\\analise-cientifica\\periodicos-juridicos-cp-classificado.jsonl",
+  "registros_lidos": 30140,
+  "nenhum_registro_foi_apagado": true,
+  "criterio": {
+    "1 frase no titulo": "a frase buscada, sem acento, aparece no titulo",
+    "2 frase no resumo": "a frase aparece no resumo, e nao no titulo",
+    "3 todas as palavras em titulo ou resumo": "todas as palavras uteis do termo aparecem, em qualquer ordem",
+    "4 apenas algumas palavras": "casamento parcial, nao serve para citar",
+    "5 nenhuma palavra do termo": "ruido puro da busca por relevancia"
+  },
+  "total_por_nivel": {
+    "1 frase no titulo": 146,
+    "2 frase no resumo": 378,
+    "3 todas as palavras em titulo ou resumo": 769,
+    "4 apenas algumas palavras": 13638,
+    "5 nenhuma palavra do termo": 15209
+  },
+  "por_fonte": {
+    "OpenAlex": {
+      "1 frase no titulo": 135,
+      "2 frase no resumo": 377,
+      "3 todas as palavras em titulo ou resumo": 766,
+      "4 apenas algumas palavras": 6063,
+      "5 nenhuma palavra do termo": 10843
+    },
+    "Crossref": {
+      "1 frase no titulo": 11,
+      "2 frase no resumo": 1,
+      "3 todas as palavras em titulo ou resumo": 3,
+      "4 apenas algumas palavras": 7575,
+      "5 nenhuma palavra do termo": 4366
+    }
+  },
+  "por_termo": {
+    "codigo penal brasileiro": {
+      "1 frase no titulo": 25,
+      "2 frase no resumo": 260,
+      "3 todas as palavras em titulo ou resumo": 422,
+      "4 apenas algumas palavras": 2192,
+      "5 nenhuma palavra do termo": 3882
+    },
+    "direito penal eleitoral": {
+      "1 frase no titulo": 1,
+      "2 frase no resumo": 4,
+      "3 todas as palavras em titulo ou resumo": 94,
+      "4 apenas algumas palavras": 7084,
+      "5 nenhuma palavra do termo": 6752
+    },
+    "populismo penal": {
+      "1 frase no titulo": 120,
+      "2 frase no resumo": 114,
+      "3 todas as palavras em titulo ou resumo": 253,
+      "4 apenas algumas palavras": 4362,
+      "5 nenhuma palavra do termo": 4575
+    }
+  },
+  "o_que_este_relatorio_NAO_diz": "nivel 1 nao significa artigo pertinente ao tema, significa que a frase esta' no titulo. Pertinencia se estabelece lendo, e nao casando cadeia de caracteres."
+}

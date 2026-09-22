@@ -1,0 +1,2850 @@
+{
+ "_excluidos_por_serem_copia_de_outra_edicao": [
+  {
+   "edicao_da_pasta": 2016,
+   "arquivo": "Anuario-16_vfinal_retificado_02-08 (1).xlsx",
+   "igual_a": [
+    "2022_anuario_brasileiro_seguranca_publica_planilha.xlsx"
+   ]
+  },
+  {
+   "edicao_da_pasta": 2022,
+   "arquivo": "Anuario-16_vfinal_retificado_02-08 (2).xlsx",
+   "igual_a": [
+    "2022_anuario_brasileiro_seguranca_publica_planilha.xlsx"
+   ]
+  }
+ ],
+ "2007": {
+  "arquivos": [
+   "2007_anuario_brasileiro_seguranca_publica.pdf"
+  ],
+  "crimes": {
+   "ameaça": {
+    "situacao": "conferir na pagina",
+    "em_pagina_de_tabela_por_uf": [
+     [
+      "2007_anuario_brasileiro_seguranca_publica.pdf p. 9",
+      "… 7 1 … … … 49 Outras Lesões Corporais Culposas … 27 5 72 826 … 74 472 393 140 632 591 27 … 327 304 275 17 2,888 1,214 3,169 74 7 2,900 5,156 403 212 Ameaça 7,192 3,641 7,262 16,233 67,543 24,588 8,726 7,362 18,801 23,306 14,317 13,049 75,064 26,101 5,113 40,568 17,282 6,603 60,004 13,393 118,066 10,594 4"
+     ],
+     [
+      "2007_anuario_brasileiro_seguranca_publica.pdf p. 10",
+      "rais Culposas - 0.90 0.87 2.26 6.03 - 3.23 14.04 7.11 2.32 22.91 26.42 0.14 - 9.15 2.99 3.30 0.57 18.95 40.88 29.48 4.90 1.84 50.08 12.91 20.77 16.51 Ameaça 1,137.66 121.88 1,257.98 508.67 492.85 307.39 380.80 218.95 340.05 386.08 518.89 583.34 394.27 380.66 143.08 399.34 207.21 221.37 393.81 450.99 1,098"
+     ]
+    ]
+   },
+   "perseguição": {
+    "situacao": "nao publica"
+   },
+   "violência psicológica": {
+    "situacao": "nao publica"
+   },
+   "extorsão": {
+    "situacao": "conferir na pagina",
+    "em_pagina_de_tabela_por_uf": [
+     [
+      "2007_anuario_brasileiro_seguranca_publica.pdf p. 8",
+      "sporte Coletivo Roubo em Estabelecimento Comercial ou de Serviço Roubo em Residência Roubo com restrição de Liberdade da Vítima (Seqüestro Relâmpago) Extorsão Mediante Seqüestro Roubo a ou de Veículo de Transporte de Valores Taxas (1) Taxas (1) Taxas (1) Taxas (1) Taxas (1) Taxas (1) Taxas (1) Taxas (1) Tax"
+     ],
+     [
+      "2007_anuario_brasileiro_seguranca_publica.pdf p. 9",
+      "00 51,659 24,778 8,768 35,349 18,807 19,514 15,730 166,688 30,756 6,494 81,602 6,328 13,648 78,025 18,885 172,076 17,782 6,367 63,767 541,837 … 8,025 Extorsão Mediante Seqüestro … 10 13 8 29 14 5 4 40 14 5 9 140 3 5 23 11 12 10 13 19 5 6 64 … … 2 Estelionato 711 1,187 362 1,115 11,867 7,778 10,441 1,835 6,8"
+     ],
+     [
+      "2007_anuario_brasileiro_seguranca_publica.pdf p. 24",
+      "os Unidade da Federação – 2004 Homicídios Investigação de Ato Infracional Fazendária Idoso Desaparecidos Seqüestro Entorpecentes Atendimento à Mulher Extorsão Proteção à Criança e ao Adolescente Meio Ambiente Patrimônio Total Unidades da Federação Funções Administrativas Funções Operacionais Unidades da Fed"
+     ]
+    ]
+   },
+   "estelionato": {
+    "situacao": "conferir na pagina",
+    "em_pagina_de_tabela_por_uf": [
+     [
+      "2007_anuario_brasileiro_seguranca_publica.pdf p. 9",
+      "5 18,885 172,076 17,782 6,367 63,767 541,837 … 8,025 Extorsão Mediante Seqüestro … 10 13 8 29 14 5 4 40 14 5 9 140 3 5 23 11 12 10 13 19 5 6 64 … … 2 Estelionato 711 1,187 362 1,115 11,867 7,778 10,441 1,835 6,889 2,877 2,057 2,538 7,108 2,063 656 11,491 1,877 805 15,881 1,834 14,391 1,340 413 6,533 … … 976 TA"
+     ]
+    ]
+   },
+   "furto e roubo a pessoa": {
+    "situacao": "conferir na pagina",
+    "em_pagina_de_tabela_por_uf": [
+     [
+      "2007_anuario_brasileiro_seguranca_publica.pdf p. 8",
+      "lutos Ns. Absolutos Ns. Absolutos Ns. Absolutos Ns. Absolutos Ns. Absolutos Ns. Absolutos Ns. Absolutos Roubo de Carga Roubo a Instituição Financeira Roubo a Transeunte Roubo em Transporte Coletivo Roubo em Estabelecimento Comercial ou de Serviço Roubo em Residência Roubo com restrição de Liberdade da Vítima (Seqüest"
+     ],
+     [
+      "2007_anuario_brasileiro_seguranca_publica.pdf p. 9",
+      "34 4 14 23 20 176 20 4 20 2 116 7 … 32 133 … 7 Roubo a ou de Veículo de Transporte de Valores … 1 4 … 9 4 … … 5 … 2 1 37 7 2 … 6 … 8 … 2 … 1 15 … … 1 Roubo a Transeunte 779 1,909 1,365 1,674 30,265 25,960 20,794 2,260 13,727 7,708 4,190 1,874 25,453 18,459 4,186 18,299 27,073 531 36,080 3,655 33,195 3,641 51 2,022 … "
+     ],
+     [
+      "2007_anuario_brasileiro_seguranca_publica.pdf p. 9",
+      ",313 115,669 79,608 … 17,601 82,652 … 36,587 30,532 174,943 47,393 12,344 143,454 32,818 15,236 126,352 29,432 244,341 23,996 7,479 93,631 … … 12,726 Furto a Transeunte 2,076 … 4,030 1,405 22,657 14,780 30,184 4,064 21,090 8,341 4,024 2,869 12,467 4,417 3,167 21,440 18,334 456 13,028 5,436 4,616 933 1 1,389 … 3,035 6"
+     ]
+    ]
+   },
+   "crimes contra a administração pública": {
+    "situacao": "nao publica"
+   },
+   "crimes contra a honra": {
+    "situacao": "nao publica"
+   }
+  },
+  "lidos": [
+   {
+    "arquivo": "2007_anuario_brasileiro_seguranca_publica.pdf",
+    "paginas": 67,
+    "paginas_sem_texto": [
+     1,
+     67
+    ],
+    "titulos_de_tabela": 60
+   }
+  ]
+ },
+ "2008": {
+  "arquivos": [
+   "2008_anuario_brasileiro_seguranca_publica.pdf"
+  ],
+  "crimes": {
+   "ameaça": {
+    "situacao": "conferir na pagina",
+    "em_pagina_de_tabela_por_uf": [
+     [
+      "2008_anuario_brasileiro_seguranca_publica.pdf p. 18",
+      "são corporal culposa) 255 11 8 157 13 24 ... 83 1 ... ... ... Outras lesões corporais culposas 98 866 256 805 519 ... ... 295 2.371 2.766 2.842 4.330 Ameaça 9.088 12.752 17.384 14.752 12.304 72.575 ... 18.534 56.626 111.203 57.315 ... Estupro 271 183 576 305 372 739 ... 386 1.216 1.230 545 3.425 Tentativa"
+     ],
+     [
+      "2008_anuario_brasileiro_seguranca_publica.pdf p. 20",
+      "são corporal culposa) 209 11 37 214 18 ... ... 72 2 ... ... ... Outras lesões corporais culposas 121 639 385 633 261 91 ... 156 2.583 ... 3.037 4.936 Ameaça 9.039 11.542 13.872 16.591 11.764 63.663 ... 13.220 56.422 ... 62.105 ... DF ES GO MT MS MG PR PE RJ RS SC SP Fonte: Ministério da Justiça/Secretaria"
+     ]
+    ]
+   },
+   "perseguição": {
+    "situacao": "nao publica"
+   },
+   "violência psicológica": {
+    "situacao": "nao publica"
+   },
+   "extorsão": {
+    "situacao": "conferir na pagina",
+    "em_pagina_de_tabela_por_uf": [
+     [
+      "2008_anuario_brasileiro_seguranca_publica.pdf p. 20",
+      "20 Tipos Grupo 1 (1) DF ES GO MT MS MG PR PE RJ RS SC SP Extorsão mediante seqüestro 3 35 49 - 5 169 ... 28 6 22 60 ... Estelionato 10.815 2.600 8.907 3.148 3.011 7.690 ... 2.307 18.294 14.173 7.542 ... Delitos envo"
+     ]
+    ]
+   },
+   "estelionato": {
+    "situacao": "conferir na pagina",
+    "em_pagina_de_tabela_por_uf": [
+     [
+      "2008_anuario_brasileiro_seguranca_publica.pdf p. 20",
+      "20 Tipos Grupo 1 (1) DF ES GO MT MS MG PR PE RJ RS SC SP Extorsão mediante seqüestro 3 35 49 - 5 169 ... 28 6 22 60 ... Estelionato 10.815 2.600 8.907 3.148 3.011 7.690 ... 2.307 18.294 14.173 7.542 ... Delitos envolvendo drogas 2.992 1.400 2.733 1.169 2.094 11.909 ... 1.159 8.926"
+     ]
+    ]
+   },
+   "furto e roubo a pessoa": {
+    "situacao": "conferir na pagina",
+    "em_pagina_de_tabela_por_uf": [
+     [
+      "2008_anuario_brasileiro_seguranca_publica.pdf p. 14",
+      "Ns. absolutos Taxas (2) Ns. absolutos Taxas (2) Ns. absolutos Taxas (2) Roubo a ou de veículo de transporte de valores Roubo a instituição financeira Roubo a transeunte Roubo em transporte coletivo Distrito Federal 1.596 67,0 9 0,4 ... ... 1 0,0 21.634 907,5 581 24,37 Espírito Santo 1.623 46,8 111 3,2 2 0,1 14 0,4 4."
+     ],
+     [
+      "2008_anuario_brasileiro_seguranca_publica.pdf p. 16",
+      "Ns. absolutos Taxas (2) Ns. absolutos Taxas (2) Ns. absolutos Taxas (2) Roubo a ou de veículo de transporte de valores Roubo a instituição financeira Roubo a transeunte Roubo em transporte coletivo Distrito Federal 1.574 64,7 5 0,2 ... ... - - 20.382 837,4 617 25,3 Espírito Santo 1.650 46,9 26 0,7 - - 13 0,4 4.339 12"
+     ],
+     [
+      "2008_anuario_brasileiro_seguranca_publica.pdf p. 18",
+      "Roubo a instituição financeira 1 14 29 23 2 ... ... 31 46 167 37 441 Roubo a ou de veículo de transporte de valores ... 2 1 11 - ... ... 30 9 4 8 ... Roubo a transeunte 21.634 4.505 12.240 3.945 1.811 14.263 ... 27.320 46.340 32.870 2.335 ... Roubo com restrição de liberdade da vítima (seqüestro relâmpago) 378 410 64"
+     ],
+     [
+      "2008_anuario_brasileiro_seguranca_publica.pdf p. 18",
+      ".379 2.082 2.794 1.181 683 16.353 ... 843 21.491 8.368 4.299 207.008 Furtos ... 31.696 85.732 38.687 30.659 ... ... 33.089 140.888 218.424 99.059 ... Furto a transeunte 34.297 11.520 19.386 4.649 3.138 13.354 ... 16.506 18.944 4.120 1.451 ... Furto de carga ... 14 38 13 7 128 ... 39 169 156 66 528 Furto de veículo 8."
+     ]
+    ]
+   },
+   "crimes contra a administração pública": {
+    "situacao": "nao publica"
+   },
+   "crimes contra a honra": {
+    "situacao": "nao publica"
+   }
+  },
+  "lidos": [
+   {
+    "arquivo": "2008_anuario_brasileiro_seguranca_publica.pdf",
+    "paginas": 88,
+    "paginas_sem_texto": [
+     2,
+     8,
+     13,
+     35,
+     56,
+     62,
+     75,
+     80
+    ],
+    "titulos_de_tabela": 28
+   }
+  ]
+ },
+ "2009": {
+  "arquivos": [
+   "2009_anuario_brasileiro_seguranca_publica.pdf"
+  ],
+  "crimes": {
+   "ameaça": {
+    "situacao": "nao publica"
+   },
+   "perseguição": {
+    "situacao": "nao publica"
+   },
+   "violência psicológica": {
+    "situacao": "nao publica"
+   },
+   "extorsão": {
+    "situacao": "nao publica"
+   },
+   "estelionato": {
+    "situacao": "nao publica"
+   },
+   "furto e roubo a pessoa": {
+    "situacao": "nao publica"
+   },
+   "crimes contra a administração pública": {
+    "situacao": "nao publica"
+   },
+   "crimes contra a honra": {
+    "situacao": "nao publica"
+   }
+  },
+  "lidos": [
+   {
+    "arquivo": "2009_anuario_brasileiro_seguranca_publica.pdf",
+    "paginas": 64,
+    "paginas_sem_texto": [
+     2,
+     33,
+     46,
+     47,
+     52,
+     53
+    ],
+    "titulos_de_tabela": 24
+   }
+  ]
+ },
+ "2010": {
+  "arquivos": [
+   "2010_anuario_brasileiro_seguranca_publica.pdf"
+  ],
+  "crimes": {
+   "ameaça": {
+    "situacao": "nao publica"
+   },
+   "perseguição": {
+    "situacao": "nao publica"
+   },
+   "violência psicológica": {
+    "situacao": "nao publica"
+   },
+   "extorsão": {
+    "situacao": "nao publica"
+   },
+   "estelionato": {
+    "situacao": "nao publica"
+   },
+   "furto e roubo a pessoa": {
+    "situacao": "conferir na pagina",
+    "em_pagina_de_tabela_por_uf": [
+     [
+      "2010_anuario_brasileiro_seguranca_publica.pdf p. 20",
+      "stão incluídas as seguintes ocorrências: Outros roubos, Roubo a instituição financeira, Roubo a ou de veículo de transporte de valores (carro-forte), Roubo a transeunte, Roubo com restrição de liberdade da vítima, Roubo de carga, Roubo de Veículo, Roubo em estabelecimento comercial ou de serviços, Roubo em residência"
+     ]
+    ]
+   },
+   "crimes contra a administração pública": {
+    "situacao": "nao publica"
+   },
+   "crimes contra a honra": {
+    "situacao": "nao publica"
+   }
+  },
+  "lidos": [
+   {
+    "arquivo": "2010_anuario_brasileiro_seguranca_publica.pdf",
+    "paginas": 100,
+    "paginas_sem_texto": [
+     13,
+     19,
+     23,
+     33,
+     37,
+     47,
+     63,
+     77,
+     85,
+     86,
+     87
+    ],
+    "titulos_de_tabela": 38
+   }
+  ]
+ },
+ "2011": {
+  "arquivos": [
+   "2011_anuario_brasileiro_seguranca_publica.pdf"
+  ],
+  "crimes": {
+   "ameaça": {
+    "situacao": "nao publica"
+   },
+   "perseguição": {
+    "situacao": "nao publica"
+   },
+   "violência psicológica": {
+    "situacao": "nao publica"
+   },
+   "extorsão": {
+    "situacao": "nao publica"
+   },
+   "estelionato": {
+    "situacao": "nao publica"
+   },
+   "furto e roubo a pessoa": {
+    "situacao": "conferir na pagina",
+    "em_pagina_de_tabela_por_uf": [
+     [
+      "2011_anuario_brasileiro_seguranca_publica.pdf p. 28",
+      "stão incluídas as seguintes ocorrências: Outros roubos, Roubo a instituição financeira, Roubo a ou de veículo de transporte de valores (carro-forte), Roubo a transeunte, Roubo com restrição de liberdade da vítima, Roubo de carga, Roubo de Veículo, Roubo em estabelecimento comercial ou de serviços, Roubo em residência"
+     ]
+    ]
+   },
+   "crimes contra a administração pública": {
+    "situacao": "nao publica"
+   },
+   "crimes contra a honra": {
+    "situacao": "nao publica"
+   }
+  },
+  "lidos": [
+   {
+    "arquivo": "2011_anuario_brasileiro_seguranca_publica.pdf",
+    "paginas": 120,
+    "paginas_sem_texto": [
+     12,
+     13,
+     39,
+     45,
+     49,
+     57,
+     65,
+     76,
+     106,
+     107
+    ],
+    "titulos_de_tabela": 37
+   }
+  ]
+ },
+ "2012": {
+  "arquivos": [
+   "2012_anuario_brasileiro_seguranca_publica.pdf"
+  ],
+  "crimes": {
+   "ameaça": {
+    "situacao": "nao publica"
+   },
+   "perseguição": {
+    "situacao": "nao publica"
+   },
+   "violência psicológica": {
+    "situacao": "nao publica"
+   },
+   "extorsão": {
+    "situacao": "nao publica"
+   },
+   "estelionato": {
+    "situacao": "nao publica"
+   },
+   "furto e roubo a pessoa": {
+    "situacao": "conferir na pagina",
+    "em_pagina_de_tabela_por_uf": [
+     [
+      "2012_anuario_brasileiro_seguranca_publica.pdf p. 20",
+      "stão incluídas as seguintes ocorrências: Outros roubos, Roubo a instituição financeira, Roubo a ou de veículo de transporte de valores (carro-forte), Roubo a transeunte, Roubo com restrição de liberdade da vítima, Roubo de carga, Roubo de Veículo, Roubo em estabelecimento comercial ou de serviços, Roubo em residência"
+     ]
+    ]
+   },
+   "crimes contra a administração pública": {
+    "situacao": "nao publica"
+   },
+   "crimes contra a honra": {
+    "situacao": "nao publica"
+   }
+  },
+  "lidos": [
+   {
+    "arquivo": "2012_anuario_brasileiro_seguranca_publica.pdf",
+    "paginas": 134,
+    "paginas_sem_texto": [
+     8,
+     9,
+     19,
+     31,
+     53,
+     59,
+     79,
+     83,
+     84,
+     114,
+     115
+    ],
+    "titulos_de_tabela": 47
+   }
+  ]
+ },
+ "2013": {
+  "arquivos": [
+   "2013_anuario_brasileiro_seguranca_publica.pdf"
+  ],
+  "crimes": {
+   "ameaça": {
+    "situacao": "conferir na pagina",
+    "em_pagina_de_tabela_por_uf": [
+     [
+      "2013_anuario_brasileiro_seguranca_publica.pdf p. 86",
+      "ionais Roubo Tráfico Homicídio Furto Outros Homicídio tentado Busca e apreensão Porte de arma de fogo Latrocínio Lesão corporal Roubo tentado Estupro Ameaça de morte Brasil 8.415 5.863 1.852 1.244 1.148 661 543 516 430 288 269 231 164 % 38,1 26,6 8,4 5,6 5,2 3,0 2,5 2,3 1,9 1,3 1,2 1,0 0,7 Acre 63 31 10 9"
+     ]
+    ]
+   },
+   "perseguição": {
+    "situacao": "nao publica"
+   },
+   "violência psicológica": {
+    "situacao": "nao publica"
+   },
+   "extorsão": {
+    "situacao": "conferir na pagina",
+    "em_pagina_de_tabela_por_uf": [
+     [
+      "2013_anuario_brasileiro_seguranca_publica.pdf p. 68",
+      "io Simples, Homicídio Qualificado e Seqüestro e Cárcere Privado. (2) Inclui os itens Furto Simples, Furto Qualificado, Roubo Qualificado, Latrocínio, Extorsão, Extorsão Mediante Seqüestro, Apropriação Indébita, Apropriação Indébita Previdenciária, Estelionato, Receptação, Receptação Qualificada, Roubo Simpl"
+     ],
+     [
+      "2013_anuario_brasileiro_seguranca_publica.pdf p. 68",
+      ", Homicídio Qualificado e Seqüestro e Cárcere Privado. (2) Inclui os itens Furto Simples, Furto Qualificado, Roubo Qualificado, Latrocínio, Extorsão, Extorsão Mediante Seqüestro, Apropriação Indébita, Apropriação Indébita Previdenciária, Estelionato, Receptação, Receptação Qualificada, Roubo Simples. (3) In"
+     ]
+    ]
+   },
+   "estelionato": {
+    "situacao": "conferir na pagina",
+    "em_pagina_de_tabela_por_uf": [
+     [
+      "2013_anuario_brasileiro_seguranca_publica.pdf p. 68",
+      ", Furto Qualificado, Roubo Qualificado, Latrocínio, Extorsão, Extorsão Mediante Seqüestro, Apropriação Indébita, Apropriação Indébita Previdenciária, Estelionato, Receptação, Receptação Qualificada, Roubo Simples. (3) Inclui os itens Estupro, Atentado Violento ao Pudor, Corrupção de Menores, Tráfico Internacio"
+     ]
+    ]
+   },
+   "furto e roubo a pessoa": {
+    "situacao": "conferir na pagina",
+    "em_pagina_de_tabela_por_uf": [
+     [
+      "2013_anuario_brasileiro_seguranca_publica.pdf p. 18",
+      "stão incluídas as seguintes ocorrências: outros roubos, roubo a instituição financeira, roubo a ou de veículo de transporte de valores (carro-forte), roubo a transeunte, roubo com restrição de liberdade da vítima, roubo de carga, roubo de Veículo, roubo em estabelecimento comercial ou de serviços, roubo em residência"
+     ]
+    ]
+   },
+   "crimes contra a administração pública": {
+    "situacao": "conferir na pagina",
+    "em_pagina_de_tabela_por_uf": [
+     [
+      "2013_anuario_brasileiro_seguranca_publica.pdf p. 68",
+      "essoa (1) Crimes contra o patrimônio (2) Crimes contra os costumes (3) Crimes contra a paz pública (4) Crimes contra a fé pública (5) Crimes contra a administração pública (6) Crimes praticados por particular contra a administração pública (7) Brasil 64.736 267.975 21.504 9.708 4.709 1.479 1.224 % 11,9 49,1 3,9 1,8 0,9 "
+     ],
+     [
+      "2013_anuario_brasileiro_seguranca_publica.pdf p. 68",
+      "3) Crimes contra a paz pública (4) Crimes contra a fé pública (5) Crimes contra a administração pública (6) Crimes praticados por particular contra a administração pública (7) Brasil 64.736 267.975 21.504 9.708 4.709 1.479 1.224 % 11,9 49,1 3,9 1,8 0,9 0,3 0,2 Acre 582 959 159 8 4 6 4 Alagoas 1.213 1.608 198 214 11 7 - "
+     ],
+     [
+      "2013_anuario_brasileiro_seguranca_publica.pdf p. 68",
+      "ção Indébita Previdenciária, Estelionato, Receptação, Receptação Qualificada, Roubo Simples. (3) Inclui os itens Estupro, Atentado Violento ao Pudor, Corrupção de Menores, Tráfico Internacional de Pessoas, Tráfico Interno de Pessoas. (4) Inclui o item Quadrilha ou Bando. (5) Inclui os itens Moeda Falsa, Fals"
+     ],
+     [
+      "2013_anuario_brasileiro_seguranca_publica.pdf p. 68",
+      "i os itens Moeda Falsa, Falsificação de Papéis, Selos, Sinal e Documentos Públicos, Falsidade Ideológica, Uso de Documento Falso. (6) Inclui os itens Peculato, Concussão e Excesso de Exação, Corrupção Passiva. Continua 68"
+     ],
+     [
+      "2013_anuario_brasileiro_seguranca_publica.pdf p. 68",
+      " Moeda Falsa, Falsificação de Papéis, Selos, Sinal e Documentos Públicos, Falsidade Ideológica, Uso de Documento Falso. (6) Inclui os itens Peculato, Concussão e Excesso de Exação, Corrupção Passiva. Continua 68"
+     ],
+     [
+      "2013_anuario_brasileiro_seguranca_publica.pdf p. 68",
+      "apéis, Selos, Sinal e Documentos Públicos, Falsidade Ideológica, Uso de Documento Falso. (6) Inclui os itens Peculato, Concussão e Excesso de Exação, Corrupção Passiva. Continua 68"
+     ]
+    ]
+   },
+   "crimes contra a honra": {
+    "situacao": "nao publica"
+   }
+  },
+  "lidos": [
+   {
+    "arquivo": "2013_anuario_brasileiro_seguranca_publica.pdf",
+    "paginas": 136,
+    "paginas_sem_texto": [
+     8,
+     9,
+     11,
+     27,
+     61,
+     71,
+     81,
+     89,
+     103,
+     107,
+     108,
+     128,
+     129
+    ],
+    "titulos_de_tabela": 58
+   }
+  ]
+ },
+ "2014": {
+  "arquivos": [
+   "2014_anuario_brasileiro_seguranca_publica.pdf"
+  ],
+  "crimes": {
+   "ameaça": {
+    "situacao": "conferir na pagina",
+    "em_pagina_de_tabela_por_uf": [
+     [
+      "2014_anuario_brasileiro_seguranca_publica.pdf p. 102",
+      "ais Roubo Tráfico Homicídio Furto Porte de Arma de Fogo Tentativa de Homicídio Latrocínio Estupro Tentativa de Roubo Lesão Corporal Busca e apreensão Ameaça de morte Receptação Brasil 8.416 5.881 1.963 923 591 582 476 315 237 178 177 151 110 % 38,7 27,0 9,0 4,2 2,7 2,7 2,2 1,4 1,1 0,8 0,8 0,7 0,5 Acre 140"
+     ]
+    ]
+   },
+   "perseguição": {
+    "situacao": "nao publica"
+   },
+   "violência psicológica": {
+    "situacao": "nao publica"
+   },
+   "extorsão": {
+    "situacao": "conferir na pagina",
+    "em_pagina_de_tabela_por_uf": [
+     [
+      "2014_anuario_brasileiro_seguranca_publica.pdf p. 78",
+      "io Simples, Homicídio Qualificado e Seqüestro e Cárcere Privado. (2) Inclui os itens Furto Simples, Furto Qualificado, Roubo Qualificado, Latrocínio, Extorsão, Extorsão Mediante Seqüestro, Apropriação Indébita, Apropriação Indébita Previdenciária, Estelionato, Receptação, Receptação Qualificada, Roubo Simpl"
+     ],
+     [
+      "2014_anuario_brasileiro_seguranca_publica.pdf p. 78",
+      ", Homicídio Qualificado e Seqüestro e Cárcere Privado. (2) Inclui os itens Furto Simples, Furto Qualificado, Roubo Qualificado, Latrocínio, Extorsão, Extorsão Mediante Seqüestro, Apropriação Indébita, Apropriação Indébita Previdenciária, Estelionato, Receptação, Receptação Qualificada, Roubo Simples. (3) In"
+     ]
+    ]
+   },
+   "estelionato": {
+    "situacao": "conferir na pagina",
+    "em_pagina_de_tabela_por_uf": [
+     [
+      "2014_anuario_brasileiro_seguranca_publica.pdf p. 78",
+      ", Furto Qualificado, Roubo Qualificado, Latrocínio, Extorsão, Extorsão Mediante Seqüestro, Apropriação Indébita, Apropriação Indébita Previdenciária, Estelionato, Receptação, Receptação Qualificada, Roubo Simples. (3) Inclui os itens Estupro, Atentado Violento ao Pudor, Corrupção de Menores, Tráfico Internacio"
+     ]
+    ]
+   },
+   "furto e roubo a pessoa": {
+    "situacao": "conferir na pagina",
+    "em_pagina_de_tabela_por_uf": [
+     [
+      "2014_anuario_brasileiro_seguranca_publica.pdf p. 24",
+      "). (3) A categoria outros roubos representa o somatório dos registros de ocorrências de roubo a ou de veículo de transporte de valores (carro-forte), roubo a transeunte, roubo com restrição de liberdade da vítima, roubo em estabelecimento comercial ou de serviços, roubo em residência, roubo em transporte coletivo e o"
+     ]
+    ]
+   },
+   "crimes contra a administração pública": {
+    "situacao": "conferir na pagina",
+    "em_pagina_de_tabela_por_uf": [
+     [
+      "2014_anuario_brasileiro_seguranca_publica.pdf p. 78",
+      "essoa (1) Crimes contra o patrimônio (2) Crimes contra os costumes (3) Crimes contra a paz pública (4) Crimes contra a fé pública (5) Crimes contra a administração pública (6) Crimes praticados por particular contra a administração pública (7) Brasil 67.925 270.247 23.090 10.329 4.722 1.475 897 % 12,0 47,9 4,1 1,8 0,8 0"
+     ],
+     [
+      "2014_anuario_brasileiro_seguranca_publica.pdf p. 78",
+      "3) Crimes contra a paz pública (4) Crimes contra a fé pública (5) Crimes contra a administração pública (6) Crimes praticados por particular contra a administração pública (7) Brasil 67.925 270.247 23.090 10.329 4.722 1.475 897 % 12,0 47,9 4,1 1,8 0,8 0,3 0,2 Acre 595 1.080 159 7 7 5 4 Alagoas 1.214 1.644 198 197 4 13 -"
+     ],
+     [
+      "2014_anuario_brasileiro_seguranca_publica.pdf p. 78",
+      "ção Indébita Previdenciária, Estelionato, Receptação, Receptação Qualificada, Roubo Simples. (3) Inclui os itens Estupro, Atentado Violento ao Pudor, Corrupção de Menores, Tráfico Internacional de Pessoas, Tráfico Interno de Pessoas. (4) Inclui o item Quadrilha ou Bando. (5) Inclui os itens Moeda Falsa, Fals"
+     ]
+    ]
+   },
+   "crimes contra a honra": {
+    "situacao": "nao publica"
+   }
+  },
+  "lidos": [
+   {
+    "arquivo": "2014_anuario_brasileiro_seguranca_publica.pdf",
+    "paginas": 156,
+    "paginas_sem_texto": [
+     12,
+     13,
+     15,
+     37,
+     49,
+     71,
+     81,
+     105,
+     108,
+     133,
+     142,
+     143,
+     153
+    ],
+    "titulos_de_tabela": 54
+   }
+  ]
+ },
+ "2015": {
+  "arquivos": [
+   "2015_anuario_brasileiro_seguranca_publica.pdf"
+  ],
+  "crimes": {
+   "ameaça": {
+    "situacao": "conferir na pagina",
+    "em_pagina_de_tabela_por_uf": [
+     [
+      "2015_anuario_brasileiro_seguranca_publica.pdf p. 88",
+      "ais Roubo Tráfico Homicídio Furto Tentativa de Homicídio Porte de Arma de Fogo Latrocínio Tentativa de Roubo Estupro Lesão Corporal Busca e apreensão Ameaça de morte Tentativa de Latrocínio Brasil 10.051 5.933 2.206 856 747 572 485 421 288 237 233 154 125 % 42,0 24,8 9,2 3,6 3,1 2,4 2,0 1,8 1,2 1,0 1,0 0,"
+     ],
+     [
+      "2015_anuario_brasileiro_seguranca_publica.pdf p. 136",
+      "136 Brasil e Unidades da Federação Total de diretores respondentes Você foi ameaçado por algum aluno Você foi vítima de atentado à vida Sim Não Branco/Nulo Sim Não Branco/Nulo Ns. Absolutos % Ns. Absolutos % Ns. Absolutos % Ns. Abso"
+     ],
+     [
+      "2015_anuario_brasileiro_seguranca_publica.pdf p. 140",
+      "140 Brasil e Unidades da Federação Total de professores respondentes Você foi ameaçado por algum aluno Você foi vítima de atentado à vida Sim Não Branco/Nulo Sim Não Branco/Nulo Ns. Absolutos % Ns. Absolutos % Ns. Absolutos % Ns. Abso"
+     ]
+    ]
+   },
+   "perseguição": {
+    "situacao": "nao publica"
+   },
+   "violência psicológica": {
+    "situacao": "nao publica"
+   },
+   "extorsão": {
+    "situacao": "conferir na pagina",
+    "em_pagina_de_tabela_por_uf": [
+     [
+      "2015_anuario_brasileiro_seguranca_publica.pdf p. 78",
+      "io Simples, Homicídio Qualificado e Seqüestro e Cárcere Privado. (2) Inclui os itens Furto Simples, Furto Qualificado, Roubo Qualificado, Latrocínio, Extorsão, Extorsão Mediante Seqüestro, Apropriação Indébita, Apropriação Indébita Previdenciária, Estelionato, Receptação, Receptação Qualificada, Roubo Simpl"
+     ],
+     [
+      "2015_anuario_brasileiro_seguranca_publica.pdf p. 78",
+      ", Homicídio Qualificado e Seqüestro e Cárcere Privado. (2) Inclui os itens Furto Simples, Furto Qualificado, Roubo Qualificado, Latrocínio, Extorsão, Extorsão Mediante Seqüestro, Apropriação Indébita, Apropriação Indébita Previdenciária, Estelionato, Receptação, Receptação Qualificada, Roubo Simples e outro"
+     ]
+    ]
+   },
+   "estelionato": {
+    "situacao": "conferir na pagina",
+    "em_pagina_de_tabela_por_uf": [
+     [
+      "2015_anuario_brasileiro_seguranca_publica.pdf p. 78",
+      ", Furto Qualificado, Roubo Qualificado, Latrocínio, Extorsão, Extorsão Mediante Seqüestro, Apropriação Indébita, Apropriação Indébita Previdenciária, Estelionato, Receptação, Receptação Qualificada, Roubo Simples e outros - não listados acima entre os artigos 156 e 179 (3) Inclui os itens Estupro, atentado vio"
+     ]
+    ]
+   },
+   "furto e roubo a pessoa": {
+    "situacao": "nao publica"
+   },
+   "crimes contra a administração pública": {
+    "situacao": "conferir na pagina",
+    "em_pagina_de_tabela_por_uf": [
+     [
+      "2015_anuario_brasileiro_seguranca_publica.pdf p. 78",
+      "to Crimes contra o patrimônio (2) Crimes contra a dignidade sexual (3) Crimes contra a paz pública (4) Crimes contra a fé pública (5) Crimes contra a administração pública - corrupção, peculato, etc. (6) Crimes contra a administração pública - contrabando ou descaminho Brasil 36.049 771 122.751 14.246 6.083 2.445 676 1."
+     ],
+     [
+      "2015_anuario_brasileiro_seguranca_publica.pdf p. 78",
+      "mônio (2) Crimes contra a dignidade sexual (3) Crimes contra a paz pública (4) Crimes contra a fé pública (5) Crimes contra a administração pública - corrupção, peculato, etc. (6) Crimes contra a administração pública - contrabando ou descaminho Brasil 36.049 771 122.751 14.246 6.083 2.445 676 1.001 % 12,7 0"
+     ],
+     [
+      "2015_anuario_brasileiro_seguranca_publica.pdf p. 78",
+      "rimes contra a dignidade sexual (3) Crimes contra a paz pública (4) Crimes contra a fé pública (5) Crimes contra a administração pública - corrupção, peculato, etc. (6) Crimes contra a administração pública - contrabando ou descaminho Brasil 36.049 771 122.751 14.246 6.083 2.445 676 1.001 % 12,7 0,3 43,4 5,"
+     ],
+     [
+      "2015_anuario_brasileiro_seguranca_publica.pdf p. 78",
+      " Crimes contra a paz pública (4) Crimes contra a fé pública (5) Crimes contra a administração pública - corrupção, peculato, etc. (6) Crimes contra a administração pública - contrabando ou descaminho Brasil 36.049 771 122.751 14.246 6.083 2.445 676 1.001 % 12,7 0,3 43,4 5,0 2,2 0,9 0,2 0,4 Acre 300 - 878 175 3 2 5 - Ala"
+     ],
+     [
+      "2015_anuario_brasileiro_seguranca_publica.pdf p. 78",
+      "oubo Simples e outros - não listados acima entre os artigos 156 e 179 (3) Inclui os itens Estupro, atentado violento ao pudor, estupro de vulnerável, corrupção de menores, tráfico internacional de pessoa para fim de exploração sexual, tráfico interno de pessoa para fim de exploração sexual, outros (Artigos 2"
+     ]
+    ]
+   },
+   "crimes contra a honra": {
+    "situacao": "nao publica"
+   }
+  },
+  "lidos": [
+   {
+    "arquivo": "2015_anuario_brasileiro_seguranca_publica.pdf",
+    "paginas": 156,
+    "paginas_sem_texto": [
+     10,
+     11,
+     37,
+     51,
+     63,
+     69,
+     93,
+     106,
+     107,
+     122,
+     123,
+     150,
+     151
+    ],
+    "titulos_de_tabela": 59
+   }
+  ]
+ },
+ "2016": {
+  "arquivos": [
+   "2016_anuario_brasileiro_seguranca_publica.pdf"
+  ],
+  "crimes": {
+   "ameaça": {
+    "situacao": "nao publica"
+   },
+   "perseguição": {
+    "situacao": "nao publica"
+   },
+   "violência psicológica": {
+    "situacao": "nao publica"
+   },
+   "extorsão": {
+    "situacao": "nao publica"
+   },
+   "estelionato": {
+    "situacao": "nao publica"
+   },
+   "furto e roubo a pessoa": {
+    "situacao": "nao publica"
+   },
+   "crimes contra a administração pública": {
+    "situacao": "nao publica"
+   },
+   "crimes contra a honra": {
+    "situacao": "nao publica"
+   }
+  },
+  "lidos": [
+   {
+    "arquivo": "2016_anuario_brasileiro_seguranca_publica.pdf",
+    "paginas": 138,
+    "paginas_sem_texto": [
+     10,
+     11,
+     45,
+     57,
+     83,
+     95,
+     114,
+     115,
+     127,
+     132,
+     133
+    ],
+    "titulos_de_tabela": 75
+   }
+  ]
+ },
+ "2017": {
+  "arquivos": [
+   "2017_anuario_brasileiro_seguranca_publica.pdf"
+  ],
+  "crimes": {
+   "ameaça": {
+    "situacao": "conferir na pagina",
+    "em_pagina_de_tabela_por_uf": [
+     [
+      "2017_anuario_brasileiro_seguranca_publica.pdf p. 96",
+      "sores na escola em que trabalham no último ano Brasil e Unidades da Federação – 2015 Unidade da Federação Você foi vítima de atentado à vida Você foi ameaçado por algum aluno Sim Não Branco/Nulo Sim Não Branco/Nulo Ns. Absolutos % Ns. Absolutos % Ns. Absolutos % Ns. Absolutos % Ns. Absolutos % Ns. Absolut"
+     ]
+    ]
+   },
+   "perseguição": {
+    "situacao": "nao publica"
+   },
+   "violência psicológica": {
+    "situacao": "nao publica"
+   },
+   "extorsão": {
+    "situacao": "nao publica"
+   },
+   "estelionato": {
+    "situacao": "nao publica"
+   },
+   "furto e roubo a pessoa": {
+    "situacao": "nao publica"
+   },
+   "crimes contra a administração pública": {
+    "situacao": "nao publica"
+   },
+   "crimes contra a honra": {
+    "situacao": "nao publica"
+   }
+  },
+  "lidos": [
+   {
+    "arquivo": "2017_anuario_brasileiro_seguranca_publica.pdf",
+    "paginas": 108,
+    "paginas_sem_texto": [
+     1,
+     4,
+     10,
+     11,
+     37,
+     43,
+     55,
+     61,
+     65,
+     67,
+     91,
+     103,
+     104
+    ],
+    "titulos_de_tabela": 44
+   }
+  ]
+ },
+ "2018": {
+  "arquivos": [
+   "2018_anuario_brasileiro_seguranca_publica.pdf",
+   "2018_anuario_brasileiro_seguranca_publica_planilha.xlsx"
+  ],
+  "crimes": {
+   "ameaça": {
+    "situacao": "conferir na pagina",
+    "em_pagina_de_tabela_por_uf": [
+     [
+      "2018_anuario_brasileiro_seguranca_publica.pdf p. 76",
+      "iro de Segurança Pública. (...) Informação não disponível. (-) Fenômeno inexistente. (1) Inclui as seguintes categorias do Levantamento Anual SINASE: Ameaça de morte; Tentativa de latrocínio; Busca e apreensão; Formação de quadrilha; Dano; Porte de arma branca; Atentado violento ao pudor; Estelionato; Out"
+     ]
+    ]
+   },
+   "perseguição": {
+    "situacao": "nao publica"
+   },
+   "violência psicológica": {
+    "situacao": "nao publica"
+   },
+   "extorsão": {
+    "situacao": "nao publica"
+   },
+   "estelionato": {
+    "situacao": "conferir na pagina",
+    "em_pagina_de_tabela_por_uf": [
+     [
+      "2018_anuario_brasileiro_seguranca_publica.pdf p. 76",
+      "l SINASE: Ameaça de morte; Tentativa de latrocínio; Busca e apreensão; Formação de quadrilha; Dano; Porte de arma branca; Atentado violento ao pudor; Estelionato; Outros. Continua"
+     ]
+    ]
+   },
+   "furto e roubo a pessoa": {
+    "situacao": "publica",
+    "onde": [
+     [
+      "aba T13",
+      "T13 TABELA 13 (Voltar ao índice) Outros roubos, por tipo Brasil e Unidades da Federação –  2016-2017 Brasil e Unidades da Federação Roubo a estabelecimento comercial Roubo a residência Roubo a transeunte Roubo a instituição financeira Roubo de carga Roubo (total) Ns. Abs. Taxas (1) Variação (%) Ns. Abs. Taxas (1) Variação (%) Ns. Abs. Taxas (1) Variação (%) Ns. Abs. Taxas (2) Variação (%) Ns. Abs. Taxas (1) Variação (%) Ns. Abs. Taxas (1) Variação (%) 2016 (3) 2016 (3) 2016 (3) 2016 (3) 2016 (3) Brasil Acre ... ... ... ... ... ... ... ... ... ... .... ... .... ... ... ... ... ... ... ... ... ... ... ... ... Alagoas Amapá - - ... Amazonas Bahia ... ... ... ... ... Ceará Distrito Federal Espírito Santo Goiás Maranhão"
+     ]
+    ],
+    "em_pagina_de_tabela_por_uf": []
+   },
+   "crimes contra a administração pública": {
+    "situacao": "nao publica"
+   },
+   "crimes contra a honra": {
+    "situacao": "nao publica"
+   }
+  },
+  "lidos": [
+   {
+    "arquivo": "2018_anuario_brasileiro_seguranca_publica.pdf",
+    "paginas": 90,
+    "paginas_sem_texto": [
+     6,
+     7,
+     8,
+     9,
+     11,
+     19,
+     23,
+     31,
+     45,
+     51,
+     55,
+     71,
+     75,
+     80
+    ],
+    "titulos_de_tabela": 45
+   },
+   {
+    "arquivo": "2018_anuario_brasileiro_seguranca_publica_planilha.xlsx",
+    "abas": 51
+   }
+  ]
+ },
+ "2019": {
+  "arquivos": [
+   "2019_anuario_brasileiro_seguranca_publica.pdf",
+   "2019_anuario_brasileiro_seguranca_publica_planilha.xlsx"
+  ],
+  "crimes": {
+   "ameaça": {
+    "situacao": "publica",
+    "onde": [
+     [
+      "aba T62",
+      "T62 TABELA 62 (Voltar ao índice) Vitimização de diretores e professores na escola em que trabalham no último ano (1) Brasil e Unidades da Federação - 2017 Brasil e Unidades da Federação Você foi vítima de atentado à vida Você foi ameaçado por algum aluno Você foi vítima de furto (sem uso de violência) Você foi vítima de roubo (com uso de violência) Sim Não Sem resposta Sim Não Sem resposta Sim Não Sem resposta Sim Não Sem resposta Ns. Absolutos % Ns. Absolutos % Ns. Absolutos % Ns. Absolutos % Ns. Absolutos % Ns. Absolutos % Ns. Absolutos % Ns. Absolutos % Ns. Absolutos % Ns. Absolutos % Ns. Absolutos % Ns. Absolutos % Brasil Acre Alagoas Amapá Amazonas Bahia Ceará Distrito Federal Espírito Santo Goiás Maranhão"
+     ]
+    ],
+    "em_pagina_de_tabela_por_uf": []
+   },
+   "perseguição": {
+    "situacao": "nao publica"
+   },
+   "violência psicológica": {
+    "situacao": "nao publica"
+   },
+   "extorsão": {
+    "situacao": "nao publica"
+   },
+   "estelionato": {
+    "situacao": "nao publica"
+   },
+   "furto e roubo a pessoa": {
+    "situacao": "publica",
+    "onde": [
+     [
+      "aba T13",
+      "T13 TABELA 13 (Voltar ao índice) Outros roubos, por tipo Brasil e Unidades da Federação –  2017-2018 Brasil e Unidades da Federação Roubo a estabelecimento comercial Roubo a residência Roubo a transeunte Roubo a instituição financeira Roubo de carga Roubo (total) Ns. Abs. Taxas (1) Variação (%) Ns. Abs. Taxas (1) Variação (%) Ns. Abs. Taxas (1) Variação (%) Ns. Abs. Taxas (2) Variação (%) Ns. Abs. Taxas (1) Variação (%) Ns. Abs. Taxas (1) Variação (%) 2017 (3) 2017 (3) 2017 (3) 2017 (3) 2017 (3) 2017 (3) Brasil Acre ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... Alagoas Amapá Amazonas Bahia Ceará Distrito Federal (4) Espírito Santo Goiás Maranhão"
+     ]
+    ],
+    "em_pagina_de_tabela_por_uf": []
+   },
+   "crimes contra a administração pública": {
+    "situacao": "nao publica"
+   },
+   "crimes contra a honra": {
+    "situacao": "publica",
+    "onde": [
+     [
+      "p. 87",
+      "TABELA 17 Registros de Injúria Racial Brasil e Unidades da Federação - 2017 e 2018 Brasil, União e Unidades da Federação"
+     ],
+     [
+      "aba T17",
+      "T17 TABELA 17 (Voltar ao índice) Registros de Injúria Racial Brasil e Unidades da Federação - 2017 e 2018 Brasil, União e Unidades da Federação Registros de Injúria Racial Variação (%) Ns. Absolutos Taxa  (1) Brasil Acre ... ... ... ... ... Alagoas ... ... ... ... ... Amapá Amazonas Bahia ... ... ... ... ... Ceará ... ... ... ... ... Distrito Federal ... ... ... ... ... Espírito Santo Goiás Maranhão"
+     ]
+    ],
+    "em_pagina_de_tabela_por_uf": [
+     [
+      "2019_anuario_brasileiro_seguranca_publica.pdf p. 87",
+      "Instituto de Segurança Pública/RJ (ISP). (...) Informação não disponível ( - ) Fenômeno inexistente (1) Por 100 mil habitantes TABELA 17 Registros de Injúria Racial Brasil e Unidades da Federação - 2017 e 2018 Brasil, União e Unidades da Federação Registros de Injúria Racial Variação (em %) Ns. Absolutos T"
+     ],
+     [
+      "2019_anuario_brasileiro_seguranca_publica.pdf p. 87",
+      " mil habitantes TABELA 17 Registros de Injúria Racial Brasil e Unidades da Federação - 2017 e 2018 Brasil, União e Unidades da Federação Registros de Injúria Racial Variação (em %) Ns. Absolutos Taxa (1) 2017 2018 2017 2018 Brasil 6.195 7.616 3,9 4,7 20,6 Acre ... ... ... ... ... Alagoas ... ... ... ... .."
+     ]
+    ]
+   }
+  },
+  "lidos": [
+   {
+    "arquivo": "2019_anuario_brasileiro_seguranca_publica.pdf",
+    "paginas": 218,
+    "paginas_sem_texto": [
+     10,
+     19,
+     23,
+     43,
+     47,
+     55,
+     79,
+     83,
+     89,
+     97,
+     103,
+     107,
+     131,
+     161,
+     165,
+     181,
+     187,
+     205,
+     207,
+     208
+    ],
+    "titulos_de_tabela": 135
+   },
+   {
+    "arquivo": "2019_anuario_brasileiro_seguranca_publica_planilha.xlsx",
+    "abas": 89
+   }
+  ]
+ },
+ "2020": {
+  "arquivos": [
+   "2020_anuario_brasileiro_seguranca_publica.pdf",
+   "2020_anuario_brasileiro_seguranca_publica_planilha.xlsx"
+  ],
+  "crimes": {
+   "ameaça": {
+    "situacao": "publica",
+    "onde": [
+     [
+      "p. 33",
+      "TABELA 09 Ameaça, por número de vítimas do sexo feminino – 1º semestre Brasil e Unidades da Federação – 2019-2020 Brasil e Unidades"
+     ],
+     [
+      "p. 126",
+      "TABELA 40 Ameaça - vítimas mulheres Brasil e Unidades da Federação – 2018-2019 Brasil e Unidades da Federação"
+     ],
+     [
+      "aba T9",
+      "T9 TABELA 09 (Voltar ao índice) Ameaça, por número de vítimas do sexo feminino - 1º semestre Brasil e Unidades da Federação – 2019-2020 Brasil e Unidades da Federação Ameaça (vítimas do sexo feminino) Ns. Absolutos Variação (%) 1º semestre Brasil Acre ... ... ... Alagoas ... ... ... Amapá ... ... ... Amazonas Bahia Ceará Distrito Federal Espírito Santo Goiás"
+     ],
+     [
+      "aba T40",
+      "T40 TABELA 40 (Voltar ao índice) Ameaça - vítimas mulheres Brasil e Unidades da Federação – 2018-2019 Brasil e Unidades da Federação Ameaça - somente vítimas mulheres Ns. Absolutos Taxas (1) Variação (%) Brasil Acre ... ... ... ... ... Alagoas Amapá Amazonas ... ... ... ... ... Bahia Ceará Distrito Federal ... ... ... ... ... Espírito Santo Goiás Maranhão"
+     ]
+    ],
+    "em_pagina_de_tabela_por_uf": [
+     [
+      "2020_anuario_brasileiro_seguranca_publica.pdf p. 33",
+      "33 Voltar ao Sumário Voltar ao Sumário TABELA 09 Ameaça, por número de vítimas do sexo feminino – 1º semestre Brasil e Unidades da Federação – 2019-2020 Brasil e Unidades da Federação Ameaça (vítimas do se"
+     ],
+     [
+      "2020_anuario_brasileiro_seguranca_publica.pdf p. 33",
+      "ário TABELA 09 Ameaça, por número de vítimas do sexo feminino – 1º semestre Brasil e Unidades da Federação – 2019-2020 Brasil e Unidades da Federação Ameaça (vítimas do sexo feminino) Ns. Absolutos Variação (%) 1º semestre 2019 2020 Brasil 306.216 255.003 -16,7 Acre ... ... ... Alagoas ... ... ... Amapá ."
+     ],
+     [
+      "2020_anuario_brasileiro_seguranca_publica.pdf p. 33",
+      "o sexo feminino com idades entre 18 e 59 anos. Observação: Esta versão foi modificada em 10/02/2021 a partir da retificação no número de registros de ameaça na Bahia e em Rondônia. Essas modificações têm impacto no total de vítimas do Brasil."
+     ],
+     [
+      "2020_anuario_brasileiro_seguranca_publica.pdf p. 126",
+      "126 Voltar ao Sumário Voltar ao Sumário TABELA 40 Ameaça - vítimas mulheres Brasil e Unidades da Federação – 2018-2019 Brasil e Unidades da Federação Ameaça – somente vítimas mulheres Ns. Absolutos Taxas (1"
+     ],
+     [
+      "2020_anuario_brasileiro_seguranca_publica.pdf p. 126",
+      "126 Voltar ao Sumário Voltar ao Sumário TABELA 40 Ameaça - vítimas mulheres Brasil e Unidades da Federação – 2018-2019 Brasil e Unidades da Federação Ameaça – somente vítimas mulheres Ns. Absolutos Taxas (1) Variação (%) 2018 2019 2018 2019 Brasil 448.256 503.643 484,4 528,6 9,1 Acre ... ... ... ... ... A"
+     ],
+     [
+      "2020_anuario_brasileiro_seguranca_publica.pdf p. 126",
+      "des da Federação por sexo e idade para o período 2000-2030. Observação: Esta versão foi modificada em 10/02/2021 a partir da retificação no número de ameaças registradas em Alagoas. Essas modificações têm impacto no total de ocorrências do Brasil."
+     ]
+    ]
+   },
+   "perseguição": {
+    "situacao": "nao publica"
+   },
+   "violência psicológica": {
+    "situacao": "nao publica"
+   },
+   "extorsão": {
+    "situacao": "nao publica"
+   },
+   "estelionato": {
+    "situacao": "nao publica"
+   },
+   "furto e roubo a pessoa": {
+    "situacao": "publica",
+    "onde": [
+     [
+      "aba T14",
+      "T14 TABELA 14 (Voltar ao índice) Outros roubos, por tipo - 1º semestre Brasil e Unidades da Federação – 2019-2020 Brasil e Unidades da Federação Roubo a estabelecimento comercial Roubo a residência Roubo a transeunte Roubo a instituição financeira Roubo de carga Roubo (total) Ns. Absolutos Ns. Absolutos Ns. Absolutos Ns. Absolutos Ns. Absolutos Ns. Absolutos 1º semestre 1º semestre 1º semestre 1º semestre 1º semestre 1º semestre Variação (%) Variação (%) Variação (%) Variação (%) Variação (%) Variação (%) Brasil Acre ... ... ... ... ... ... Alagoas Amapá (1) Amazonas Bahia - Ceará ... ... ... ... ... ... ... ... ... ... ... ... Distrito Federal Espírito Santo Goiás (2)"
+     ],
+     [
+      "aba T30",
+      "T30 TABELA 30 (Voltar ao índice) Outros roubos, por tipo Brasil e Unidades da Federação –  2018-2019 Brasil e Unidades da Federação Roubo a estabelecimento comercial Roubo a residência Roubo a transeunte Roubo a instituição financeira Roubo de carga Roubo (total) Ns. Abs. Taxas (1) Variação (%) Ns. Abs. Taxas (1) Variação (%) Ns. Abs. Taxas (1) Variação (%) Ns. Abs. Taxas (2) Variação (%) Ns. Abs. Taxas (1) Variação (%) Ns. Abs. Taxas (1) Variação (%) 2018 (3) 2018 (3) 2018 (3) 2018 (3) 2018 (3) 2018 (3) Brasil Acre - - - - - Alagoas Amapá Amazonas - - - Bahia Ceará Distrito Federal (4) Espírito Santo Goiás Maranhão (5)"
+     ]
+    ],
+    "em_pagina_de_tabela_por_uf": [
+     [
+      "2020_anuario_brasileiro_seguranca_publica.pdf p. 46",
+      "por tipo – 1º semestre Brasil e Unidades da Federação – 2019-2020 Brasil e Unidades da Federação Roubo a estabelecimento comercial Roubo a residência Roubo a transeunte Ns. Absolutos Ns. Absolutos Ns. Absolutos 1º semestre 1º semestre 1º semestre 2019 2020 Variação (%) 2019 2020 Variação (%) 2019 2020 Variação (%) Br"
+     ],
+     [
+      "2020_anuario_brasileiro_seguranca_publica.pdf p. 46",
+      "..) Informação não disponível. (1) Os dados referentes ao 1o semestre de 2020 não contemplam o mês de junho. (2) Os dados referentes a ocorrências de roubo de transeuntes, roubo a instituição financeira, roubo de carga e roubo total do 1o semestre de 2020 não contemplam o mês de junho. (3) Os dados referentes às ocorrê"
+     ],
+     [
+      "2020_anuario_brasileiro_seguranca_publica.pdf p. 46",
+      "instituição financeira, roubo de carga e roubo total do 1o semestre de 2020 não contemplam o mês de junho. (3) Os dados referentes às ocorrêncidas de roubos a transeuntes correspondem aos dados informados para roubos em via urbana. (4) Os dados referentes às ocorrências de roubo à instituição financeira do 1o semestre "
+     ],
+     [
+      "2020_anuario_brasileiro_seguranca_publica.pdf p. 46",
+      "ntes às ocorrências de roubo à instituição financeira do 1o semestre de 2020 não contemplam o mês de junho. (5) Os dados referentes às ocorrências de roubo a transeuntes correspondem aos dados informados para roubos ao público. (6) Os dados referentes às ocorrências de roubo a transeuntes correspondem aos dados inform"
+     ],
+     [
+      "2020_anuario_brasileiro_seguranca_publica.pdf p. 46",
+      " referentes às ocorrências de roubo a transeuntes correspondem aos dados informados para roubos ao público. (6) Os dados referentes às ocorrências de roubo a transeuntes correspondem aos dados informados para roubos em via pública. (7) Os números de ocorrências de roubo a estabelecimento comercial, roubo a residência "
+     ],
+     [
+      "2020_anuario_brasileiro_seguranca_publica.pdf p. 46",
+      "orrespondem aos dados informados para roubos em via pública. (7) Os números de ocorrências de roubo a estabelecimento comercial, roubo a residência e roubo a transeunte foram calculadas a partir das bases de dados de boletins de ocorrências fornecidas pela Secretaria de Segurança Pública do Estado de São Paulo. Obser"
+     ],
+     [
+      "2020_anuario_brasileiro_seguranca_publica.pdf p. 46",
+      "ubo a residência, roubo a instituição financeira, roubo de carga e roubo (total) na Bahia e em Rondônia, e da retificação no número de ocorrências de roubo a transeunte na Bahia. Essas modificações têm impacto no total de registros do Brasil. Continua"
+     ]
+    ]
+   },
+   "crimes contra a administração pública": {
+    "situacao": "nao publica"
+   },
+   "crimes contra a honra": {
+    "situacao": "publica",
+    "onde": [
+     [
+      "p. 106",
+      "TABELA 32 Registros de Injúria Racial e de Racismo Brasil e Unidades da Federação - 2018-2019 Brasil, União e Unidades da"
+     ],
+     [
+      "aba T32",
+      "T32 TABELA 32 (Voltar ao índice) Registros de Injúria Racial e de Racismo Brasil e Unidades da Federação - 2018-2019 Brasil, União e Unidades da Federação Registros de Injúria Racial Racismo Ns. Absolutos Taxa  (1) Variação (%) Ns. Absolutos Taxa  (1) Variação (%) Brasil Acre ... ... ... ... ... ... ... ... ... ... Alagoas Amapá Amazonas ... ... ... ... ... Bahia Ceará Distrito Federal ... ... ... ... ... ... ... ... ... ... Espírito Santo ... ... ... ... ... Goiás Maranhão (2) ... ... ... ... ..."
+     ]
+    ],
+    "em_pagina_de_tabela_por_uf": [
+     [
+      "2020_anuario_brasileiro_seguranca_publica.pdf p. 106",
+      " (1) Por 100 mil habitantes. (2) Os dados refentes a racismo são identificados como “racismo, preconceito e discriminação”. (3) Os dados referentes a injúria racial dizem respeito aos registros classificados como injúria mediante preconceito. (4) Os dados refentes a racismo são identificados como “racismo,"
+     ],
+     [
+      "2020_anuario_brasileiro_seguranca_publica.pdf p. 106",
+      "o identificados como “racismo, preconceito e discriminação”. (3) Os dados referentes a injúria racial dizem respeito aos registros classificados como injúria mediante preconceito. (4) Os dados refentes a racismo são identificados como “racismo, preconceito e discriminação”. (5) Os dados referente a injúria"
+     ],
+     [
+      "2020_anuario_brasileiro_seguranca_publica.pdf p. 106",
+      "injúria mediante preconceito. (4) Os dados refentes a racismo são identificados como “racismo, preconceito e discriminação”. (5) Os dados referente a injúria racial dizem respeito aos registros de injúria por preconceito (art. 140 § 3o do Código Penal). Os dados referentes a racismo dizem respeito aos regi"
+     ],
+     [
+      "2020_anuario_brasileiro_seguranca_publica.pdf p. 106",
+      "ntes a racismo são identificados como “racismo, preconceito e discriminação”. (5) Os dados referente a injúria racial dizem respeito aos registros de injúria por preconceito (art. 140 § 3o do Código Penal). Os dados referentes a racismo dizem respeito aos registros de preconceito de raça ou de cor (art. 1º"
+     ],
+     [
+      "2020_anuario_brasileiro_seguranca_publica.pdf p. 106",
+      "Os dados referentes a racismo dizem respeito aos registros de preconceito de raça ou de cor (art. 1º da Lei nº 7.716/1989). (6) Os dados referentes a injúria racial dizem respeito ao número de vítimas de injúria qualificada por raça, cor, etnia, religião ou origem. (7) Os dados referentes a racismo dizem r"
+     ],
+     [
+      "2020_anuario_brasileiro_seguranca_publica.pdf p. 106",
+      "tros de preconceito de raça ou de cor (art. 1º da Lei nº 7.716/1989). (6) Os dados referentes a injúria racial dizem respeito ao número de vítimas de injúria qualificada por raça, cor, etnia, religião ou origem. (7) Os dados referentes a racismo dizem respeito aos registros de preconceito de raça ou cor (L"
+     ],
+     [
+      "2020_anuario_brasileiro_seguranca_publica.pdf p. 106",
+      "registros de preconceito de raça ou cor (Lei 7.171/89). Observação: Esta versão foi modificada em 10/02/2021 a partir da retificação nos registros de injúria racial e de racismo em Alagoas e de racismo no Paraná. Essas modificações têm impacto no total de ocorrências do Brasil. TABELA 32 Registros de Injúr"
+     ],
+     [
+      "2020_anuario_brasileiro_seguranca_publica.pdf p. 106",
+      "júria racial e de racismo em Alagoas e de racismo no Paraná. Essas modificações têm impacto no total de ocorrências do Brasil. TABELA 32 Registros de Injúria Racial e de Racismo Brasil e Unidades da Federação - 2018-2019 Brasil, União e Unidades da Federação Registros de Injúria Racial Racismo Ns. Absoluto"
+     ],
+     [
+      "2020_anuario_brasileiro_seguranca_publica.pdf p. 106",
+      "sil. TABELA 32 Registros de Injúria Racial e de Racismo Brasil e Unidades da Federação - 2018-2019 Brasil, União e Unidades da Federação Registros de Injúria Racial Racismo Ns. Absolutos Taxa (1) Variação (%) Ns. Absolutos Taxa (1) Variação (%) 2018 2019 2018 2019 2018 2019 2018 2019 Brasil 9.177 11.540 4,"
+     ],
+     [
+      "2020_anuario_brasileiro_seguranca_publica.pdf p. 106",
+      "lo (7) 1.781 2.206 3,9 4,8 22,8 106 164 0,2 0,4 53,4 Sergipe ... 135 ... 5,9 ... ... 25 ... 1,1 ... Tocantins 96 132 6,2 8,4 36,0 ... ... ... ... ... Injúria racial e LGBTQI+"
+     ]
+    ]
+   }
+  },
+  "lidos": [
+   {
+    "arquivo": "2020_anuario_brasileiro_seguranca_publica.pdf",
+    "paginas": 332,
+    "paginas_sem_texto": [
+     16,
+     31,
+     37,
+     43,
+     45,
+     52,
+     61,
+     75,
+     85,
+     95,
+     97,
+     123,
+     127,
+     139,
+     140,
+     151,
+     156,
+     167,
+     179,
+     185,
+     193,
+     201,
+     205,
+     208,
+     228,
+     247,
+     253,
+     254,
+     274,
+     279,
+     280,
+     287,
+     303,
+     308,
+     313,
+     318
+    ],
+    "titulos_de_tabela": 222
+   },
+   {
+    "arquivo": "2020_anuario_brasileiro_seguranca_publica_planilha.xlsx",
+    "abas": 142
+   }
+  ]
+ },
+ "2021": {
+  "arquivos": [
+   "2021_anuario_brasileiro_seguranca_publica.pdf",
+   "2021_anuario_brasileiro_seguranca_publica_planilha.xlsx"
+  ],
+  "crimes": {
+   "ameaça": {
+    "situacao": "publica",
+    "onde": [
+     [
+      "p. 104",
+      "TABELA 26 Ameaça - vítimas mulheres Brasil e Unidades da Federação – 2019-2020 Brasil e Unidades da Federação"
+     ],
+     [
+      "aba T26",
+      "T26 TABELA 26 (Voltar ao índice) Ameaça - vítimas mulheres Brasil e Unidades da Federação – 2019-2020 Brasil e Unidades da Federação Ameaça - somente vítimas mulheres Ns. Absolutos Taxas (1) Variação (%) Brasil Acre Alagoas Amapá Amazonas Bahia Ceará Distrito Federal Espírito Santo Goiás Maranhão"
+     ]
+    ],
+    "em_pagina_de_tabela_por_uf": [
+     [
+      "2021_anuario_brasileiro_seguranca_publica.pdf p. 103",
+      "dos referem-se apenas aos municípios de Macapá e Santana. (2) A UF contabiliza as ligações registradas de natureza Violência doméstica nas categorias Ameaça a mulher e Agressão a mulher (3) A UF contabiliza as ligações registradas de natureza Violência doméstica como Violência contra a mulher. (4) Dados r"
+     ],
+     [
+      "2021_anuario_brasileiro_seguranca_publica.pdf p. 104",
+      "Anuário Brasileiro de Segurança Pública 104 TABELA 26 Ameaça - vítimas mulheres Brasil e Unidades da Federação – 2019-2020 Brasil e Unidades da Federação Ameaça - somente vítimas mulheres Ns. Absolutos Taxas (1"
+     ],
+     [
+      "2021_anuario_brasileiro_seguranca_publica.pdf p. 104",
+      "rio Brasileiro de Segurança Pública 104 TABELA 26 Ameaça - vítimas mulheres Brasil e Unidades da Federação – 2019-2020 Brasil e Unidades da Federação Ameaça - somente vítimas mulheres Ns. Absolutos Taxas (1) Variação (%) 2019 2020 2019 2020 Brasil 655.730 582.591 610,6 538,3 -11,8 Acre 1.522 1.197 345,3 2"
+     ],
+     [
+      "2021_anuario_brasileiro_seguranca_publica.pdf p. 104",
+      "Pública. (1) Taxa por 100 mil mulheres. Observação: Esta versão foi modificada em 15/07/2021 a partir da retificação nas taxas de mulheres vítimas de ameaça no Distrito Federal e no Ceará."
+     ]
+    ]
+   },
+   "perseguição": {
+    "situacao": "nao publica"
+   },
+   "violência psicológica": {
+    "situacao": "nao publica"
+   },
+   "extorsão": {
+    "situacao": "nao publica"
+   },
+   "estelionato": {
+    "situacao": "nao publica"
+   },
+   "furto e roubo a pessoa": {
+    "situacao": "publica",
+    "onde": [
+     [
+      "aba T14",
+      "T14 TABELA 14 (Voltar ao índice) Outros roubos, por tipo Brasil e Unidades da Federação –  2019-2020 Brasil e Unidades da Federação Roubo a estabelecimento comercial Roubo a residência Roubo a transeunte Roubo a instituição financeira Roubo de carga Roubo (total) Ns. Abs. Taxas (1) Variação (%) Ns. Abs. Taxas (1) Variação (%) Ns. Abs. Taxas (1) Variação (%) Ns. Abs. Taxas (2) Variação (%) Ns. Abs. Taxas (1) Variação (%) Ns. Abs. Taxas (1) Variação (%) 2019 (3) 2019 (3) 2019 (3) 2019 (3) 2019 (3) 2019 (3) Brasil Acre ... ... ... ... ... ... ... ... Alagoas - - ... Amapá Amazonas Bahia Ceará Distrito Federal - - - - ... Espírito Santo Goiás Maranhão"
+     ]
+    ],
+    "em_pagina_de_tabela_por_uf": [
+     [
+      "2021_anuario_brasileiro_seguranca_publica.pdf p. 74",
+      "utros roubos, por tipo Brasil e Unidades da Federação – 2019-2020 Brasil e Unidades da Federação Roubo a estabelecimento comercial Roubo a residência Roubo a transeunte Roubo a instituição financeira Roubo de carga Roubo (total) Ns. Abs. Taxas (1) Variação (%) Ns. Abs. Taxas (1) Variação (%) Ns. Abs. Taxas (1) Variaç"
+     ]
+    ]
+   },
+   "crimes contra a administração pública": {
+    "situacao": "nao publica"
+   },
+   "crimes contra a honra": {
+    "situacao": "publica",
+    "onde": [
+     [
+      "p. 77",
+      "TABELA 16 Registros de injúria racial e de racismo Brasil e Unidades da Federação – 2019-2020 Brasil, União e Unidades da"
+     ],
+     [
+      "aba T16",
+      "T16 TABELA 16 (Voltar ao índice) Registros de Injúria Racial e de Racismo Brasil e Unidades da Federação - 2019-2020 Brasil, União e Unidades da Federação Registros de Injúria Racial Racismo Ns. Absolutos Taxa  (1) Variação (%) Ns. Absolutos Taxa  (1) Variação (%) 2019 (2) 2019 (2) Brasil Acre ... ... ... ... ... Alagoas - - ... ... ... Amapá Amazonas ... ... Bahia Ceará Distrito Federal Espírito Santo ... ... ... ... ... Goiás Maranhão ... ... ... ... ..."
+     ]
+    ],
+    "em_pagina_de_tabela_por_uf": [
+     [
+      "2021_anuario_brasileiro_seguranca_publica.pdf p. 77",
+      "nuário Brasileiro de Segurança Pública, ano 14, 2020. (3) Os registros de racismo incluem registros de homofobia e transfobia. TABELA 16 Registros de injúria racial e de racismo Brasil e Unidades da Federação – 2019-2020 Brasil, União e Unidades da Federação Registros de Injúria Racial Racismo Ns. Absoluto"
+     ],
+     [
+      "2021_anuario_brasileiro_seguranca_publica.pdf p. 77",
+      "bia. TABELA 16 Registros de injúria racial e de racismo Brasil e Unidades da Federação – 2019-2020 Brasil, União e Unidades da Federação Registros de Injúria Racial Racismo Ns. Absolutos Taxa (1) Variação (%) Ns. Absolutos Taxa (1) Variação (%) 2019 (2) 2020 2019 2020 2019 (2) 2020 2019 2020 Brasil 12.357 "
+     ]
+    ]
+   }
+  },
+  "lidos": [
+   {
+    "arquivo": "2021_anuario_brasileiro_seguranca_publica.pdf",
+    "paginas": 380,
+    "paginas_sem_texto": [
+     17,
+     72,
+     85,
+     149,
+     168,
+     191,
+     214,
+     351
+    ],
+    "titulos_de_tabela": 345
+   },
+   {
+    "arquivo": "2021_anuario_brasileiro_seguranca_publica_planilha.xlsx",
+    "abas": 222
+   }
+  ]
+ },
+ "2022": {
+  "arquivos": [
+   "2022_anuario_brasileiro_seguranca_publica.pdf",
+   "2022_anuario_brasileiro_seguranca_publica_planilha.xlsx"
+  ],
+  "crimes": {
+   "ameaça": {
+    "situacao": "publica",
+    "onde": [
+     [
+      "p. 163",
+      "TABELA 28 Ameaça - vítimas mulheres Brasil e Unidades da Federação – 2020-2021 Brasil e Unidades da Federação"
+     ],
+     [
+      "aba T28",
+      "T28 TABELA 28 (Voltar ao índice) Ameaça - vítimas mulheres Brasil e Unidades da Federação – 2020-2021 Brasil e Unidades da Federação Ameaça - somente vítimas mulheres Ns. Absolutos Taxas (1) Variação (%) 2020 (2) Brasil Acre Alagoas Amapá Amazonas Bahia Ceará Distrito Federal Espírito Santo Goiás Maranhão"
+     ]
+    ],
+    "em_pagina_de_tabela_por_uf": [
+     [
+      "2022_anuario_brasileiro_seguranca_publica.pdf p. 162",
+      "s referem-se apenas aos municípios de Macapá e Santana. (4) As ligações registradas de natureza Violência doméstica são contabilizadas nas categorias Ameaça a mulher e Agressão a mulher. (5) O dado de chamadas 190 - Violência doméstica refere-se ao periodo de agosto a dezembro, quando a categoria passou a"
+     ],
+     [
+      "2022_anuario_brasileiro_seguranca_publica.pdf p. 163",
+      "TABELA 28 Ameaça - vítimas mulheres Brasil e Unidades da Federação – 2020-2021 Brasil e Unidades da Federação Ameaça - somente vítimas mulheres Ns. Absolutos Taxas (1"
+     ],
+     [
+      "2022_anuario_brasileiro_seguranca_publica.pdf p. 163",
+      "TABELA 28 Ameaça - vítimas mulheres Brasil e Unidades da Federação – 2020-2021 Brasil e Unidades da Federação Ameaça - somente vítimas mulheres Ns. Absolutos Taxas (1) Variação (%) 2020 (2) 2021 2020 2021 Brasil 574.420 597.623 530,7 548,0 3,3 Acre 1.107 1.779 247,6"
+     ],
+     [
+      "2022_anuario_brasileiro_seguranca_publica.pdf p. 183",
+      "se à categoria prevista no Art. 147-A, em redação dada pela Lei 14.132/2021, que a define como “Perseguir alguém, reiteradamente e por qualquer meio, ameaçando-lhe a integridade física ou psicológica, restringindo-lhe a capacidade de locomoção ou, de qualquer forma, invadindo ou perturbando sua esfera de "
+     ],
+     [
+      "2022_anuario_brasileiro_seguranca_publica.pdf p. 183",
+      " que a prejudique e perturbe seu pleno desenvolvimento ou que vise a degradar ou a controlar suas ações, comportamentos, crenças e decisões, mediante ameaça, constrangimento, humilhação, manipulação, isolamento, chantagem, ridicularização, limitação do direito de ir e vir ou qualquer outro meio que cause "
+     ]
+    ]
+   },
+   "perseguição": {
+    "situacao": "publica",
+    "onde": [
+     [
+      "p. 183",
+      "TABELA 33 Perseguição (stalking) e Violência Psicológica - vítimas mulheres Brasil e Unidades da Federação – 2020-2021 Brasil e Unidades da Federação"
+     ],
+     [
+      "aba T33",
+      "T33 TABELA 33 (Voltar ao índice) Perseguição (stalking) e Violência Psicológica - vítimas mulheres Brasil e Unidades da Federação – 2020-2021 Brasil e Unidades da Federação Perseguição (stalking) (1) Violência Psicológica (2) Ns. Absolutos Taxas (3) Ns. Absolutos Taxas (3) Brasil Acre - - - - Alagoas Amapá - - Amazonas ... ... ... ... ... ... ... ... Bahia ... ... ... ... ... ... ... ... Ceará (4) (5) ... ... ... ... Distrito Federal Espírito Santo (4) (6) ... ... ... ... Goiás Maranhão ... ... ... ..."
+     ]
+    ],
+    "em_pagina_de_tabela_por_uf": [
+     [
+      "2022_anuario_brasileiro_seguranca_publica.pdf p. 183",
+      "TABELA 33 Perseguição (stalking) e Violência Psicológica - vítimas mulheres Brasil e Unidades da Federação – 2020-2021 Brasil e Unidades da Federação Perseguição (stalking"
+     ],
+     [
+      "2022_anuario_brasileiro_seguranca_publica.pdf p. 183",
+      "TABELA 33 Perseguição (stalking) e Violência Psicológica - vítimas mulheres Brasil e Unidades da Federação – 2020-2021 Brasil e Unidades da Federação Perseguição (stalking) (1) Viol"
+     ],
+     [
+      "2022_anuario_brasileiro_seguranca_publica.pdf p. 183",
+      "TABELA 33 Perseguição (stalking) e Violência Psicológica - vítimas mulheres Brasil e Unidades da Federação – 2020-2021 Brasil e Unidades da Federação Perseguição (stalking) (1) Violência Psicológica (2) Ns. Absolutos Taxas (3) Ns. Absolutos Taxas (3) 2020 2021 2020 2021 2020 2021 2020 2021 Brasil 173 27.722 0,"
+     ],
+     [
+      "2022_anuario_brasileiro_seguranca_publica.pdf p. 183",
+      "seguição (stalking) e Violência Psicológica - vítimas mulheres Brasil e Unidades da Federação – 2020-2021 Brasil e Unidades da Federação Perseguição (stalking) (1) Violência Psicológica (2) Ns. Absolutos Taxas (3) Ns. Absolutos Taxas (3) 2020 2021 2020 2021 2020 2021 2020 2021 Brasil 173 27.722 0,5 35,8 720"
+     ],
+     [
+      "2022_anuario_brasileiro_seguranca_publica.pdf p. 183",
+      "ito de ir e vir ou qualquer outro meio que cause prejuízo à sua saúde psicológica e autodeterminação.” (3) Taxa por 100 mil mulheres. (4) A categoria Perseguição (stalking) passou a ser contabilizada apenas em 2021. (5) O dado de Violência psicológica refere-se ao período de agosto a dezembro de 2021, quando a"
+     ],
+     [
+      "2022_anuario_brasileiro_seguranca_publica.pdf p. 183",
+      "ir ou qualquer outro meio que cause prejuízo à sua saúde psicológica e autodeterminação.” (3) Taxa por 100 mil mulheres. (4) A categoria Perseguição (stalking) passou a ser contabilizada apenas em 2021. (5) O dado de Violência psicológica refere-se ao período de agosto a dezembro de 2021, quando a categoria"
+     ],
+     [
+      "2022_anuario_brasileiro_seguranca_publica.pdf p. 183",
+      "2021, quando a categoria passou a ser contabilizada. (6) A categoria Violência psicológica passou a ser contabilizada apenas em 2021. (7) Os dados de Perseguição (stalking) referem-se ao período de junho a dezembro de 2021. (8) A categoria Perseguição (stalking) passou a ser contabilizada apenas em setembro de"
+     ],
+     [
+      "2022_anuario_brasileiro_seguranca_publica.pdf p. 183",
+      "a categoria passou a ser contabilizada. (6) A categoria Violência psicológica passou a ser contabilizada apenas em 2021. (7) Os dados de Perseguição (stalking) referem-se ao período de junho a dezembro de 2021. (8) A categoria Perseguição (stalking) passou a ser contabilizada apenas em setembro de 2021. de "
+     ],
+     [
+      "2022_anuario_brasileiro_seguranca_publica.pdf p. 183",
+      " passou a ser contabilizada apenas em 2021. (7) Os dados de Perseguição (stalking) referem-se ao período de junho a dezembro de 2021. (8) A categoria Perseguição (stalking) passou a ser contabilizada apenas em setembro de 2021. de Segurança Pública Anuário Brasileiro 2022 183 Sumário"
+     ],
+     [
+      "2022_anuario_brasileiro_seguranca_publica.pdf p. 183",
+      " contabilizada apenas em 2021. (7) Os dados de Perseguição (stalking) referem-se ao período de junho a dezembro de 2021. (8) A categoria Perseguição (stalking) passou a ser contabilizada apenas em setembro de 2021. de Segurança Pública Anuário Brasileiro 2022 183 Sumário"
+     ]
+    ]
+   },
+   "violência psicológica": {
+    "situacao": "publica",
+    "onde": [
+     [
+      "p. 183",
+      "TABELA 33 Perseguição (stalking) e Violência Psicológica - vítimas mulheres Brasil e Unidades da Federação – 2020-2021 Brasil e Unidades da Federação"
+     ],
+     [
+      "aba T33",
+      "T33 TABELA 33 (Voltar ao índice) Perseguição (stalking) e Violência Psicológica - vítimas mulheres Brasil e Unidades da Federação – 2020-2021 Brasil e Unidades da Federação Perseguição (stalking) (1) Violência Psicológica (2) Ns. Absolutos Taxas (3) Ns. Absolutos Taxas (3) Brasil Acre - - - - Alagoas Amapá - - Amazonas ... ... ... ... ... ... ... ... Bahia ... ... ... ... ... ... ... ... Ceará (4) (5) ... ... ... ... Distrito Federal Espírito Santo (4) (6) ... ... ... ... Goiás Maranhão ... ... ... ..."
+     ]
+    ],
+    "em_pagina_de_tabela_por_uf": [
+     [
+      "2022_anuario_brasileiro_seguranca_publica.pdf p. 183",
+      "TABELA 33 Perseguição (stalking) e Violência Psicológica - vítimas mulheres Brasil e Unidades da Federação – 2020-2021 Brasil e Unidades da Federação Perseguição (stalking) (1) Violência Psicológica (2) Ns."
+     ],
+     [
+      "2022_anuario_brasileiro_seguranca_publica.pdf p. 183",
+      "king) e Violência Psicológica - vítimas mulheres Brasil e Unidades da Federação – 2020-2021 Brasil e Unidades da Federação Perseguição (stalking) (1) Violência Psicológica (2) Ns. Absolutos Taxas (3) Ns. Absolutos Taxas (3) 2020 2021 2020 2021 2020 2021 2020 2021 Brasil 173 27.722 0,5 35,8 720 8.390 2,0 17,6 Acre - 146 "
+     ],
+     [
+      "2022_anuario_brasileiro_seguranca_publica.pdf p. 183",
+      "a e autodeterminação.” (3) Taxa por 100 mil mulheres. (4) A categoria Perseguição (stalking) passou a ser contabilizada apenas em 2021. (5) O dado de Violência psicológica refere-se ao período de agosto a dezembro de 2021, quando a categoria passou a ser contabilizada. (6) A categoria Violência psicológica passou a ser "
+     ],
+     [
+      "2022_anuario_brasileiro_seguranca_publica.pdf p. 183",
+      "(5) O dado de Violência psicológica refere-se ao período de agosto a dezembro de 2021, quando a categoria passou a ser contabilizada. (6) A categoria Violência psicológica passou a ser contabilizada apenas em 2021. (7) Os dados de Perseguição (stalking) referem-se ao período de junho a dezembro de 2021. (8) A categoria "
+     ]
+    ]
+   },
+   "extorsão": {
+    "situacao": "nao publica"
+   },
+   "estelionato": {
+    "situacao": "publica",
+    "onde": [
+     [
+      "p. 110",
+      "TABELA 15 Estelionato e Estelionato por meio eletrônico (1) Brasil e Unidades da Federação – 2018-2021 Brasil e Unidades da Federação"
+     ],
+     [
+      "aba T15",
+      "T15 TABELA 15 (Voltar ao índice) Estelionato e Estelionato por meio eletrônico (1) Brasil e Unidades da Federação – 2018-2021 Brasil e Unidades da Federação Estelionato Estelionato por meio eletrônico Ns. Absolutos Taxas (2) Variação 2018-2021 (%) Ns. Absolutos Taxas (2) Variação 2018-2021 (%) Brasil Acre Alagoas Amapá (3) (4) ... ... ... ... ... Amazonas ... ... ... ... ... ... ... ... ... Bahia ... ... ... ... ... ... ... ... ... Ceará ... ... ... ... ... ... ... ... ... Distrito Federal Espírito Santo (5) ... ... ... ... ... ... ... ... ... Goiás"
+     ]
+    ],
+    "em_pagina_de_tabela_por_uf": [
+     [
+      "2022_anuario_brasileiro_seguranca_publica.pdf p. 110",
+      "TABELA 15 Estelionato e Estelionato por meio eletrônico (1) Brasil e Unidades da Federação – 2018-2021 Brasil e Unidades da Federação Estelionato Ns. Absolutos Taxas (2) V"
+     ],
+     [
+      "2022_anuario_brasileiro_seguranca_publica.pdf p. 110",
+      "TABELA 15 Estelionato e Estelionato por meio eletrônico (1) Brasil e Unidades da Federação – 2018-2021 Brasil e Unidades da Federação Estelionato Ns. Absolutos Taxas (2) Variação 2018- "
+     ],
+     [
+      "2022_anuario_brasileiro_seguranca_publica.pdf p. 110",
+      "TABELA 15 Estelionato e Estelionato por meio eletrônico (1) Brasil e Unidades da Federação – 2018-2021 Brasil e Unidades da Federação Estelionato Ns. Absolutos Taxas (2) Variação 2018- 2021 (%) 2018 2019 2020 2021 2018 2019 2020 2021 Brasil 426.799 523.820 927.898 1.265.073 211,9 257,9 438,2 59"
+     ]
+    ]
+   },
+   "furto e roubo a pessoa": {
+    "situacao": "publica",
+    "onde": [
+     [
+      "p. 106",
+      "TABELA 14 Roubo e furto de celulares Brasil e Unidades da Federação – 2018-2021 Brasil e Unidades da Federação"
+     ],
+     [
+      "aba T14",
+      "T14 TABELA 14 (Voltar ao índice) Roubo e furto de celulares Brasil e Unidades da Federação – 2018-2021 Brasil e Unidades da Federação Roubo de celulares Furto de celulares Roubo e Furto de celulares Ns. Absolutos Taxas (1) Variação 2018-2021 (%) Ns. Absolutos Taxas (1) Variação 2018-2021 (%) Ns. Absolutos Taxas (1) Variação 2018-2021 (%) Brasil Acre Alagoas Amapá ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... Amazonas Bahia (3) Ceará Distrito Federal (2) Espírito Santo Goiás"
+     ],
+     [
+      "aba T16",
+      "T16 TABELA 16 (Voltar ao índice) Outros roubos, por tipo Brasil e Unidades da Federação –  2020-2021 Brasil e Unidades da Federação Roubo a estabelecimento comercial Roubo a residência Roubo a transeunte Roubo a instituição financeira Roubo de carga Roubo (total) Ns. Abs. Taxas (1) Variação (%) Ns. Abs. Taxas (1) Variação (%) Ns. Abs. Taxas (1) Variação (%) Ns. Abs. Taxas (2) Variação (%) Ns. Abs. Taxas (1) Variação (%) Ns. Abs. Taxas (1) Variação (%) 2020 (3) 2020 (3) 2020 (3) 2020 (3) 2020 (3) 2020 (3) Brasil Acre ... ... ... ... ... - - ... Alagoas - - ... Amapá (4) ... ... ... ... ... Amazonas Bahia Ceará Distrito Federal - - - - - Espírito Santo Goiás Maranhão"
+     ]
+    ],
+    "em_pagina_de_tabela_por_uf": [
+     [
+      "2022_anuario_brasileiro_seguranca_publica.pdf p. 106",
+      "TABELA 14 Roubo e furto de celulares Brasil e Unidades da Federação – 2018-2021 Brasil e Unidades da Federação Roubo de celulares Ns. Absolutos Taxas (1) Variação 2018- 2021 (%) 2018 2"
+     ],
+     [
+      "2022_anuario_brasileiro_seguranca_publica.pdf p. 106",
+      "TABELA 14 Roubo e furto de celulares Brasil e Unidades da Federação – 2018-2021 Brasil e Unidades da Federação Roubo de celulares Ns. Absolutos Taxas (1) Variação 2018- 2021 (%) 2018 2019 2020 2021 2018 2019 2020 2021 Brasil 560.585 579.486 478.949 481.694 289,6 297,1 226,2 22"
+     ],
+     [
+      "2022_anuario_brasileiro_seguranca_publica.pdf p. 114",
+      " por 100 instituições financeiras. (3) Atualização das informações publicadas no Anuário Brasileiro de Segurança Pública, ano 15, 2021. (4) O dado de roubo a transeunte refere-se ao roubo em via pública. (5) O dado de roubo a instituição financeira inclui “Roubo a banco”, “Roubo de caixa eletrônico” e “Roubo a veícul"
+     ]
+    ]
+   },
+   "crimes contra a administração pública": {
+    "situacao": "nao publica"
+   },
+   "crimes contra a honra": {
+    "situacao": "publica",
+    "onde": [
+     [
+      "p. 126",
+      "TABELA 18 Registros de Injúria Racial, Racismo e Racismo por homofobia ou transfobia Brasil e Unidades da Federação - 2020-2021 Brasil e Unidades da Federação"
+     ],
+     [
+      "aba T18",
+      "T18 TABELA 18 (Voltar ao índice) Registros de Injúria Racial, Racismo e Racismo por homofobia ou transfobia Brasil e Unidades da Federação - 2020-2021 Brasil e Unidades da Federação Registros de Injúria Racial Racismo Racismo por homofobia ou transfobia Ns. Absolutos Taxa  (1) Variação (%) Ns. Absolutos Taxa  (1) Variação (%) Ns. Absolutos Taxa  (1) Variação (%) 2020 (2) 2020 (2) Brasil Acre - - - - - Alagoas Amapá (3) Amazonas ... ... ... ... ... Bahia ... ... ... ... ... ... ... ... ... ... Ceará ... ... ... ... ... Distrito Federal Espírito Santo ... ... ... ... ... Goiás Maranhão ... ... ... ... ..."
+     ]
+    ],
+    "em_pagina_de_tabela_por_uf": [
+     [
+      "2022_anuario_brasileiro_seguranca_publica.pdf p. 126",
+      "TABELA 18 Registros de Injúria Racial, Racismo e Racismo por homofobia ou transfobia Brasil e Unidades da Federação - 2020-2021 Brasil e Unidades da Federação Registros de Injúria "
+     ],
+     [
+      "2022_anuario_brasileiro_seguranca_publica.pdf p. 126",
+      " Injúria Racial, Racismo e Racismo por homofobia ou transfobia Brasil e Unidades da Federação - 2020-2021 Brasil e Unidades da Federação Registros de Injúria Racial Racismo Ns. Absolutos Taxa (1) Variação (%) Ns. Absolutos Taxa (1) Variação (%) 2020 (2) 2021 2020 2021 2020 (2) 2021 2020 2021 Brasil 14.402 "
+     ]
+    ]
+   }
+  },
+  "lidos": [
+   {
+    "arquivo": "2022_anuario_brasileiro_seguranca_publica.pdf",
+    "paginas": 516,
+    "paginas_sem_texto": [
+     19,
+     59,
+     93,
+     125,
+     141,
+     147,
+     255,
+     270,
+     271,
+     306,
+     307,
+     326,
+     327,
+     369,
+     378,
+     379,
+     436,
+     437,
+     455,
+     486,
+     487,
+     514,
+     515,
+     516
+    ],
+    "titulos_de_tabela": 285
+   },
+   {
+    "arquivo": "2022_anuario_brasileiro_seguranca_publica_planilha.xlsx",
+    "abas": 182
+   }
+  ]
+ },
+ "2023": {
+  "arquivos": [
+   "2023_anuario_brasileiro_seguranca_publica.pdf",
+   "2023_anuario_brasileiro_seguranca_publica_planilha.xlsx",
+   "2023_anuario_brasileiro_seguranca_publica.pdf",
+   "2023_anuario_brasileiro_seguranca_publica_planilha.xlsx"
+  ],
+  "crimes": {
+   "ameaça": {
+    "situacao": "publica",
+    "onde": [
+     [
+      "p. 133",
+      "TABELA 32 Ameaça - vítimas mulheres Brasil e Unidades da Federação – 2021-2022 Brasil e Unidades da Federação"
+     ],
+     [
+      "aba T32",
+      "T32 TABELA 32 (Voltar ao índice) Ameaça - vítimas mulheres Brasil e Unidades da Federação – 2021-2022 Brasil e Unidades da Federação Ameaça - somente vítimas mulheres Ns. Absolutos Taxas (1) Variação (%) 2021 (2) Brasil Acre Alagoas Amapá Amazonas Bahia Ceará Distrito Federal Espírito Santo Goiás Maranhão"
+     ],
+     [
+      "aba T105",
+      "T105 TABELA 105 (Voltar ao índice) Percepção de diretores sobre a ocorrência de situações de violência na escola em que trabalham: Bullying (1) Brasil e Unidades da Federação –  2021 Brasil e Unidades da Federação Bullying (ameaças ou ofensas verbais) Nunca Poucas vezes Várias vezes Sem resposta Total Ns. Abs. % Ns. Abs. % Ns. Abs. % Ns. Abs. % Ns. Abs. Brasil Acre Alagoas Amapá Amazonas Bahia Ceará Distrito Federal Espírito Santo Goiás Maranhão"
+     ],
+     [
+      "p. 133",
+      "TABELA 32 Ameaça - vítimas mulheres Brasil e Unidades da Federação – 2021-2022 Brasil e Unidades da Federação"
+     ],
+     [
+      "aba T32",
+      "T32 TABELA 32 (Voltar ao índice) Ameaça - vítimas mulheres Brasil e Unidades da Federação – 2021-2022 Brasil e Unidades da Federação Ameaça - somente vítimas mulheres Ns. Absolutos Taxas (1) Variação (%) 2021 (2) Brasil Acre Alagoas Amapá Amazonas Bahia Ceará Distrito Federal Espírito Santo Goiás Maranhão"
+     ],
+     [
+      "aba T105",
+      "T105 TABELA 105 (Voltar ao índice) Percepção de diretores sobre a ocorrência de situações de violência na escola em que trabalham: Bullying (1) Brasil e Unidades da Federação –  2021 Brasil e Unidades da Federação Bullying (ameaças ou ofensas verbais) Nunca Poucas vezes Várias vezes Sem resposta Total Ns. Abs. % Ns. Abs. % Ns. Abs. % Ns. Abs. % Ns. Abs. Brasil Acre Alagoas Amapá Amazonas Bahia Ceará Distrito Federal Espírito Santo Goiás Maranhão"
+     ]
+    ],
+    "em_pagina_de_tabela_por_uf": [
+     [
+      "2023_anuario_brasileiro_seguranca_publica.pdf p. 132",
+      "ncia doméstica refere-se apenas ao município de Macapá. (3) As ligações registradas de natureza Violência doméstica são contabilizadas nas categorias Ameaça a mulher, Agressão a mulher, Descumprimento de medida protetiva, Atendimento Secretaria de Políticas para Muheres (SPM) e Informações SPM. (4) As lig"
+     ],
+     [
+      "2023_anuario_brasileiro_seguranca_publica.pdf p. 133",
+      "TABELA 32 Ameaça - vítimas mulheres Brasil e Unidades da Federação – 2021-2022 Brasil e Unidades da Federação Ameaça - somente vítimas mulheres Ns. Absolutos Taxas (1"
+     ],
+     [
+      "2023_anuario_brasileiro_seguranca_publica.pdf p. 133",
+      "TABELA 32 Ameaça - vítimas mulheres Brasil e Unidades da Federação – 2021-2022 Brasil e Unidades da Federação Ameaça - somente vítimas mulheres Ns. Absolutos Taxas (1) Variação (%) 2021 (2) 2022 2021 2022 Brasil 569.231 613.529 551,2 591,0 7,2 Acre 1.883 2.494 458,1"
+     ],
+     [
+      "2023_anuario_brasileiro_seguranca_publica.pdf p. 134",
+      "se à categoria prevista no Art. 147-A, em redação dada pela Lei 14.132/2021, que a define como “Perseguir alguém, reiteradamente e por qualquer meio, ameaçando-lhe a integridade física ou psicológica, restringindo-lhe a capacidade de locomoção ou, de qualquer forma, invadindo ou perturbando sua esfera de "
+     ],
+     [
+      "2023_anuario_brasileiro_seguranca_publica.pdf p. 134",
+      " que a prejudique e perturbe seu pleno desenvolvimento ou que vise a degradar ou a controlar suas ações, comportamentos, crenças e decisões, mediante ameaça, constrangimento, humilhação, manipulação, isolamento, chantagem, ridicularização, limitação do direito de ir e vir ou qualquer outro meio que cause "
+     ],
+     [
+      "2023_anuario_brasileiro_seguranca_publica.pdf p. 346",
+      "cia de situações de violência na escola em que trabalham: Bullying (1) Brasil e Unidades da Federação – 2021 Brasil e Unidades da Federação Bullying (ameaças ou ofensas verbais) Nunca Poucas vezes Várias vezes Sem resposta Total Ns. Abs. % Ns. Abs. % Ns. Abs. % Ns. Abs. % Ns. Abs. Brasil 35.684 47,9 26.63"
+     ],
+     [
+      "2023_anuario_brasileiro_seguranca_publica.pdf p. 346",
+      "rança Pública. (1) Respostas à questão “Sobre os episódios listados abaixo, indique a frequência com que ocorreram neste ano, nesta escola: Bullying (ameaças ou ofensas verbais).” de Segurança Pública Anuário Brasileiro 2023 346 Sumário"
+     ],
+     [
+      "2023_anuario_brasileiro_seguranca_publica.pdf p. 132",
+      "ncia doméstica refere-se apenas ao município de Macapá. (3) As ligações registradas de natureza Violência doméstica são contabilizadas nas categorias Ameaça a mulher, Agressão a mulher, Descumprimento de medida protetiva, Atendimento Secretaria de Políticas para Muheres (SPM) e Informações SPM. (4) As lig"
+     ],
+     [
+      "2023_anuario_brasileiro_seguranca_publica.pdf p. 133",
+      "TABELA 32 Ameaça - vítimas mulheres Brasil e Unidades da Federação – 2021-2022 Brasil e Unidades da Federação Ameaça - somente vítimas mulheres Ns. Absolutos Taxas (1"
+     ],
+     [
+      "2023_anuario_brasileiro_seguranca_publica.pdf p. 133",
+      "TABELA 32 Ameaça - vítimas mulheres Brasil e Unidades da Federação – 2021-2022 Brasil e Unidades da Federação Ameaça - somente vítimas mulheres Ns. Absolutos Taxas (1) Variação (%) 2021 (2) 2022 2021 2022 Brasil 569.231 613.529 551,2 591,0 7,2 Acre 1.883 2.494 458,1"
+     ],
+     [
+      "2023_anuario_brasileiro_seguranca_publica.pdf p. 134",
+      "se à categoria prevista no Art. 147-A, em redação dada pela Lei 14.132/2021, que a define como “Perseguir alguém, reiteradamente e por qualquer meio, ameaçando-lhe a integridade física ou psicológica, restringindo-lhe a capacidade de locomoção ou, de qualquer forma, invadindo ou perturbando sua esfera de "
+     ],
+     [
+      "2023_anuario_brasileiro_seguranca_publica.pdf p. 134",
+      " que a prejudique e perturbe seu pleno desenvolvimento ou que vise a degradar ou a controlar suas ações, comportamentos, crenças e decisões, mediante ameaça, constrangimento, humilhação, manipulação, isolamento, chantagem, ridicularização, limitação do direito de ir e vir ou qualquer outro meio que cause "
+     ],
+     [
+      "2023_anuario_brasileiro_seguranca_publica.pdf p. 346",
+      "cia de situações de violência na escola em que trabalham: Bullying (1) Brasil e Unidades da Federação – 2021 Brasil e Unidades da Federação Bullying (ameaças ou ofensas verbais) Nunca Poucas vezes Várias vezes Sem resposta Total Ns. Abs. % Ns. Abs. % Ns. Abs. % Ns. Abs. % Ns. Abs. Brasil 35.684 47,9 26.63"
+     ],
+     [
+      "2023_anuario_brasileiro_seguranca_publica.pdf p. 346",
+      "rança Pública. (1) Respostas à questão “Sobre os episódios listados abaixo, indique a frequência com que ocorreram neste ano, nesta escola: Bullying (ameaças ou ofensas verbais).” de Segurança Pública Anuário Brasileiro 2023 346 Sumário"
+     ]
+    ]
+   },
+   "perseguição": {
+    "situacao": "publica",
+    "onde": [
+     [
+      "p. 134",
+      "TABELA 33 Perseguição (stalking) e Violência Psicológica - vítimas mulheres Brasil e Unidades da Federação – 2021-2022 Brasil e Unidades da Federação"
+     ],
+     [
+      "aba T33",
+      "T33 TABELA 33 (Voltar ao índice) Perseguição (stalking) e Violência Psicológica - vítimas mulheres Brasil e Unidades da Federação – 2021-2022 Brasil e Unidades da Federação Perseguição (stalking) (1) Violência Psicológica (2) Ns. Absolutos Taxas (3) Ns. Absolutos Taxas (3) 2021 (4) 2021 (4) Brasil Acre - - - - Alagoas Amapá Amazonas Bahia (5) ... ... ... ... Ceará (6) (7) Distrito Federal Espírito Santo Goiás Maranhão"
+     ],
+     [
+      "p. 134",
+      "TABELA 33 Perseguição (stalking) e Violência Psicológica - vítimas mulheres Brasil e Unidades da Federação – 2021-2022 Brasil e Unidades da Federação"
+     ],
+     [
+      "aba T33",
+      "T33 TABELA 33 (Voltar ao índice) Perseguição (stalking) e Violência Psicológica - vítimas mulheres Brasil e Unidades da Federação – 2021-2022 Brasil e Unidades da Federação Perseguição (stalking) (1) Violência Psicológica (2) Ns. Absolutos Taxas (3) Ns. Absolutos Taxas (3) 2021 (4) 2021 (4) Brasil Acre - - - - Alagoas Amapá Amazonas Bahia (5) ... ... ... ... Ceará (6) (7) Distrito Federal Espírito Santo Goiás Maranhão"
+     ]
+    ],
+    "em_pagina_de_tabela_por_uf": [
+     [
+      "2023_anuario_brasileiro_seguranca_publica.pdf p. 134",
+      "TABELA 33 Perseguição (stalking) e Violência Psicológica - vítimas mulheres Brasil e Unidades da Federação – 2021-2022 Brasil e Unidades da Federação Perseguição (stalking"
+     ],
+     [
+      "2023_anuario_brasileiro_seguranca_publica.pdf p. 134",
+      "TABELA 33 Perseguição (stalking) e Violência Psicológica - vítimas mulheres Brasil e Unidades da Federação – 2021-2022 Brasil e Unidades da Federação Perseguição (stalking) (1) Viol"
+     ],
+     [
+      "2023_anuario_brasileiro_seguranca_publica.pdf p. 134",
+      "TABELA 33 Perseguição (stalking) e Violência Psicológica - vítimas mulheres Brasil e Unidades da Federação – 2021-2022 Brasil e Unidades da Federação Perseguição (stalking) (1) Violência Psicológica (2) Ns. Absolutos Taxas (3) Ns. Absolutos Taxas (3) 2021 (4) 2022 2021 2022 2021 (4) 2022 2021 2022 Brasil 31.38"
+     ],
+     [
+      "2023_anuario_brasileiro_seguranca_publica.pdf p. 134",
+      "seguição (stalking) e Violência Psicológica - vítimas mulheres Brasil e Unidades da Federação – 2021-2022 Brasil e Unidades da Federação Perseguição (stalking) (1) Violência Psicológica (2) Ns. Absolutos Taxas (3) Ns. Absolutos Taxas (3) 2021 (4) 2022 2021 2022 2021 (4) 2022 2021 2022 Brasil 31.389 56.560 3"
+     ],
+     [
+      "2023_anuario_brasileiro_seguranca_publica.pdf p. 134",
+      "axa por 100 mil mulheres. (4) Atualização das informações publicadas no Anuário Brasileiro de Segurança Pública, ano 16, 2022. (5) Em 2021, o dado de Perseguição (stalking) refere-se ao período de julho a dezembro. (6) Em 2021, o dado de Perseguição (stalking) refere-se ao período de junho a dezembro. (7) Em 2"
+     ],
+     [
+      "2023_anuario_brasileiro_seguranca_publica.pdf p. 134",
+      "il mulheres. (4) Atualização das informações publicadas no Anuário Brasileiro de Segurança Pública, ano 16, 2022. (5) Em 2021, o dado de Perseguição (stalking) refere-se ao período de julho a dezembro. (6) Em 2021, o dado de Perseguição (stalking) refere-se ao período de junho a dezembro. (7) Em 2021, o dad"
+     ],
+     [
+      "2023_anuario_brasileiro_seguranca_publica.pdf p. 134",
+      "ro de Segurança Pública, ano 16, 2022. (5) Em 2021, o dado de Perseguição (stalking) refere-se ao período de julho a dezembro. (6) Em 2021, o dado de Perseguição (stalking) refere-se ao período de junho a dezembro. (7) Em 2021, o dado de Violência psicológica refere-se ao período de agosto a dezembro. (8) Em 2"
+     ],
+     [
+      "2023_anuario_brasileiro_seguranca_publica.pdf p. 134",
+      "ça Pública, ano 16, 2022. (5) Em 2021, o dado de Perseguição (stalking) refere-se ao período de julho a dezembro. (6) Em 2021, o dado de Perseguição (stalking) refere-se ao período de junho a dezembro. (7) Em 2021, o dado de Violência psicológica refere-se ao período de agosto a dezembro. (8) Em 2021, o dad"
+     ],
+     [
+      "2023_anuario_brasileiro_seguranca_publica.pdf p. 134",
+      "ere-se ao período de junho a dezembro. (7) Em 2021, o dado de Violência psicológica refere-se ao período de agosto a dezembro. (8) Em 2021, o dado de Perseguição (stalking) refere-se ao período de outubro a dezembro. (9) Em 2022, o dado de Violência psicológica refere-se ao período de março a dezembro. (10) Em"
+     ],
+     [
+      "2023_anuario_brasileiro_seguranca_publica.pdf p. 134",
+      "íodo de junho a dezembro. (7) Em 2021, o dado de Violência psicológica refere-se ao período de agosto a dezembro. (8) Em 2021, o dado de Perseguição (stalking) refere-se ao período de outubro a dezembro. (9) Em 2022, o dado de Violência psicológica refere-se ao período de março a dezembro. (10) Em 2022, o d"
+     ],
+     [
+      "2023_anuario_brasileiro_seguranca_publica.pdf p. 134",
+      "se ao período de março a dezembro. (10) Em 2022, o dado de Violência psicológica refere-se ao período de setembro a dezembro. (11) Em 2021, o dado de Perseguição (stalking) refere-se ao período de setembro a dezembro. (12) Dados consultados no painel de Estatísticas do Núcleo de Coleta e Análise Estatística da"
+     ],
+     [
+      "2023_anuario_brasileiro_seguranca_publica.pdf p. 134",
+      " de março a dezembro. (10) Em 2022, o dado de Violência psicológica refere-se ao período de setembro a dezembro. (11) Em 2021, o dado de Perseguição (stalking) refere-se ao período de setembro a dezembro. (12) Dados consultados no painel de Estatísticas do Núcleo de Coleta e Análise Estatística da Secretari"
+     ],
+     [
+      "2023_anuario_brasileiro_seguranca_publica.pdf p. 134",
+      "Secretaria da Segurança Pública do Tocantins em 29/06/2023. Observação: Esta versão foi modificada em 21/07/2023 a partir da retificação dos dados de Perseguição (stalking) no Estado do Rio de Janeiro. de Segurança Pública Anuário Brasileiro 2023 134 Sumário"
+     ],
+     [
+      "2023_anuario_brasileiro_seguranca_publica.pdf p. 134",
+      " Segurança Pública do Tocantins em 29/06/2023. Observação: Esta versão foi modificada em 21/07/2023 a partir da retificação dos dados de Perseguição (stalking) no Estado do Rio de Janeiro. de Segurança Pública Anuário Brasileiro 2023 134 Sumário"
+     ],
+     [
+      "2023_anuario_brasileiro_seguranca_publica.pdf p. 134",
+      "TABELA 33 Perseguição (stalking) e Violência Psicológica - vítimas mulheres Brasil e Unidades da Federação – 2021-2022 Brasil e Unidades da Federação Perseguição (stalking"
+     ],
+     [
+      "2023_anuario_brasileiro_seguranca_publica.pdf p. 134",
+      "TABELA 33 Perseguição (stalking) e Violência Psicológica - vítimas mulheres Brasil e Unidades da Federação – 2021-2022 Brasil e Unidades da Federação Perseguição (stalking) (1) Viol"
+     ],
+     [
+      "2023_anuario_brasileiro_seguranca_publica.pdf p. 134",
+      "TABELA 33 Perseguição (stalking) e Violência Psicológica - vítimas mulheres Brasil e Unidades da Federação – 2021-2022 Brasil e Unidades da Federação Perseguição (stalking) (1) Violência Psicológica (2) Ns. Absolutos Taxas (3) Ns. Absolutos Taxas (3) 2021 (4) 2022 2021 2022 2021 (4) 2022 2021 2022 Brasil 31.38"
+     ],
+     [
+      "2023_anuario_brasileiro_seguranca_publica.pdf p. 134",
+      "seguição (stalking) e Violência Psicológica - vítimas mulheres Brasil e Unidades da Federação – 2021-2022 Brasil e Unidades da Federação Perseguição (stalking) (1) Violência Psicológica (2) Ns. Absolutos Taxas (3) Ns. Absolutos Taxas (3) 2021 (4) 2022 2021 2022 2021 (4) 2022 2021 2022 Brasil 31.389 56.560 3"
+     ],
+     [
+      "2023_anuario_brasileiro_seguranca_publica.pdf p. 134",
+      "axa por 100 mil mulheres. (4) Atualização das informações publicadas no Anuário Brasileiro de Segurança Pública, ano 16, 2022. (5) Em 2021, o dado de Perseguição (stalking) refere-se ao período de julho a dezembro. (6) Em 2021, o dado de Perseguição (stalking) refere-se ao período de junho a dezembro. (7) Em 2"
+     ],
+     [
+      "2023_anuario_brasileiro_seguranca_publica.pdf p. 134",
+      "il mulheres. (4) Atualização das informações publicadas no Anuário Brasileiro de Segurança Pública, ano 16, 2022. (5) Em 2021, o dado de Perseguição (stalking) refere-se ao período de julho a dezembro. (6) Em 2021, o dado de Perseguição (stalking) refere-se ao período de junho a dezembro. (7) Em 2021, o dad"
+     ],
+     [
+      "2023_anuario_brasileiro_seguranca_publica.pdf p. 134",
+      "ro de Segurança Pública, ano 16, 2022. (5) Em 2021, o dado de Perseguição (stalking) refere-se ao período de julho a dezembro. (6) Em 2021, o dado de Perseguição (stalking) refere-se ao período de junho a dezembro. (7) Em 2021, o dado de Violência psicológica refere-se ao período de agosto a dezembro. (8) Em 2"
+     ],
+     [
+      "2023_anuario_brasileiro_seguranca_publica.pdf p. 134",
+      "ça Pública, ano 16, 2022. (5) Em 2021, o dado de Perseguição (stalking) refere-se ao período de julho a dezembro. (6) Em 2021, o dado de Perseguição (stalking) refere-se ao período de junho a dezembro. (7) Em 2021, o dado de Violência psicológica refere-se ao período de agosto a dezembro. (8) Em 2021, o dad"
+     ],
+     [
+      "2023_anuario_brasileiro_seguranca_publica.pdf p. 134",
+      "ere-se ao período de junho a dezembro. (7) Em 2021, o dado de Violência psicológica refere-se ao período de agosto a dezembro. (8) Em 2021, o dado de Perseguição (stalking) refere-se ao período de outubro a dezembro. (9) Em 2022, o dado de Violência psicológica refere-se ao período de março a dezembro. (10) Em"
+     ],
+     [
+      "2023_anuario_brasileiro_seguranca_publica.pdf p. 134",
+      "íodo de junho a dezembro. (7) Em 2021, o dado de Violência psicológica refere-se ao período de agosto a dezembro. (8) Em 2021, o dado de Perseguição (stalking) refere-se ao período de outubro a dezembro. (9) Em 2022, o dado de Violência psicológica refere-se ao período de março a dezembro. (10) Em 2022, o d"
+     ],
+     [
+      "2023_anuario_brasileiro_seguranca_publica.pdf p. 134",
+      "se ao período de março a dezembro. (10) Em 2022, o dado de Violência psicológica refere-se ao período de setembro a dezembro. (11) Em 2021, o dado de Perseguição (stalking) refere-se ao período de setembro a dezembro. (12) Dados consultados no painel de Estatísticas do Núcleo de Coleta e Análise Estatística da"
+     ],
+     [
+      "2023_anuario_brasileiro_seguranca_publica.pdf p. 134",
+      " de março a dezembro. (10) Em 2022, o dado de Violência psicológica refere-se ao período de setembro a dezembro. (11) Em 2021, o dado de Perseguição (stalking) refere-se ao período de setembro a dezembro. (12) Dados consultados no painel de Estatísticas do Núcleo de Coleta e Análise Estatística da Secretari"
+     ],
+     [
+      "2023_anuario_brasileiro_seguranca_publica.pdf p. 134",
+      "Secretaria da Segurança Pública do Tocantins em 29/06/2023. Observação: Esta versão foi modificada em 21/07/2023 a partir da retificação dos dados de Perseguição (stalking) no Estado do Rio de Janeiro. de Segurança Pública Anuário Brasileiro 2023 134 Sumário"
+     ],
+     [
+      "2023_anuario_brasileiro_seguranca_publica.pdf p. 134",
+      " Segurança Pública do Tocantins em 29/06/2023. Observação: Esta versão foi modificada em 21/07/2023 a partir da retificação dos dados de Perseguição (stalking) no Estado do Rio de Janeiro. de Segurança Pública Anuário Brasileiro 2023 134 Sumário"
+     ]
+    ]
+   },
+   "violência psicológica": {
+    "situacao": "publica",
+    "onde": [
+     [
+      "p. 134",
+      "TABELA 33 Perseguição (stalking) e Violência Psicológica - vítimas mulheres Brasil e Unidades da Federação – 2021-2022 Brasil e Unidades da Federação"
+     ],
+     [
+      "aba T33",
+      "T33 TABELA 33 (Voltar ao índice) Perseguição (stalking) e Violência Psicológica - vítimas mulheres Brasil e Unidades da Federação – 2021-2022 Brasil e Unidades da Federação Perseguição (stalking) (1) Violência Psicológica (2) Ns. Absolutos Taxas (3) Ns. Absolutos Taxas (3) 2021 (4) 2021 (4) Brasil Acre - - - - Alagoas Amapá Amazonas Bahia (5) ... ... ... ... Ceará (6) (7) Distrito Federal Espírito Santo Goiás Maranhão"
+     ],
+     [
+      "p. 134",
+      "TABELA 33 Perseguição (stalking) e Violência Psicológica - vítimas mulheres Brasil e Unidades da Federação – 2021-2022 Brasil e Unidades da Federação"
+     ],
+     [
+      "aba T33",
+      "T33 TABELA 33 (Voltar ao índice) Perseguição (stalking) e Violência Psicológica - vítimas mulheres Brasil e Unidades da Federação – 2021-2022 Brasil e Unidades da Federação Perseguição (stalking) (1) Violência Psicológica (2) Ns. Absolutos Taxas (3) Ns. Absolutos Taxas (3) 2021 (4) 2021 (4) Brasil Acre - - - - Alagoas Amapá Amazonas Bahia (5) ... ... ... ... Ceará (6) (7) Distrito Federal Espírito Santo Goiás Maranhão"
+     ]
+    ],
+    "em_pagina_de_tabela_por_uf": [
+     [
+      "2023_anuario_brasileiro_seguranca_publica.pdf p. 134",
+      "TABELA 33 Perseguição (stalking) e Violência Psicológica - vítimas mulheres Brasil e Unidades da Federação – 2021-2022 Brasil e Unidades da Federação Perseguição (stalking) (1) Violência Psicológica (2) Ns."
+     ],
+     [
+      "2023_anuario_brasileiro_seguranca_publica.pdf p. 134",
+      "king) e Violência Psicológica - vítimas mulheres Brasil e Unidades da Federação – 2021-2022 Brasil e Unidades da Federação Perseguição (stalking) (1) Violência Psicológica (2) Ns. Absolutos Taxas (3) Ns. Absolutos Taxas (3) 2021 (4) 2022 2021 2022 2021 (4) 2022 2021 2022 Brasil 31.389 56.560 30,4 54,5 10.922 24.382 19,8"
+     ],
+     [
+      "2023_anuario_brasileiro_seguranca_publica.pdf p. 134",
+      "ere-se ao período de julho a dezembro. (6) Em 2021, o dado de Perseguição (stalking) refere-se ao período de junho a dezembro. (7) Em 2021, o dado de Violência psicológica refere-se ao período de agosto a dezembro. (8) Em 2021, o dado de Perseguição (stalking) refere-se ao período de outubro a dezembro. (9) Em 2022, o d"
+     ],
+     [
+      "2023_anuario_brasileiro_seguranca_publica.pdf p. 134",
+      "-se ao período de agosto a dezembro. (8) Em 2021, o dado de Perseguição (stalking) refere-se ao período de outubro a dezembro. (9) Em 2022, o dado de Violência psicológica refere-se ao período de março a dezembro. (10) Em 2022, o dado de Violência psicológica refere-se ao período de setembro a dezembro. (11) Em 2021, o "
+     ],
+     [
+      "2023_anuario_brasileiro_seguranca_publica.pdf p. 134",
+      "e-se ao período de outubro a dezembro. (9) Em 2022, o dado de Violência psicológica refere-se ao período de março a dezembro. (10) Em 2022, o dado de Violência psicológica refere-se ao período de setembro a dezembro. (11) Em 2021, o dado de Perseguição (stalking) refere-se ao período de setembro a dezembro. (12) Dados c"
+     ],
+     [
+      "2023_anuario_brasileiro_seguranca_publica.pdf p. 134",
+      "TABELA 33 Perseguição (stalking) e Violência Psicológica - vítimas mulheres Brasil e Unidades da Federação – 2021-2022 Brasil e Unidades da Federação Perseguição (stalking) (1) Violência Psicológica (2) Ns."
+     ],
+     [
+      "2023_anuario_brasileiro_seguranca_publica.pdf p. 134",
+      "king) e Violência Psicológica - vítimas mulheres Brasil e Unidades da Federação – 2021-2022 Brasil e Unidades da Federação Perseguição (stalking) (1) Violência Psicológica (2) Ns. Absolutos Taxas (3) Ns. Absolutos Taxas (3) 2021 (4) 2022 2021 2022 2021 (4) 2022 2021 2022 Brasil 31.389 56.560 30,4 54,5 10.922 24.382 19,8"
+     ],
+     [
+      "2023_anuario_brasileiro_seguranca_publica.pdf p. 134",
+      "ere-se ao período de julho a dezembro. (6) Em 2021, o dado de Perseguição (stalking) refere-se ao período de junho a dezembro. (7) Em 2021, o dado de Violência psicológica refere-se ao período de agosto a dezembro. (8) Em 2021, o dado de Perseguição (stalking) refere-se ao período de outubro a dezembro. (9) Em 2022, o d"
+     ],
+     [
+      "2023_anuario_brasileiro_seguranca_publica.pdf p. 134",
+      "-se ao período de agosto a dezembro. (8) Em 2021, o dado de Perseguição (stalking) refere-se ao período de outubro a dezembro. (9) Em 2022, o dado de Violência psicológica refere-se ao período de março a dezembro. (10) Em 2022, o dado de Violência psicológica refere-se ao período de setembro a dezembro. (11) Em 2021, o "
+     ],
+     [
+      "2023_anuario_brasileiro_seguranca_publica.pdf p. 134",
+      "e-se ao período de outubro a dezembro. (9) Em 2022, o dado de Violência psicológica refere-se ao período de março a dezembro. (10) Em 2022, o dado de Violência psicológica refere-se ao período de setembro a dezembro. (11) Em 2021, o dado de Perseguição (stalking) refere-se ao período de setembro a dezembro. (12) Dados c"
+     ]
+    ]
+   },
+   "extorsão": {
+    "situacao": "nao publica"
+   },
+   "estelionato": {
+    "situacao": "publica",
+    "onde": [
+     [
+      "p. 84",
+      "TABELA 15 Estelionato e Estelionato por meio eletrônico (1) Brasil e Unidades da Federação – 2021-2022 Brasil e Unidades da Federação"
+     ],
+     [
+      "aba T15",
+      "T15 TABELA 15 (Voltar ao índice) Estelionato e Estelionato por meio eletrônico (1) Brasil e Unidades da Federação – 2021-2022 Brasil e Unidades da Federação Estelionato Estelionato por meio eletrônico Ns. Absolutos Taxas  (2) Variação (%) Ns. Absolutos Taxas (2) Variação (%) 2021 (3) 2021 (3) Brasil Acre Alagoas Amapá Amazonas Bahia ... ... ... ... ... Ceará ... ... ... ... ... Distrito Federal Espírito Santo Goiás"
+     ],
+     [
+      "p. 84",
+      "TABELA 15 Estelionato e Estelionato por meio eletrônico (1) Brasil e Unidades da Federação – 2021-2022 Brasil e Unidades da Federação"
+     ],
+     [
+      "aba T15",
+      "T15 TABELA 15 (Voltar ao índice) Estelionato e Estelionato por meio eletrônico (1) Brasil e Unidades da Federação – 2021-2022 Brasil e Unidades da Federação Estelionato Estelionato por meio eletrônico Ns. Absolutos Taxas  (2) Variação (%) Ns. Absolutos Taxas (2) Variação (%) 2021 (3) 2021 (3) Brasil Acre Alagoas Amapá Amazonas Bahia ... ... ... ... ... Ceará ... ... ... ... ... Distrito Federal Espírito Santo Goiás"
+     ]
+    ],
+    "em_pagina_de_tabela_por_uf": [
+     [
+      "2023_anuario_brasileiro_seguranca_publica.pdf p. 84",
+      "TABELA 15 Estelionato e Estelionato por meio eletrônico (1) Brasil e Unidades da Federação – 2021-2022 Brasil e Unidades da Federação Estelionato Estelionato por meio elet"
+     ],
+     [
+      "2023_anuario_brasileiro_seguranca_publica.pdf p. 84",
+      "TABELA 15 Estelionato e Estelionato por meio eletrônico (1) Brasil e Unidades da Federação – 2021-2022 Brasil e Unidades da Federação Estelionato Estelionato por meio eletrônico Ns. Abs"
+     ],
+     [
+      "2023_anuario_brasileiro_seguranca_publica.pdf p. 84",
+      "TABELA 15 Estelionato e Estelionato por meio eletrônico (1) Brasil e Unidades da Federação – 2021-2022 Brasil e Unidades da Federação Estelionato Estelionato por meio eletrônico Ns. Absolutos Taxas (2) Variação (%) Ns. Absolutos Taxas (2) Variação (%) 2021 (3) 2022 2021 2022 2021 (3) 2022 2021 "
+     ],
+     [
+      "2023_anuario_brasileiro_seguranca_publica.pdf p. 84",
+      "TABELA 15 Estelionato e Estelionato por meio eletrônico (1) Brasil e Unidades da Federação – 2021-2022 Brasil e Unidades da Federação Estelionato Estelionato por meio eletrônico Ns. Absolutos Taxas (2) Variação (%) Ns. Absolutos Taxas (2) Variação (%) 2021 (3) 2022 2021 2022 2021 (3) 2022 2021 2022 Brasil "
+     ],
+     [
+      "2023_anuario_brasileiro_seguranca_publica.pdf p. 84",
+      "s por meio de interpolação linear; Censo 2022 - IBGE; Fórum Brasileiro de Segurança Pública. (...) Informação não disponível. (1) Em 2021, o crime de Estelionato - Fraude eletrônica passou a ser tipificado pelos parágrafos 2ºA, 2ºB e 3º do art. 171 do Código Penal. (2) Taxas por 100 mil habitantes. (3) Atualiz"
+     ],
+     [
+      "2023_anuario_brasileiro_seguranca_publica.pdf p. 84",
+      "or 100 mil habitantes. (3) Atualização das informações publicadas no Anuário Brasileiro de Segurança Pública, ano 16, 2022. (4) Para a tipificação de Estelionato, o Estado registra os casos tentados ou consumados. de Segurança Pública Anuário Brasileiro 2023 84 Sumário"
+     ],
+     [
+      "2023_anuario_brasileiro_seguranca_publica.pdf p. 84",
+      "TABELA 15 Estelionato e Estelionato por meio eletrônico (1) Brasil e Unidades da Federação – 2021-2022 Brasil e Unidades da Federação Estelionato Estelionato por meio elet"
+     ],
+     [
+      "2023_anuario_brasileiro_seguranca_publica.pdf p. 84",
+      "TABELA 15 Estelionato e Estelionato por meio eletrônico (1) Brasil e Unidades da Federação – 2021-2022 Brasil e Unidades da Federação Estelionato Estelionato por meio eletrônico Ns. Abs"
+     ],
+     [
+      "2023_anuario_brasileiro_seguranca_publica.pdf p. 84",
+      "TABELA 15 Estelionato e Estelionato por meio eletrônico (1) Brasil e Unidades da Federação – 2021-2022 Brasil e Unidades da Federação Estelionato Estelionato por meio eletrônico Ns. Absolutos Taxas (2) Variação (%) Ns. Absolutos Taxas (2) Variação (%) 2021 (3) 2022 2021 2022 2021 (3) 2022 2021 "
+     ],
+     [
+      "2023_anuario_brasileiro_seguranca_publica.pdf p. 84",
+      "TABELA 15 Estelionato e Estelionato por meio eletrônico (1) Brasil e Unidades da Federação – 2021-2022 Brasil e Unidades da Federação Estelionato Estelionato por meio eletrônico Ns. Absolutos Taxas (2) Variação (%) Ns. Absolutos Taxas (2) Variação (%) 2021 (3) 2022 2021 2022 2021 (3) 2022 2021 2022 Brasil "
+     ],
+     [
+      "2023_anuario_brasileiro_seguranca_publica.pdf p. 84",
+      "s por meio de interpolação linear; Censo 2022 - IBGE; Fórum Brasileiro de Segurança Pública. (...) Informação não disponível. (1) Em 2021, o crime de Estelionato - Fraude eletrônica passou a ser tipificado pelos parágrafos 2ºA, 2ºB e 3º do art. 171 do Código Penal. (2) Taxas por 100 mil habitantes. (3) Atualiz"
+     ],
+     [
+      "2023_anuario_brasileiro_seguranca_publica.pdf p. 84",
+      "or 100 mil habitantes. (3) Atualização das informações publicadas no Anuário Brasileiro de Segurança Pública, ano 16, 2022. (4) Para a tipificação de Estelionato, o Estado registra os casos tentados ou consumados. de Segurança Pública Anuário Brasileiro 2023 84 Sumário"
+     ]
+    ]
+   },
+   "furto e roubo a pessoa": {
+    "situacao": "publica",
+    "onde": [
+     [
+      "p. 82",
+      "TABELA 14 Roubo e furto de celulares Brasil e Unidades da Federação – 2021-2022 Brasil e Unidades da Federação"
+     ],
+     [
+      "aba T14",
+      "T14 TABELA 14 (Voltar ao índice) Roubo e furto de celulares Brasil e Unidades da Federação – 2021-2022 Brasil e Unidades da Federação Roubo de celulares Furto de celulares Roubo e Furto de celulares Ns. Absolutos Taxas (1) Variação (%) Ns. Absolutos Taxas (1) Variação (%) Ns. Absolutos Taxas (1) Variação (%) 2021 (2) 2021 (2) 2021 (2) Brasil Acre Alagoas Amapá (3) ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... Amazonas Bahia Ceará Distrito Federal Espírito Santo Goiás Maranhão"
+     ],
+     [
+      "aba T16",
+      "T16 TABELA 16 (Voltar ao índice) Roubo a estabelecimento comercial, residência e transeunte Brasil e Unidades da Federação –  2021-2022 Brasil e Unidades da Federação Roubo a estabelecimento comercial Roubo a residência Roubo a transeunte Ns. Abs. Taxas (1) Variação\n (%) Ns. Abs. Taxas (1) Variação\n (%) Ns. Abs. Taxas (1) Variação \n(%) 2021 (2) 2021 (2) 2021 (2) Brasil Acre Alagoas Amapá (3) Amazonas Bahia Ceará Distrito Federal Espírito Santo Goiás Maranhão"
+     ],
+     [
+      "p. 82",
+      "TABELA 14 Roubo e furto de celulares Brasil e Unidades da Federação – 2021-2022 Brasil e Unidades da Federação"
+     ],
+     [
+      "aba T14",
+      "T14 TABELA 14 (Voltar ao índice) Roubo e furto de celulares Brasil e Unidades da Federação – 2021-2022 Brasil e Unidades da Federação Roubo de celulares Furto de celulares Roubo e Furto de celulares Ns. Absolutos Taxas (1) Variação (%) Ns. Absolutos Taxas (1) Variação (%) Ns. Absolutos Taxas (1) Variação (%) 2021 (2) 2021 (2) 2021 (2) Brasil Acre Alagoas Amapá (3) ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... Amazonas Bahia Ceará Distrito Federal Espírito Santo Goiás Maranhão"
+     ],
+     [
+      "aba T16",
+      "T16 TABELA 16 (Voltar ao índice) Roubo a estabelecimento comercial, residência e transeunte Brasil e Unidades da Federação –  2021-2022 Brasil e Unidades da Federação Roubo a estabelecimento comercial Roubo a residência Roubo a transeunte Ns. Abs. Taxas (1) Variação\n (%) Ns. Abs. Taxas (1) Variação\n (%) Ns. Abs. Taxas (1) Variação \n(%) 2021 (2) 2021 (2) 2021 (2) Brasil Acre Alagoas Amapá (3) Amazonas Bahia Ceará Distrito Federal Espírito Santo Goiás Maranhão"
+     ]
+    ],
+    "em_pagina_de_tabela_por_uf": [
+     [
+      "2023_anuario_brasileiro_seguranca_publica.pdf p. 82",
+      "TABELA 14 Roubo e furto de celulares Brasil e Unidades da Federação – 2021-2022 Brasil e Unidades da Federação Roubo de celulares Furto de celulares Ns. Absolutos Taxas (1) Variação (%"
+     ],
+     [
+      "2023_anuario_brasileiro_seguranca_publica.pdf p. 82",
+      "TABELA 14 Roubo e furto de celulares Brasil e Unidades da Federação – 2021-2022 Brasil e Unidades da Federação Roubo de celulares Furto de celulares Ns. Absolutos Taxas (1) Variação (%) Ns. Absolutos Taxas (1) Variação (%) 2021 (2) 2022 2021 2022 2021 (2) 2022 2021 2022 Brasil"
+     ],
+     [
+      "2023_anuario_brasileiro_seguranca_publica.pdf p. 82",
+      "TABELA 14 Roubo e furto de celulares Brasil e Unidades da Federação – 2021-2022 Brasil e Unidades da Federação Roubo de celulares Furto de celulares Ns. Absolutos Taxas (1) Variação (%) Ns. Absolutos Taxas (1) Variação (%) 2021 (2) 2022 2021 2022 2021 (2) 2022 2021 2022 Brasil 482.861 508.335 23"
+     ],
+     [
+      "2023_anuario_brasileiro_seguranca_publica.pdf p. 82",
+      "TABELA 14 Roubo e furto de celulares Brasil e Unidades da Federação – 2021-2022 Brasil e Unidades da Federação Roubo de celulares Furto de celulares Ns. Absolutos Taxas (1) Variação (%"
+     ],
+     [
+      "2023_anuario_brasileiro_seguranca_publica.pdf p. 82",
+      "TABELA 14 Roubo e furto de celulares Brasil e Unidades da Federação – 2021-2022 Brasil e Unidades da Federação Roubo de celulares Furto de celulares Ns. Absolutos Taxas (1) Variação (%) Ns. Absolutos Taxas (1) Variação (%) 2021 (2) 2022 2021 2022 2021 (2) 2022 2021 2022 Brasil"
+     ],
+     [
+      "2023_anuario_brasileiro_seguranca_publica.pdf p. 82",
+      "TABELA 14 Roubo e furto de celulares Brasil e Unidades da Federação – 2021-2022 Brasil e Unidades da Federação Roubo de celulares Furto de celulares Ns. Absolutos Taxas (1) Variação (%) Ns. Absolutos Taxas (1) Variação (%) 2021 (2) 2022 2021 2022 2021 (2) 2022 2021 2022 Brasil 482.861 508.335 23"
+     ]
+    ]
+   },
+   "crimes contra a administração pública": {
+    "situacao": "nao publica"
+   },
+   "crimes contra a honra": {
+    "situacao": "publica",
+    "onde": [
+     [
+      "p. 104",
+      "TABELA 22 Registros de Injúria Racial, Racismo e Racismo por homofobia ou transfobia Brasil e Unidades da Federação - 2021-2022 Brasil e Unidades da Federação"
+     ],
+     [
+      "aba T22",
+      "T22 TABELA 22 (Voltar ao índice) Registros de Injúria Racial, Racismo e Racismo por homofobia ou transfobia Brasil e Unidades da Federação - 2021-2022 Brasil e Unidades da Federação Registros de Injúria Racial Racismo Racismo por homofobia ou transfobia Ns. Absolutos Taxa  (1) Variação (%) Ns. Absolutos Taxa  (1) Variação (%) Ns. Absolutos Taxa  (1) Variação (%) 2021 (2) 2021 (2) 2021 (2) 2021 (2) Brasil Acre - - - Alagoas Amapá (3) ... ... ... ... ... Amazonas Bahia - - ... ... ... ... ... ... Ceará Distrito Federal Espírito Santo ... ... ... ... ... Goiás Maranhão ... ... ... ... ..."
+     ],
+     [
+      "p. 104",
+      "TABELA 22 Registros de Injúria Racial, Racismo e Racismo por homofobia ou transfobia Brasil e Unidades da Federação - 2021-2022 Brasil e Unidades da Federação"
+     ],
+     [
+      "aba T22",
+      "T22 TABELA 22 (Voltar ao índice) Registros de Injúria Racial, Racismo e Racismo por homofobia ou transfobia Brasil e Unidades da Federação - 2021-2022 Brasil e Unidades da Federação Registros de Injúria Racial Racismo Racismo por homofobia ou transfobia Ns. Absolutos Taxa  (1) Variação (%) Ns. Absolutos Taxa  (1) Variação (%) Ns. Absolutos Taxa  (1) Variação (%) 2021 (2) 2021 (2) 2021 (2) 2021 (2) Brasil Acre - - - Alagoas Amapá (3) ... ... ... ... ... Amazonas Bahia - - ... ... ... ... ... ... Ceará Distrito Federal Espírito Santo ... ... ... ... ... Goiás Maranhão ... ... ... ... ..."
+     ]
+    ],
+    "em_pagina_de_tabela_por_uf": [
+     [
+      "2023_anuario_brasileiro_seguranca_publica.pdf p. 104",
+      "TABELA 22 Registros de Injúria Racial, Racismo e Racismo por homofobia ou transfobia Brasil e Unidades da Federação - 2021-2022 Brasil e Unidades da Federação Registros de Injúria "
+     ],
+     [
+      "2023_anuario_brasileiro_seguranca_publica.pdf p. 104",
+      " Injúria Racial, Racismo e Racismo por homofobia ou transfobia Brasil e Unidades da Federação - 2021-2022 Brasil e Unidades da Federação Registros de Injúria Racial Racismo Ns. Absolutos Taxa (1) Variação (%) Ns. Absolutos Taxa (1) Variação (%) 2021 (2) 2022 2021 (2) 2022 2021 (2) 2022 2021 2022 Brasil 10."
+     ],
+     [
+      "2023_anuario_brasileiro_seguranca_publica.pdf p. 104",
+      "TABELA 22 Registros de Injúria Racial, Racismo e Racismo por homofobia ou transfobia Brasil e Unidades da Federação - 2021-2022 Brasil e Unidades da Federação Registros de Injúria "
+     ],
+     [
+      "2023_anuario_brasileiro_seguranca_publica.pdf p. 104",
+      " Injúria Racial, Racismo e Racismo por homofobia ou transfobia Brasil e Unidades da Federação - 2021-2022 Brasil e Unidades da Federação Registros de Injúria Racial Racismo Ns. Absolutos Taxa (1) Variação (%) Ns. Absolutos Taxa (1) Variação (%) 2021 (2) 2022 2021 (2) 2022 2021 (2) 2022 2021 2022 Brasil 10."
+     ]
+    ]
+   }
+  },
+  "lidos": [
+   {
+    "arquivo": "2023_anuario_brasileiro_seguranca_publica.pdf",
+    "paginas": 360,
+    "paginas_sem_texto": [
+     1,
+     358,
+     359,
+     360
+    ],
+    "titulos_de_tabela": 238
+   },
+   {
+    "arquivo": "2023_anuario_brasileiro_seguranca_publica_planilha.xlsx",
+    "abas": 136
+   },
+   {
+    "arquivo": "2023_anuario_brasileiro_seguranca_publica.pdf",
+    "paginas": 360,
+    "paginas_sem_texto": [
+     1,
+     358,
+     359,
+     360
+    ],
+    "titulos_de_tabela": 238
+   },
+   {
+    "arquivo": "2023_anuario_brasileiro_seguranca_publica_planilha.xlsx",
+    "abas": 136
+   }
+  ]
+ },
+ "2024": {
+  "arquivos": [
+   "Anuário Brasileiro de Segurança Pública 2024.pdf",
+   "PLANILHA Anuário Brasileiro de Segurança Pública.xlsx"
+  ],
+  "crimes": {
+   "ameaça": {
+    "situacao": "publica",
+    "onde": [
+     [
+      "p. 132",
+      "TABELA 28 Ameaça - vítimas mulheres Brasil e Unidades da Federação – 2022-2023 Brasil e Unidades da Federação"
+     ],
+     [
+      "aba T28",
+      "T28 TABELA 28 (Voltar ao índice) Ameaça - vítimas mulheres Brasil e Unidades da Federação – 2022-2023 Brasil e Unidades da Federação Ameaça - somente vítimas mulheres Ns. Absolutos Taxas (1) Variação (%) 2022 (2) 2022 (2) Brasil Acre Alagoas Amapá Amazonas Bahia Ceará Distrito Federal Espírito Santo Goiás Maranhão"
+     ]
+    ],
+    "em_pagina_de_tabela_por_uf": [
+     [
+      "Anuário Brasileiro de Segurança Pública 2024.pdf p. 132",
+      "TABELA 28 Ameaça - vítimas mulheres Brasil e Unidades da Federação – 2022-2023 Brasil e Unidades da Federação Ameaça - somente vítimas mulheres Ns. Absolutos Taxas (1"
+     ],
+     [
+      "Anuário Brasileiro de Segurança Pública 2024.pdf p. 132",
+      "TABELA 28 Ameaça - vítimas mulheres Brasil e Unidades da Federação – 2022-2023 Brasil e Unidades da Federação Ameaça - somente vítimas mulheres Ns. Absolutos Taxas (1) Variação (%) 2022 (2) 2023 2022 (2) 2023 Brasil 668.355 778.921 639,3 745,0 16,5 Acre 2.222 2.417 "
+     ],
+     [
+      "Anuário Brasileiro de Segurança Pública 2024.pdf p. 133",
+      "se à categoria prevista no Art. 147-A, em redação dada pela Lei 14.132/2021, que a define como “Perseguir alguém, reiteradamente e por qualquer meio, ameaçando-lhe a integridade física ou psicológica, restringindo-lhe a capacidade de locomoção ou, de qualquer forma, invadindo ou perturbando sua esfera de "
+     ],
+     [
+      "Anuário Brasileiro de Segurança Pública 2024.pdf p. 133",
+      " que a prejudique e perturbe seu pleno desenvolvimento ou que vise a degradar ou a controlar suas ações, comportamentos, crenças e decisões, mediante ameaça, constrangimento, humilhação, manipulação, isolamento, chantagem, ridicularização, limitação do direito de ir e vir ou qualquer outro meio que cause "
+     ]
+    ]
+   },
+   "perseguição": {
+    "situacao": "publica",
+    "onde": [
+     [
+      "p. 133",
+      "TABELA 29 Perseguição (stalking) e Violência Psicológica - vítimas mulheres Brasil e Unidades da Federação – 2022-2023 Brasil e Unidades da Federação"
+     ],
+     [
+      "aba T29",
+      "T29 TABELA 29 (Voltar ao índice) Perseguição (stalking) e Violência Psicológica - vítimas mulheres Brasil e Unidades da Federação – 2022-2023 Brasil e Unidades da Federação Perseguição (stalking) (1) Violência Psicológica (2) Ns. Absolutos Taxas (3) Variação (%) Ns. Absolutos Taxas (3) Variação (%) 2022 (4) 2022 (4) Brasil Acre Alagoas Amapá Amazonas Bahia ... ... ... ... ... Ceará Distrito Federal Espírito Santo Goiás Maranhão"
+     ]
+    ],
+    "em_pagina_de_tabela_por_uf": [
+     [
+      "Anuário Brasileiro de Segurança Pública 2024.pdf p. 133",
+      "TABELA 29 Perseguição (stalking) e Violência Psicológica - vítimas mulheres Brasil e Unidades da Federação – 2022-2023 Brasil e Unidades da Federação Perseguição (stalking"
+     ],
+     [
+      "Anuário Brasileiro de Segurança Pública 2024.pdf p. 133",
+      "TABELA 29 Perseguição (stalking) e Violência Psicológica - vítimas mulheres Brasil e Unidades da Federação – 2022-2023 Brasil e Unidades da Federação Perseguição (stalking) (1) Viol"
+     ],
+     [
+      "Anuário Brasileiro de Segurança Pública 2024.pdf p. 133",
+      "TABELA 29 Perseguição (stalking) e Violência Psicológica - vítimas mulheres Brasil e Unidades da Federação – 2022-2023 Brasil e Unidades da Federação Perseguição (stalking) (1) Violência Psicológica (2) Ns. Absolutos Taxas (3) Variação (%) Ns. Absolutos Taxas (3) Variação (%) 2022 (4) 2023 2022 2023 2022 (4) 2"
+     ],
+     [
+      "Anuário Brasileiro de Segurança Pública 2024.pdf p. 133",
+      "seguição (stalking) e Violência Psicológica - vítimas mulheres Brasil e Unidades da Federação – 2022-2023 Brasil e Unidades da Federação Perseguição (stalking) (1) Violência Psicológica (2) Ns. Absolutos Taxas (3) Variação (%) Ns. Absolutos Taxas (3) Variação (%) 2022 (4) 2023 2022 2023 2022 (4) 2023 2022 2"
+     ]
+    ]
+   },
+   "violência psicológica": {
+    "situacao": "publica",
+    "onde": [
+     [
+      "p. 133",
+      "TABELA 29 Perseguição (stalking) e Violência Psicológica - vítimas mulheres Brasil e Unidades da Federação – 2022-2023 Brasil e Unidades da Federação"
+     ],
+     [
+      "aba T29",
+      "T29 TABELA 29 (Voltar ao índice) Perseguição (stalking) e Violência Psicológica - vítimas mulheres Brasil e Unidades da Federação – 2022-2023 Brasil e Unidades da Federação Perseguição (stalking) (1) Violência Psicológica (2) Ns. Absolutos Taxas (3) Variação (%) Ns. Absolutos Taxas (3) Variação (%) 2022 (4) 2022 (4) Brasil Acre Alagoas Amapá Amazonas Bahia ... ... ... ... ... Ceará Distrito Federal Espírito Santo Goiás Maranhão"
+     ]
+    ],
+    "em_pagina_de_tabela_por_uf": [
+     [
+      "Anuário Brasileiro de Segurança Pública 2024.pdf p. 133",
+      "TABELA 29 Perseguição (stalking) e Violência Psicológica - vítimas mulheres Brasil e Unidades da Federação – 2022-2023 Brasil e Unidades da Federação Perseguição (stalking) (1) Violência Psicológica (2) Ns."
+     ],
+     [
+      "Anuário Brasileiro de Segurança Pública 2024.pdf p. 133",
+      "king) e Violência Psicológica - vítimas mulheres Brasil e Unidades da Federação – 2022-2023 Brasil e Unidades da Federação Perseguição (stalking) (1) Violência Psicológica (2) Ns. Absolutos Taxas (3) Variação (%) Ns. Absolutos Taxas (3) Variação (%) 2022 (4) 2023 2022 2023 2022 (4) 2023 2022 2023 Brasil 57.294 77.083 54"
+     ],
+     [
+      "Anuário Brasileiro de Segurança Pública 2024.pdf p. 133",
+      "axa por 100 mil mulheres. (4) Atualização das informações publicadas no Anuário Brasileiro de Segurança Pública, ano 17, 2023. (5) Em 2022, o dado de Violência psicológica refere-se ao período de março a dezembro. (6) Em 2022, o dado de Violência psicológica refere-se ao período de setembro a dezembro. 133 Sumário de Se"
+     ],
+     [
+      "Anuário Brasileiro de Segurança Pública 2024.pdf p. 133",
+      "iro de Segurança Pública, ano 17, 2023. (5) Em 2022, o dado de Violência psicológica refere-se ao período de março a dezembro. (6) Em 2022, o dado de Violência psicológica refere-se ao período de setembro a dezembro. 133 Sumário de Segurança Pública Anuário Brasileiro 2024"
+     ]
+    ]
+   },
+   "extorsão": {
+    "situacao": "nao publica"
+   },
+   "estelionato": {
+    "situacao": "publica",
+    "onde": [
+     [
+      "p. 77",
+      "TABELA 15 Estelionato e Estelionato por meio eletrônico (1) Brasil e Unidades da Federação – 2022-2023 Brasil e Unidades da Federação"
+     ],
+     [
+      "aba T15",
+      "T15 TABELA 15 (Voltar ao índice) Estelionato e Estelionato por meio eletrônico (1) Brasil e Unidades da Federação – 2022-2023 Brasil e Unidades da Federação Estelionato Estelionato por meio eletrônico Ns. Absolutos Taxas  (2) Variação (%) Ns. Absolutos Taxas (2) Variação (%) 2022 (3) 2022 (3) Brasil Acre Alagoas Amapá Amazonas Bahia Ceará ... ... ... ... ... Distrito Federal Espírito Santo Goiás"
+     ]
+    ],
+    "em_pagina_de_tabela_por_uf": [
+     [
+      "Anuário Brasileiro de Segurança Pública 2024.pdf p. 77",
+      "TABELA 15 Estelionato e Estelionato por meio eletrônico (1) Brasil e Unidades da Federação – 2022-2023 Brasil e Unidades da Federação Estelionato Estelionato por meio elet"
+     ],
+     [
+      "Anuário Brasileiro de Segurança Pública 2024.pdf p. 77",
+      "TABELA 15 Estelionato e Estelionato por meio eletrônico (1) Brasil e Unidades da Federação – 2022-2023 Brasil e Unidades da Federação Estelionato Estelionato por meio eletrônico Ns. Abs"
+     ],
+     [
+      "Anuário Brasileiro de Segurança Pública 2024.pdf p. 77",
+      "TABELA 15 Estelionato e Estelionato por meio eletrônico (1) Brasil e Unidades da Federação – 2022-2023 Brasil e Unidades da Federação Estelionato Estelionato por meio eletrônico Ns. Absolutos Taxas (2) Variação (%) Ns. Absolutos Taxas (2) Variação (%) 2022 (3) 2023 2022 2023 2022 (3) 2023 2022 "
+     ],
+     [
+      "Anuário Brasileiro de Segurança Pública 2024.pdf p. 77",
+      "TABELA 15 Estelionato e Estelionato por meio eletrônico (1) Brasil e Unidades da Federação – 2022-2023 Brasil e Unidades da Federação Estelionato Estelionato por meio eletrônico Ns. Absolutos Taxas (2) Variação (%) Ns. Absolutos Taxas (2) Variação (%) 2022 (3) 2023 2022 2023 2022 (3) 2023 2022 2023 Brasil "
+     ],
+     [
+      "Anuário Brasileiro de Segurança Pública 2024.pdf p. 77",
+      "grafia e Estatística (IBGE) – Censo Demográfico 2022; Fórum Brasileiro de Segurança Pública. (...) Informação não disponível. (1) Em 2021, o crime de Estelionato - Fraude eletrônica passou a ser tipificado pelos parágrafos 2ºA, 2ºB e 3º do art. 171 do Código Penal. (2) Taxas por 100 mil habitantes. (3) Atualiz"
+     ],
+     [
+      "Anuário Brasileiro de Segurança Pública 2024.pdf p. 77",
+      "xas por 100 mil habitantes. (3) Atualização das informações publicadas no Anuário Brasileiro de Segurança Pública, ano 17, 2023. (4) A tipificação de Estelionato por meio eletrônico passou a ser registrada pelo Estado do Rio Grande do Sul em 27/07/2023. Os dados da tabela, portanto, correspondem aos registros "
+     ]
+    ]
+   },
+   "furto e roubo a pessoa": {
+    "situacao": "publica",
+    "onde": [
+     [
+      "p. 75",
+      "TABELA 14 Roubo e furto de celulares Brasil e Unidades da Federação – 2022-2023 Brasil e Unidades da Federação"
+     ],
+     [
+      "aba T14",
+      "T14 TABELA 14 (Voltar ao índice) Roubo e furto de celulares Brasil e Unidades da Federação – 2022-2023 Brasil e Unidades da Federação Roubo de celulares Furto de celulares Roubo e Furto de celulares Ns. Absolutos Taxas (1) Variação (%) Ns. Absolutos Taxas (1) Variação (%) Ns. Absolutos Taxas (1) Variação (%) 2022 (2) 2022 (2) 2022 (2) Brasil Acre Alagoas Amapá Amazonas Bahia Ceará Distrito Federal Espírito Santo Goiás Maranhão"
+     ],
+     [
+      "aba T16",
+      "T16 TABELA 16 (Voltar ao índice) Roubo a estabelecimento comercial, residência e transeunte Brasil e Unidades da Federação –  2022-2023 Brasil e Unidades da Federação Roubo a estabelecimento comercial Roubo a residência Roubo a transeunte Ns. Abs. Taxas (1) Variação\n (%) Ns. Abs. Taxas (1) Variação\n (%) Ns. Abs. Taxas (1) Variação \n(%) 2022 (2) 2022 (2) 2022 (2) Brasil Acre Alagoas Amapá Amazonas Bahia Ceará Distrito Federal Espírito Santo Goiás Maranhão"
+     ],
+     [
+      "aba Q04",
+      "Q04 QUADRO 04 (Voltar ao índice) 50 cidades com maiores taxas de roubo e furto de celular. Municípios com população igual ou superior a 100 mil habitantes Brasil - 2023 Posição Município UF Taxa celulares subtraídos Manaus AM Teresina PI São Paulo SP Salvador BA Lauro de Freitas BA Belém PA Macapá AP Olinda PE Ananindeua PA Recife PE Natal RN São Luís MA Itapecerica da Serra SP Diadema SP Cariacica ES"
+     ]
+    ],
+    "em_pagina_de_tabela_por_uf": [
+     [
+      "Anuário Brasileiro de Segurança Pública 2024.pdf p. 75",
+      "TABELA 14 Roubo e furto de celulares Brasil e Unidades da Federação – 2022-2023 Brasil e Unidades da Federação Roubo de celulares Furto de celulares Ns. Absolutos Taxas (1) Variação (%"
+     ],
+     [
+      "Anuário Brasileiro de Segurança Pública 2024.pdf p. 75",
+      "TABELA 14 Roubo e furto de celulares Brasil e Unidades da Federação – 2022-2023 Brasil e Unidades da Federação Roubo de celulares Furto de celulares Ns. Absolutos Taxas (1) Variação (%) Ns. Absolutos Taxas (1) Variação (%) 2022 (2) 2023 2022 2023 2022 (2) 2023 2022 2023 Brasil"
+     ],
+     [
+      "Anuário Brasileiro de Segurança Pública 2024.pdf p. 75",
+      "TABELA 14 Roubo e furto de celulares Brasil e Unidades da Federação – 2022-2023 Brasil e Unidades da Federação Roubo de celulares Furto de celulares Ns. Absolutos Taxas (1) Variação (%) Ns. Absolutos Taxas (1) Variação (%) 2022 (2) 2023 2022 2023 2022 (2) 2023 2022 2023 Brasil 492.905 442.999 24"
+     ]
+    ]
+   },
+   "crimes contra a administração pública": {
+    "situacao": "nao publica"
+   },
+   "crimes contra a honra": {
+    "situacao": "publica",
+    "onde": [
+     [
+      "p. 107",
+      "TABELA 18 Registros de Injúria Racial, Racismo e Racismo por homofobia ou transfobia Brasil e Unidades da Federação - 2022-2023 Brasil e Unidades da Federação"
+     ],
+     [
+      "aba T18",
+      "T18 TABELA 18 (Voltar ao índice) Registros de Injúria Racial, Racismo e Racismo por homofobia ou transfobia Brasil e Unidades da Federação - 2022-2023 Brasil e Unidades da Federação Registros de Injúria Racial Racismo Racismo por homofobia ou transfobia Ns. Absolutos Taxa  (1) Variação (%) Ns. Absolutos Taxa  (1) Variação (%) Ns. Absolutos Taxa  (1) Variação (%) 2022 (2) 2022 (2) 2022 (2) Brasil Acre Alagoas Amapá (3) Amazonas ... ... ... Bahia ... ... ... ... ... Ceará Distrito Federal Espírito Santo ... ... ... ... ... Goiás Maranhão ... ... ..."
+     ]
+    ],
+    "em_pagina_de_tabela_por_uf": [
+     [
+      "Anuário Brasileiro de Segurança Pública 2024.pdf p. 107",
+      "TABELA 18 Registros de Injúria Racial, Racismo e Racismo por homofobia ou transfobia Brasil e Unidades da Federação - 2022-2023 Brasil e Unidades da Federação Registros de Injúria "
+     ],
+     [
+      "Anuário Brasileiro de Segurança Pública 2024.pdf p. 107",
+      " Injúria Racial, Racismo e Racismo por homofobia ou transfobia Brasil e Unidades da Federação - 2022-2023 Brasil e Unidades da Federação Registros de Injúria Racial Racismo Ns. Absolutos Taxa (1) Variação (%) Ns. Absolutos Taxa (1) Variação (%) 2022 (2) 2023 2022 2023 2022 (2) 2023 2022 2023 Brasil 12.237 "
+     ]
+    ]
+   }
+  },
+  "lidos": [
+   {
+    "arquivo": "Anuário Brasileiro de Segurança Pública 2024.pdf",
+    "paginas": 404,
+    "paginas_sem_texto": [
+     1,
+     404
+    ],
+    "titulos_de_tabela": 187
+   },
+   {
+    "arquivo": "PLANILHA Anuário Brasileiro de Segurança Pública.xlsx",
+    "abas": 148
+   }
+  ]
+ },
+ "2025": {
+  "arquivos": [
+   "Anuário Brasileiro de Segurança Pública 2025.pdf",
+   "PLANILHA Anuário Brasileiro de Segurança Pública.xlsx"
+  ],
+  "crimes": {
+   "ameaça": {
+    "situacao": "publica",
+    "onde": [
+     [
+      "p. 140",
+      "TABELA 29 Ameaça - vítimas mulheres Brasil e Unidades da Federação – 2023-2024 Brasil e Unidades da Federação"
+     ],
+     [
+      "aba T29",
+      "T29 TABELA 29 (Voltar ao índice) Ameaça - vítimas mulheres Brasil e Unidades da Federação – 2023-2024 Brasil e Unidades da Federação Ameaça - somente vítimas mulheres Ns. Absolutos Taxa (1) Variação (%) 2023 (2) Brasil Acre Alagoas Amapá Amazonas Bahia Ceará Distrito Federal Espírito Santo Goiás Maranhão"
+     ],
+     [
+      "aba T64",
+      "T64 TABELA 64 (Voltar ao índice) Percepção de diretores sobre a ocorrência de situações de violência na escola em que trabalham: Bullying (1) (2) Brasil e Unidades da Federação –  2021 e 2023 Brasil e Unidades da Federação Bullying (ameaças ou ofensas verbais) Nunca Poucas vezes Várias vezes Nunca Poucas vezes Muitas vezes Sempre Ns. Abs. % Ns. Abs. % Ns. Abs. % Ns. Abs. % Ns. Abs. % Ns. Abs. % Ns. Abs. % Brasil Acre Alagoas Amapá Amazonas Bahia Ceará Distrito Federal Espírito Santo Goiás"
+     ]
+    ],
+    "em_pagina_de_tabela_por_uf": [
+     [
+      "Anuário Brasileiro de Segurança Pública 2025.pdf p. 140",
+      "TABELA 29 Ameaça - vítimas mulheres Brasil e Unidades da Federação – 2023-2024 Brasil e Unidades da Federação Ameaça - somente vítimas mulheres Ns. Absolutos Taxa (1)"
+     ],
+     [
+      "Anuário Brasileiro de Segurança Pública 2025.pdf p. 140",
+      "TABELA 29 Ameaça - vítimas mulheres Brasil e Unidades da Federação – 2023-2024 Brasil e Unidades da Federação Ameaça - somente vítimas mulheres Ns. Absolutos Taxa (1) Variação (%) 2023 (2) 2024 2023 2024 Brasil 750.739 747.683 692,3 686,4 -0,8 Acre 2.627 2.548 601,2"
+     ],
+     [
+      "Anuário Brasileiro de Segurança Pública 2025.pdf p. 141",
+      "se à categoria prevista no Art. 147-A, em redação dada pela Lei 14.132/2021, que a define como “Perseguir alguém, reiteradamente e por qualquer meio, ameaçando-lhe a integridade física ou psicológica, restringindo-lhe a capacidade de locomoção ou, de qualquer forma, invadindo ou perturbando sua esfera de "
+     ],
+     [
+      "Anuário Brasileiro de Segurança Pública 2025.pdf p. 141",
+      " que a prejudique e perturbe seu pleno desenvolvimento ou que vise a degradar ou a controlar suas ações, comportamentos, crenças e decisões, mediante ameaça, constrangimento, humilhação, manipulação, isolamento, chantagem, ridicularização, limitação do direito de ir e vir ou qualquer outro meio que cause "
+     ],
+     [
+      "Anuário Brasileiro de Segurança Pública 2025.pdf p. 144",
+      "esta última categoria incluindo violência física/agressão, violência moral (calúnia, difamação, injúria), violência patrimonial, vioência psicológica/ameaça e violência sexual. (11) Os dados informados pelo Rio Grande do Sul consideram as chamadas que geraram despacho de viatura. (12) Os dados informados "
+     ],
+     [
+      "Anuário Brasileiro de Segurança Pública 2025.pdf p. 267",
+      "situações de violência na escola em que trabalham: Bullying (1) Brasil e Unidades da Federação – 2021 e 2023 Brasil e Unidades da Federação Bullying (ameaças ou ofensas verbais) 2021 2023 Nunca Poucas vezes Várias vezes Nunca Poucas vezes Muitas vezes Sempre Ns. Abs. % (2) Ns. Abs. % (2) Ns. Abs. % (2) Ns"
+     ],
+     [
+      "Anuário Brasileiro de Segurança Pública 2025.pdf p. 267",
+      "rança Pública. (1) Respostas à questão “Sobre os episódios listados abaixo, indique a frequência com que ocorreram neste ano, nesta escola: Bullying (ameaças ou ofensas verbais).” (2) Os percentuais apresentados na tabela foram calculados com base nos valores válidos, ou seja, desconsideram os casos em qu"
+     ]
+    ]
+   },
+   "perseguição": {
+    "situacao": "publica",
+    "onde": [
+     [
+      "p. 141",
+      "TABELA 30 Perseguição (stalking) e Violência Psicológica - vítimas mulheres Brasil e Unidades da Federação – 2023-2024 Brasil e Unidades da Federação"
+     ],
+     [
+      "aba T30",
+      "T30 TABELA 30 (Voltar ao índice) Perseguição (stalking) e Violência Psicológica - vítimas mulheres Brasil e Unidades da Federação – 2023-2024 Brasil e Unidades da Federação Perseguição (stalking) (1) Violência Psicológica (2) Ns. Absolutos Taxa (3) Variação (%) Ns. Absolutos Taxa (3) Variação (%) 2023 (4) 2023 (4) Brasil Acre Alagoas Amapá Amazonas Bahia Ceará Distrito Federal Espírito Santo Goiás Maranhão"
+     ]
+    ],
+    "em_pagina_de_tabela_por_uf": [
+     [
+      "Anuário Brasileiro de Segurança Pública 2025.pdf p. 141",
+      "TABELA 30 Perseguição (stalking) e Violência Psicológica - vítimas mulheres Brasil e Unidades da Federação – 2023-2024 Brasil e Unidades da Federação Perseguição (stalking"
+     ],
+     [
+      "Anuário Brasileiro de Segurança Pública 2025.pdf p. 141",
+      "TABELA 30 Perseguição (stalking) e Violência Psicológica - vítimas mulheres Brasil e Unidades da Federação – 2023-2024 Brasil e Unidades da Federação Perseguição (stalking) (1) Viol"
+     ],
+     [
+      "Anuário Brasileiro de Segurança Pública 2025.pdf p. 141",
+      "TABELA 30 Perseguição (stalking) e Violência Psicológica - vítimas mulheres Brasil e Unidades da Federação – 2023-2024 Brasil e Unidades da Federação Perseguição (stalking) (1) Violência Psicológica (2) Ns. Absolutos Taxa (3) Variação (%) Ns. Absolutos Taxa (3) Variação (%) 2023 (4) 2024 2023 2024 2023 (4) 202"
+     ],
+     [
+      "Anuário Brasileiro de Segurança Pública 2025.pdf p. 141",
+      "seguição (stalking) e Violência Psicológica - vítimas mulheres Brasil e Unidades da Federação – 2023-2024 Brasil e Unidades da Federação Perseguição (stalking) (1) Violência Psicológica (2) Ns. Absolutos Taxa (3) Variação (%) Ns. Absolutos Taxa (3) Variação (%) 2023 (4) 2024 2023 2024 2023 (4) 2024 2023 202"
+     ]
+    ]
+   },
+   "violência psicológica": {
+    "situacao": "publica",
+    "onde": [
+     [
+      "p. 141",
+      "TABELA 30 Perseguição (stalking) e Violência Psicológica - vítimas mulheres Brasil e Unidades da Federação – 2023-2024 Brasil e Unidades da Federação"
+     ],
+     [
+      "aba T30",
+      "T30 TABELA 30 (Voltar ao índice) Perseguição (stalking) e Violência Psicológica - vítimas mulheres Brasil e Unidades da Federação – 2023-2024 Brasil e Unidades da Federação Perseguição (stalking) (1) Violência Psicológica (2) Ns. Absolutos Taxa (3) Variação (%) Ns. Absolutos Taxa (3) Variação (%) 2023 (4) 2023 (4) Brasil Acre Alagoas Amapá Amazonas Bahia Ceará Distrito Federal Espírito Santo Goiás Maranhão"
+     ]
+    ],
+    "em_pagina_de_tabela_por_uf": [
+     [
+      "Anuário Brasileiro de Segurança Pública 2025.pdf p. 141",
+      "TABELA 30 Perseguição (stalking) e Violência Psicológica - vítimas mulheres Brasil e Unidades da Federação – 2023-2024 Brasil e Unidades da Federação Perseguição (stalking) (1) Violência Psicológica (2) Ns."
+     ],
+     [
+      "Anuário Brasileiro de Segurança Pública 2025.pdf p. 141",
+      "king) e Violência Psicológica - vítimas mulheres Brasil e Unidades da Federação – 2023-2024 Brasil e Unidades da Federação Perseguição (stalking) (1) Violência Psicológica (2) Ns. Absolutos Taxa (3) Variação (%) Ns. Absolutos Taxa (3) Variação (%) 2023 (4) 2024 2023 2024 2023 (4) 2024 2023 2024 Brasil 80.017 95.026 73,8"
+     ]
+    ]
+   },
+   "extorsão": {
+    "situacao": "nao publica"
+   },
+   "estelionato": {
+    "situacao": "publica",
+    "onde": [
+     [
+      "p. 105",
+      "TABELA 19 Estelionato e Estelionato por meio eletrônico (1) Brasil e Unidades da Federação – 2023-2024 Brasil e Unidades da Federação"
+     ],
+     [
+      "aba T19",
+      "T19 TABELA 15 (Voltar ao índice) Estelionato e Estelionato por meio eletrônico (1) Brasil e Unidades da Federação – 2023-2024 Brasil e Unidades da Federação Estelionato Estelionato por meio eletrônico Ns. Absolutos Taxa (2) Variação (%) Ns. Absolutos Taxa (2) Variação (%) 2023 (3) 2023 (3) Brasil Acre Alagoas Amapá Amazonas Bahia Ceará ... ... ... ... ... Distrito Federal Espírito Santo Goiás"
+     ]
+    ],
+    "em_pagina_de_tabela_por_uf": [
+     [
+      "Anuário Brasileiro de Segurança Pública 2025.pdf p. 105",
+      "TABELA 19 Estelionato e Estelionato por meio eletrônico (1) Brasil e Unidades da Federação – 2023-2024 Brasil e Unidades da Federação Estelionato Estelionato por meio elet"
+     ],
+     [
+      "Anuário Brasileiro de Segurança Pública 2025.pdf p. 105",
+      "TABELA 19 Estelionato e Estelionato por meio eletrônico (1) Brasil e Unidades da Federação – 2023-2024 Brasil e Unidades da Federação Estelionato Estelionato por meio eletrônico Ns. Abs"
+     ],
+     [
+      "Anuário Brasileiro de Segurança Pública 2025.pdf p. 105",
+      "TABELA 19 Estelionato e Estelionato por meio eletrônico (1) Brasil e Unidades da Federação – 2023-2024 Brasil e Unidades da Federação Estelionato Estelionato por meio eletrônico Ns. Absolutos Taxa (2) Variação (%) Ns. Absolutos Taxa (2) Variação (%) 2023 (3) 2024 2023 2024 2023 (3) 2024 2023 20"
+     ],
+     [
+      "Anuário Brasileiro de Segurança Pública 2025.pdf p. 105",
+      "TABELA 19 Estelionato e Estelionato por meio eletrônico (1) Brasil e Unidades da Federação – 2023-2024 Brasil e Unidades da Federação Estelionato Estelionato por meio eletrônico Ns. Absolutos Taxa (2) Variação (%) Ns. Absolutos Taxa (2) Variação (%) 2023 (3) 2024 2023 2024 2023 (3) 2024 2023 2024 Brasil 2."
+     ],
+     [
+      "Anuário Brasileiro de Segurança Pública 2025.pdf p. 105",
+      " (IBGE) – Projeções da População do Brasil e das Unidades da Federação; Fórum Brasileiro de Segurança Pública. (...) Informação não disponível. (1) O estelionato previsto no art. 171 do Código Penal passou a incluir, a partir de 2021, as modalidades de fraude eletrônica, tipificadas nos parágrafos 2º-A, 2º-B e"
+     ],
+     [
+      "Anuário Brasileiro de Segurança Pública 2025.pdf p. 105",
+      " partir de 2021, as modalidades de fraude eletrônica, tipificadas nos parágrafos 2º-A, 2º-B e 3º do mesmo artigo. Dessa forma, os registros totais de estelionato apresentados nesta tabela abrangem tanto o estelionato comum quanto o estelionato por fraude eletrônica. (2) Taxas por 100 mil habitantes. (3) Atuali"
+     ],
+     [
+      "Anuário Brasileiro de Segurança Pública 2025.pdf p. 105",
+      "ipificadas nos parágrafos 2º-A, 2º-B e 3º do mesmo artigo. Dessa forma, os registros totais de estelionato apresentados nesta tabela abrangem tanto o estelionato comum quanto o estelionato por fraude eletrônica. (2) Taxas por 100 mil habitantes. (3) Atualização das informações publicadas no Anuário Brasileiro "
+     ],
+     [
+      "Anuário Brasileiro de Segurança Pública 2025.pdf p. 105",
+      "º-A, 2º-B e 3º do mesmo artigo. Dessa forma, os registros totais de estelionato apresentados nesta tabela abrangem tanto o estelionato comum quanto o estelionato por fraude eletrônica. (2) Taxas por 100 mil habitantes. (3) Atualização das informações publicadas no Anuário Brasileiro de Segurança Pública, ano 1"
+     ],
+     [
+      "Anuário Brasileiro de Segurança Pública 2025.pdf p. 105",
+      " Pública, ano 18, 2024. (4) No Anuário Brasileiro de Segurança Pública, ano 18, 2024, o Estado do Pará havia informado o total de 16.884 registros de Estelionato por meio eletrônico em 2023. A mudança para 1.686 se deu com a alteração da metodologia dos dados adotada pela SSP/PA: anteriormente era realizado o "
+     ],
+     [
+      "Anuário Brasileiro de Segurança Pública 2025.pdf p. 105",
+      "ça para 1.686 se deu com a alteração da metodologia dos dados adotada pela SSP/PA: anteriormente era realizado o filtro de todas as fraudes dentro do Estelionato e agora o filtro é feito a partir dos parágrafos específicos da fraude eletrônica previstos no Código Penal (art. 171, parágrafos 2º-A, 2º-B e 3º). ("
+     ],
+     [
+      "Anuário Brasileiro de Segurança Pública 2025.pdf p. 105",
+      " é feito a partir dos parágrafos específicos da fraude eletrônica previstos no Código Penal (art. 171, parágrafos 2º-A, 2º-B e 3º). (5) A natureza de estelionato - fraude eletrônica passou a ser contabilizada no sistema policial do estado de Pernambuco a partir de dezembro de 2024. (6) A tipificação de Estelio"
+     ],
+     [
+      "Anuário Brasileiro de Segurança Pública 2025.pdf p. 105",
+      "lionato - fraude eletrônica passou a ser contabilizada no sistema policial do estado de Pernambuco a partir de dezembro de 2024. (6) A tipificação de Estelionato por meio eletrônico passou a ser registrada pelo Estado do Rio Grande do Sul em 27/07/2023. Os dados da tabela de 2023, portanto, correspondem aos re"
+     ]
+    ]
+   },
+   "furto e roubo a pessoa": {
+    "situacao": "publica",
+    "onde": [
+     [
+      "p. 83",
+      "TABELA 13 Roubo e Furto de celulares (1) Brasil e Unidades da Federação – 2023-2024 Brasil e Unidades da Federação"
+     ],
+     [
+      "aba T13",
+      "T13 TABELA 13 (Voltar ao índice) Roubo e Furto de celulares (1) Brasil e Unidades da Federação – 2023-2024 Brasil e Unidades da Federação Roubo de celulares Furto de celulares Roubo e Furto de celulares Ns. Absolutos Taxa (2) Variação (%) Ns. Absolutos Taxa (2) Variação (%) Ns. Absolutos Taxa (2) Variação (%) 2023 (3) 2023 (3) 2023 (3) Brasil Acre Alagoas Amapá Amazonas Bahia Ceará Distrito Federal Espírito Santo Goiás Maranhão"
+     ],
+     [
+      "aba T16",
+      "T16 TABELA 16 (Voltar ao índice) Roubo a estabelecimento comercial, residência e transeunte Brasil e Unidades da Federação –  2023-2024 Brasil e Unidades da Federação Roubo a estabelecimento comercial Roubo a residência Roubo a transeunte Ns. Absolutos Taxa (1) Variação\n (%) Ns. Absolutos Taxa (1) Variação\n (%) Ns. Absolutos Taxa (1) Variação \n(%) 2023 (2) 2023 (2) 2023 (2) Brasil Acre Alagoas Amapá Amazonas Bahia Ceará Distrito Federal Espírito Santo Goiás Maranhão"
+     ]
+    ],
+    "em_pagina_de_tabela_por_uf": [
+     [
+      "Anuário Brasileiro de Segurança Pública 2025.pdf p. 83",
+      "TABELA 13 Roubo e Furto de celulares (1) Brasil e Unidades da Federação – 2023-2024 Brasil e Unidades da Federação Roubo de celulares Furto de celulares Roubo e Furto de celulares Ns. "
+     ],
+     [
+      "Anuário Brasileiro de Segurança Pública 2025.pdf p. 83",
+      "TABELA 13 Roubo e Furto de celulares (1) Brasil e Unidades da Federação – 2023-2024 Brasil e Unidades da Federação Roubo de celulares Furto de celulares Roubo e Furto de celulares Ns. Absolutos Taxa (2) Variação (%) Ns. Absolutos Taxa (2) Variação (%) Ns. Absolutos Taxa (2) Variaç"
+     ],
+     [
+      "Anuário Brasileiro de Segurança Pública 2025.pdf p. 83",
+      "TABELA 13 Roubo e Furto de celulares (1) Brasil e Unidades da Federação – 2023-2024 Brasil e Unidades da Federação Roubo de celulares Furto de celulares Roubo e Furto de celulares Ns. Absolutos Taxa (2) Variação (%) Ns. Absolutos Taxa (2) Variação (%) Ns. Absolutos Taxa (2) Variação (%) 2023 (3) 202"
+     ],
+     [
+      "Anuário Brasileiro de Segurança Pública 2025.pdf p. 83",
+      "oubo e Furto de celulares (1) Brasil e Unidades da Federação – 2023-2024 Brasil e Unidades da Federação Roubo de celulares Furto de celulares Roubo e Furto de celulares Ns. Absolutos Taxa (2) Variação (%) Ns. Absolutos Taxa (2) Variação (%) Ns. Absolutos Taxa (2) Variação (%) 2023 (3) 2024 2023 2024 2023 (3) 2024 2"
+     ],
+     [
+      "Anuário Brasileiro de Segurança Pública 2025.pdf p. 86",
+      "esidência e transeunte Brasil e Unidades da Federação – 2023-2024 Brasil e Unidades da Federação Roubo a estabelecimento comercial Roubo a residência Roubo a transeunte Ns. Absolutos Taxa (1) Variação (%) Ns. Absolutos Taxa (1) Variação (%) Ns. Absolutos Taxa (1) Variação (%) 2023 (2) 2024 2023 2024 2023 (2) 2024 202"
+     ],
+     [
+      "Anuário Brasileiro de Segurança Pública 2025.pdf p. 86",
+      "bitantes. (2) Atualização das informações publicadas no Anuário Brasileiro de Segurança Pública, ano 18, 2024. (3) O Estado de Sergipe contabiliza os roubos a transeunte a partir do filtro de ocorrência na via pública. 86 Sumário de Segurança Pública Anuário Brasileiro 2025"
+     ]
+    ]
+   },
+   "crimes contra a administração pública": {
+    "situacao": "nao publica"
+   },
+   "crimes contra a honra": {
+    "situacao": "publica",
+    "onde": [
+     [
+      "p. 115",
+      "TABELA 18 Registros de Injúria Racial, Racismo e Racismo por homofobia ou transfobia (NT) Brasil e Unidades da Federação - 2023-2024 Brasil e Unidades da Federação"
+     ],
+     [
+      "aba T20",
+      "T20 TABELA 20 (Voltar ao índice) Registros de Injúria Racial, Racismo e Racismo por homofobia ou transfobia (NT) Brasil e Unidades da Federação - 2023-2024 Brasil e Unidades da Federação Injúria Racial Racismo Racismo por homofobia ou transfobia Ns. Absolutos Taxa (1) Variação (%) Ns. Absolutos Taxa (1) Variação (%) Ns. Absolutos Taxa (1) Variação (%) 2023 (2) 2023 (2) 2023 (2) 2023 (2) 2023 (2) 2023 (2) Brasil Acre Alagoas Amapá Amazonas ... ... ... ... ... Bahia ... ... ... ... ... Ceará Distrito Federal Espírito Santo (3) ... ... ... ... ... Goiás Maranhão"
+     ],
+     [
+      "aba P06",
+      "P06 PAINEL 06 (Voltar ao índice) Injúria racial e crimes contra pessoas LGBTQIAPN+ Gráfico 38 Cobertura de registros de racismo, injúria racial e violência contra LGBTQIAPN+ - Número de UFs cobertas - 2018-2024 Injúria Racismo Racismo por homofobia ou transfobia - - Lesão Corporal Homicído Estupro"
+     ]
+    ],
+    "em_pagina_de_tabela_por_uf": [
+     [
+      "Anuário Brasileiro de Segurança Pública 2025.pdf p. 115",
+      "TABELA 18 Registros de Injúria Racial, Racismo e Racismo por homofobia ou transfobia (NT) Brasil e Unidades da Federação - 2023-2024 Brasil e Unidades da Federação Injúria Racial R"
+     ],
+     [
+      "Anuário Brasileiro de Segurança Pública 2025.pdf p. 115",
+      "stros de Injúria Racial, Racismo e Racismo por homofobia ou transfobia (NT) Brasil e Unidades da Federação - 2023-2024 Brasil e Unidades da Federação Injúria Racial Racismo Ns. Absolutos Taxa (1) Variação (%) Ns. Absolutos Taxa (1) Variação (%) 2023 (2) 2024 2023 (2) 2024 2023 (2) 2024 2023 (2) 2024 Brasil"
+     ],
+     [
+      "Anuário Brasileiro de Segurança Pública 2025.pdf p. 144",
+      "esão corporal em violência doméstica” e “violência doméstica e familiar”, esta última categoria incluindo violência física/agressão, violência moral (calúnia, difamação, injúria), violência patrimonial, vioência psicológica/ameaça e violência sexual. (11) Os dados informados pelo Rio Grande do Sul consider"
+     ],
+     [
+      "Anuário Brasileiro de Segurança Pública 2025.pdf p. 144",
+      "oral em violência doméstica” e “violência doméstica e familiar”, esta última categoria incluindo violência física/agressão, violência moral (calúnia, difamação, injúria), violência patrimonial, vioência psicológica/ameaça e violência sexual. (11) Os dados informados pelo Rio Grande do Sul consideram as chama"
+     ],
+     [
+      "Anuário Brasileiro de Segurança Pública 2025.pdf p. 144",
+      "lência doméstica” e “violência doméstica e familiar”, esta última categoria incluindo violência física/agressão, violência moral (calúnia, difamação, injúria), violência patrimonial, vioência psicológica/ameaça e violência sexual. (11) Os dados informados pelo Rio Grande do Sul consideram as chamadas que g"
+     ]
+    ]
+   }
+  },
+  "lidos": [
+   {
+    "arquivo": "Anuário Brasileiro de Segurança Pública 2025.pdf",
+    "paginas": 436,
+    "paginas_sem_texto": [
+     1,
+     436
+    ],
+    "titulos_de_tabela": 146
+   },
+   {
+    "arquivo": "PLANILHA Anuário Brasileiro de Segurança Pública.xlsx",
+    "abas": 179
+   }
+  ]
+ },
+ "2026": {
+  "arquivos": [
+   "Anuário Brasileiro de Segurança Pública 2026.pdf",
+   "PLANILHA Anuário Brasileiro de Segurança Pública 2026.xlsx"
+  ],
+  "crimes": {
+   "ameaça": {
+    "situacao": "publica",
+    "onde": [
+     [
+      "p. 153",
+      "Tabela 25 Ameaça - vítimas mulheres Brasil e Unidades da Federação – 2024-2025 Brasil e Unidades da Federação"
+     ],
+     [
+      "aba T25",
+      "T25 TABELA 25 (Voltar ao índice) Ameaça - vítimas mulheres Brasil e Unidades da Federação – 2024-2025 Brasil e Unidades da Federação Ameaça - somente vítimas mulheres Ns. Absolutos Taxa (1) Variação (%) 2024 (2) Brasil Acre Alagoas Amapá Amazonas Bahia Ceará Distrito Federal Espírito Santo Goiás Maranhão"
+     ]
+    ],
+    "em_pagina_de_tabela_por_uf": [
+     [
+      "Anuário Brasileiro de Segurança Pública 2026.pdf p. 153",
+      "Tabela 25 Ameaça - vítimas mulheres Brasil e Unidades da Federação – 2024-2025 Brasil e Unidades da Federação Ameaça - somente vítimas mulheres Ns. Absolutos Taxa (1)"
+     ],
+     [
+      "Anuário Brasileiro de Segurança Pública 2026.pdf p. 153",
+      "Tabela 25 Ameaça - vítimas mulheres Brasil e Unidades da Federação – 2024-2025 Brasil e Unidades da Federação Ameaça - somente vítimas mulheres Ns. Absolutos Taxa (1) Variação (%) 2024 (2) 2025 2024 2025 Brasil 781.162 788.531 717,2 720,9 0,5 Acre 2.590 4.375 590,1 "
+     ],
+     [
+      "Anuário Brasileiro de Segurança Pública 2026.pdf p. 154",
+      "se à categoria prevista no Art. 147-A, em redação dada pela Lei 14.132/2021, que a define como “Perseguir alguém, reiteradamente e por qualquer meio, ameaçando-lhe a integridade física ou psicológica, restringindo-lhe a capacidade de locomoção ou, de qualquer forma, invadindo ou perturbando sua esfera de "
+     ],
+     [
+      "Anuário Brasileiro de Segurança Pública 2026.pdf p. 154",
+      " que a prejudique e perturbe seu pleno desenvolvimento ou que vise a degradar ou a controlar suas ações, comportamentos, crenças e decisões, mediante ameaça, constrangimento, humilhação, manipulação, isolamento, chantagem, ridicularização, limitação do direito de ir e vir ou qualquer outro meio que cause "
+     ]
+    ]
+   },
+   "perseguição": {
+    "situacao": "publica",
+    "onde": [
+     [
+      "p. 154",
+      "Tabela 26 Perseguição (stalking) e Violência Psicológica - vítimas mulheres Brasil e Unidades da Federação – 2024-2025 Brasil e Unidades da Federação"
+     ],
+     [
+      "aba T26",
+      "T26 TABELA 26 (Voltar ao índice) Perseguição (stalking) e Violência Psicológica - vítimas mulheres Brasil e Unidades da Federação – 2024-2025 Brasil e Unidades da Federação Perseguição (stalking) (1) Violência Psicológica (2) Ns. Absolutos Taxa (3) Variação (%) Ns. Absolutos Taxa (3) Variação (%) 2024 (4) 2024 (4) Brasil Acre Alagoas Amapá Amazonas Bahia Ceará Distrito Federal Espírito Santo Goiás Maranhão"
+     ]
+    ],
+    "em_pagina_de_tabela_por_uf": [
+     [
+      "Anuário Brasileiro de Segurança Pública 2026.pdf p. 154",
+      "Tabela 26 Perseguição (stalking) e Violência Psicológica - vítimas mulheres Brasil e Unidades da Federação – 2024-2025 Brasil e Unidades da Federação Perseguição (stalking"
+     ],
+     [
+      "Anuário Brasileiro de Segurança Pública 2026.pdf p. 154",
+      "Tabela 26 Perseguição (stalking) e Violência Psicológica - vítimas mulheres Brasil e Unidades da Federação – 2024-2025 Brasil e Unidades da Federação Perseguição (stalking) (1) Viol"
+     ],
+     [
+      "Anuário Brasileiro de Segurança Pública 2026.pdf p. 154",
+      "Tabela 26 Perseguição (stalking) e Violência Psicológica - vítimas mulheres Brasil e Unidades da Federação – 2024-2025 Brasil e Unidades da Federação Perseguição (stalking) (1) Violência Psicológica (2) Ns. Absolutos Taxa (3) Variação (%) Ns. Absolutos Taxa (3) Variação (%) 2024 (4) 2025 2024 2025 2024 (4) 202"
+     ],
+     [
+      "Anuário Brasileiro de Segurança Pública 2026.pdf p. 154",
+      "seguição (stalking) e Violência Psicológica - vítimas mulheres Brasil e Unidades da Federação – 2024-2025 Brasil e Unidades da Federação Perseguição (stalking) (1) Violência Psicológica (2) Ns. Absolutos Taxa (3) Variação (%) Ns. Absolutos Taxa (3) Variação (%) 2024 (4) 2025 2024 2025 2024 (4) 2025 2024 202"
+     ],
+     [
+      "Anuário Brasileiro de Segurança Pública 2026.pdf p. 154",
+      "Taxa por 100 mil mulheres. (4) Atualização das informações publicadas no Anuário Brasileiro de Segurança Pública, ano 19, 2025. (5) Inclui o crime de perseguição com vítimas mulheres e o crime de perseguição contra mulher em razão do gênero. (6) Em Rondônia, os registros de violência psicológica contabilizados"
+     ],
+     [
+      "Anuário Brasileiro de Segurança Pública 2026.pdf p. 154",
+      " informações publicadas no Anuário Brasileiro de Segurança Pública, ano 19, 2025. (5) Inclui o crime de perseguição com vítimas mulheres e o crime de perseguição contra mulher em razão do gênero. (6) Em Rondônia, os registros de violência psicológica contabilizados em 2024 foram extraídos de sistema anterior a"
+     ]
+    ]
+   },
+   "violência psicológica": {
+    "situacao": "publica",
+    "onde": [
+     [
+      "p. 154",
+      "Tabela 26 Perseguição (stalking) e Violência Psicológica - vítimas mulheres Brasil e Unidades da Federação – 2024-2025 Brasil e Unidades da Federação"
+     ],
+     [
+      "aba T26",
+      "T26 TABELA 26 (Voltar ao índice) Perseguição (stalking) e Violência Psicológica - vítimas mulheres Brasil e Unidades da Federação – 2024-2025 Brasil e Unidades da Federação Perseguição (stalking) (1) Violência Psicológica (2) Ns. Absolutos Taxa (3) Variação (%) Ns. Absolutos Taxa (3) Variação (%) 2024 (4) 2024 (4) Brasil Acre Alagoas Amapá Amazonas Bahia Ceará Distrito Federal Espírito Santo Goiás Maranhão"
+     ]
+    ],
+    "em_pagina_de_tabela_por_uf": [
+     [
+      "Anuário Brasileiro de Segurança Pública 2026.pdf p. 154",
+      "Tabela 26 Perseguição (stalking) e Violência Psicológica - vítimas mulheres Brasil e Unidades da Federação – 2024-2025 Brasil e Unidades da Federação Perseguição (stalking) (1) Violência Psicológica (2) Ns."
+     ],
+     [
+      "Anuário Brasileiro de Segurança Pública 2026.pdf p. 154",
+      "king) e Violência Psicológica - vítimas mulheres Brasil e Unidades da Federação – 2024-2025 Brasil e Unidades da Federação Perseguição (stalking) (1) Violência Psicológica (2) Ns. Absolutos Taxa (3) Variação (%) Ns. Absolutos Taxa (3) Variação (%) 2024 (4) 2025 2024 2025 2024 (4) 2025 2024 2025 Brasil 94.836 123.871 87,"
+     ],
+     [
+      "Anuário Brasileiro de Segurança Pública 2026.pdf p. 154",
+      "5. (5) Inclui o crime de perseguição com vítimas mulheres e o crime de perseguição contra mulher em razão do gênero. (6) Em Rondônia, os registros de violência psicológica contabilizados em 2024 foram extraídos de sistema anterior ao atualmente utilizado pelo estado. Segundo a SSP, o sistema vigente não registrou ocorrê"
+     ]
+    ]
+   },
+   "extorsão": {
+    "situacao": "nao publica"
+   },
+   "estelionato": {
+    "situacao": "publica",
+    "onde": [
+     [
+      "p. 120",
+      "Tabela 17 Estelionato e Estelionato por meio eletrônico (1) Brasil e Unidades da Federação – 2024-2025 Brasil e Unidades da Federação"
+     ],
+     [
+      "aba T17",
+      "T17 TABELA 17 (Voltar ao índice) Estelionato e Estelionato por meio eletrônico (1) Brasil e Unidades da Federação – 2024-2025 Brasil e Unidades da Federação Estelionato Estelionato por meio eletrônico Ns. Absolutos Taxa (2) Variação (%) Ns. Absolutos Taxa (2) Variação (%) 2024 (5) 2024 (5) Brasil Acre Alagoas Amapá Amazonas Bahia Ceará ... ... ... ... ... Distrito Federal Espírito Santo Goiás Maranhão"
+     ]
+    ],
+    "em_pagina_de_tabela_por_uf": [
+     [
+      "Anuário Brasileiro de Segurança Pública 2026.pdf p. 120",
+      "Tabela 17 Estelionato e Estelionato por meio eletrônico (1) Brasil e Unidades da Federação – 2024-2025 Brasil e Unidades da Federação Estelionato Estelionato por meio elet"
+     ],
+     [
+      "Anuário Brasileiro de Segurança Pública 2026.pdf p. 120",
+      "Tabela 17 Estelionato e Estelionato por meio eletrônico (1) Brasil e Unidades da Federação – 2024-2025 Brasil e Unidades da Federação Estelionato Estelionato por meio eletrônico Ns. Abs"
+     ],
+     [
+      "Anuário Brasileiro de Segurança Pública 2026.pdf p. 120",
+      "Tabela 17 Estelionato e Estelionato por meio eletrônico (1) Brasil e Unidades da Federação – 2024-2025 Brasil e Unidades da Federação Estelionato Estelionato por meio eletrônico Ns. Absolutos Taxa (2) Variação (%) Ns. Absolutos Taxa (2) Variação (%) 2024 (3) 2025 2024 2025 2024 (3) 2025 2024 20"
+     ],
+     [
+      "Anuário Brasileiro de Segurança Pública 2026.pdf p. 120",
+      "Tabela 17 Estelionato e Estelionato por meio eletrônico (1) Brasil e Unidades da Federação – 2024-2025 Brasil e Unidades da Federação Estelionato Estelionato por meio eletrônico Ns. Absolutos Taxa (2) Variação (%) Ns. Absolutos Taxa (2) Variação (%) 2024 (3) 2025 2024 2025 2024 (3) 2025 2024 2025 Brasil 2."
+     ],
+     [
+      "Anuário Brasileiro de Segurança Pública 2026.pdf p. 120",
+      "IBGE) - Estimativas da População do Brasil e das Unidades da Federação; Fórum Brasileiro de Segurança Pública. (...) Informação não disponível. (1) O estelionato previsto no art. 171 do Código Penal passou a incluir, a partir de 2021, as modalidades de fraude eletrônica, tipificadas nos parágrafos 2º-A, 2º-B e"
+     ],
+     [
+      "Anuário Brasileiro de Segurança Pública 2026.pdf p. 120",
+      " partir de 2021, as modalidades de fraude eletrônica, tipificadas nos parágrafos 2º-A, 2º-B e 3º do mesmo artigo. Dessa forma, os registros totais de estelionato apresentados nesta tabela abrangem tanto o estelionato comum quanto o estelionato por fraude eletrônica. (2) Taxa por 100 mil habitantes. (3) Atualiz"
+     ],
+     [
+      "Anuário Brasileiro de Segurança Pública 2026.pdf p. 120",
+      "ipificadas nos parágrafos 2º-A, 2º-B e 3º do mesmo artigo. Dessa forma, os registros totais de estelionato apresentados nesta tabela abrangem tanto o estelionato comum quanto o estelionato por fraude eletrônica. (2) Taxa por 100 mil habitantes. (3) Atualização das informações publicadas no Anuário Brasileiro d"
+     ],
+     [
+      "Anuário Brasileiro de Segurança Pública 2026.pdf p. 120",
+      "º-A, 2º-B e 3º do mesmo artigo. Dessa forma, os registros totais de estelionato apresentados nesta tabela abrangem tanto o estelionato comum quanto o estelionato por fraude eletrônica. (2) Taxa por 100 mil habitantes. (3) Atualização das informações publicadas no Anuário Brasileiro de Segurança Pública, ano 19"
+     ],
+     [
+      "Anuário Brasileiro de Segurança Pública 2026.pdf p. 120",
+      ") Taxa por 100 mil habitantes. (3) Atualização das informações publicadas no Anuário Brasileiro de Segurança Pública, ano 19, 2025. (4) A natureza de estelionato - fraude eletrônica passou a ser contabilizada no sistema policial do estado de Pernambuco a partir de dezembro de 2024. SUMÁRIO FÓRUM BRASILEIRO DE "
+     ]
+    ]
+   },
+   "furto e roubo a pessoa": {
+    "situacao": "publica",
+    "onde": [
+     [
+      "p. 95",
+      "Tabela 12 Roubo e Furto de celulares (1) Brasil e Unidades da Federação – 2024-2025 Brasil e Unidades da Federação"
+     ],
+     [
+      "aba T12",
+      "T12 TABELA 12 (Voltar ao índice) Roubo e Furto de celulares (1) Brasil e Unidades da Federação – 2024-2025 Brasil e Unidades da Federação Roubo de celulares Furto de celulares Roubo e Furto de celulares Ns. Absolutos Taxa (2) Variação (%) Ns. Absolutos Taxa (2) Variação (%) Ns. Absolutos Taxa (2) Variação (%) 2024 (3) 2024 (3) 2024 (3) Brasil Acre Alagoas Amapá Amazonas Bahia Ceará Distrito Federal Espírito Santo Goiás Maranhão"
+     ],
+     [
+      "aba T14",
+      "T14 TABELA 14 (Voltar ao índice) Roubo a estabelecimento comercial, residência e transeunte Brasil e Unidades da Federação –  2024-2025 Brasil e Unidades da Federação Roubo a estabelecimento comercial Roubo a residência Roubo a transeunte Ns. Absolutos Taxa (1) Variação\n (%) Ns. Absolutos Taxa (1) Variação\n (%) Ns. Absolutos Taxa (1) Variação \n(%) 2024 (2) 2024 (2) 2024 (2) Brasil Acre (3) Alagoas Amapá Amazonas Bahia Ceará Distrito Federal Espírito Santo Goiás Maranhão"
+     ],
+     [
+      "aba Q03",
+      "Q03 QUADRO 03 (Voltar ao índice) 20 municípios com maiores taxas de aparelhos subtraídos por 100 mil habitantes. Municípios com mais de 100 mil habitantes Brasil - 2025 Município UF Taxa de roubo/furto de celular São Luís MA Belém PA São Paulo SP Salvador BA Lauro de Freitas BA Porto Velho RO Manaus AM Olinda PE Ananindeua PA Teresina PI Recife PE Cariacica ES Vitória ES Marituba PA Macapá AP"
+     ]
+    ],
+    "em_pagina_de_tabela_por_uf": [
+     [
+      "Anuário Brasileiro de Segurança Pública 2026.pdf p. 95",
+      "Tabela 12 Roubo e Furto de celulares (1) Brasil e Unidades da Federação – 2024-2025 Brasil e Unidades da Federação Roubo de celulares Furto de celulares Ns. Absolutos Taxa (2) Variação"
+     ],
+     [
+      "Anuário Brasileiro de Segurança Pública 2026.pdf p. 95",
+      "Tabela 12 Roubo e Furto de celulares (1) Brasil e Unidades da Federação – 2024-2025 Brasil e Unidades da Federação Roubo de celulares Furto de celulares Ns. Absolutos Taxa (2) Variação (%) Ns. Absolutos Taxa (2) Variação (%) 2024 (3) 2025 2024 2025 2024 (3) 2025 2024 2025 Brasil 3"
+     ],
+     [
+      "Anuário Brasileiro de Segurança Pública 2026.pdf p. 95",
+      "Tabela 12 Roubo e Furto de celulares (1) Brasil e Unidades da Federação – 2024-2025 Brasil e Unidades da Federação Roubo de celulares Furto de celulares Ns. Absolutos Taxa (2) Variação (%) Ns. Absolutos Taxa (2) Variação (%) 2024 (3) 2025 2024 2025 2024 (3) 2025 2024 2025 Brasil 377.787 308.723 177,"
+     ]
+    ]
+   },
+   "crimes contra a administração pública": {
+    "situacao": "nao publica"
+   },
+   "crimes contra a honra": {
+    "situacao": "publica",
+    "onde": [
+     [
+      "p. 134",
+      "Tabela 18 Registros de Injúria Racial, Racismo e Racismo por homofobia ou transfobia (NT) Brasil e Unidades da Federação – 2024-2025 Brasil e Unidades da Federação"
+     ],
+     [
+      "aba T18",
+      "T18 TABELA 18 (Voltar ao índice) Registros de Injúria Racial, Racismo e Racismo por homofobia ou transfobia (NT) Brasil e Unidades da Federação - 2024-2025 Brasil e Unidades da Federação Injúria Racial Racismo Proporção dos registros de injúria racial em relação aos registros de racismo Ns. Absolutos Taxa (1) Variação (%) Ns. Absolutos Taxa (1) Variação (%) 2024 (2) 2024 (2) Brasil Acre Alagoas Amapá Amazonas Bahia Ceará Distrito Federal Espírito Santo ... ... ... ... ... ... ... Goiás Maranhão"
+     ]
+    ],
+    "em_pagina_de_tabela_por_uf": [
+     [
+      "Anuário Brasileiro de Segurança Pública 2026.pdf p. 134",
+      "Tabela 18 Registros de Injúria Racial, Racismo e Racismo por homofobia ou transfobia (NT) Brasil e Unidades da Federação – 2024-2025 Brasil e Unidades da Federação Injúria Racial R"
+     ],
+     [
+      "Anuário Brasileiro de Segurança Pública 2026.pdf p. 134",
+      "stros de Injúria Racial, Racismo e Racismo por homofobia ou transfobia (NT) Brasil e Unidades da Federação – 2024-2025 Brasil e Unidades da Federação Injúria Racial Racismo Proporção dos registros de injúria racial em relação aos registros de racismo Ns. Absolutos Taxa (1) Variação (%) Ns. Absolutos Taxa ("
+     ],
+     [
+      "Anuário Brasileiro de Segurança Pública 2026.pdf p. 134",
+      "ofobia ou transfobia (NT) Brasil e Unidades da Federação – 2024-2025 Brasil e Unidades da Federação Injúria Racial Racismo Proporção dos registros de injúria racial em relação aos registros de racismo Ns. Absolutos Taxa (1) Variação (%) Ns. Absolutos Taxa (1) Variação (%) 2024 (2) 2025 2024 2025 2024 (2) 2"
+     ],
+     [
+      "Anuário Brasileiro de Segurança Pública 2026.pdf p. 134",
+      "um único crime, mas de uma categoria composta por vários delitos específicos. Uma das principais mudanças ocorreu em 2023, com a inclusão do crime de injúria racial (art. 2º-A) na Lei do Racismo. Antes dessa alteração, a injúria racial não figurava na Lei nº 7.716/1989, mas sim no parágrafo 3º do art. 140 "
+     ],
+     [
+      "Anuário Brasileiro de Segurança Pública 2026.pdf p. 134",
+      "ficos. Uma das principais mudanças ocorreu em 2023, com a inclusão do crime de injúria racial (art. 2º-A) na Lei do Racismo. Antes dessa alteração, a injúria racial não figurava na Lei nº 7.716/1989, mas sim no parágrafo 3º do art. 140 do Código Penal (CP), que previa uma forma qualificada de injúria motiv"
+     ],
+     [
+      "Anuário Brasileiro de Segurança Pública 2026.pdf p. 134",
+      "ão, a injúria racial não figurava na Lei nº 7.716/1989, mas sim no parágrafo 3º do art. 140 do Código Penal (CP), que previa uma forma qualificada de injúria motivada por raça, cor, etnia, religião, origem ou condição de pessoa idosa ou com deficiência. Com o deslocamento da injúria racial para a Lei do Ra"
+     ],
+     [
+      "Anuário Brasileiro de Segurança Pública 2026.pdf p. 134",
+      "ma forma qualificada de injúria motivada por raça, cor, etnia, religião, origem ou condição de pessoa idosa ou com deficiência. Com o deslocamento da injúria racial para a Lei do Racismo, o parágrafo 3º do art. 140 do CP recebeu nova redação e deixou de tratar desse crime, qualificando apenas os casos de i"
+     ],
+     [
+      "Anuário Brasileiro de Segurança Pública 2026.pdf p. 134",
+      "a racial para a Lei do Racismo, o parágrafo 3º do art. 140 do CP recebeu nova redação e deixou de tratar desse crime, qualificando apenas os casos de injúria que contenham elementos referentes a religião ou à condição de pessoa idosa ou com deficiência. De modo que atualmente, a injúria racial está previst"
+     ],
+     [
+      "Anuário Brasileiro de Segurança Pública 2026.pdf p. 134",
+      " apenas os casos de injúria que contenham elementos referentes a religião ou à condição de pessoa idosa ou com deficiência. De modo que atualmente, a injúria racial está prevista exclusivamente na Lei nº 7.716/1989, como crime autônomo, enquanto o Código Penal passou a tratar apenas da injúria sem o qualif"
+     ],
+     [
+      "Anuário Brasileiro de Segurança Pública 2026.pdf p. 134",
+      "tualmente, a injúria racial está prevista exclusivamente na Lei nº 7.716/1989, como crime autônomo, enquanto o Código Penal passou a tratar apenas da injúria sem o qualificativo racial. Esse aspecto é importante de ser ressaltado na medida em que nem todas as UFs contabilizaram os registos do crime de injú"
+     ],
+     [
+      "Anuário Brasileiro de Segurança Pública 2026.pdf p. 134",
+      "úria sem o qualificativo racial. Esse aspecto é importante de ser ressaltado na medida em que nem todas as UFs contabilizaram os registos do crime de injúria racial dentro da categoria racismo (DF, MA, PE, RS, RO, SC), ainda havendo, portanto, uma adaptação dos sistemas de informação e da própria forma de "
+     ]
+    ]
+   }
+  },
+  "lidos": [
+   {
+    "arquivo": "Anuário Brasileiro de Segurança Pública 2026.pdf",
+    "paginas": 424,
+    "paginas_sem_texto": [
+     1,
+     2,
+     423,
+     424
+    ],
+    "titulos_de_tabela": 95
+   },
+   {
+    "arquivo": "PLANILHA Anuário Brasileiro de Segurança Pública 2026.xlsx",
+    "abas": 134
+   }
+  ]
+ }
+}

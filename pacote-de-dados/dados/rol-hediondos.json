@@ -1,0 +1,159 @@
+{
+ "coletado_em": "30/08/2026",
+ "fonte": "https://www.planalto.gov.br/ccivil_03/leis/l8072.htm",
+ "norma": "Lei n. 8.072, de 25 de julho de 1990, texto compilado",
+ "como_foi_lido": "inciso a inciso, tomando a ULTIMA redacao de cada um; o texto compilado empilha redacao vigente e superada sem separa-las, e por isso a extracao automatica devolveu 30 artigos, dos quais 14 errados",
+ "conferencia": "cada artigo e cada norma de ultima redacao foi conferido contra o texto colhido, e o script recusa se algum faltar",
+ "artigos_do_cp": [
+  "121",
+  "121-A",
+  "121-B",
+  "122",
+  "129",
+  "148",
+  "149-A",
+  "155",
+  "157",
+  "158",
+  "159",
+  "213",
+  "217-A",
+  "218-B",
+  "267",
+  "273"
+ ],
+ "quantos": 16,
+ "detalhe": [
+  {
+   "artigo": "121",
+   "inciso": "I",
+   "ultima_redacao": "Lei 15.159/2025",
+   "crime": "homicidio em grupo de exterminio e homicidio qualificado"
+  },
+  {
+   "artigo": "121-A",
+   "inciso": "I-B",
+   "ultima_redacao": "Lei 14.994/2024",
+   "crime": "feminicidio"
+  },
+  {
+   "artigo": "121-B",
+   "inciso": "I-C",
+   "ultima_redacao": "Lei 15.384/2026",
+   "crime": "vicaricidio"
+  },
+  {
+   "artigo": "122",
+   "inciso": "X",
+   "ultima_redacao": "Lei 14.811/2024",
+   "crime": "induzimento a suicidio por rede de computadores"
+  },
+  {
+   "artigo": "129",
+   "inciso": "I-A",
+   "ultima_redacao": "Lei 15.159/2025",
+   "crime": "lesao corporal gravissima e seguida de morte, qualificada"
+  },
+  {
+   "artigo": "148",
+   "inciso": "XI",
+   "ultima_redacao": "Lei 14.811/2024",
+   "crime": "sequestro e carcere privado contra menor de 18"
+  },
+  {
+   "artigo": "149-A",
+   "inciso": "XII",
+   "ultima_redacao": "Lei 14.811/2024",
+   "crime": "trafico de pessoas contra crianca ou adolescente"
+  },
+  {
+   "artigo": "155",
+   "inciso": "IX",
+   "ultima_redacao": "Lei 13.964/2019",
+   "crime": "furto qualificado por explosivo"
+  },
+  {
+   "artigo": "157",
+   "inciso": "II",
+   "ultima_redacao": "Lei 13.964/2019",
+   "crime": "roubo circunstanciado e qualificado"
+  },
+  {
+   "artigo": "158",
+   "inciso": "III",
+   "ultima_redacao": "Lei 13.964/2019",
+   "crime": "extorsao qualificada"
+  },
+  {
+   "artigo": "159",
+   "inciso": "IV",
+   "ultima_redacao": "Lei 8.930/1994",
+   "crime": "extorsao mediante sequestro"
+  },
+  {
+   "artigo": "213",
+   "inciso": "V",
+   "ultima_redacao": "Lei 12.015/2009",
+   "crime": "estupro"
+  },
+  {
+   "artigo": "217-A",
+   "inciso": "VI",
+   "ultima_redacao": "Lei 12.015/2009",
+   "crime": "estupro de vulneravel"
+  },
+  {
+   "artigo": "218-B",
+   "inciso": "VIII",
+   "ultima_redacao": "Lei 12.978/2014",
+   "crime": "favorecimento da prostituicao de vulneravel"
+  },
+  {
+   "artigo": "267",
+   "inciso": "VII",
+   "ultima_redacao": "Lei 8.930/1994",
+   "crime": "epidemia com resultado morte"
+  },
+  {
+   "artigo": "273",
+   "inciso": "VII-B",
+   "ultima_redacao": "Lei 9.695/1998",
+   "crime": "falsificacao de produto terapeutico"
+  }
+ ],
+ "deixado_de_fora": [
+  {
+   "artigos": "214",
+   "motivo": "revogado pela Lei 12.015/2009; consta so em redacao superada"
+  },
+  {
+   "artigos": "223",
+   "motivo": "revogado pela Lei 12.015/2009; consta so em redacao superada"
+  },
+  {
+   "artigos": "270",
+   "motivo": "do rol ORIGINAL de 1990, nao mantido pela Lei 8.930/1994"
+  },
+  {
+   "artigos": "285",
+   "motivo": "do rol ORIGINAL de 1990, nao mantido pela Lei 8.930/1994"
+  },
+  {
+   "artigos": "131, 132, 142, 144",
+   "motivo": "sao da Constituicao Federal, e nao do Codigo Penal"
+  },
+  {
+   "artigos": "16, 17, 18",
+   "motivo": "sao do Estatuto do Desarmamento, Lei 10.826/2003"
+  },
+  {
+   "artigos": "240, 241, 241-A, 241-B, 241-D, 244-A",
+   "motivo": "sao do ECA, Lei 8.069/1990"
+  },
+  {
+   "artigos": "1, 2, 3 da Lei 2.889/1956",
+   "motivo": "genocidio, e nao Codigo Penal"
+  }
+ ],
+ "limite_declarado": "o rol e decisao legislativa e nao escala de gravidade; isso ENFRAQUECE a separacao esperada no teste e o torna conservador"
+}

@@ -1,0 +1,7 @@
+chave;valor
+gerado_por;apurar_incerteza_da_associacao.py
+janela;[2012, 2025]
+semente;20260922
+sorteios;200000
+metodo;"IC95 de Pearson pela transformacao de Fisher, aproximado com n de 12 a 14; p bilateral por permutacao do rotulo de ano"
+leitura;nenhum dos seis coeficientes se distingue de zero ao nivel de 5%

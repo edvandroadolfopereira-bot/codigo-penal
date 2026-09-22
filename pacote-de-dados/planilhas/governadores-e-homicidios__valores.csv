@@ -1,0 +1,5 @@
+chave;valor
+fontes.governadores;"TSE, consulta_cand_1994 a 2022; 1982, 1986 e 1990, TSE, dados abertos, votacao_candidato_uf"
+fontes.homicidios;SIM/DATASUS, TabNet, agressoes X85-Y09, obitos por residencia
+limites;"[""eleito nao e' quem governou: renuncia, cassacao e vice nao aparecem"", ""de 1994 em diante pelo arquivo de candidatos; 1982, 1986 e 1990 pela votação nominal por UF, que o TSE publica sem CPF nem dado pessoal"", ""mandato 1995-1998: ano-base na CID-9 e fim na CID-10, variacao nao calculada"", ""contagem, e nao taxa: populacao por ano de cada UF ainda nao esta' na base"", ""2026 incompleto no SIM e fora da comparacao"", ""descricao do periodo de cada mandato, e nao efeito do governador""]"
+conferencia_1982_volume_impresso;"[""PA: nome no volume Jáder Fontenelle Barbalho, nos dados abertos JADER FONTENELLE BARBALHO"", ""SC: nome no volume Espiridião Amin Helou Filho, nos dados abertos ESPERIDIÃO AMIN HELOU FILHO""]"

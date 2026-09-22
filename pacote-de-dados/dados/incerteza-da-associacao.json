@@ -1,0 +1,49 @@
+{
+ "gerado_por": "apurar_incerteza_da_associacao.py",
+ "janela": [
+  2012,
+  2025
+ ],
+ "semente": 20260922,
+ "sorteios": 200000,
+ "metodo": "IC95 de Pearson pela transformacao de Fisher, aproximado com n de 12 a 14; p bilateral por permutacao do rotulo de ano",
+ "especificacoes": [
+  {
+   "especificacao": "nivel, com tendencia",
+   "n": 14,
+   "pearson": -0.356,
+   "ic95_pearson": [
+    -0.746,
+    0.215
+   ],
+   "p_pearson_permutacao": 0.212,
+   "spearman": -0.402,
+   "p_spearman_permutacao": 0.154
+  },
+  {
+   "especificacao": "primeira diferenca, sem tendencia",
+   "n": 13,
+   "pearson": -0.104,
+   "ic95_pearson": [
+    -0.619,
+    0.475
+   ],
+   "p_pearson_permutacao": 0.737,
+   "spearman": -0.229,
+   "p_spearman_permutacao": 0.448
+  },
+  {
+   "especificacao": "primeira diferenca com defasagem de um ano",
+   "n": 12,
+   "pearson": 0.277,
+   "ic95_pearson": [
+    -0.353,
+    0.734
+   ],
+   "p_pearson_permutacao": 0.348,
+   "spearman": 0.13,
+   "p_spearman_permutacao": 0.687
+  }
+ ],
+ "leitura": "nenhum dos seis coeficientes se distingue de zero ao nivel de 5%"
+}
