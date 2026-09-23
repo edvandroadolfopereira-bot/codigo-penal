@@ -938,7 +938,7 @@ footer{margin-top:3.5rem;padding-top:20px;border-top:2px solid var(--tinta);disp
     <p>A Lei Brasileira de Inclusão, Lei n. 13.146, de 2015, obriga os sítios da internet a garantir acesso às informações para a pessoa com deficiência, conforme as melhores práticas internacionais, com símbolo de acessibilidade em destaque (art. 63). A pessoa com transtorno do espectro autista é considerada pessoa com deficiência para todos os efeitos legais (Lei n. 12.764, de 2012, art. 1º, § 2º).</p>
     <p><strong>A barra no topo da página</strong> oferece: aumentar e diminuir a letra; alto contraste, em preto, branco e amarelo; <strong>leitura calma</strong>, pensada para pessoas autistas e com sensibilidade sensorial, que suaviza as cores, retira a imagem decorativa e desliga todo movimento; letra de alta legibilidade, desenhada para pessoas com baixa visão; mais espaço entre linhas e letras; parar animações; e uma régua de leitura que acompanha o cursor.</p>
     <p><strong>Tudo funciona pelo teclado</strong>, com foco visível, e há um atalho para pular direto ao conteúdo. Os gráficos têm descrição em texto e os números aparecem também em listas e tabelas, para leitores de tela.</p>
-    <p><strong>Tradução para Libras:</strong> o tradutor VLibras, do governo federal, depende de um programa hospedado fora do site, que este endereço não pode carregar. Fica registrado como limite, a ser resolvido na hospedagem definitiva.</p>
+    <p><strong>Tradução para Libras:</strong> o tradutor VLibras, do governo federal, está ativo nesta página. O botão azul com as mãos fica na lateral direita da tela: ao clicar, abre o avatar que traduz para a Língua Brasileira de Sinais o texto que você selecionar. O programa é carregado de vlibras.gov.br, e por isso depende de conexão com a internet.</p>
   </div>
 </section>
 </main>
@@ -1578,5 +1578,13 @@ $("g-busca").addEventListener("input", desenhaGlos); desenhaGlos();
 window._redesenha = function(){ atualizaFoco(); desenhaMapa(); desenhaDisp(); desenhaGov(); };
 })();
 </script>
+<div vw class="enabled">
+  <div vw-access-button class="active"></div>
+  <div vw-plugin-wrapper>
+    <div class="vw-plugin-top-wrapper"></div>
+  </div>
+</div>
+<script src="https://vlibras.gov.br/app/vlibras-plugin.js"></script>
+<script>new window.VLibras.Widget("https://vlibras.gov.br/app");</script>
 </body>
 </html>
