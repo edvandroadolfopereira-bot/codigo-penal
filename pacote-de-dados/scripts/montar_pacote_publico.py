@@ -293,6 +293,8 @@ FORA_DO_PACOTE = [
      "ferramenta de coleta do texto integral da literatura; o registro da leitura é arquivo de trabalho e não entra na entrega, pela regra desta casa de 19/08/2026"),
     ("analise-cientifica/preparar_lotes_leitura.py",
      "ferramenta de coleta do texto integral da literatura; o registro da leitura é arquivo de trabalho e não entra na entrega, pela regra desta casa de 19/08/2026"),
+    ("analise-cientifica/apurar_modo_de_leitura.py",
+     "apura, a partir dos registros de leitura, em que modo cada uma das 346 obras do núcleo foi lida. O resultado que ele produz está declarado no texto, na seção 2.1, e o registro obra a obra é arquivo de trabalho e não entra na entrega, pela regra desta casa de 19/08/2026"),
     ("analise-cientifica/citacoes-texto-integral.json",
      "ferramenta de coleta do texto integral da literatura; o registro da leitura é arquivo de trabalho e não entra na entrega, pela regra desta casa de 19/08/2026"),
     ("analise-cientifica/extrair_estatutos.py",
@@ -560,6 +562,25 @@ def montar():
          "## O que este pacote contém, e o que ele não contém", "",
          "Ele contém a **apuração própria**: as tabelas, as séries e os testes construídos",
          "neste projeto, mais os programas que os produzem.", "",
+         "## Sob que licença ele é oferecido", "",
+         "| O que | Licença | Arquivo |",
+         "|---|---|---|",
+         "| as tabelas, as séries, os testes e o texto | **Creative Commons Atribuição 4.0 "
+         "Internacional** | `LICENSE` |",
+         "| os programas da pasta `scripts` | **MIT** | `LICENSE-CODIGO` |", "",
+         "Você pode copiar, adaptar e usar para qualquer fim, inclusive comercial, **desde",
+         "que cite a autoria** e indique se houve alteração. Ao usar um dado específico,",
+         "cite também a fonte de origem dele.", "",
+         "**Isto foi decidido em 23/09/2026, e antes disso não havia licença nenhuma.** Obra",
+         "publicada sem licença é obra de todos os direitos reservados: a utilização depende",
+         "de autorização prévia e expressa do autor, pelo art. 29 da Lei n. 9.610, de 1998.",
+         "O pacote estava, portanto, aberto para ler e fechado para reutilizar, ao contrário",
+         "do que ele próprio anuncia.", "",
+         "**O que a licença não alcança**: a proteção de base de dados do art. 7º, inciso",
+         "XIII, da mesma lei recai sobre a seleção, a organização e a disposição do",
+         "conteúdo, e o § 2º do mesmo artigo declara que ela **não abarca os dados ou",
+         "materiais em si mesmos**. O que se licencia aqui é a estrutura construída neste",
+         "projeto, e não os números brutos, que nunca foram fechados.", "",
          "Ele **não redistribui obra de terceiro**. Nenhum relatório, livro ou norma técnica",
          "de outra autoria acompanha o pacote. O que há é a referência de cada um e a medida",
          "extraída, com a origem declarada em cada valor.", "",
@@ -585,6 +606,19 @@ def montar():
          "de usar é o que garante que o arquivo é o mesmo que foi publicado."]
     io.open(os.path.join(DESTINO, "DIREITOS-E-USO.md"), "w", encoding="utf-8",
             newline="").write(chr(10).join(D))
+
+    # As duas licencas viajam DENTRO do pacote, e nao so' no repositorio do site: o pacote e'
+    # baixado como unidade propria, e quem o recebe por outro caminho nao ve' o `LICENSE` que
+    # fica na raiz do repositorio. Os arquivos sao COPIADOS da origem unica em `site/licencas`,
+    # nunca escritos aqui, para que as duas copias nao possam divergir em silencio.
+    _lic = os.path.join(R, "site", "licencas")
+    for _o, _d in (("CC-BY-4.0.txt", "LICENSE"), ("MIT.txt", "LICENSE-CODIGO")):
+        _c = os.path.join(_lic, _o)
+        if not os.path.exists(_c):
+            print("ERRO: falta a licenca %s. Sem ela o pacote sai sem autorizacao de uso, e a "
+                  "montagem nao segue." % _c)
+            return 1
+        shutil.copyfile(_c, os.path.join(DESTINO, _d))
 
     # ------------------------------------------------------------------ leia-me
     L = ["# Pacote de dados", "",

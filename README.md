@@ -16,6 +16,7 @@ Orientação: Prof.ª Dr.ª Clébia Barbosa dos Reis e Prof. Dr. Rubens Correia 
 | `index.html` | a página, com os dados embutidos: abre sem servidor de aplicação |
 | `dados/` | as quatro tabelas que os botões da página entregam, em CSV |
 | `pacote-de-dados/` | o pacote completo que acompanha o trabalho: dados, planilhas, programas de apuração, catálogo de fontes e manifesto |
+| `LICENCA.md` | o que se pode fazer com cada parte, em português, com os limites declarados |
 
 As quatro tabelas de `dados/` não foram redigitadas: elas saíram do próprio código da página,
 executado sobre os mesmos dados que ela exibe, para que o arquivo e a tela não divirjam.
@@ -32,3 +33,17 @@ Brasileiro de Segurança Pública; e Instituto Brasileiro de Geografia e Estatí
 Cada fonte, com endereço e data de acesso, está em `pacote-de-dados/CATALOGO-DE-FONTES.md`.
 
 Corte dos dados: 18 de setembro de 2026.
+
+## Licença
+
+| O que | Licença |
+|---|---|
+| o texto, o site e a apuração própria | **Creative Commons Atribuição 4.0 Internacional**, em `LICENSE` |
+| os programas que produzem a apuração | **MIT**, em `LICENSE-CODIGO` |
+
+Você pode copiar, adaptar e usar para qualquer fim, inclusive comercial, **desde que cite a
+autoria**. Ao usar um dado específico, cite também a fonte de origem dele.
+
+**Duas coisas ficam fora, e se declaram**: o material de terceiro segue a licença que a própria
+fonte declara, e o texto de lei e a decisão judicial não são objeto de proteção autoral, pelo
+art. 8º, inciso IV, da Lei n. 9.610, de 1998. `LICENCA.md` traz o detalhe.

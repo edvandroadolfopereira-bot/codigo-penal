@@ -56,6 +56,7 @@ não recebeu. Estes ficaram de fora por decisão declarada:
 | `analise-cientifica/extrair_texto_corpus.py` | ferramenta de coleta do texto integral da literatura; o registro da leitura é arquivo de trabalho e não entra na entrega, pela regra desta casa de 19/08/2026 |
 | `analise-cientifica/mapear_citacoes_corpus.py` | ferramenta de coleta do texto integral da literatura; o registro da leitura é arquivo de trabalho e não entra na entrega, pela regra desta casa de 19/08/2026 |
 | `analise-cientifica/preparar_lotes_leitura.py` | ferramenta de coleta do texto integral da literatura; o registro da leitura é arquivo de trabalho e não entra na entrega, pela regra desta casa de 19/08/2026 |
+| `analise-cientifica/apurar_modo_de_leitura.py` | apura, a partir dos registros de leitura, em que modo cada uma das 346 obras do núcleo foi lida. O resultado que ele produz está declarado no texto, na seção 2.1, e o registro obra a obra é arquivo de trabalho e não entra na entrega, pela regra desta casa de 19/08/2026 |
 | `analise-cientifica/citacoes-texto-integral.json` | ferramenta de coleta do texto integral da literatura; o registro da leitura é arquivo de trabalho e não entra na entrega, pela regra desta casa de 19/08/2026 |
 | `analise-cientifica/extrair_estatutos.py` | ferramenta de extração dos estatutos do TSE; o resultado que sustenta a seção 4.28 está em doutrina-partidaria.json, que acompanha o pacote |
 | `analise-cientifica/conferir_anuario_crimes_por_uf.py` | ferramenta que lê as tabelas do Anuário; o resultado está em anuario-crimes-por-uf.json, que acompanha o pacote |
@@ -167,7 +168,7 @@ não recebeu. Estes ficaram de fora por decisão declarada:
 | `scripts/extrair_tabelas_anuarios.py` | 4048 | proprio |
 | `scripts/sondar_fontes_pendentes.py` | 9139 | proprio |
 | `scripts/conferir_numeros_do_trabalho.py` | 20162 | proprio |
-| `scripts/montar_pacote_publico.py` | 48697 | proprio |
+| `scripts/montar_pacote_publico.py` | 51325 | proprio |
 | `scripts/apurar_posicao_do_individuo.py` | 14944 | proprio |
 | `scripts/testes_pacote_publico.py` | 5294 | proprio |
 | `scripts/apurar_universo_e_regimes.py` | 16257 | proprio |

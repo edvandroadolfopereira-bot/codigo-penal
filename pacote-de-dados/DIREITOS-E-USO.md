@@ -5,6 +5,29 @@
 Ele contém a **apuração própria**: as tabelas, as séries e os testes construídos
 neste projeto, mais os programas que os produzem.
 
+## Sob que licença ele é oferecido
+
+| O que | Licença | Arquivo |
+|---|---|---|
+| as tabelas, as séries, os testes e o texto | **Creative Commons Atribuição 4.0 Internacional** | `LICENSE` |
+| os programas da pasta `scripts` | **MIT** | `LICENSE-CODIGO` |
+
+Você pode copiar, adaptar e usar para qualquer fim, inclusive comercial, **desde
+que cite a autoria** e indique se houve alteração. Ao usar um dado específico,
+cite também a fonte de origem dele.
+
+**Isto foi decidido em 23/09/2026, e antes disso não havia licença nenhuma.** Obra
+publicada sem licença é obra de todos os direitos reservados: a utilização depende
+de autorização prévia e expressa do autor, pelo art. 29 da Lei n. 9.610, de 1998.
+O pacote estava, portanto, aberto para ler e fechado para reutilizar, ao contrário
+do que ele próprio anuncia.
+
+**O que a licença não alcança**: a proteção de base de dados do art. 7º, inciso
+XIII, da mesma lei recai sobre a seleção, a organização e a disposição do
+conteúdo, e o § 2º do mesmo artigo declara que ela **não abarca os dados ou
+materiais em si mesmos**. O que se licencia aqui é a estrutura construída neste
+projeto, e não os números brutos, que nunca foram fechados.
+
 Ele **não redistribui obra de terceiro**. Nenhum relatório, livro ou norma técnica
 de outra autoria acompanha o pacote. O que há é a referência de cada um e a medida
 extraída, com a origem declarada em cada valor.

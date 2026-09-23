@@ -1,6 +1,6 @@
 {
  "o_que_e": "pacote publico de dados do projeto de extensao sobre o Codigo Penal",
- "montado_em": "2026-09-22",
+ "montado_em": "2026-09-23",
  "base_completa": {
   "arquivo": "BASE-CODIGO-PENAL.sqlite",
   "bytes": 210190336,
@@ -1219,8 +1219,8 @@
    "arquivo": "scripts/montar_pacote_publico.py",
    "sustenta": "monta este pacote e calcula os resumos criptográficos",
    "fonte": "proprio",
-   "bytes": 48697,
-   "sha256": "1b4735544afbc5be39eafce7ab861f42cc813ade90cfd20b0c287057116afe0c"
+   "bytes": 51325,
+   "sha256": "54c77ef17f2385caecd9e777fe9d944f3b0002e9ff0f79e8989d7c3da3b4b3d3"
   },
   {
    "arquivo": "scripts/apurar_posicao_do_individuo.py",
@@ -2841,6 +2841,10 @@
   {
    "arquivo": "analise-cientifica/preparar_lotes_leitura.py",
    "por_que": "ferramenta de coleta do texto integral da literatura; o registro da leitura é arquivo de trabalho e não entra na entrega, pela regra desta casa de 19/08/2026"
+  },
+  {
+   "arquivo": "analise-cientifica/apurar_modo_de_leitura.py",
+   "por_que": "apura, a partir dos registros de leitura, em que modo cada uma das 346 obras do núcleo foi lida. O resultado que ele produz está declarado no texto, na seção 2.1, e o registro obra a obra é arquivo de trabalho e não entra na entrega, pela regra desta casa de 19/08/2026"
   },
   {
    "arquivo": "analise-cientifica/citacoes-texto-integral.json",
