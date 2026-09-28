@@ -1066,7 +1066,7 @@ function para(){ if (tocando){ clearInterval(tocando); tocando = null; } $("l-pl
 $("l-play").onclick = function(){
   if (tocando){ para(); return; }
   var a0 = +$("l-ini").value, a1 = +$("l-fim").value;
-  if (semMovimento()){ foco = a1; atualizaFoco(); return; }
+  /* 28/09/2026: o clique e pedido explicito do leitor; antes, com animacao reduzida no sistema, o botao so pulava para o ultimo ano e parecia nao funcionar */
   foco = a0; atualizaFoco(); $("l-play").textContent = "❚❚ Pausar"; $("l-play").setAttribute("aria-pressed", "true");
   tocando = setInterval(function(){ foco++; if (foco >= a1){ foco = a1; atualizaFoco(); para(); return; } atualizaFoco(); }, 260);
 };
